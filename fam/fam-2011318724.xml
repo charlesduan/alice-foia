@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="96"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2011318724</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="45352888">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2011318724</doc-number>
+                    <kind>A1</kind>
+                    <date>20111229</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2011318724</doc-number>
+                    <date>20111229</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="340291644" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113169550</doc-number>
+                    <kind>A</kind>
+                    <date>20110627</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>35878810</doc-number>
+                    <kind>P</kind>
+                    <date>20100625</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113169550</doc-number>
+                    <kind>A</kind>
+                    <date>20110627</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="45352888" country="US" doc-number="2011318724" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2011318724</doc-number>
+                            <kind>A1</kind>
+                            <date>20111229</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2011318724</doc-number>
+                            <date>20111229</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   7/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>434/350</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="340291644">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201113169550</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201113169550</doc-number>
+                            <date>20110627</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13169550</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201113169550</doc-number>
+                                <date>20110627</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61358788</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100358788P</doc-number>
+                                <date>20100625</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>LABINE DAVID [CA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WENZEL LOTHAR [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> CHU ALBERT [CA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SMART TECHNOLOGIES ULC [CA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>LABINE DAVID, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>WENZEL LOTHAR, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>CHU ALBERT, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>SMART TECHNOLOGIES ULC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>LABINE DAVID [CA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WENZEL LOTHAR [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHU ALBERT [CA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>LABINE DAVID, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>WENZEL LOTHAR, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>CHU ALBERT</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">EQUATION-BASED ASSESSMENT GRADING METHOD AND PARTICIPANT RESPONSE SYSTEM EMPLOYING SAME</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5317647</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5317647</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005058976</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005058976</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010010801</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010010801</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011244434</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011244434</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A computerized assessment grading method comprises creating a syntax tree for a received equation-based response to at least one assessment question and a syntax tree for at least one solution to the at least one question, comparing the syntax trees, and grading the response based on the results of the comparison.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="45352888">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2011269688</doc-number>
+                    <kind>A1</kind>
+                    <date>20130124</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>AU2011269688</doc-number>
+                    <date>20130124</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="380504100">
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2011269688</doc-number>
+                    <kind>A</kind>
+                    <date>20110627</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2011000752</doc-number>
+                    <kind>W</kind>
+                    <date>20110627</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>35878810</doc-number>
+                    <kind>P</kind>
+                    <date>20100625</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="45352888" country="AU" doc-number="2011269688" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2011269688</doc-number>
+                            <kind>A1</kind>
+                            <date>20130124</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU2011269688</doc-number>
+                            <date>20130124</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   7/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G09B   5/    08            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="380504100">
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2011269688</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU20110269688</doc-number>
+                            <date>20110627</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2011269688</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100358788P</doc-number>
+                                <date>20100625</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/358,788</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2011CA00752</doc-number>
+                                <date>20110627</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> CA2011/000752</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SMART TECHNOLOGIES ULC</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SMART TECHNOLOGIES ULC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>LABINE DAVID</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHU ALBERT</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WENZEL LOTHAR</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>LABINE, DAVID, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>CHU, ALBERT, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>WENZEL, LOTHAR</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Equation-based assessment grading method and participant response system employing same</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A computerized assessment grading method comprises creating a syntax tree for a received equation-based response to at least one assessment question and a syntax tree for at least one solution to the at least one question, comparing the syntax trees, and grading the response based on the results of the comparison.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="45352888">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2803644</doc-number>
+                    <kind>A1</kind>
+                    <date>20111229</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CA2803644</doc-number>
+                    <date>20111229</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="381237906">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2803644</doc-number>
+                    <kind>A</kind>
+                    <date>20110627</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2011000752</doc-number>
+                    <kind>W</kind>
+                    <date>20110627</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>35878810</doc-number>
+                    <kind>P</kind>
+                    <date>20100625</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="45352888" country="CA" doc-number="2803644" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2803644</doc-number>
+                            <kind>A1</kind>
+                            <date>20111229</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA2803644</doc-number>
+                            <date>20111229</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   7/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G09B   5/    08            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="381237906">
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2803644</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA20112803644</doc-number>
+                            <date>20110627</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2803644</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100358788P</doc-number>
+                                <date>20100625</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/358,788</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2011CA00752</doc-number>
+                                <date>20110627</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> PCT/CA2011/000752</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SMART TECHNOLOGIES ULC [CA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SMART TECHNOLOGIES ULC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>LABINE DAVID [CA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHU ALBERT [CA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WENZEL LOTHAR [CA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>LABINE, DAVID, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>CHU, ALBERT, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>WENZEL, LOTHAR</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">EQUATION-BASED ASSESSMENT GRADING METHOD AND PARTICIPANT RESPONSE SYSTEM EMPLOYING SAME</invention-title>
+                    <invention-title lang="fr">PROCEDE DE CLASSEMENT D'EVALUATIONS A BASE D'EQUATIONS ET SYSTEME DE REPONSE DE PARTICIPANT UTILISANT CE PROCEDE</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A computerized assessment grading method comprises creating a syntax tree for a received equation-based response to at least one assessment question and a syntax tree for at least one solution to the at least one question, comparing the syntax trees, and grading the response based on the results of the comparison.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="45352888">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>102959602</doc-number>
+                    <kind>A</kind>
+                    <date>20130306</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CN102959602</doc-number>
+                    <date>20130306</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="381737512">
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>201180031438</doc-number>
+                    <kind>A</kind>
+                    <date>20110627</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2011000752</doc-number>
+                    <kind>W</kind>
+                    <date>20110627</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>35878810</doc-number>
+                    <kind>P</kind>
+                    <date>20100625</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="45352888" country="CN" doc-number="102959602" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>102959602</doc-number>
+                            <kind>A</kind>
+                            <date>20130306</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN102959602</doc-number>
+                            <date>20130306</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   7/    08            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="381737512">
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>201180031438</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN2011831438</doc-number>
+                            <date>20110627</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2011800314380</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2011CA00752</doc-number>
+                                <date>20110627</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>PCT/CA2011/000752</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100358788P</doc-number>
+                                <date>20100625</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61/358,788</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SMART TECHNOLOGIES ULC</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SMART TECHNOLOGIES ULC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>LABINE DAVID</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHU ALBERT</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WENZEL LOTHAR</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>LABINE DAVID, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>CHU ALBERT, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>WENZEL LOTHAR</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Equation-based assessment grading method and participant response system employing same</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A computerized assessment grading method comprises creating a syntax tree for a received equation-based response to at least one assessment question and a syntax tree for at least one solution to the at least one question, comparing the syntax trees, and grading the response based on the results of the comparison.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="45352888">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>2586021</doc-number>
+                    <kind>A2</kind>
+                    <date>20130501</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP2586021</doc-number>
+                    <date>20130501</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="340315429">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>11797428</doc-number>
+                    <kind>A</kind>
+                    <date>20110627</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2011000752</doc-number>
+                    <kind>W</kind>
+                    <date>20110627</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>35878810</doc-number>
+                    <kind>P</kind>
+                    <date>20100625</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="45352888" country="EP" doc-number="2586021" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>2586021</doc-number>
+                            <kind>A2</kind>
+                            <date>20130501</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP2586021</doc-number>
+                            <date>20130501</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   7/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G09B   5/    08            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="340315429">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>11797428</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20110797428</doc-number>
+                            <date>20110627</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>11797428.7</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100358788P</doc-number>
+                                <date>20100625</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>358788 P</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2011CA00752</doc-number>
+                                <date>20110627</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 2011000752</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SMART TECHNOLOGIES ULC [CA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SMART TECHNOLOGIES ULC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>LABINE DAVID [CA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHU ALBERT [CA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WENZEL LOTHAR [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>LABINE, DAVID, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>CHU, ALBERT, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>WENZEL, LOTHAR</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">EQUATION-BASED ASSESSMENT GRADING METHOD AND PARTICIPANT RESPONSE SYSTEM EMPLOYING SAME</invention-title>
+                    <invention-title lang="de">GLEICHUNGSBASIERTES TESTEINSTUFUNGSVERFAHREN UND TEILNEHMER-REAKTIONSSYSTEM DAFÜR</invention-title>
+                    <invention-title lang="fr">PROCÉDÉ DE CLASSEMENT D'ÉVALUATIONS À BASE D'ÉQUATIONS ET SYSTÈME DE RÉPONSE DE PARTICIPANT UTILISANT CE PROCÉDÉ</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="45352888">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2011160217</doc-number>
+                    <kind>A2</kind>
+                    <date>20111229</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2011160217</doc-number>
+                    <date>20111229</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="340319859">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2011000752</doc-number>
+                    <kind>W</kind>
+                    <date>20110627</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>35878810</doc-number>
+                    <kind>P</kind>
+                    <date>20100625</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="45352888" country="WO" doc-number="2011160217" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2011160217</doc-number>
+                            <kind>A2</kind>
+                            <date>20111229</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2011160217</doc-number>
+                            <date>20111229</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   7/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G09B   5/    08            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="340319859">
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2011000752</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2011CA00752</doc-number>
+                            <date>20110627</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>CA2011/000752</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100358788P</doc-number>
+                                <date>20100625</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/358,788</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SMART TECHNOLOGIES ULC [CA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LABINE DAVID [CA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> CHU ALBERT [CA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WENZEL LOTHAR [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SMART TECHNOLOGIES ULC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>LABINE, DAVID, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>CHU, ALBERT, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>WENZEL, LOTHAR</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>LABINE DAVID [CA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHU ALBERT [CA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WENZEL LOTHAR [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>LABINE, DAVID, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>CHU, ALBERT, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>WENZEL, LOTHAR</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">EQUATION-BASED ASSESSMENT GRADING METHOD AND PARTICIPANT RESPONSE SYSTEM EMPLOYING SAME</invention-title>
+                    <invention-title lang="fr">PROCÉDÉ DE CLASSEMENT D'ÉVALUATIONS À BASE D'ÉQUATIONS ET SYSTÈME DE RÉPONSE DE PARTICIPANT UTILISANT CE PROCÉDÉ</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="CA">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5259766</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5259766</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="CA">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7523434</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7523434</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="CA">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5410701</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5410701</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="4" office="CA">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JPH06231165</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>H06231165</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A computerized assessment grading method comprises creating a syntax tree for a received equation-based response to at least one assessment question and a syntax tree for at least one solution to the at least one question, comparing the syntax trees, and grading the response based on the results of the comparison.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un procédé informatisé de classement d'évaluations qui comprend les étapes consistant à : produire un arbre de syntaxe pour une réponse à base d'équations reçue qui répond au moins une question d'évaluation, et un arbre de syntaxe pour au moins une solution à la/aux question(s)</p>
+                    <p> comparer les arbres de syntaxe et classer la réponse sur la base des résultats de la comparaison.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="45352888">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2011160217</doc-number>
+                    <kind>A3</kind>
+                    <date>20120216</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2011160217</doc-number>
+                    <date>20120216</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="340319859">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2011000752</doc-number>
+                    <kind>W</kind>
+                    <date>20110627</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>35878810</doc-number>
+                    <kind>P</kind>
+                    <date>20100625</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="45352888" country="WO" doc-number="2011160217" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2011160217</doc-number>
+                            <kind>A3</kind>
+                            <date>20120216</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2011160217</doc-number>
+                            <date>20120216</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   7/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G09B   5/    08            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="340319859">
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2011000752</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2011CA00752</doc-number>
+                            <date>20110627</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>CA2011/000752</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100358788P</doc-number>
+                                <date>20100625</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/358,788</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SMART TECHNOLOGIES ULC [CA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LABINE DAVID [CA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> CHU ALBERT [CA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WENZEL LOTHAR [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SMART TECHNOLOGIES ULC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>LABINE, DAVID, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>CHU, ALBERT, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>WENZEL, LOTHAR</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>LABINE DAVID [CA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHU ALBERT [CA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WENZEL LOTHAR [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>LABINE, DAVID, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>CHU, ALBERT, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>WENZEL, LOTHAR</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">EQUATION-BASED ASSESSMENT GRADING METHOD AND PARTICIPANT RESPONSE SYSTEM EMPLOYING SAME</invention-title>
+                    <invention-title lang="fr">PROCÉDÉ DE CLASSEMENT D'ÉVALUATIONS À BASE D'ÉQUATIONS ET SYSTÈME DE RÉPONSE DE PARTICIPANT UTILISANT CE PROCÉDÉ</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A computerized assessment grading method comprises creating a syntax tree for a received equation-based response to at least one assessment question and a syntax tree for at least one solution to the at least one question, comparing the syntax trees, and grading the response based on the results of the comparison.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un procédé informatisé de classement d'évaluations qui comprend les étapes consistant à : produire un arbre de syntaxe pour une réponse à base d'équations reçue qui répond au moins une question d'évaluation, et un arbre de syntaxe pour au moins une solution à la/aux question(s)</p>
+                    <p> comparer les arbres de syntaxe et classer la réponse sur la base des résultats de la comparaison.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

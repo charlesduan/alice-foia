@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="17"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="20430809" country="US" doc-number="2006240396" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2006240396</doc-number>
+                        <kind>A1</kind>
+                        <date>20061026</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2006240396</doc-number>
+                        <date>20061026</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G09B  19/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>G09B   3/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="3">
+                        <text>G09B   5/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="4">
+                        <text>G09B   7/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>09</class>
+                        <subclass>B</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>434/219</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>434/350</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>434/362</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="51260351">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>48613605</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20050486136</doc-number>
+                        <date>20050907</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>10486136</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>SG20010004668</doc-number>
+                            <date>20010804</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>0104668-9</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2002SG00169</doc-number>
+                            <date>20020730</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number> PCT/SG02/00169</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>FOO JUNG W [SG]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> LIANG BRUCE C [SG]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>FOO JUNG W, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>LIANG BRUCE C</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">Training enterprise and method therefor</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A training enterprise ( 100 ) comprises a basic training services portion ( 120 ), an enhanced training-user services portion ( 125 ), and an enhanced training-provider services portion ( 130 ) which are coupled to a common training service request processor ( 105 ) and a training services delivery module ( 135 ). The basic training services portion ( 120 ), the training service request processor ( 105 ) and the training services delivery module ( 135 ) form a learning exchange ( 102 ). The training service request processor ( 105 ) receives training service requirements, and dependent on those requirements, either the learning exchange ( 102 ) or the enhanced training-user services portion ( 125 ), or both, provides the training-user with the required training-user services. Similarly, a training-provider communicates training-provider service requirements to the training service request processor ( 105 ), and dependent on the training-provider service requirements, the learning exchange ( 102 ) or the enhanced training-provider services portion ( 130 ), or both, provide the training-provider with the required services.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

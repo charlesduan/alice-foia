@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="7"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="42132531" country="US" doc-number="2010114607" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2010114607</doc-number>
+                        <kind>A1</kind>
+                        <date>20100506</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2010114607</doc-number>
+                        <date>20100506</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  50/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>G06F  17/    30            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>10</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>22</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>24</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/3</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>707/E17.014</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>707/E17.032</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>707/E17.044</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="315482305">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>48132109</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20090481321</doc-number>
+                        <date>20090609</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>12481321</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090481321</doc-number>
+                            <date>20090609</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>61111170</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20080111170P</doc-number>
+                            <date>20081104</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SDI HEALTH LLC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>SDI HEALTH LLC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>KRESS ANDREW E [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> FISHER JODY [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> ROSZTOCZY STEVEN [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>KRESS ANDREW E, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>FISHER JODY, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>ROSZTOCZY STEVEN</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">METHOD AND SYSTEM FOR PROVIDING REPORTS AND SEGMENTATION OF PHYSICIAN ACTIVITIES</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2009094060</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2009094060</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2009292556</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2009292556</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US5225976</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>5225976</doc-number>
+                                <kind>A</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                        <patcit dnum-type="publication number" num="4">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2007203744</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2007203744</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A system includes a database with at least one dataset with at least one data field corresponding to at least one field of data of a medical claim form, a computing platform in communication with the database, and a memory module. The at least one dataset is formed from de-identified provider information. The memory module contains at least one conversion table for converting between a provider identification code and a corresponding provider name. The computing platform receives a request for information, extracts from the database one or more datasets having information responsive to the request, and forms an output table based on the extracted one or more datasets. The table includes the provider name.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

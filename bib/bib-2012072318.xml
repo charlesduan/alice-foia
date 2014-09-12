@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="18"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="43222568" country="US" doc-number="2012072318" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2012072318</doc-number>
+                        <kind>A1</kind>
+                        <date>20120322</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2012072318</doc-number>
+                        <date>20120322</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  40/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>G06F  15/    16            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>12</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/30</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>709/226</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="352310683">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201013322529</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201013322529</doc-number>
+                        <date>20100512</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13322529</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20090131207</doc-number>
+                            <date>20090529</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2009-131207</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2010JP57991</doc-number>
+                            <date>20100512</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number> PCT/JP2010/057991</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>AKIYAMA KAZUHITO [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> IWANO KAZUO [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="3" data-format="epodoc">
+                            <applicant-name>
+                                <name> OHKADO AKIRA [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="4" data-format="epodoc">
+                            <applicant-name>
+                                <name> TSUMURA TADASHI [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="5" data-format="epodoc">
+                            <applicant-name>
+                                <name> IBM [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>AKIYAMA KAZUHITO, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>IWANO KAZUO, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="3" data-format="original">
+                            <applicant-name>
+                                <name>OHKADO AKIRA, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="4" data-format="original">
+                            <applicant-name>
+                                <name>TSUMURA TADASHI, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="5" data-format="original">
+                            <applicant-name>
+                                <name>INTERNATIONAL BUSINESS MACHINES CORPORATION</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>AKIYAMA KAZUHITO [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> IWANO KAZUO [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> OHKADO AKIRA [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> TSUMURA TADASHI [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>AKIYAMA KAZUHITO, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>IWANO KAZUO, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>OHKADO AKIRA, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>TSUMURA TADASHI</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">Mechanisms for Executing a Process in a Cloud Computing Environment</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2003028642</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2003028642</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2005021530</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2005021530</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2005198231</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2005198231</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                        <patcit dnum-type="publication number" num="4">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2006271544</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2006271544</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                        <patcit dnum-type="publication number" num="5">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2007220520</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2007220520</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                        <patcit dnum-type="publication number" num="6">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2008250134</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2008250134</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                        <patcit dnum-type="publication number" num="7">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2008256238</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2008256238</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                        <patcit dnum-type="publication number" num="8">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2009070770</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2009070770</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                        <patcit dnum-type="publication number" num="9">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2009276771</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2009276771</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="10">
+                        <patcit dnum-type="publication number" num="10">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2009288084</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2009288084</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="11">
+                        <patcit dnum-type="publication number" num="11">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2009327471</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2009327471</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="12">
+                        <patcit dnum-type="publication number" num="12">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2010050172</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2010050172</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="13">
+                        <patcit dnum-type="publication number" num="13">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2010115095</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2010115095</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="14">
+                        <patcit dnum-type="publication number" num="14">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2010138830</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2010138830</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="15">
+                        <patcit dnum-type="publication number" num="15">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2010153960</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2010153960</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="16">
+                        <patcit dnum-type="publication number" num="16">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2010169489</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2010169489</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="17">
+                        <patcit dnum-type="publication number" num="17">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2010223385</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2010223385</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="18">
+                        <patcit dnum-type="publication number" num="18">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2010262695</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2010262695</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="19">
+                        <patcit dnum-type="publication number" num="19">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2010306379</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2010306379</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="20">
+                        <patcit dnum-type="publication number" num="20">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2010306772</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2010306772</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="21">
+                        <nplcit num="1">
+                            <text>Simon, R.; Jukic, B.; Woan Sun Chang, "Optimal resource
+        allocation for multi-service networks," Simulation
+        Symposium, 2000. (SS 2000) Proceedings. 33rd Annual , vol.,
+        no., pp.33,41, 2000 doi: 10.1109/SIMSYM.2000.844898</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Deterioration of service quality due to shortage of resources and/or increased cost of support due to excessive resources is minimized in the case where the amount of requested services may change in cloud computing. Provided are mechanisms for executing a process specified by a user in a cloud computing environment and charging the user for the process. The mechanisms include a receiving part for receiving an instruction to execute the specified process and a determining part for determining an external resource to provision from a first other computer system for a charge. The mechanisms further comprise an external resource securing part for securing the external resource on the first other computer system and an executing part for causing the external resource to execute at least a part of the specified process.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

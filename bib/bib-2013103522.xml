@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="21"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="48136751" country="US" doc-number="2013103522" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2013103522</doc-number>
+                        <kind>A1</kind>
+                        <date>20130425</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2013103522</doc-number>
+                        <date>20130425</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  30/    06            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>12</main-group>
+                        <subgroup>1407</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>12</main-group>
+                        <subgroup>1457</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>12</main-group>
+                        <subgroup>1485</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>M</subclass>
+                        <main-group>15</main-group>
+                        <subgroup>66</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>M</subclass>
+                        <main-group>15</main-group>
+                        <subgroup>8044</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="405821648">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201113278926</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201113278926</doc-number>
+                        <date>20111021</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13278926</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201113278926</doc-number>
+                            <date>20111021</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>LODEWEYCKX STEFAN [BE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> SONY EUROPE LTD [GB]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="3" data-format="epodoc">
+                            <applicant-name>
+                                <name> SONY CORP [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>LODEWEYCKX STEFAN, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>SONY EUROPE LIMITED, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="3" data-format="original">
+                            <applicant-name>
+                                <name>SONY CORPORATION</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>LODEWEYCKX STEFAN [BE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>LODEWEYCKX STEFAN</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">MOBILE DATA NETWORK</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2006265280</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2006265280</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2007149252</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2007149252</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2008005156</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2008005156</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                        <patcit dnum-type="publication number" num="4">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2008077506</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2008077506</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                        <patcit dnum-type="publication number" num="5">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2010235891</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2010235891</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                        <patcit dnum-type="publication number" num="6">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2010287256</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2010287256</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A mobile data network includes a data server that interacts with client devices via the internet and provides a price database and an online store. Mobile device and a mobile data connection are also included. An authorization system authorizes a data transfer between the mobile device and the data server, and generates data representative of a mobile data access charge for the data transfer. In a first mode of operation, the mobile device communicates with the data server and the data server accesses the price database to offer a set of digital content items at a first set or prices. In a second mode of operation, the data server accesses the price database to offer the set of digital content items at a second set of prices, different to the first set of prices.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

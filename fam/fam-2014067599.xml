@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="60"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2014067599</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="48913968">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2014067599</doc-number>
+                    <kind>A1</kind>
+                    <date>20140306</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2014067599</doc-number>
+                    <date>20140306</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="415695437">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201314018049</doc-number>
+                    <kind>A</kind>
+                    <date>20130904</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012195264</doc-number>
+                    <kind>A</kind>
+                    <date>20120905</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48913968" country="US" doc-number="2014067599" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2014067599</doc-number>
+                            <kind>A1</kind>
+                            <date>20140306</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2014067599</doc-number>
+                            <date>20140306</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    06            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>B</section>
+                            <class>60</class>
+                            <subclass>C</subclass>
+                            <main-group>11</main-group>
+                            <subgroup>246</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0631</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="415695437">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201314018049</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201314018049</doc-number>
+                            <date>20130904</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>14018049</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120195264</doc-number>
+                                <date>20120905</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2012-195264</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>BRIDGESTONE CORP [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>BRIDGESTONE CORPORATION</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>GOKYU SYUNSUKE [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TOMOMOTO TAKASHI [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> YANAI KENJIRO [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>GOKYU SYUNSUKE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>TOMOMOTO TAKASHI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>YANAI KENJIRO</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHOD FOR TREAD SELECTION</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <nplcit num="1">
+                                <text>Sasikumar, "A multi-echelon reverse logistics network
+        design for product recovery-a case of truck tire
+        remanufacturing," The International Journal of Advanced
+        Manufacturing Technology, August 2010, Volume 49, Issue
+        9-12, pp. 1223-1234</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for tread selection to select a tread to attach to a tread side of a tire casing when manufacturing a tire includes the steps of: a) measuring, by a tire condition measurement unit, at least one characteristic value indicating at least one of a tire condition and a vehicle running condition</p>
+                    <p> b) predicting, by a casing life prediction unit, a remaining life of the tire casing based on the at least one characteristic value measured in step a)</p>
+                    <p> c) selecting, by a tread selection unit, at least one recommended tread in accordance with the remaining life of the tire casing predicted in step b) from among a plurality of treads attachable to the tire casing, using wear life information calculated in advance for each of the treads</p>
+                    <p> and d) displaying, by a terminal, the at least one recommended tread selected in step c).</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="48913968">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>103679542</doc-number>
+                    <kind>A</kind>
+                    <date>20140326</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CN103679542</doc-number>
+                    <date>20140326</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="416358011">
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>201310400150</doc-number>
+                    <kind>A</kind>
+                    <date>20130905</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012195264</doc-number>
+                    <kind>A</kind>
+                    <date>20120905</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48913968" country="CN" doc-number="103679542" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>103679542</doc-number>
+                            <kind>A</kind>
+                            <date>20140326</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN103679542</doc-number>
+                            <date>20140326</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  50/    04            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>B29D  30/    54            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>B</section>
+                            <class>60</class>
+                            <subclass>C</subclass>
+                            <main-group>11</main-group>
+                            <subgroup>246</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0631</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="416358011">
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>201310400150</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN20131400150</doc-number>
+                            <date>20130905</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2013104001507</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120195264</doc-number>
+                                <date>20120905</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2012-195264</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>BRIDGESTONE CORP</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>BRIDGESTONE CORPORATION</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SYUNSUKE GOKYU</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TAKASHI TOMOMOTO</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KENJIRO YANAI</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SYUNSUKE GOKYU, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>TAKASHI TOMOMOTO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>KENJIRO YANAI</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Method for tread selection</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for tread selection to select a tread to attach to a tread side of a tire casing when manufacturing a tire includes the following steps: a tire condition measurement step for measuring, by a tire condition measurement unit, at least one characteristic value indicating at least one of a tire condition and a vehicle running condition</p>
+                    <p> a tire life prediction step for predicting, by a casing life prediction unit, a remaining life of the tire casing based on the at least one characteristic value measured in the tire condition measurement step</p>
+                    <p> a tread selection step for selecting, by a tread selection unit, at least one recommended tread in accordance with the remaining life of the tire casing predicted in the tire life prediction step from among a plurality of treads attachable to the tire casing, using wear life information calculated in advance for each of the treads</p>
+                    <p> and a display step for displaying, by a terminal, the at least one recommended tread selected in the tread selection step.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="48913968">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>2705962</doc-number>
+                    <kind>A1</kind>
+                    <date>20140312</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP2705962</doc-number>
+                    <date>20140312</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="409972008" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>13182397</doc-number>
+                    <kind>A</kind>
+                    <date>20130830</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012195264</doc-number>
+                    <kind>A</kind>
+                    <date>20120905</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48913968" country="EP" doc-number="2705962" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>2705962</doc-number>
+                            <kind>A1</kind>
+                            <date>20140312</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP2705962</doc-number>
+                            <date>20140312</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>B60C  11/    24            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>B</section>
+                            <class>60</class>
+                            <subclass>C</subclass>
+                            <main-group>11</main-group>
+                            <subgroup>246</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0631</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="409972008">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>13182397</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20130182397</doc-number>
+                            <date>20130830</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13182397.3</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120195264</doc-number>
+                                <date>20120905</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2012195264</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>BRIDGESTONE CORP [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>BRIDGESTONE CORPORATION</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>GOKYU SYUNSUKE [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TOMOMOTO TAKASHI [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> YANAI KENJIRO [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>GOKYU, SYUNSUKE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>TOMOMOTO, TAKASHI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>YANAI, KENJIRO</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Method for tread selection</invention-title>
+                    <invention-title lang="de">Verfahren zur Profilauswahl</invention-title>
+                    <invention-title lang="fr">Procédé de sélection de bande de roulement</invention-title>
+                    <references-cited>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2012096762</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2012096762</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2012126174</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2012126174</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>I</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JPH10324120</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>H10324120</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>EP2123487</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>EP</country>
+                                    <doc-number>2123487</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for tread selection to select a tread to attach to a tread side of a tire casing when manufacturing a tire includes the steps of: a) measuring, by a tire condition measurement unit, at least one characteristic value indicating at least one of a tire condition and a vehicle running condition</p>
+                    <p> b) predicting, by a casing life prediction unit, a remaining life of the tire casing based on the at least one characteristic value measured in step a)</p>
+                    <p> c) selecting, by a tread selection unit, at least one recommended tread in accordance with the remaining life of the tire casing predicted in step b) from among a plurality of treads attachable to the tire casing, using wear life information calculated in advance for each of the treads</p>
+                    <p> and d) displaying, by a terminal, the at least one recommended tread selected in step c).</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="48913968">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>5231673</doc-number>
+                    <kind>B1</kind>
+                    <date>20130710</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>JP5231673B</doc-number>
+                    <date>20130710</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="409454822">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012195264</doc-number>
+                    <kind>A</kind>
+                    <date>20120905</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012195264</doc-number>
+                    <kind>A</kind>
+                    <date>20120905</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48913968" country="JP" doc-number="5231673" kind="B1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>5231673</doc-number>
+                            <kind>B1</kind>
+                            <date>20130710</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP5231673B</doc-number>
+                            <date>20130710</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>B60C  11/    02            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>B60C  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>B</section>
+                            <class>60</class>
+                            <subclass>C</subclass>
+                            <main-group>11</main-group>
+                            <subgroup>246</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0631</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B60C11/02&amp;B</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B60C11/02&amp;Z</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B60C19/00&amp;J</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B60C19/00&amp;Z</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="409454822">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2012195264</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20120195264</doc-number>
+                            <date>20120905</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2012195264</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120195264</doc-number>
+                                <date>20120905</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties/>
+                    <references-cited>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2012126174</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2012126174</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2012116417</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2012116417</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2002222361</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2002222361</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="48913968">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2014051133</doc-number>
+                    <kind>A</kind>
+                    <date>20140320</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>JP2014051133</doc-number>
+                    <date>20140320</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="409454822">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012195264</doc-number>
+                    <kind>A</kind>
+                    <date>20120905</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012195264</doc-number>
+                    <kind>A</kind>
+                    <date>20120905</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48913968" country="JP" doc-number="2014051133" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2014051133</doc-number>
+                            <kind>A</kind>
+                            <date>20140320</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP2014051133</doc-number>
+                            <date>20140320</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>B60C  11/    02            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>B</section>
+                            <class>60</class>
+                            <subclass>C</subclass>
+                            <main-group>11</main-group>
+                            <subgroup>246</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0631</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B60C11/02&amp;B</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B60C11/02&amp;Z</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B60C19/00&amp;J</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B60C19/00&amp;Z</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="409454822">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2012195264</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20120195264</doc-number>
+                            <date>20120905</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2012195264</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120195264</doc-number>
+                                <date>20120905</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>BRIDGESTONE CORP</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>BRIDGESTONE CORP</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                    </parties>
+                    <invention-title lang="en">TREAD SELECTION METHOD</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

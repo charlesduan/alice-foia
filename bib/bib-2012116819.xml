@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="16"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="46020469" country="US" doc-number="2012116819" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2012116819</doc-number>
+                        <kind>A1</kind>
+                        <date>20120510</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2012116819</doc-number>
+                        <date>20120510</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  40/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>G01C  21/    26            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="3">
+                        <text>G06F   3/   048            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>10</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>08</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/4</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>715/763</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="353625762">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>94134810</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20100941348</doc-number>
+                        <date>20101108</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>12941348</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20100941348</doc-number>
+                            <date>20101108</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>HERTENSTEIN DAVID [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> IBM [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>HERTENSTEIN DAVID, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>INTERNATIONAL BUSINESS MACHINES CORPORATION</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>HERTENSTEIN DAVID [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>HERTENSTEIN DAVID</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">TRAFFIC COLLISION INCIDENT VISUALIZATION WITH LOCATION CONTEXT</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US6389340</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>6389340</doc-number>
+                                <kind>B1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2002082873</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2002082873</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US6405112</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>6405112</doc-number>
+                                <kind>B1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                        <patcit dnum-type="publication number" num="4">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US6449540</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>6449540</doc-number>
+                                <kind>B1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                        <patcit dnum-type="publication number" num="5">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2005251427</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2005251427</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                        <patcit dnum-type="publication number" num="6">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2007271105</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2007271105</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                        <patcit dnum-type="publication number" num="7">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2008071586</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2008071586</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                        <patcit dnum-type="publication number" num="8">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2008204834</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2008204834</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                        <patcit dnum-type="publication number" num="9">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2009138290</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2009138290</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="10">
+                        <patcit dnum-type="publication number" num="10">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2011196707</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2011196707</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="11">
+                        <patcit dnum-type="publication number" num="11">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2011218825</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2011218825</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="12">
+                        <patcit dnum-type="publication number" num="12">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2011238535</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2011238535</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="13">
+                        <patcit dnum-type="publication number" num="13">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US5504674</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>5504674</doc-number>
+                                <kind>A</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="14">
+                        <patcit dnum-type="publication number" num="14">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2002035488</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2002035488</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="15">
+                        <patcit dnum-type="publication number" num="15">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2008267487</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2008267487</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="16">
+                        <patcit dnum-type="publication number" num="16">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US8239220</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>8239220</doc-number>
+                                <kind>B2</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="17">
+                        <nplcit num="1">
+                            <text>Datentechnik, Stephan; PC Crash: A simulation Program for
+        Vehicle Accidents, Version 8.0, November 2006</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A mapping data of a location associated with a traffic collision incident can be presented within an automobile incident application interface executing within a computing device. A visualization of the incident can be performed within the interface. The visualization can be a computer generated graphic re-creation of the incident having a starting location and a collision location associated with an object model. The object model can be a graphical representation of a vehicle. A user input can be received during the visualization. The user input can include manipulating the position of an object model presented upon the mapping data. The manipulation can be a translation, rotation, and/or scaling operation. The object model can be associated with visualization data which can link the object model with a heading and/or a track. The appropriate heading and track of the object model can be visually presented within the interface.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

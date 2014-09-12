@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="8"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="45973805" country="US" doc-number="2014188764" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2014188764</doc-number>
+                        <kind>A1</kind>
+                        <date>20140703</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2014188764</doc-number>
+                        <date>20140703</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  40/    06            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="419644714">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201414196845</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201414196845</doc-number>
+                        <date>20140304</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>14196845</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201414196845</doc-number>
+                            <date>20140304</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12909658</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20100909658</doc-number>
+                            <date>20101021</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>CHICAGO MERCANTILE EXCHANGE [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>CHICAGO MERCANTILE EXCHANGE INC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>CO RICHARD [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> YOUNGREN STEVE [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> ALDINGER LORI [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> LABUSZEWSKI JOHN [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>CO RICHARD, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>YOUNGREN STEVE, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>ALDINGER LORI, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>LABUSZEWSKI JOHN</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">BREAKOUT INDEXES</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Methods and systems for calculating values for indexes based on breakout currencies are provided. A prospective breakout index may be formed before an entity breaks out of a monetary union. Other aspects relate to calculating an initial index value on a breakout date. An initial exchange rate of the breakout currency may be combined with a breakout value and/or a base value. In one embodiment, the breakout value is the reciprocal of the initial exchange rate. Therefore, in accordance with certain embodiments, the initial index value of the breakout index may be equal to the base value. Further aspects relate to calculating a second index value. A second exchange rate of the breakout currency may be utilized with the fixed base value and the breakout value to calculate the second index value of the breakout index. Further aspects relate to creating a prospective currency unit for a monetary union.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

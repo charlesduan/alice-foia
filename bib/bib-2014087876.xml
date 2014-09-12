@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="6"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="46653194" country="US" doc-number="2014087876" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2014087876</doc-number>
+                        <kind>A1</kind>
+                        <date>20140327</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2014087876</doc-number>
+                        <date>20140327</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A63F  13/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>A</section>
+                        <class>63</class>
+                        <subclass>F</subclass>
+                        <main-group>13</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>012</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>0304</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>A</section>
+                        <class>63</class>
+                        <subclass>F</subclass>
+                        <main-group>2300</main-group>
+                        <subgroup>695</subgroup>
+                        <classification-value>A</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>A</section>
+                        <class>63</class>
+                        <subclass>F</subclass>
+                        <main-group>2300</main-group>
+                        <subgroup>8088</subgroup>
+                        <classification-value>A</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>A</section>
+                        <class>63</class>
+                        <subclass>F</subclass>
+                        <main-group>13</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="416433486">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201314095842</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201314095842</doc-number>
+                        <date>20131203</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>14095842</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201314095842</doc-number>
+                            <date>20131203</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12932381</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20110932381</doc-number>
+                            <date>20110223</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>DISNEY ENTPR INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>DISNEY ENTERPRISES, INC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>PAQUET PHILIPPE [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>PAQUET PHILIPPE</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">Number of Players Determined Using Facial Recognition</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>There is provided a system and method for determining a number of players present using facial recognition. There is provided a method comprising capturing an image of the players present, and determining the number of players present based on the image. In this manner, players may more easily configure game settings, whereas spectators may be presented a more engaging experience.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="37"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013218619</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="48982977">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013218619</doc-number>
+                    <kind>A1</kind>
+                    <date>20130822</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013218619</doc-number>
+                    <date>20130822</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="409714738" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213399376</doc-number>
+                    <kind>A</kind>
+                    <date>20120217</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213399376</doc-number>
+                    <kind>A</kind>
+                    <date>20120217</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48982977" country="US" doc-number="2013218619" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013218619</doc-number>
+                            <kind>A1</kind>
+                            <date>20130822</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013218619</doc-number>
+                            <date>20130822</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    06            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>063112</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="409714738">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201213399376</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213399376</doc-number>
+                            <date>20120217</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13399376</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213399376</doc-number>
+                                <date>20120217</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>FRIEDLANDER ROBERT R [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> KRAEMER JAMES R [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> NOWAK JUSTYNA M [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WOODWARD ELIZABETH V [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> IBM [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>FRIEDLANDER ROBERT R, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>KRAEMER JAMES R, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>NOWAK JUSTYNA M, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>WOODWARD ELIZABETH V, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>INTERNATIONAL BUSINESS MACHINES CORPORATION</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>FRIEDLANDER ROBERT R [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KRAEMER JAMES R [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> NOWAK JUSTYNA M [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WOODWARD ELIZABETH V [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>FRIEDLANDER ROBERT R, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>KRAEMER JAMES R, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>NOWAK JUSTYNA M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>WOODWARD ELIZABETH V</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">GENERATING RECOMMENDATIONS FOR STAFFING A PROJECT TEAM</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5754939</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5754939</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002091669</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002091669</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6460036</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6460036</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003088562</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003088562</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6574605</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6574605</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6601234</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6601234</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6652283</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6652283</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007061178</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007061178</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7218974</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7218974</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008183527</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008183527</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="11">
+                            <patcit dnum-type="publication number" num="11">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009006173</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009006173</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="12">
+                            <patcit dnum-type="publication number" num="12">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009043621</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009043621</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="13">
+                            <patcit dnum-type="publication number" num="13">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009276231</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009276231</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="14">
+                            <patcit dnum-type="publication number" num="14">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7711573</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7711573</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="15">
+                            <patcit dnum-type="publication number" num="15">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7788180</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7788180</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="16">
+                            <patcit dnum-type="publication number" num="16">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7805382</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7805382</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="17">
+                            <patcit dnum-type="publication number" num="17">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010332496</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010332496</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="18">
+                            <patcit dnum-type="publication number" num="18">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011161139</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011161139</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="19">
+                            <patcit dnum-type="publication number" num="19">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011276507</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011276507</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="20">
+                            <patcit dnum-type="publication number" num="20">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012016875</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012016875</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="21">
+                            <patcit dnum-type="publication number" num="21">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US8160918</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>8160918</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="22">
+                            <patcit dnum-type="publication number" num="22">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012203640</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012203640</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="23">
+                            <patcit dnum-type="publication number" num="23">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012316912</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012316912</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="24">
+                            <patcit dnum-type="publication number" num="24">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2013111357</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2013111357</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="25">
+                            <patcit dnum-type="publication number" num="25">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2007133664</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2007133664</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="26">
+                            <nplcit num="1">
+                                <text>US Department of the Interior, Workforce Planning
+        Instruction Manual, august 2001</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="27">
+                            <nplcit num="2">
+                                <text>Jochen Malinowski, Tim Weitzel, Tobias Keim, Decision
+        support for team staffing: An automated relational
+        recommendation approach, Decision Support Systems, Volume
+        45, Issue 3, June 2008, Pages 429-447, ISSN 0167-9236,
+        http://dx.doi.org/10.1016/j.dss.2007.05.005</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="28">
+                            <nplcit num="3">
+                                <text>Yixin Diao; Heching, A., "Staffing optimization in complex
+        service delivery systems," Network and Service Management
+        (CNSM), 2011 7th International Conference on , vol., no.,
+        pp.1,9, 24-28 Oct. 2011</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="29">
+                            <nplcit num="4">
+                                <text>Topology map Google Image Search 12/10/2013</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A processor-implemented method, system, and/or computer program product generates a recommendation for a worker to be included in a project team. A requisite skill set that is not presently needed, but will be needed in the future, by a project team is determined. Historical data that describe antecedent conditions, which caused a historical worker to obtain the requisite skill set, is received. A candidate worker's current skill set data is adjusted with skill set enhancers, which are available to members of the project team, to generate a predicted future skill set of the candidate worker. In response to the needed requisite skill set matching the predicted future skill set of the candidate worker, a recommendation is generated for adding that candidate worker to the project team.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="48982977">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>103310091</doc-number>
+                    <kind>A</kind>
+                    <date>20130918</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CN103310091</doc-number>
+                    <date>20130918</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="410389770">
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>201310051695</doc-number>
+                    <kind>A</kind>
+                    <date>20130217</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213399376</doc-number>
+                    <kind>A</kind>
+                    <date>20120217</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48982977" country="CN" doc-number="103310091" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>103310091</doc-number>
+                            <kind>A</kind>
+                            <date>20130918</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN103310091</doc-number>
+                            <date>20130918</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>063112</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="410389770">
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>201310051695</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN2013151695</doc-number>
+                            <date>20130217</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2013100516951</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213399376</doc-number>
+                                <date>20120217</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>13/399,376</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>IBM</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>IBM</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>FRIEDLANDER ROBERT R</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KRAEMER JAMES R</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> NOWAK JUSTYNA M</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WOODWARD ELIZABETH V</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>FRIEDLANDER ROBERT R, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>KRAEMER JAMES R, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>NOWAK JUSTYNA M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>WOODWARD ELIZABETH V</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Method and system for generating recommendations for staffing a project team</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A processor-implemented method, system, and/or computer program product generates a recommendation for a worker to be included in a project team. A requisite skill set that is not presently needed, but will be needed in the future, by a project team is determined. Historical data that describe antecedent conditions, which caused a historical worker to obtain the requisite skill set, is received. A candidate worker's current skill set data is adjusted with skill set enhancers, which are available to members of the project team, to generate a predicted future skill set of the candidate worker. In response to the needed requisite skill set matching the predicted future skill set of the candidate worker, a recommendation is generated for adding that candidate worker to the project team.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

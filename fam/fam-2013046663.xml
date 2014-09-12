@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="50"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013046663</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="47713344">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013046663</doc-number>
+                    <kind>A1</kind>
+                    <date>20130221</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013046663</doc-number>
+                    <date>20130221</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="381254988" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113211482</doc-number>
+                    <kind>A</kind>
+                    <date>20110817</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113211482</doc-number>
+                    <kind>A</kind>
+                    <date>20110817</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="47713344" country="US" doc-number="2013046663" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013046663</doc-number>
+                            <kind>A1</kind>
+                            <date>20130221</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013046663</doc-number>
+                            <date>20130221</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>R</subclass>
+                            <main-group>31</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>R</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>002</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>R</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>003</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>R</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>133</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="381254988">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201113211482</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201113211482</doc-number>
+                            <date>20110817</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13211482</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201113211482</doc-number>
+                                <date>20110817</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ANALOG DEVICES INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ANTONESEI GABRIEL [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> HE JIANBO [CN]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ANALOG DEVICES, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>ANTONESEI GABRIEL, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>HE JIANBO</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ANTONESEI GABRIEL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> HE JIANBO [CN]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ANTONESEI GABRIEL, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>HE JIANBO</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">APPARATUS AND METHOD FOR MEASURING ACTIVE/REACTIVE POWERS</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <nplcit num="1">
+                                <text>Kawagoe, J.; Tsuchiyama, T.; So, E., "A Digital System for
+        Calibrating Active/Reactive Power and Energy Meters,"
+        Precision Electromagnetic Measurements Digest, 2004
+        Conference on , vol., no., pp.293,294, June 2004</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A device and method for measuring active and reactive powers of an alternating current includes receiving a first signal representing a current and a second signal representing a voltage, in which the current includes a phase offset with respect to the voltage, calculating an active power and reactive power based on the first and second signals, and calibrating the calculated active and reactive powers with respect to the phase offset using first and second constants, in which the first and second constants respectively correspond to a sine value and a cosine value of the phase offset.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="47713344">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2013025293</doc-number>
+                    <kind>A2</kind>
+                    <date>20130221</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2013025293</doc-number>
+                    <date>20130221</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="381271833">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012045896</doc-number>
+                    <kind>W</kind>
+                    <date>20120709</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113211482</doc-number>
+                    <kind>A</kind>
+                    <date>20110817</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="47713344" country="WO" doc-number="2013025293" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2013025293</doc-number>
+                            <kind>A2</kind>
+                            <date>20130221</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2013025293</doc-number>
+                            <date>20130221</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>R</subclass>
+                            <main-group>31</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>R</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>002</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>R</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>003</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>R</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>133</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="381271833">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2012045896</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2012US45896</doc-number>
+                            <date>20120709</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2012/045896</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201113211482</doc-number>
+                                <date>20110817</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>13/211,482</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ANALOG DEVICES INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ANTONESAI GABRIEL [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> HE JIANBO [CN]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ANALOG DEVICES, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>ANTONESAI, GABRIEL, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>HE, JIANBO</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ANTONESAI GABRIEL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> HE JIANBO [CN]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ANTONESAI, GABRIEL, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>HE, JIANBO</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">APPARATUS AND METHOD FOR MEASURING ACTIVE/REACTIVE POWERS</invention-title>
+                    <invention-title lang="fr">APPAREIL ET PROCÉDÉ POUR MESURER DES PUISSANCES ACTIVE/RÉACTIVE</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="US">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010088049</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010088049</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="US">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009292848</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009292848</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="US">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005225469</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005225469</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="4" office="US">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007233406</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007233406</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="5" office="US">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US4131847</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>4131847</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="6" office="US">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US4300182</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>4300182</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A device and method for measuring active and reactive powers of an alternating current includes receiving a first signal representing a current and a second signal representing a voltage, in which the current includes a phase offset with respect to the voltage, calculating an active power and reactive power based on the first and second signals, and calibrating the calculated active and reactive powers with respect to the phase offset using first and second constants, in which the first and second constants respectively correspond to a sine value and a cosine value of the phase offset.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention porte sur un dispositif et un procédé pour mesurer des puissances active et réactive d'un courant alternatif, qui comprend la réception d'un premier signal représentant un courant et d'un second signal représentant une tension, le courant comprenant un déphasage par rapport à la tension, le calcul d'une puissance active et d'une puissance réactive sur la base des premier et second signaux, et l'étalonnage des puissances active et réactive calculées par rapport au déphasage à l'aide de première et seconde constantes, les première et seconde constantes correspondant respectivement à une valeur sinusoïdale et à une valeur cosinusoïdale du déphasage.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="47713344">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2013025293</doc-number>
+                    <kind>A3</kind>
+                    <date>20140508</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2013025293</doc-number>
+                    <date>20140508</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="381271833">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012045896</doc-number>
+                    <kind>W</kind>
+                    <date>20120709</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113211482</doc-number>
+                    <kind>A</kind>
+                    <date>20110817</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="47713344" country="WO" doc-number="2013025293" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2013025293</doc-number>
+                            <kind>A3</kind>
+                            <date>20140508</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2013025293</doc-number>
+                            <date>20140508</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G01R  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>R</subclass>
+                            <main-group>31</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>R</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>002</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>R</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>003</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>R</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>133</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="381271833">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2012045896</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2012US45896</doc-number>
+                            <date>20120709</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2012/045896</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201113211482</doc-number>
+                                <date>20110817</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>13/211,482</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ANALOG DEVICES INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ANTONESAI GABRIEL [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> HE JIANBO [CN]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ANALOG DEVICES, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>ANTONESAI, GABRIEL, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>HE, JIANBO</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ANTONESAI GABRIEL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> HE JIANBO [CN]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ANTONESAI, GABRIEL, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>HE, JIANBO</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">APPARATUS AND METHOD FOR MEASURING ACTIVE/REACTIVE POWERS</invention-title>
+                    <invention-title lang="fr">APPAREIL ET PROCÉDÉ POUR MESURER DES PUISSANCES ACTIVE/RÉACTIVE</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A device and method for measuring active and reactive powers of an alternating current includes receiving a first signal representing a current and a second signal representing a voltage, in which the current includes a phase offset with respect to the voltage, calculating an active power and reactive power based on the first and second signals, and calibrating the calculated active and reactive powers with respect to the phase offset using first and second constants, in which the first and second constants respectively correspond to a sine value and a cosine value of the phase offset.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention porte sur un dispositif et un procédé pour mesurer des puissances active et réactive d'un courant alternatif, qui comprend la réception d'un premier signal représentant un courant et d'un second signal représentant une tension, le courant comprenant un déphasage par rapport à la tension, le calcul d'une puissance active et d'une puissance réactive sur la base des premier et second signaux, et l'étalonnage des puissances active et réactive calculées par rapport au déphasage à l'aide de première et seconde constantes, les première et seconde constantes correspondant respectivement à une valeur sinusoïdale et à une valeur cosinusoïdale du déphasage.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

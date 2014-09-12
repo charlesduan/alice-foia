@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="6"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="50548303" country="US" doc-number="2014122355" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2014122355</doc-number>
+                        <kind>A1</kind>
+                        <date>20140501</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2014122355</doc-number>
+                        <date>20140501</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  10/    10            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>10</main-group>
+                        <subgroup>1053</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="417389268">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201213662312</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201213662312</doc-number>
+                        <date>20121026</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13662312</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213662312</doc-number>
+                            <date>20121026</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>BRIGHT MEDIA CORP [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>BRIGHT MEDIA CORPORATION</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>HARDTKE DAVID [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> BOLLINGER JACOB [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> MARTIN BEN [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> VIVAS EDUARDO [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>HARDTKE DAVID, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>BOLLINGER JACOB, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>MARTIN BEN, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>VIVAS EDUARDO</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">IDENTIFYING CANDIDATES FOR JOB OPENINGS USING A SCORING FUNCTION BASED ON FEATURES IN RESUMES AND JOB DESCRIPTIONS</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A computer-based method, and computer system, for matching candidates with job openings. The technology more particularly relates to methods of providing a candidate with a score for a particular job opening, where the score is derived from a comparison of features in the candidate's resume with job features in a description of the job opening, as well as use of external data gathered from other sources and based on information contained in the candidate's resume and/or in the description of the job opening. Particular features are weighted to take account of their significance in matching candidates to job openings in a statistical survey of such matching. The technology further provides for notifying employers that one or more high scoring candidates have been identified.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

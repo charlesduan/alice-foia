@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="17"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="39970358" country="US" doc-number="2008281649" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2008281649</doc-number>
+                        <kind>A1</kind>
+                        <date>20081113</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2008281649</doc-number>
+                        <date>20081113</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  40/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>G06F  17/    30            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="3">
+                        <text>G06Q  10/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>10</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>16</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>18</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>12</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/30</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/311</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/313</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="55222586">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>63053203</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20030630532</doc-number>
+                        <date>20030730</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>10630532</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20030630532</doc-number>
+                            <date>20030730</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>60399372</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20020399372P</doc-number>
+                            <date>20020730</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>MORRIS DANIEL R [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>MORRIS DANIEL R</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">System and method for automated release tracking</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A real estate transaction and release tracking system ensures deeds of trust, liens and other encumbrances are released in a timely manner after a specified (or statutory) period of time following settlement of a real estate transaction. Based on information provided by an agent, such as an escrow agent or a settlement agent, the system creates a unique electronic record for each real estate transaction entered by the agent. The system tracks lien status information, either automatically from other computers or via manual input from searchers, and uses this status information to track each real estate transaction. The system monitors the records and indicates when a lien holder has failed to release their lien after a statutory time period that begins after the passing of the settlement date. When the statutory time period has passed, the system can generate a number of forms, including a demand letter as controlled optionally by the system or the user. The demand letter can be sent to the lien holder demanding them to release the lien. If the lien is not thereafter released, further legal documents can be generated and sent to a law firm or enforcement agent for legal action to be taken against the delinquent lien holder.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

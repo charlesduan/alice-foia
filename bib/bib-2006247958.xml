@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="17"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="37235594" country="US" doc-number="2006247958" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2006247958</doc-number>
+                        <kind>A1</kind>
+                        <date>20061102</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2006247958</doc-number>
+                        <date>20061102</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06F  17/    50            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>10</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>10</main-group>
+                        <subgroup>0831</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/331</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="49095823">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>26080205</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20050260802</doc-number>
+                        <date>20051027</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>11260802</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20040077960</doc-number>
+                            <date>20041027</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>EP 04077960.5</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>CHELNIAK HANS [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> THIERER JOCHEN [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> STADLER CHRISTIAN [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> BRUNNER STEFAN [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="epodoc">
+                            <inventor-name>
+                                <name> MOSCHEL ANDREAS [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>CHELNIAK HANS, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>THIERER JOCHEN, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>STADLER CHRISTIAN, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>BRUNNER STEFAN, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="original">
+                            <inventor-name>
+                                <name>MOSCHEL ANDREAS</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">Performing a customs procedure</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method includes receiving an electronic logistics document containing logistics data of received goods, processing the logistics data, and generating an electronic customs declaration. Generating can include extracting from the logistics document logistics data, deriving from the extracted logistics data customs data related to a customs procedure, and generating for at least a part of the received goods an electronic customs declaration document containing the customs data. The method can include providing the electronic customs declaration document at an output interface, transmitting the electronic customs declaration document to an input interface of an electronic customs clearance declaration system, receiving, from the electronic customs clearance declaration system, clearance data regarding the received goods at a second input interface, and marking the logistics data with a first marking to signal that the customs procedure has been completed.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

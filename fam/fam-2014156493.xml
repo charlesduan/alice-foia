@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="36"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2014156493</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="50826422">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2014156493</doc-number>
+                    <kind>A1</kind>
+                    <date>20140605</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2014156493</doc-number>
+                    <date>20140605</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="418652021" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201414174052</doc-number>
+                    <kind>A</kind>
+                    <date>20140206</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201361778667</doc-number>
+                    <kind>P</kind>
+                    <date>20130313</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201414174052</doc-number>
+                    <kind>A</kind>
+                    <date>20140206</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="50826422" country="US" doc-number="2014156493" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2014156493</doc-number>
+                            <kind>A1</kind>
+                            <date>20140605</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2014156493</doc-number>
+                            <date>20140605</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    04            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="418652021">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201414174052</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201414174052</doc-number>
+                            <date>20140206</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>14174052</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201414174052</doc-number>
+                                <date>20140206</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61778667</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201361778667P</doc-number>
+                                <date>20130313</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>INTERCONTINENTALEXCHANGE INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>INTERCONTINENTALEXCHANGE, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>WENDER DAVID R [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>WENDER DAVID R</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM AND METHOD FOR PROCESSING A TRADE ORDER</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for processing a trade order includes a computer receiving a market data for a financial asset, receiving pricing parameters and receiving proposed order quantity and price data. The method further includes constructing, by a computer, proposed trades based on the proposed order quantity and price data. The method further includes calculating, by a computer, a theoretical price for the financial asset based on the market data, pricing parameters as well as the proposed order price data. The method further includes comparing the constructed trades with the theoretical price. The method further includes displaying market data indicators relative to the theoretical price indicators based on the performed comparison.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="50826422">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2014156496</doc-number>
+                    <kind>A1</kind>
+                    <date>20140605</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2014156496</doc-number>
+                    <date>20140605</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="418652027">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201414175274</doc-number>
+                    <kind>A</kind>
+                    <date>20140207</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201361778667</doc-number>
+                    <kind>P</kind>
+                    <date>20130313</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201414175274</doc-number>
+                    <kind>A</kind>
+                    <date>20140207</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201414174052</doc-number>
+                    <kind>A</kind>
+                    <date>20140206</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>1</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="50826422" country="US" doc-number="2014156496" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2014156496</doc-number>
+                            <kind>A1</kind>
+                            <date>20140605</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2014156496</doc-number>
+                            <date>20140605</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    04            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="418652027">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201414175274</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201414175274</doc-number>
+                            <date>20140207</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>14175274</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201414175274</doc-number>
+                                <date>20140207</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>14174052</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201414174052</doc-number>
+                                <date>20140206</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61778667</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201361778667P</doc-number>
+                                <date>20130313</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>INTERCONTINENTALEXCHANGE INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>INTERCONTINENTALEXCHANGE, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>WENDER DAVID R [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>WENDER DAVID R</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM AND METHOD FOR PROCESSING A TRADE ORDER</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Systems and apparatus for processing a trade order include a computer configured for receiving market data for a financial asset, receiving pricing parameters and receiving proposed order quantity and price data. The computer is further configured for constructing proposed trades based on the proposed order quantity and price data, and for calculating a theoretical price for the financial asset based on the market data, pricing parameters as well as the proposed order price data. In addition, the computer is configured for comparing the constructed trades with the theoretical price, and displaying market data indicators relative to the theoretical price indicators based on the comparison.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

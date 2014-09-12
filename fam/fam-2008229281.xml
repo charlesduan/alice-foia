@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="57"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2008229281</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="39688231">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2008229281</doc-number>
+                    <kind>A1</kind>
+                    <date>20080918</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2008229281</doc-number>
+                    <date>20080918</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="46387542">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>4837008</doc-number>
+                    <kind>A</kind>
+                    <date>20080314</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>DE</country>
+                    <doc-number>102007012784</doc-number>
+                    <kind>A</kind>
+                    <date>20070316</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39688231" country="US" doc-number="2008229281" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2008229281</doc-number>
+                            <kind>A1</kind>
+                            <date>20080918</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2008229281</doc-number>
+                            <date>20080918</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F   9/    44            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>321</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>717/120</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="46387542">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>4837008</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20080048370</doc-number>
+                            <date>20080314</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12048370</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE20071012784</doc-number>
+                                <date>20070316</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10 2007 012 784.9</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>REQUARDT MARTIN [DE]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SCHMIDT SEBASTIAN [DE]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SCHMIEDEHAUSEN KRISTIN [DE]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>REQUARDT MARTIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SCHMIDT SEBASTIAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>SCHMIEDEHAUSEN KRISTIN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHOD FOR DATA EXCHANGE BETWEEN MEDICAL APPARATUSES</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005063575</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005063575</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5740428</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5740428</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <nplcit num="1">
+                                <text>Wong et al., Integration Of Multi-Vendor Imaging Equipment
+        With DICOM Into PACS, SPIE Conference On PACS Design And
+        Evaluation: Engineering And Clinical Issues, February 1998,
+        SPIE Vol. 3339, P. 294-302</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>In a method, a device and a system as well as a modality and a computer program product for integration of a data object into a medical data set, the data object and the medical data set are associated with a patient examination. The medical data set is formatted according to a DICOM standard. The data object is formatted according to a standard other than the DICOM standard. The data object is integrated into the medical data set via at least one shadow group object and a running and/or planned process in connection with the patient examination can be controlled dependent on the integrated data object.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39688231">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>101266634</doc-number>
+                    <kind>A</kind>
+                    <date>20080917</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CN101266634</doc-number>
+                    <date>20080917</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="55250581">
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>200810085340</doc-number>
+                    <kind>A</kind>
+                    <date>20080314</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>DE</country>
+                    <doc-number>102007012784</doc-number>
+                    <kind>A</kind>
+                    <date>20070316</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39688231" country="CN" doc-number="101266634" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>101266634</doc-number>
+                            <kind>A</kind>
+                            <date>20080917</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN101266634</doc-number>
+                            <date>20080917</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A61B   6/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>321</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="55250581">
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>200810085340</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN2008185340</doc-number>
+                            <date>20080314</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>A2008100853403</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE20071012784</doc-number>
+                                <date>20070316</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>102007012784.9</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SIEMENS AG [DE]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SIEMENS AG</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>MARTIN REQUARDT [DE]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SEBASTIAN SCHMIDT [DE]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KRISTIN SCHMIEDEHAUSEN [DE]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>REQUARDT MARTIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SCHMIDT SEBASTIAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>SCHMIEDEHAUSEN KRISTIN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Method for data exchange between medical apparatuses</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>The invention relates to a method for exchanging data between the medical instruments, relating to a method, a device and a system of integrating the data object in the medical data group, and modes and computer program products, wherein the data object and the medical data group corresponds to one patient inspection. The medical data group is formative according to DICOM standard. The data object is formative according to the standard different from the DICOM standard. According to the method, the invention integrates the data object into the medical data group through the shading group object set of at least one DICOM standard, and combines the patient inspection according to the integrated data object control operation and/or plan.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39688231">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>DE</country>
+                    <doc-number>102007012784</doc-number>
+                    <kind>A1</kind>
+                    <date>20080918</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>DE102007012784</doc-number>
+                    <date>20080918</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="15073746" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>DE</country>
+                    <doc-number>102007012784</doc-number>
+                    <kind>A</kind>
+                    <date>20070316</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>DE</country>
+                    <doc-number>102007012784</doc-number>
+                    <kind>A</kind>
+                    <date>20070316</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39688231" country="DE" doc-number="102007012784" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>DE</country>
+                            <doc-number>102007012784</doc-number>
+                            <kind>A1</kind>
+                            <date>20080918</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE102007012784</doc-number>
+                            <date>20080918</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    30            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>321</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="15073746">
+                        <document-id document-id-type="docdb">
+                            <country>DE</country>
+                            <doc-number>102007012784</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE20071012784</doc-number>
+                            <date>20070316</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>102007012784</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE20071012784</doc-number>
+                                <date>20070316</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SIEMENS AG [DE]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SIEMENS AG</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>REQUARDT MARTIN [DE]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SCHMIDT SEBASTIAN [DE]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SCHMIEDEHAUSEN KRISTIN [DE]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>REQUARDT, MARTIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SCHMIDT, SEBASTIAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>SCHMIEDEHAUSEN, KRISTIN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="de">Verfahren zum Datenaustausch zwischen medizinischen Geräten
+</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5835735</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5835735</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6402737</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6402737</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6348793</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6348793</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="de">
+                    <p>Die Erfindung betrifft ein Verfahren, eine Vorrichtung und ein System sowie eine Modalität und ein Computerprogrammprodukt zur Integration eines Datenobjekts in einen medizinischen Datensatz, wobei das Datenobjekt und der medizinische Datensatz einer Patientenuntersuchung zugeordnet sind. Der medizinische Datensatz ist nach einem DICOM-Standard formatiert. Das Datenobjekt ist nach einem anderen Standard als dem DICOM-Standard formatiert. Das erfindungsgemässe Verfahren ist dadurch gekennzeichnet, dass das Datenobjekt über zumindest ein Shadow-Group-Objekt in den medizinischen Datensatz integriert wird und ein laufender und/oder geplanter Prozess im Zusammenhang mit der Patientenuntersuchung in Abhängigkeit von dem integrierten Datenobjekt gesteuert werden kann.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39688231">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>DE</country>
+                    <doc-number>102007012784</doc-number>
+                    <kind>B4</kind>
+                    <date>20090226</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>DE102007012784</doc-number>
+                    <date>20090226</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="15073746" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>DE</country>
+                    <doc-number>102007012784</doc-number>
+                    <kind>A</kind>
+                    <date>20070316</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>DE</country>
+                    <doc-number>102007012784</doc-number>
+                    <kind>A</kind>
+                    <date>20070316</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39688231" country="DE" doc-number="102007012784" kind="B4">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>DE</country>
+                            <doc-number>102007012784</doc-number>
+                            <kind>B4</kind>
+                            <date>20090226</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE102007012784</doc-number>
+                            <date>20090226</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    20            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>321</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="15073746">
+                        <document-id document-id-type="docdb">
+                            <country>DE</country>
+                            <doc-number>102007012784</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE20071012784</doc-number>
+                            <date>20070316</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>102007012784</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE20071012784</doc-number>
+                                <date>20070316</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SIEMENS AG [DE]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SIEMENS AG</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>REQUARDT MARTIN [DE]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SCHMIDT SEBASTIAN [DE]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SCHMIEDEHAUSEN KRISTIN [DE]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>REQUARDT, MARTIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SCHMIDT, SEBASTIAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>SCHMIEDEHAUSEN, KRISTIN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="de">Verfahren, etc. zum Datenaustausch zwischen medizinischen Geräten</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5835735</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5835735</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6402737</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6402737</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6348793</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6348793</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39688231">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2008234644</doc-number>
+                    <kind>A</kind>
+                    <date>20081002</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>JP2008234644</doc-number>
+                    <date>20081002</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="55096790">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2008065760</doc-number>
+                    <kind>A</kind>
+                    <date>20080314</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>DE</country>
+                    <doc-number>102007012784</doc-number>
+                    <kind>A</kind>
+                    <date>20070316</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39688231" country="JP" doc-number="2008234644" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2008234644</doc-number>
+                            <kind>A</kind>
+                            <date>20081002</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP2008234644</doc-number>
+                            <date>20081002</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>A61B   5/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>321</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>A61B5/00&amp;D</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06F17/60&amp;126K</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06F17/60&amp;126Q</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06Q50/22</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="5">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06Q50/24&amp;110</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="6">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06Q50/24&amp;140</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>4C117/XK34</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>4C117/XK45</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>4C117/XL12</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>4C117/XL15</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="5">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>4C117/XL21</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="6">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>4C117/XR07</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="7">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>4C117/XR08</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="8">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>4C117/XR09</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="9">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>4C117/XR10</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="55096790">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2008065760</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20080065760</doc-number>
+                            <date>20080314</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2008065760</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE20071012784</doc-number>
+                                <date>20070316</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2007 2007012784</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SIEMENS AG</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SIEMENS AG</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>REQUARDT MARTIN</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SCHMIDT SEBASTIAN</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SCHMIEDEHAUSEN KRISTIN</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>REQUARDT MARTIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SCHMIDT SEBASTIAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>SCHMIEDEHAUSEN KRISTIN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHOD FOR DATA EXCHANGE BETWEEN MEDICAL APPARATUSES</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>PROBLEM TO BE SOLVED: To attain simple access to another or previous patient data and to link the information generated by different formats or different standards so as to be used to control medical modalities. </p>
+                    <p>SOLUTION: The present invention relates to a method, a system as well as a modality and a computer program product for integration of a data object 1 into a medical data set 2. The medical data set 2 is formatted according to a DICOM standard and the data object 1 is formatted according to a standard other than the DICOM standard. In the method, the data object 1 is integrated into the medical data set 2 via at least one shadow group object 3 of the DICOM standard and a running and/or planned process in connection with the patient examination can be controlled dependent on the integrated data object. </p>
+                    <p>COPYRIGHT: (C)2009,JPO&amp;INPIT</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

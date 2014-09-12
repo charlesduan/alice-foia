@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="77"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2009063463</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="40409069">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009063463</doc-number>
+                    <kind>A1</kind>
+                    <date>20090305</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2009063463</doc-number>
+                    <date>20090305</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="56701776" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>85051607</doc-number>
+                    <kind>A</kind>
+                    <date>20070905</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>85051607</doc-number>
+                    <kind>A</kind>
+                    <date>20070905</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="40409069" country="US" doc-number="2009063463" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009063463</doc-number>
+                            <kind>A1</kind>
+                            <date>20090305</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2009063463</doc-number>
+                            <date>20090305</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    30            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>13</main-group>
+                            <subgroup>12</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>305</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>558</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>572</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>1/1</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>707/E17.108</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>707/999.005</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="56701776">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>85051607</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070850516</doc-number>
+                            <date>20070905</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>11850516</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070850516</doc-number>
+                                <date>20070905</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>TURNER SEAN [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> HARRISON PHIL [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>TURNER SEAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>HARRISON PHIL</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Ranking of User-Generated Game Play Advice</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7452273</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7452273</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6098061</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6098061</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5167010</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5167010</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2001009867</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2001009867</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US8714983</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>8714983</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7438642</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7438642</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Management of user-generated game play advice is disclosed. The present invention allows for management of game play advice that is complete and up-to-date regardless of when a particular interactive gaming title is released. Game play advice is pervasive and easily accessible to game players in addition to being accurate and credible such that game players can trust or rely upon the rendered advice.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43547983">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>101968827</doc-number>
+                    <kind>A</kind>
+                    <date>20110209</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CN101968827</doc-number>
+                    <date>20110209</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="331696245">
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>201010245413</doc-number>
+                    <kind>A</kind>
+                    <date>20100727</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>50984809</doc-number>
+                    <kind>A</kind>
+                    <date>20090727</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43547983" country="CN" doc-number="101968827" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>101968827</doc-number>
+                            <kind>A</kind>
+                            <date>20110209</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN101968827</doc-number>
+                            <date>20110209</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>13</main-group>
+                            <subgroup>12</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>305</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>558</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>572</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="331696245">
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>201010245413</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN20101245413</doc-number>
+                            <date>20100727</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2010102454138</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090509848</doc-number>
+                                <date>20090727</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/509,848</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SONY COMP ENTERTAINMENT US</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SONY COMP ENTERTAINMENT EUROPE</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SONY COMP ENTERTAINMENT US, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>SONY COMP ENTERTAINMENT EUROPE</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ZALEVSKY GARY M</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SHAWN TURNER</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ZALEVSKY GARY M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>TURNER SHAWN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Real time context display of classified game proposal generated by subscriber</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>The invention relates to a real time context display of classified game proposal generated by subscriber, a management of the game proposal with appropriate context generated by the subscriber is disclosed. The invention allows the game proposal with the appropriate context to be managed, the game proposal is intact and the newest game proposal has no need of considering that when the specific interactive game title is issued. Besides the game proposal is accurate and reliable to enable the game player to trust or depend on the proposal, the game proposal is spread over and is easy to access. The game proposal can be displayed in the context which is suitable for displaying the proposal.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43547983">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>101968827</doc-number>
+                    <kind>B</kind>
+                    <date>20140507</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CN101968827B</doc-number>
+                    <date>20140507</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="331696245">
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>201010245413</doc-number>
+                    <kind>A</kind>
+                    <date>20100727</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>50984809</doc-number>
+                    <kind>A</kind>
+                    <date>20090727</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43547983" country="CN" doc-number="101968827" kind="B">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>101968827</doc-number>
+                            <kind>B</kind>
+                            <date>20140507</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN101968827B</doc-number>
+                            <date>20140507</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>13</main-group>
+                            <subgroup>12</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>305</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>558</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>572</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="331696245">
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>201010245413</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN20101245413</doc-number>
+                            <date>20100727</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2010102454138</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090509848</doc-number>
+                                <date>20090727</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/509,848</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties/>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43547983">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>2322257</doc-number>
+                    <kind>A2</kind>
+                    <date>20110518</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP2322257</doc-number>
+                    <date>20110518</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="318014073">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>10007803</doc-number>
+                    <kind>A</kind>
+                    <date>20100727</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>50984809</doc-number>
+                    <kind>A</kind>
+                    <date>20090727</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43547983" country="EP" doc-number="2322257" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>2322257</doc-number>
+                            <kind>A2</kind>
+                            <date>20110518</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP2322257</doc-number>
+                            <date>20110518</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A63F  13/    12            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>13</main-group>
+                            <subgroup>12</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>305</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>558</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>572</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="318014073">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>10007803</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20100007803</doc-number>
+                            <date>20100727</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10007803</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090509848</doc-number>
+                                <date>20090727</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>509848</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SONY COMP ENTERTAINMENT US [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SONY COMP ENTERTAINMENT EUROPE [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SONY COMPUTER ENTERTAINMENT AMERICA LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>SONY COMPUTER ENTERTAINMENT EUROPE LIMITED</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ZALEWSKI GARY M [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TURNER SEAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ZALEWSKI, GARY M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>TURNER, SEAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Real-time, contextual display of ranked, user-generated game play advice</invention-title>
+                    <invention-title lang="de">Kontextabhängige Echtzeitanzeige von eingestuften, benutzererstellten Videospiel-Ratschlägen</invention-title>
+                    <invention-title lang="fr">Affichage contextuel en temps réel de conseils classés de jeu généré par un utilisateur</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009063463</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009063463</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2001009867</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2001009867</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007087797</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007087797</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Management of user-generated and context appropriate game play advice (510a-f, 610, 620) is disclosed. The present invention allows for management of context appropriate game play advice (510a-f, 610, 620) that is complete and up-to-date regardless of when a particular interactive gaming title is released. Game play advice (510a-f, 610, 620) is pervasive and easily accessible to game players in addition to being accurate and credible such that game players can trust or rely upon the rendered advice. The game play advice is displayed (270, 350, 470) in environmental contexts that are appropriate to the advice being displayed.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43547983">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>2322257</doc-number>
+                    <kind>A3</kind>
+                    <date>20130911</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP2322257</doc-number>
+                    <date>20130911</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="318014073">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>10007803</doc-number>
+                    <kind>A</kind>
+                    <date>20100727</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>50984809</doc-number>
+                    <kind>A</kind>
+                    <date>20090727</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43547983" country="EP" doc-number="2322257" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>2322257</doc-number>
+                            <kind>A3</kind>
+                            <date>20130911</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP2322257</doc-number>
+                            <date>20130911</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A63F  13/    12            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>13</main-group>
+                            <subgroup>12</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>305</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>558</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>572</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="318014073">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>10007803</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20100007803</doc-number>
+                            <date>20100727</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10007803</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090509848</doc-number>
+                                <date>20090727</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>509848</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SONY COMP ENTERTAINMENT US [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SONY COMP ENTERTAINMENT EUROPE [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SONY COMPUTER ENTERTAINMENT AMERICA LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>SONY COMPUTER ENTERTAINMENT EUROPE LIMITED</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ZALEWSKI GARY M [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TURNER SEAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ZALEWSKI, GARY M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>TURNER, SEAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Real-time, contextual display of ranked, user-generated game play advice</invention-title>
+                    <invention-title lang="de">Kontextabhängige Echtzeitanzeige von eingestuften, benutzererstellten Videospiel-Ratschlägen</invention-title>
+                    <invention-title lang="fr">Affichage contextuel en temps réel de conseils classés de jeu généré par un utilisateur</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43547983">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2011025044</doc-number>
+                    <kind>A</kind>
+                    <date>20110210</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>JP2011025044</doc-number>
+                    <date>20110210</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="332464352">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2010167803</doc-number>
+                    <kind>A</kind>
+                    <date>20100727</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>50984809</doc-number>
+                    <kind>A</kind>
+                    <date>20090727</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43547983" country="JP" doc-number="2011025044" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2011025044</doc-number>
+                            <kind>A</kind>
+                            <date>20110210</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP2011025044</doc-number>
+                            <date>20110210</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A63F  13/    10            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>A63F  13/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>A63F  13/    12            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>13</main-group>
+                            <subgroup>12</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>305</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>558</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>572</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>A63F13/00&amp;B</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>A63F13/00&amp;E</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>A63F13/10</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>A63F13/12&amp;C</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="5">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>A63F13/30</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="6">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>A63F13/5375</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="7">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>A63F13/798</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C001/BA06</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C001/BC08</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C001/BC09</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C001/CB08</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="332464352">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2010167803</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20100167803</doc-number>
+                            <date>20100727</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2010167803</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090509848</doc-number>
+                                <date>20090727</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2009 509848</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SONY COMP ENTERTAINMENT US</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SONY COMP ENTERTAINMENT EUROPE</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SONY COMPUTER ENTERTAINMENT AMERICA LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>SONY COMPUTER ENTERTAINMENT EUROPE LTD</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ZALEWSKI GARY</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TURNER SEAN</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ZALEWSKI GARY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>TURNER SEAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">REAL-TIME, CONTEXTUAL DISPLAY OF RANKED, USER-GENERATED GAME PLAY ADVICE</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2002052256</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2002052256</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2002191868</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2002191868</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2001198350</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2001198350</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2006031670</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2006031670</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2007249899</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2007249899</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2003228585</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2003228585</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2002092474</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2002092474</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2002052256</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2002052256</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2002191868</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2002191868</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2001198350</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2001198350</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>PROBLEM TO BE SOLVED: To disclose management of user-generated and context-appropriate game play advice. </p>
+                    <p>SOLUTION: The present invention allows for management of context-appropriate game play advice that is complete and up-to-date regardless of when a particular interactive gaming title is released. Game play advice is pervasive and easily accessible to game players in addition to being accurate and credible, such that game players can trust or rely upon the advice. The game play advice is displayed in environmental contexts that are appropriate to the advice being displayed. </p>
+                    <p>COPYRIGHT: (C)2011,JPO&amp;INPIT</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43547983">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>KR</country>
+                    <doc-number>20110011583</doc-number>
+                    <kind>A</kind>
+                    <date>20110208</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>KR20110011583</doc-number>
+                    <date>20110208</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="333065817">
+                <document-id document-id-type="docdb">
+                    <country>KR</country>
+                    <doc-number>20100072613</doc-number>
+                    <kind>A</kind>
+                    <date>20100727</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>50984809</doc-number>
+                    <kind>A</kind>
+                    <date>20090727</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43547983" country="KR" doc-number="20110011583" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>KR</country>
+                            <doc-number>20110011583</doc-number>
+                            <kind>A</kind>
+                            <date>20110208</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>KR20110011583</doc-number>
+                            <date>20110208</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>13</main-group>
+                            <subgroup>12</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>305</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>558</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>572</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="333065817">
+                        <document-id document-id-type="docdb">
+                            <country>KR</country>
+                            <doc-number>20100072613</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>KR20100072613</doc-number>
+                            <date>20100727</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>1020100072613</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090509848</doc-number>
+                                <date>20090727</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2009 509848</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="original">
+                                <doc-number> 12/509,848</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SONY COMP ENTERTAINMENT US [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SONY COMP ENTERTAINMENT EUROPE [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SONY COMPUTER ENTERTAINMENT AMERICA LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>SONY COMPUTER ENTERTAINMENT EUROPE LIMITED</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ZALEWSKI GARY M [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TURNER SEAN [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ZALEWSKI GARY M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>TURNER SEAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">REAL-TIME, CONTEXTUAL DISPLAY OF RANKED, USER-GENERATED GAME PLAY ADVICE</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>PURPOSE: A real-time contextual display of a game play device is provided to offer game advice based on feedback data from a community. CONSTITUTION: A game play advice statement engine(110) receives a game play advice statements through a network. A ranking engine(130) assigns a rank to each received game play advice statement. A context engine(140) distinguishes the context of an event during game play. A game play advice display engine(150) displays game play advice statements. A feedback engine(160) receives a message about feedback toward the quality of the game play advice.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43547983">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>KR</country>
+                    <doc-number>101226305</doc-number>
+                    <kind>B1</kind>
+                    <date>20130124</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>KR101226305B</doc-number>
+                    <date>20130124</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="333065817">
+                <document-id document-id-type="docdb">
+                    <country>KR</country>
+                    <doc-number>20100072613</doc-number>
+                    <kind>A</kind>
+                    <date>20100727</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>50984809</doc-number>
+                    <kind>A</kind>
+                    <date>20090727</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43547983" country="KR" doc-number="101226305" kind="B1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>KR</country>
+                            <doc-number>101226305</doc-number>
+                            <kind>B1</kind>
+                            <date>20130124</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>KR101226305B</doc-number>
+                            <date>20130124</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr/>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>13</main-group>
+                            <subgroup>12</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>305</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>558</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>572</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="333065817">
+                        <document-id document-id-type="docdb">
+                            <country>KR</country>
+                            <doc-number>20100072613</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>KR20100072613</doc-number>
+                            <date>20100727</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>1020100072613</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090509848</doc-number>
+                                <date>20090727</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2009 509848</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="original">
+                                <doc-number> 12/509,848</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties/>
+                    <invention-title lang="en">REAL-TIME, CONTEXTUAL DISPLAY OF RANKED, USER-GENERATED GAME PLAY ADVICE</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>KR100469822B</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>KR</country>
+                                    <doc-number>100469822</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>KR20020044919</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>KR</country>
+                                    <doc-number>20020044919</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2006087459</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2006087459</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>KR20070052493</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>KR</country>
+                                    <doc-number>20070052493</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43547983">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010041475</doc-number>
+                    <kind>A1</kind>
+                    <date>20100218</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2010041475</doc-number>
+                    <date>20100218</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="274712729" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>50984809</doc-number>
+                    <kind>A</kind>
+                    <date>20090727</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>85051607</doc-number>
+                    <kind>A</kind>
+                    <date>20070905</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>2</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>50984809</doc-number>
+                    <kind>A</kind>
+                    <date>20090727</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43547983" country="US" doc-number="2010041475" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2010041475</doc-number>
+                            <kind>A1</kind>
+                            <date>20100218</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2010041475</doc-number>
+                            <date>20100218</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A63F  13/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>A63F   9/    24            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>13</main-group>
+                            <subgroup>12</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>305</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>558</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>572</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>463/30</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>463/42</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="274712729">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>50984809</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090509848</doc-number>
+                            <date>20090727</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12509848</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090509848</doc-number>
+                                <date>20090727</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>11850516</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070850516</doc-number>
+                                <date>20070905</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ZALEWSKI GARY M [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TURNER SEAN [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ZALEWSKI GARY M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>TURNER SEAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Real-Time, Contextual Display of Ranked, User-Generated Game Play Advice</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6582230</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6582230</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7452273</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7452273</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7717782</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7717782</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Management of user-generated and context appropriate game play advice is disclosed. The present invention allows for management of context appropriate game play advice that is complete and up-to-date regardless of when a particular interactive gaming title is released. Game play advice is pervasive and easily accessible to game players in addition to being accurate and credible such that game players can trust or rely upon the rendered advice. The game play advice is displayed in environmental contexts that are appropriate to the advice being displayed.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

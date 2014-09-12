@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="6"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="49956222" country="US" doc-number="2014188387" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2014188387</doc-number>
+                        <kind>A1</kind>
+                        <date>20140703</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2014188387</doc-number>
+                        <date>20140703</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06F   3/    03            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>04815</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>C</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>3647</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>C</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>3664</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>C</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>367</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>03</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="419643976">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201213729177</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201213729177</doc-number>
+                        <date>20121228</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13729177</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213729177</doc-number>
+                            <date>20121228</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>NOKIA CORP [FI]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>NOKIA CORPORATION</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>BEAUREPAIRE JEROME [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> JAMAIN MAGUY [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>BEAUREPAIRE JEROME, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>JAMAIN MAGUY</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">METHODS, APPARATUSES, AND COMPUTER PROGRAM PRODUCTS FOR RETRIEVING VIEWS EXTENDING A USER'S LINE OF SIGHT</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Methods, apparatuses, and computer program products are herein provided for retrieving views extending a user's line of sight. A method includes determining a line of sight based at least in part on a user's location and orientation. The line of sight defines a first portion of a map representing information that is within the user's sight and a second portion of the map representing information that is out of the user's sight. The method further includes determining at least one image associated with at least one location within the second portion of the map. The method further includes causing the image associated with the at least one location to be presented to the user. Corresponding apparatuses and computer program products are also provided.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

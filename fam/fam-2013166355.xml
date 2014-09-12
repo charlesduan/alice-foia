@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="68"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013166355</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="48655452">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013166355</doc-number>
+                    <kind>A1</kind>
+                    <date>20130627</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013166355</doc-number>
+                    <date>20130627</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="407535524" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213423304</doc-number>
+                    <kind>A</kind>
+                    <date>20120319</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>IN</country>
+                    <doc-number>MU36432011</doc-number>
+                    <kind>A</kind>
+                    <date>20111223</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48655452" country="US" doc-number="2013166355" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013166355</doc-number>
+                            <kind>A1</kind>
+                            <date>20130627</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013166355</doc-number>
+                            <date>20130627</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0206</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0283</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/7.11</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/7.35</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="407535524">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201213423304</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213423304</doc-number>
+                            <date>20120319</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13423304</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>IN2011MU03643</doc-number>
+                                <date>20111223</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>3643/MUM/2011</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MOHANTY SANTOSH KUMAR [IN]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GHOSH ARCHAN [IN]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MAHENDRU AYUSH [IN]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MEHTA HIMANSHU [IN]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> TATA CONSULTANCY SERVICES LTD [IN]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MOHANTY SANTOSH KUMAR, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>GHOSH ARCHAN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>MAHENDRU AYUSH, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>MEHTA HIMANSHU, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>TATA CONSULTANCY SERVICES LIMITED</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>MOHANTY SANTOSH KUMAR [IN]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GHOSH ARCHAN [IN]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MAHENDRU AYUSH [IN]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MEHTA HIMANSHU [IN]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>MOHANTY SANTOSH KUMAR, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>GHOSH ARCHAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>MAHENDRU AYUSH, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>MEHTA HIMANSHU</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">DYNAMIC MULTI-DIMENSIONAL AND MULTI-VIEW PRICING SYSTEM</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007294192</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007294192</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012150575</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012150575</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009222311</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009222311</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011145027</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011145027</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004267676</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004267676</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010223103</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010223103</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011231228</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011231228</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008126264</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008126264</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003192029</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003192029</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011320374</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011320374</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="11">
+                            <nplcit num="1">
+                                <text>Towards the Automation of E-Negotiation Processes Based on
+        Web Services - A Modeling Approach; Stefanie Rinderle,
+        Morand Benyoucef; Web Information Systems Engineering (WISE
+        2005); Lecture Notes in Computer Science Volume 3806, 2005,
+        pp 443-453</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="12">
+                            <nplcit num="2">
+                                <text>Negotiation Platform for Public-Private Partnerships in
+        Infrastructure Projects; February 15, 2000</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A system for dynamic computing a credible deal price for a deal is adapted to receive a first data set during initializing the deal parameters. The system comprising a plurality of stakeholders inputting their views as a second data set through a presentation layer module. A preliminary information processing module configured to process the first data set and a plurality of pricing models for determining an optimum deal price for the deal using the first &amp; second data set and associated context related therewith. A pricing strategy module configured to process a one or more inputs of the second data set to determine a list price indicator, wherein a list price generator module configured to determine the credible deal price. A deal negotiation module optimizes the credible deal price commensurate with plurality of third data set dynamic associated in time, space and values therewith the deal.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

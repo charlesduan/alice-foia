@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="49"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2009299846</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="41380940">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009299846</doc-number>
+                    <kind>A1</kind>
+                    <date>20091203</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2009299846</doc-number>
+                    <date>20091203</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="273642650" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>38192709</doc-number>
+                    <kind>A</kind>
+                    <date>20090318</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>12832808</doc-number>
+                    <kind>P</kind>
+                    <date>20080521</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>12824408</doc-number>
+                    <kind>P</kind>
+                    <date>20080520</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>38192709</doc-number>
+                    <kind>A</kind>
+                    <date>20090318</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="4" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>6999908</doc-number>
+                    <kind>P</kind>
+                    <date>20080318</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="41380940" country="US" doc-number="2009299846" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009299846</doc-number>
+                            <kind>A1</kind>
+                            <date>20091203</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2009299846</doc-number>
+                            <date>20091203</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  17/    30            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0233</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0228</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0227</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/14.28</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/14.29</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/14.33</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>707/E17.044</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="5">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>707/999.104</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="6">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>707/999.107</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="273642650">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>38192709</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090381927</doc-number>
+                            <date>20090318</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12381927</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090381927</doc-number>
+                                <date>20090318</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61128328</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080128328P</doc-number>
+                                <date>20080521</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61128244</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080128244P</doc-number>
+                                <date>20080520</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61069999</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="4" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080069999P</doc-number>
+                                <date>20080318</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>BRUEGGEMANN WAYNE RICHARD [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SADASIVAM RAMKISHAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> EMMENEGGER KURT [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> BHAGARE ASHISH [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> BAKER DEIRDRE [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>BRUEGGEMANN WAYNE RICHARD, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SADASIVAM RAMKISHAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>EMMENEGGER KURT, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>BHAGARE ASHISH, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>BAKER DEIRDRE</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Linking loyalty reward programs</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005043992</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005043992</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008119162</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008119162</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008222054</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008222054</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011211681</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011211681</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008097857</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008097857</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007179840</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007179840</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008201224</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008201224</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Linking loyalty programs by use of a new and unique cross-reference number. Reward points from the linked accounts are pooled. Redemption of reward points associated with the linked accounts can be restricted using restriction rules. Restriction rules restrict redemption of points from an individual's account</p>
+                    <p> from the pooled rewards, and/or restrict redemption for a predetermined reward type. Reward points in the linked accounts can also be converted from one reward account to another using a conversion table, which holds a liability ratio for each account. A processing platform, typically comprising a computer-implemented linking engine and an account files database, is logically connected to a network to receive linking instructions from an account holder. The linking engine can assign the cross-reference number</p>
+                    <p> apply restriction rules</p>
+                    <p> and convert reward points using the conversion tables.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

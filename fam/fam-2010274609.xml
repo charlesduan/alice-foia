@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="34"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2010274609</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="42992930">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010274609</doc-number>
+                    <kind>A1</kind>
+                    <date>20101028</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2010274609</doc-number>
+                    <date>20101028</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="328381812" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>42827909</doc-number>
+                    <kind>A</kind>
+                    <date>20090422</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>42827909</doc-number>
+                    <kind>A</kind>
+                    <date>20090422</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="42992930" country="US" doc-number="2010274609" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2010274609</doc-number>
+                            <kind>A1</kind>
+                            <date>20101028</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2010274609</doc-number>
+                            <date>20101028</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>28</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>0833</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>08355</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/333</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/338</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="328381812">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>42827909</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090428279</doc-number>
+                            <date>20090422</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12428279</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090428279</doc-number>
+                                <date>20090422</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SHOEMAKER LARRY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> BEAVER MARK [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SHOEMAKER LARRY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>BEAVER MARK</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEMS AND METHODS FOR OPTIMIZING SHIPPING PRACTICES</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6934594</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6934594</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <nplcit num="1">
+                                <text>Tarek T. Taha, et al. "a simulation-based software system
+        for evaluating hub-and-spoke transportation networks",
+        Simulation practice and theory, vol 3, 1996, p.g. 327-346</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>According to various embodiments, a load planning system is provided for simulating shipments based on a shipping entity's planned routing of packages and a shipper's (e.g., shipping entity customer) historical shipping volume. By using the load planning system to simulate shipments according to a variety of package routing plans, a user of the load planning system may identify shipping routes along which certain shipments may by-pass the sorting process of regional shipping hubs. These by-passing routes allow the shipping entity to provide the shipper with more efficient and less costly shipping options according to various embodiments.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

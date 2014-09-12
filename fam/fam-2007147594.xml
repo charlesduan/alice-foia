@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="47"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2007147594</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="38193743">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2007147594</doc-number>
+                    <kind>A1</kind>
+                    <date>20070628</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2007147594</doc-number>
+                    <date>20070628</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="49549910" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>31567305</doc-number>
+                    <kind>A</kind>
+                    <date>20051222</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>31567305</doc-number>
+                    <kind>A</kind>
+                    <date>20051222</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="38193743" country="US" doc-number="2007147594" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2007147594</doc-number>
+                            <kind>A1</kind>
+                            <date>20070628</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2007147594</doc-number>
+                            <date>20070628</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>H04M  15/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>H</section>
+                            <class>04</class>
+                            <subclass>M</subclass>
+                            <main-group>15</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>379/114.28</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="49549910">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>31567305</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20050315673</doc-number>
+                            <date>20051222</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>11315673</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20050315673</doc-number>
+                                <date>20051222</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>AARON JEFFREY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SHRUM EDGAR JR [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>AARON JEFFREY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SHRUM EDGAR JR</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Methods, systems, and computer program products for billing for trust-based services provided in a communication network</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7343303</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7343303</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A trust evaluation may be obtained for a network element in a communication network. Based on this trust evaluation, one or more services may be invoked to address the risk that a potentially untrustworthy network element poses in the communication network. For example, if the network element is determined to be untrustworthy, then the communication network may be at risk for increased hacker activity, virus infection, traffic errors, and the like. Multiple cost categories may be defined and cost amounts assigned thereto based on the trust evaluation of the network element and the invocation(s) of the one or more services in response to the trust evaluation. A determination of whether to bill for these cost amounts and what entities to bill for the cost amounts may then be made.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

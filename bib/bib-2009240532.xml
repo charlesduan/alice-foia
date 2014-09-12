@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="17"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="38801879" country="US" doc-number="2009240532" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2009240532</doc-number>
+                        <kind>A1</kind>
+                        <date>20090924</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2009240532</doc-number>
+                        <date>20090924</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  40/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>08</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/4</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="267369891">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>30339107</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20070303391</doc-number>
+                        <date>20070523</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>12303391</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>ZA20060004688</doc-number>
+                            <date>20060606</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2006/04688</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2007IB51946</doc-number>
+                            <date>20070523</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number> PCT/IB07/51946</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>GORE ADRIAN [ZA]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> MAYERS HERSCHEL PHILIP [ZA]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> RABSON KENNETH STEVEN [ZA]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>GORE ADRIAN, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>MAYERS HERSCHEL PHILIP, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>RABSON KENNETH STEVEN</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">SYSTEM AND METHOD OF MANAGING AN INSURANCE SCHEME</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2003078815</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2003078815</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <nplcit num="1">
+                            <text>Connell, Medical tourism: Sea, sun, sand and ... surgery,
+        December 2006, Tourism Management, Volume 27, Issue 6, ,
+        Pages 1093-1100</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                        <nplcit num="2">
+                            <text>Connell, Medical tourism: Sea, sun, sand and ... surgery,
+        December 2006, Tourism Management, Volume 27, Issue 6,,
+        Pages 1093-1100</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method of managing an insurance scheme includes defining a plurality of diseases which are covered by the insurance scheme so that if an insured life contracts one of these diseases they will be paid an amount of funds from the insurer or the insurer will pay or partially pay for treatment of the disease. A request is received from an insured life who has contracted one of the defined diseases. The insured life is provided with a choice of receiving treatment in the country in which they reside or receiving treatment in another country. A selected country is received from the insured life and an amount of funds is paid from the insurer to the insured life wherein the amount of funds is at least partially determined by the selected country.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

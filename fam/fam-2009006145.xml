@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="70"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2009006145</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="40161672">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009006145</doc-number>
+                    <kind>A1</kind>
+                    <date>20090101</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2009006145</doc-number>
+                    <date>20090101</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="55587682" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>76954907</doc-number>
+                    <kind>A</kind>
+                    <date>20070627</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>76954907</doc-number>
+                    <kind>A</kind>
+                    <date>20070627</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="40161672" country="US" doc-number="2009006145" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009006145</doc-number>
+                            <kind>A1</kind>
+                            <date>20090101</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2009006145</doc-number>
+                            <date>20090101</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>025</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/6</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="55587682">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>76954907</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070769549</doc-number>
+                            <date>20070627</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>11769549</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070769549</doc-number>
+                                <date>20070627</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>GOOGLE INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>GOOGLE INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>DUGGAL JAGPREET S [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ERLICH YAN-DAVID [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GARDNER ROBERT D [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SMOLYANOV ALEXANDR Y [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> BIDYUK BOZHENA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>DUGGAL JAGPREET S, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>ERLICH YAN-DAVID, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>GARDNER ROBERT D, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>SMOLYANOV ALEXANDR Y, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>BIDYUK BOZHENA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Booking Advertising Campaigns</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Various aspects can be implemented for automated booking of advertising campaigns based on reach and frequency goals In general, one aspect can be a method that includes receiving campaign criteria including target reach and frequency for an advertising campaign. The method also includes allocating advertising spots based on the campaign criteria, and generating projected campaign reach and frequency based, at least in part, on the allocated advertising spots. The method further includes determining whether projected campaign reach and frequency sufficiently match target reach and frequency, and dynamically adjusting the allocation of advertising spots when the projected campaign reach and frequency do not sufficiently match the target reach and frequency. Other implementations of this aspect include corresponding systems, apparatus, and computer program products.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="40161672">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2009003127</doc-number>
+                    <kind>A2</kind>
+                    <date>20081231</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2009003127</doc-number>
+                    <date>20081231</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="55630920">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2008068406</doc-number>
+                    <kind>W</kind>
+                    <date>20080626</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>76954907</doc-number>
+                    <kind>A</kind>
+                    <date>20070627</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="40161672" country="WO" doc-number="2009003127" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2009003127</doc-number>
+                            <kind>A2</kind>
+                            <date>20081231</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009003127</doc-number>
+                            <date>20081231</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>025</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="55630920">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2008068406</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2008US68406</doc-number>
+                            <date>20080626</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2008/068406</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070769549</doc-number>
+                                <date>20070627</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>11/769,549</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>GOOGLE INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> DUGGAL JAGPREET S [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ERLICH YAN-DAVID [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GARDNER ROBERT D [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SMOLYANOV ALEXANDR Y [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="epodoc">
+                                <applicant-name>
+                                    <name> BIDYUK BOZHENA [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>GOOGLE INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>DUGGAL, JAGPREET S, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>ERLICH, YAN-DAVID, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>GARDNER, ROBERT D, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>SMOLYANOV, ALEXANDR Y, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="original">
+                                <applicant-name>
+                                    <name>BIDYUK, BOZHENA</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>DUGGAL JAGPREET S [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ERLICH YAN-DAVID [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GARDNER ROBERT D [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SMOLYANOV ALEXANDR Y [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> BIDYUK BOZHENA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>DUGGAL, JAGPREET S, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>ERLICH, YAN-DAVID, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>GARDNER, ROBERT D, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>SMOLYANOV, ALEXANDR Y, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>BIDYUK, BOZHENA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">BOOKING ADVERTISING CAMPAIGNS</invention-title>
+                    <invention-title lang="fr">RESERVATION DE CAMPAGNES PUBLICITAIRES</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005021395</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005021395</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7124091</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7124091</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007143186</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007143186</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006271438</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006271438</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Various aspects can be implemented for automated booking of advertising campaigns based on reach and frequency goals In general, one aspect can be a method that includes receiving campaign criteria including target reach and frequency for an advertising campaign. The method also includes allocating advertising spots based on the campaign criteria, and generating projected campaign reach and frequency based, at least in part, on the allocated advertising spots. The method further includes determining whether projected campaign reach and frequency sufficiently match target reach and frequency, and dynamically adjusting the allocation of advertising spots when the projected campaign reach and frequency do not sufficiently match the target reach and frequency. Other implementations of this aspect include corresponding systems, apparatus, and computer program products.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>Divers aspects de la présente invention concernent la réservation automatisée de campagnes publicitaires en fonction d'objectifs de portée et de fréquence. En général, un aspect peut concerner un procédé consistant à recevoir des critères de campagne comprenant une portée et une fréquence cibles pour une campagne déterminée. Ce procédé consiste également à attribuer des spots publicitaires en fonction desdits critères de campagne et à générer une portée et une fréquence de campagne estimées en fonction, au moins en partie, des spots publicitaires attribués.</p>
+                    <p> Ce procédé consiste également à déterminer si la portée et la fréquence de campagne estimées correspondent suffisamment à la portée et à la fréquence cibles, et à ajuster dynamiquement l'attribution des spots publicitaires lorsque la portée et la fréquence estimées ne correspondent pas suffisamment à la portée et à la fréquence cibles. D'autres modes de réalisation de cet aspect de l'invention concernent des systèmes, un appareil et des programmes informatiques correspondants.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="40161672">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2009003127</doc-number>
+                    <kind>A3</kind>
+                    <date>20090226</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2009003127</doc-number>
+                    <date>20090226</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="55630920">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2008068406</doc-number>
+                    <kind>W</kind>
+                    <date>20080626</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>76954907</doc-number>
+                    <kind>A</kind>
+                    <date>20070627</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="40161672" country="WO" doc-number="2009003127" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2009003127</doc-number>
+                            <kind>A3</kind>
+                            <date>20090226</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009003127</doc-number>
+                            <date>20090226</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>025</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="55630920">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2008068406</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2008US68406</doc-number>
+                            <date>20080626</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2008/068406</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070769549</doc-number>
+                                <date>20070627</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>11/769,549</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>GOOGLE INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> DUGGAL JAGPREET S [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ERLICH YAN-DAVID [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GARDNER ROBERT D [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SMOLYANOV ALEXANDR Y [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="epodoc">
+                                <applicant-name>
+                                    <name> BIDYUK BOZHENA [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>GOOGLE INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>DUGGAL, JAGPREET S, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>ERLICH, YAN-DAVID, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>GARDNER, ROBERT D, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>SMOLYANOV, ALEXANDR Y, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="original">
+                                <applicant-name>
+                                    <name>BIDYUK, BOZHENA</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>DUGGAL JAGPREET S [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ERLICH YAN-DAVID [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GARDNER ROBERT D [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SMOLYANOV ALEXANDR Y [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> BIDYUK BOZHENA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>DUGGAL, JAGPREET S, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>ERLICH, YAN-DAVID, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>GARDNER, ROBERT D, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>SMOLYANOV, ALEXANDR Y, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>BIDYUK, BOZHENA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">BOOKING ADVERTISING CAMPAIGNS</invention-title>
+                    <invention-title lang="fr">RESERVATION DE CAMPAGNES PUBLICITAIRES</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Various aspects can be implemented for automated booking of advertising campaigns based on reach and frequency goals In general, one aspect can be a method that includes receiving campaign criteria including target reach and frequency for an advertising campaign. The method also includes allocating advertising spots based on the campaign criteria, and generating projected campaign reach and frequency based, at least in part, on the allocated advertising spots. The method further includes determining whether projected campaign reach and frequency sufficiently match target reach and frequency, and dynamically adjusting the allocation of advertising spots when the projected campaign reach and frequency do not sufficiently match the target reach and frequency. Other implementations of this aspect include corresponding systems, apparatus, and computer program products.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>Divers aspects de la présente invention concernent la réservation automatisée de campagnes publicitaires en fonction d'objectifs de portée et de fréquence. En général, un aspect peut concerner un procédé consistant à recevoir des critères de campagne comprenant une portée et une fréquence cibles pour une campagne déterminée. Ce procédé consiste également à attribuer des spots publicitaires en fonction desdits critères de campagne et à générer une portée et une fréquence de campagne estimées en fonction, au moins en partie, des spots publicitaires attribués.</p>
+                    <p> Ce procédé consiste également à déterminer si la portée et la fréquence de campagne estimées correspondent suffisamment à la portée et à la fréquence cibles, et à ajuster dynamiquement l'attribution des spots publicitaires lorsque la portée et la fréquence estimées ne correspondent pas suffisamment à la portée et à la fréquence cibles. D'autres modes de réalisation de cet aspect de l'invention concernent des systèmes, un appareil et des programmes informatiques correspondants.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

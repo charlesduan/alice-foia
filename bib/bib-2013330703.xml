@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="8"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="49715559" country="US" doc-number="2013330703" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2013330703</doc-number>
+                        <kind>A1</kind>
+                        <date>20131212</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2013330703</doc-number>
+                        <date>20131212</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G09B   3/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>0201</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="413239798">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201213490491</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201213490491</doc-number>
+                        <date>20120607</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13490491</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213490491</doc-number>
+                            <date>20120607</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>CHIVUKULA VENKATA B [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> XEROX CORP [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>CHIVUKULA VENKATA B, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>XEROX CORPORATION</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>CHIVUKULA VENKATA B [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>CHIVUKULA VENKATA B</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">METHOD AND SYSTEM FOR MANAGING SURVEYS</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method, a system, and a computer program product for creating and conducting a survey are disclosed. While creating the survey, one or more answer formats corresponding to each of the one or more questions are defined. Then, answering mediums corresponding to each of the one or more answer formats are defined. The survey is then created based on at least one of the questions, the answer formats, and the answering mediums. The survey is then available to the associated users. While conducting the survey, the system receives answers for the questions in the survey through the answering mediums in their associated answer format, and compiles a survey report.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

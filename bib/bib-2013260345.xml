@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="18"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="42311930" country="US" doc-number="2013260345" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2013260345</doc-number>
+                        <kind>A1</kind>
+                        <date>20131003</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2013260345</doc-number>
+                        <date>20131003</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G09B  19/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>09</class>
+                        <subclass>B</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>0092</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="410852507">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201313849222</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201313849222</doc-number>
+                        <date>20130322</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13849222</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201313849222</doc-number>
+                            <date>20130322</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12683124</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20100683124</doc-number>
+                            <date>20100106</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number> 61143081</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090143081P</doc-number>
+                            <date>20090107</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>STANFORD RES INST INT [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>SRI INTERNATIONAL</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>PURI MANIKA [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> ZHU ZHIWEI [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> LUBIN JEFFREY [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> PSCHAR TOM [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="epodoc">
+                            <inventor-name>
+                                <name> DIVAKARAN AJAY [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="6" data-format="epodoc">
+                            <inventor-name>
+                                <name> SAWHNEY HARPREET [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>PURI MANIKA, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>ZHU ZHIWEI, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>LUBIN JEFFREY, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>PSCHAR TOM, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="original">
+                            <inventor-name>
+                                <name>DIVAKARAN AJAY, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="6" data-format="original">
+                            <inventor-name>
+                                <name>SAWHNEY HARPREET</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">FOOD RECOGNITION USING VISUAL ANALYSIS AND SPEECH RECOGNITION</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method and system for analyzing at least one food item on a food plate is disclosed. A plurality of images of the food plate is received by an image capturing device. A description of the at least one food item on the food plate is received by a recognition device. The description is at least one of a voice description and a text description. At least one processor extracts a list of food items from the description</p>
+                <p> classifies and segments the at least one food item from the list using color and texture features derived from the plurality of images</p>
+                <p> and estimates the volume of the classified and segmented at least one food item. The processor is also configured to estimate the caloric content of the at least one food item.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

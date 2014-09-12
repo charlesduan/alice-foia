@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="5"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="50975742" country="US" doc-number="2014180816" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2014180816</doc-number>
+                        <kind>A1</kind>
+                        <date>20140626</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2014180816</doc-number>
+                        <date>20140626</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  30/    02            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>0257</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="419427471">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201213997918</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201213997918</doc-number>
+                        <date>20121220</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13997918</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2012US71029</doc-number>
+                            <date>20121220</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>PCT/US2012/071029</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>MITH NED M [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> WILLIS THOMAS GERARD [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>MITH NED M, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>WILLIS THOMAS GERARD</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>MITH NED M [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> WILLIS THOMAS GERARD [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>MITH NED M, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>WILLIS THOMAS GERARD</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">PROVISION OF ANONYMOUS CONTEXT INFORMATION AND GENERATION OF TARGETED CONTENT</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Embodiments of the present disclosure are directed towards selective disclosure of user or computing environment attributes to facilitate generation and/or provision of targeted content. In various embodiments, a likelihood that disclosure of an attribute of a user or of a computing environment associated with the user will enable identification of the user may be determined based on an associated population count of users or computing environments sharing the same attribute. In various embodiments, the attribute may be selectively disclosed to a content provider configured to provide targeted content, or a recommendation may be selectively provided to the user as to whether the user should disclose the attribute to the content provider, based on the determination and a risk tolerance associated with the user. In various embodiments, a dimension authority may track and make available population counts of users or computing environments having various attributes.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

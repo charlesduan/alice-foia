@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="79"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2009240532</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="38801879">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009240532</doc-number>
+                    <kind>A1</kind>
+                    <date>20090924</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2009240532</doc-number>
+                    <date>20090924</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="267369891">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>30339107</doc-number>
+                    <kind>A</kind>
+                    <date>20070523</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>IB</country>
+                    <doc-number>2007051946</doc-number>
+                    <kind>W</kind>
+                    <date>20070523</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>ZA</country>
+                    <doc-number>200604688</doc-number>
+                    <kind>A</kind>
+                    <date>20060606</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="38801879" country="US" doc-number="2009240532" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009240532</doc-number>
+                            <kind>A1</kind>
+                            <date>20090924</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2009240532</doc-number>
+                            <date>20090924</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/4</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="267369891">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>30339107</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070303391</doc-number>
+                            <date>20070523</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12303391</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>ZA20060004688</doc-number>
+                                <date>20060606</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2006/04688</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2007IB51946</doc-number>
+                                <date>20070523</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> PCT/IB07/51946</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>GORE ADRIAN [ZA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MAYERS HERSCHEL PHILIP [ZA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> RABSON KENNETH STEVEN [ZA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>GORE ADRIAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MAYERS HERSCHEL PHILIP, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>RABSON KENNETH STEVEN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM AND METHOD OF MANAGING AN INSURANCE SCHEME</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003078815</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003078815</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <nplcit num="1">
+                                <text>Connell, Medical tourism: Sea, sun, sand and ... surgery,
+        December 2006, Tourism Management, Volume 27, Issue 6, ,
+        Pages 1093-1100</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <nplcit num="2">
+                                <text>Connell, Medical tourism: Sea, sun, sand and ... surgery,
+        December 2006, Tourism Management, Volume 27, Issue 6,,
+        Pages 1093-1100</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method of managing an insurance scheme includes defining a plurality of diseases which are covered by the insurance scheme so that if an insured life contracts one of these diseases they will be paid an amount of funds from the insurer or the insurer will pay or partially pay for treatment of the disease. A request is received from an insured life who has contracted one of the defined diseases. The insured life is provided with a choice of receiving treatment in the country in which they reside or receiving treatment in another country. A selected country is received from the insured life and an amount of funds is paid from the insurer to the insured life wherein the amount of funds is at least partially determined by the selected country.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="38801879">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2007257546</doc-number>
+                    <kind>A1</kind>
+                    <date>20071213</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>AU2007257546</doc-number>
+                    <date>20071213</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="55732979">
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2007257546</doc-number>
+                    <kind>A</kind>
+                    <date>20070523</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>IB</country>
+                    <doc-number>2007051946</doc-number>
+                    <kind>W</kind>
+                    <date>20070523</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>ZA</country>
+                    <doc-number>200604688</doc-number>
+                    <kind>A</kind>
+                    <date>20060606</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="38801879" country="AU" doc-number="2007257546" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2007257546</doc-number>
+                            <kind>A1</kind>
+                            <date>20071213</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU2007257546</doc-number>
+                            <date>20071213</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="55732979">
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2007257546</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU20070257546</doc-number>
+                            <date>20070523</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2007257546</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>ZA20060004688</doc-number>
+                                <date>20060606</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2006/04688</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2007IB51946</doc-number>
+                                <date>20070523</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> WO07/141696</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>DISCOVERY HOLDINGS LTD</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>DISCOVERY HOLDINGS LIMITED</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>GORE ADRIAN</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> RABSON KENNETH STEVEN</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MAYERS HERSCHEL PHILLIP</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ADRIAN GORE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>KENNETH STEVEN RABSON, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>HERSCHEL PHILLIP MAYERS</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">A system and method of managing an insurance scheme</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="38801879">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>101467176</doc-number>
+                    <kind>A</kind>
+                    <date>20090624</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CN101467176</doc-number>
+                    <date>20090624</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="57780473">
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>200780021131</doc-number>
+                    <kind>A</kind>
+                    <date>20070523</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>ZA</country>
+                    <doc-number>200604688</doc-number>
+                    <kind>A</kind>
+                    <date>20060606</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="38801879" country="CN" doc-number="101467176" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>101467176</doc-number>
+                            <kind>A</kind>
+                            <date>20090624</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN101467176</doc-number>
+                            <date>20090624</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="57780473">
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>200780021131</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN2007821131</doc-number>
+                            <date>20070523</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>A2007800211316</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>ZA20060004688</doc-number>
+                                <date>20060606</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2006/04688</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>DISCOVERY HOLDINGS LTD [ZA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>DISCOVERY HOLDINGS LTD</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ADRIAN GORE [ZA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> STEVEN RABSON KENNETH [ZA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> PHILLIP MAYERS HERSCHEL [ZA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>GORE ADRIAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>RABSON KENNETH STEVEN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>MAYERS HERSCHEL PHILLIP</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">System and method of managing an insurance scheme</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method of managing an insurance scheme includes defining a plurality of diseases which are covered by the insurance scheme so that if an insured life contracts one of these diseases they will be paid an amount of funds from the insurer or the insurer will pay or partially pay for treatment of the disease. A request is received from an insured life who has contracted one of the defined diseases. The insured life is provided with a choice of receiving treatment in the country in which they reside or receiving treatment in another country. A selected country is received from the insured life and an amount of funds is paid from the insurer to the insured life wherein the amount of funds is at least partially determined by the selected country.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="38801879">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>IL</country>
+                    <doc-number>195735</doc-number>
+                    <kind>D0</kind>
+                    <date>20090901</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>IL195735D</doc-number>
+                    <date>20090901</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="313589862">
+                <document-id document-id-type="docdb">
+                    <country>IL</country>
+                    <doc-number>19573508</doc-number>
+                    <kind>A</kind>
+                    <date>20081204</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>IB</country>
+                    <doc-number>2007051946</doc-number>
+                    <kind>W</kind>
+                    <date>20070523</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>ZA</country>
+                    <doc-number>200604688</doc-number>
+                    <kind>A</kind>
+                    <date>20060606</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+        </ops:family-member>
+        <ops:family-member family-id="38801879">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2007141696</doc-number>
+                    <kind>A2</kind>
+                    <date>20071213</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2007141696</doc-number>
+                    <date>20071213</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="24057242" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>IB</country>
+                    <doc-number>2007051946</doc-number>
+                    <kind>W</kind>
+                    <date>20070523</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>ZA</country>
+                    <doc-number>200604688</doc-number>
+                    <kind>A</kind>
+                    <date>20060606</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="38801879" country="WO" doc-number="2007141696" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2007141696</doc-number>
+                            <kind>A2</kind>
+                            <date>20071213</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2007141696</doc-number>
+                            <date>20071213</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="24057242">
+                        <document-id document-id-type="docdb">
+                            <country>IB</country>
+                            <doc-number>2007051946</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2007IB51946</doc-number>
+                            <date>20070523</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>IB2007/051946</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>ZA20060004688</doc-number>
+                                <date>20060606</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2006/04688</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>DISCOVERY HOLDINGS LTD [ZA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GORE ADRIAN [ZA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MAYERS HERSCHEL PHILLIP [ZA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> RABSON KENNETH STEVEN [ZA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>DISCOVERY HOLDINGS LIMITED, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>GORE, ADRIAN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>MAYERS, HERSCHEL, PHILLIP, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>RABSON, KENNETH, STEVEN</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>GORE ADRIAN [ZA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MAYERS HERSCHEL PHILLIP [ZA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> RABSON KENNETH STEVEN [ZA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>GORE, ADRIAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MAYERS, HERSCHEL, PHILLIP, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>RABSON, KENNETH, STEVEN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">A SYSTEM AND METHOD OF MANAGING AN INSURANCE SCHEME</invention-title>
+                    <invention-title lang="fr">SYSTÈME ET PROCÉDÉ DE GESTION D'UN RÉGIME D'ASSURANCE</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003078815</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003078815</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6108635</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6108635</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method of managing an insurance scheme includes defining a plurality of diseases which are covered by the insurance scheme so that if an insured life contracts one of these diseases they will be paid an amount of funds from the insurer or the insurer will pay or partially pay for treatment of the disease. A request is received from an insured life who has contracted one of the defined diseases. The insured life is provided with a choice of receiving treatment in the country in which they reside or receiving treatment in another country. A selected country is received from the insured life and an amount of funds is paid from the insurer to the insured life wherein the amount of funds is at least partially determined by the selected country.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>La présente invention concerne un procédé de gestion d'un régime d'assurance comprenant la définition d'une pluralité de maladies couvertes par le régime d'assurance de sorte que si une personne assurée contracte une de ces maladies, elle touche une somme de l'assureur ou l'assureur paie en totalité ou en partie le traitement de la maladie. Une demande est reçue d'un assuré ayant contracté une des maladies définies. L'assuré peut soit choisir de recevoir le traitement dans le pays dans lequel il réside, soit de recevoir le traitement dans un autre pays. Le pays est sélectionné par l'assuré et une somme est payée à l'assuré par l'assureur, ladite somme dépendant au moins en partie du pays sélectionné.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="38801879">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2007141696</doc-number>
+                    <kind>A3</kind>
+                    <date>20090423</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2007141696</doc-number>
+                    <date>20090423</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="24057242" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>IB</country>
+                    <doc-number>2007051946</doc-number>
+                    <kind>W</kind>
+                    <date>20070523</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>ZA</country>
+                    <doc-number>200604688</doc-number>
+                    <kind>A</kind>
+                    <date>20060606</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="38801879" country="WO" doc-number="2007141696" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2007141696</doc-number>
+                            <kind>A3</kind>
+                            <date>20090423</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2007141696</doc-number>
+                            <date>20090423</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="24057242">
+                        <document-id document-id-type="docdb">
+                            <country>IB</country>
+                            <doc-number>2007051946</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2007IB51946</doc-number>
+                            <date>20070523</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>IB2007/051946</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>ZA20060004688</doc-number>
+                                <date>20060606</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2006/04688</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>DISCOVERY HOLDINGS LTD [ZA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GORE ADRIAN [ZA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MAYERS HERSCHEL PHILLIP [ZA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> RABSON KENNETH STEVEN [ZA]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>DISCOVERY HOLDINGS LIMITED, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>GORE, ADRIAN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>MAYERS, HERSCHEL, PHILLIP, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>RABSON, KENNETH, STEVEN</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>GORE ADRIAN [ZA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MAYERS HERSCHEL PHILLIP [ZA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> RABSON KENNETH STEVEN [ZA]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>GORE, ADRIAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MAYERS, HERSCHEL, PHILLIP, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>RABSON, KENNETH, STEVEN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">A SYSTEM AND METHOD OF MANAGING AN INSURANCE SCHEME</invention-title>
+                    <invention-title lang="fr">SYSTÈME ET PROCÉDÉ DE GESTION D'UN RÉGIME D'ASSURANCE</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method of managing an insurance scheme includes defining a plurality of diseases which are covered by the insurance scheme so that if an insured life contracts one of these diseases they will be paid an amount of funds from the insurer or the insurer will pay or partially pay for treatment of the disease. A request is received from an insured life who has contracted one of the defined diseases. The insured life is provided with a choice of receiving treatment in the country in which they reside or receiving treatment in another country. A selected country is received from the insured life and an amount of funds is paid from the insurer to the insured life wherein the amount of funds is at least partially determined by the selected country.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>La présente invention concerne un procédé de gestion d'un régime d'assurance comprenant la définition d'une pluralité de maladies couvertes par le régime d'assurance de sorte que si une personne assurée contracte une de ces maladies, elle touche une somme de l'assureur ou l'assureur paie en totalité ou en partie le traitement de la maladie. Une demande est reçue d'un assuré ayant contracté une des maladies définies. L'assuré peut soit choisir de recevoir le traitement dans le pays dans lequel il réside, soit de recevoir le traitement dans un autre pays. Le pays est sélectionné par l'assuré et une somme est payée à l'assuré par l'assureur, ladite somme dépendant au moins en partie du pays sélectionné.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

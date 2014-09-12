@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="43"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2009083225</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="40472778">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009083225</doc-number>
+                    <kind>A1</kind>
+                    <date>20090326</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2009083225</doc-number>
+                    <date>20090326</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="56861495" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86151307</doc-number>
+                    <kind>A</kind>
+                    <date>20070926</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86151307</doc-number>
+                    <kind>A</kind>
+                    <date>20070926</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="40472778" country="US" doc-number="2009083225" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009083225</doc-number>
+                            <kind>A1</kind>
+                            <date>20090326</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2009083225</doc-number>
+                            <date>20090326</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    30            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>1/1</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>707/E17.014</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>707/999.003</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="56861495">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>86151307</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070861513</doc-number>
+                            <date>20070926</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>11861513</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070861513</doc-number>
+                                <date>20070926</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>CISCO TECH INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>CISCO TECHNOLOGY, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>JACOBS PHILIP [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SISK JAMES RANDOLPH [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>JACOBS PHILIP, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SISK JAMES RANDOLPH</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">ADVERTISEMENT FILTERING AND TARGETING THROUGH USER-PREFERENCES</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006004702</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006004702</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method is provided. The method includes (a) querying a viewer for a preference setting for provision of advertisements, (b) receiving from the viewer a response to the query for the preference setting for provision of advertisements, and (c) providing to the viewer an electronic signal, the electronic signal including (i) a first component having a main content portion, and (ii) a second component having advertisements in accordance with the received selection of advertisement preferences. The first component and the second component are distinct. Software and apparatus embodiments are provided as well.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="40472778">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2009042487</doc-number>
+                    <kind>A1</kind>
+                    <date>20090402</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2009042487</doc-number>
+                    <date>20090402</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="56948991">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2008076811</doc-number>
+                    <kind>W</kind>
+                    <date>20080918</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86151307</doc-number>
+                    <kind>A</kind>
+                    <date>20070926</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="40472778" country="WO" doc-number="2009042487" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2009042487</doc-number>
+                            <kind>A1</kind>
+                            <date>20090402</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009042487</doc-number>
+                            <date>20090402</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F   3/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="56948991">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2008076811</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2008US76811</doc-number>
+                            <date>20080918</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2008/076811</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070861513</doc-number>
+                                <date>20070926</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>11/861,513</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>CISCO TECH INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> JACOBS PHILIP [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SISK JAMES RANDOLPH [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>CISCO TECHNOLOGY, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>JACOBS, PHILIP, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>SISK, JAMES RANDOLPH</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>JACOBS PHILIP [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SISK JAMES RANDOLPH [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>JACOBS, PHILIP, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SISK, JAMES RANDOLPH</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">ADVERTISEMENT FILTERING AND TARGETING THROUGH USER-PREFERENCES</invention-title>
+                    <invention-title lang="fr">FILTRAGE ET CIBLAGE DE PUBLICITÉ SELON LES PRÉFÉRENCES UTILISATEUR</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003149618</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003149618</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007174117</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007174117</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002066106</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002066106</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002029267</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002029267</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method is provided. The method includes (a) querying a viewer for a preference setting for provision of advertisements, (b) receiving from the viewer a response to the query for the preference setting for provision of advertisements, and (c) providing to the viewer an electronic signal, the electronic signal including (i) a first component having a main content portion, and (ii) a second component having advertisements in accordance with the received selection of advertisement preferences. The first component and the second component are distinct. Software and apparatus embodiments are provided as well.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>La présente invention concerne un procédé qui comprend (a) la demande auprès d'un spectateur d'un paramètre de préférence pour la diffusion de publicité, (b) la réception du spectateur d'une réponse à la demande pour le paramètre de préférence pour la diffusion de publicité et (c) la fourniture au spectateur d'un signal électronique, le signal électronique comprenant (i) un premier composant ayant une partie de contenu principal et (ii) un second composant comportant des publicités selon la sélection reçue des préférences de publicité. Le premier composant et le second composant sont distincts. Des modes de réalisation d'un logiciel et d'un appareil sont également proposés.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

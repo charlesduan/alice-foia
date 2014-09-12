@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="84"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2011244940</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="42268382">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2011244940</doc-number>
+                    <kind>A1</kind>
+                    <date>20111006</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2011244940</doc-number>
+                    <date>20111006</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="337451571">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>200813140680</doc-number>
+                    <kind>A</kind>
+                    <date>20081219</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>IN</country>
+                    <doc-number>2008000847</doc-number>
+                    <kind>W</kind>
+                    <date>20081219</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>A</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="42268382" country="US" doc-number="2011244940" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2011244940</doc-number>
+                            <kind>A1</kind>
+                            <date>20111006</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2011244940</doc-number>
+                            <date>20111006</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A63F   9/    24            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>32</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>329</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>463/17</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="337451571">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>200813140680</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US200813140680</doc-number>
+                            <date>20081219</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13140680</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2008IN00847</doc-number>
+                                <date>20081219</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>PCT/IN08/00847</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>KUMBHAT ABHISHEK [IN]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> JAIN SUGAL PRASAN CHAND [IN]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>KUMBHAT ABHISHEK, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>JAIN SUGAL PRASAN CHAND</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">INSTANT TICKET GENERATOR</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004185931</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004185931</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Systems and methods of generating instant tickets using an instant ticket generator are described. In an implementation, an instant ticket design is generated for the instant tickets for one or more events and/or games based on one or more of structural layout, prize distribution scheme, set of prize distribution constraints, set of security features, graphic design template, and other design level inputs for the instant tickets. The instant tickets can be generated based on the instant ticket design, a set of game themes implemented by one or more game libraries, and a set of prize tickets, wherein the set of prize tickets is generated as an intermediate component, further wherein the set of prize tickets is independent of the one or more game themes. The instant tickets can be converted into a set of player interfacing tickets through one or more media convertors.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="42268382">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>2377107</doc-number>
+                    <kind>A1</kind>
+                    <date>20111019</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP2377107</doc-number>
+                    <date>20111019</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="316722528">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>08878867</doc-number>
+                    <kind>A</kind>
+                    <date>20081219</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>IN</country>
+                    <doc-number>2008000847</doc-number>
+                    <kind>W</kind>
+                    <date>20081219</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>A</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="42268382" country="EP" doc-number="2377107" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>2377107</doc-number>
+                            <kind>A1</kind>
+                            <date>20111019</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP2377107</doc-number>
+                            <date>20111019</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G07F  17/    32            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>32</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>329</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="316722528">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>08878867</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20080878867</doc-number>
+                            <date>20081219</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>08878867</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2008IN00847</doc-number>
+                                <date>20081219</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>IN2008000847</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SKILROCK TECHNOLOGIES P LTD [IN]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SKILROCK TECHNOLOGIES (P) LTD</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>KUMBHAT ABHISHEK [IN]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> JAIN SUGAL PRASAN CHAND [IN]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>KUMBHAT, ABHISHEK, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>JAIN, SUGAL, PRASAN, CHAND</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">INSTANT TICKET GENERATOR</invention-title>
+                    <invention-title lang="de">SOFORT-TICKET-GENERATOR</invention-title>
+                    <invention-title lang="fr">GÉNÉRATEUR DE TICKET INSTANTANÉ</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="42268382">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2010070652</doc-number>
+                    <kind>A1</kind>
+                    <date>20100624</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2010070652</doc-number>
+                    <date>20100624</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="316855890" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>IN</country>
+                    <doc-number>2008000847</doc-number>
+                    <kind>W</kind>
+                    <date>20081219</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>IN</country>
+                    <doc-number>2008000847</doc-number>
+                    <kind>W</kind>
+                    <date>20081219</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="42268382" country="WO" doc-number="2010070652" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2010070652</doc-number>
+                            <kind>A1</kind>
+                            <date>20100624</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2010070652</doc-number>
+                            <date>20100624</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G07F  17/    32            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>32</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>329</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="316855890">
+                        <document-id document-id-type="docdb">
+                            <country>IN</country>
+                            <doc-number>2008000847</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2008IN00847</doc-number>
+                            <date>20081219</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>IN2008/000847</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2008IN00847</doc-number>
+                                <date>20081219</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SKILL LOTTO SOLUTIONS P LTD [IN]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> KUMBHAT ABHISHEK [IN]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> JAIN SUGAL PRASAN CHAND [IN]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SKILL LOTTO SOLUTIONS (P) LTD, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>KUMBHAT, ABHISHEK, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>JAIN, SUGAL, PRASAN, CHAND</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>KUMBHAT ABHISHEK [IN]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> JAIN SUGAL PRASAN CHAND [IN]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>KUMBHAT, ABHISHEK, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>JAIN, SUGAL, PRASAN, CHAND</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">INSTANT TICKET GENERATOR</invention-title>
+                    <invention-title lang="fr">GÉNÉRATEUR DE TICKET INSTANTANÉ</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="US">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008026811</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008026811</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="US">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004014514</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004014514</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="US">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008009335</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008009335</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="4" office="US">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006205477</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006205477</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="5" office="US">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6564246</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6564246</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="6" office="US">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008194315</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008194315</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="7" office="US">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006079311</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006079311</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="8" office="US">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004204222</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004204222</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="9" office="US">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003228910</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003228910</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="10">
+                            <nplcit num="1">
+                                <text>'GTECH HOLDINGS, FORM 10-K, (Annual Report)', [Online] 20
+        April 2006, page 7, 37, XP008168527 Retrieved from the
+        Internet:
+        &lt;URL:http://www.gtech.com/investors/sec/GTECHHOLDINGSCO10K.06.pdf> [retrieved on 2009-07-19]</text>
+                            </nplcit>
+                            <category>Y</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Systems and methods of generating instant tickets using an instant ticket generator are described. In an implementation, an instant ticket design is generated for the instant tickets for one or more events and/or games based on one or more of structural layout, prize distribution scheme, set of prize distribution constraints, set of security features, graphic design template, and other design level inputs for the instant tickets. The instant tickets can be generated based on the instant ticket design, a set of game themes implemented by one or more game libraries, and a set of prize tickets, wherein the set of prize tickets is generated as an intermediate component, further wherein the set of prize tickets is independent of the one or more game themes. The instant tickets can be converted into a set of player interfacing tickets through one or more media convertors.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention porte sur des systèmes et sur des procédés de génération de tickets instantanés à l'aide d'un générateur de ticket instantané. Dans un mode de réalisation, un motif de ticket instantané est généré pour les tickets instantanés pour un ou plusieurs événements et/ou jeux en fonction d'un ou plusieurs parmi une configuration structurelle, un mode de distribution de prix, un ensemble de contraintes de distribution de prix, un ensemble de caractéristique de sécurité, un modèle de configuration graphique, et d'autres entrées de niveau de configuration pour les tickets instantanés.</p>
+                    <p> Les tickets instantanés peuvent être générés en fonction de la configuration de ticket instantané, d'un ensemble de thèmes de jeu mis en oeuvre par une ou plusieurs bibliothèques de jeu, et d'un ensemble de tickets de loterie, l'ensemble de tickets de loterie étant généré sous la forme d'un composant intermédiaire, et, en outre l'ensemble de tickets de loterie étant indépendant du ou des thèmes de jeu. Les tickets instantanés peuvent être convertis en un ensemble de tickets d'interface de joueur par l'intermédiaire d'un ou plusieurs convertisseurs de média.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

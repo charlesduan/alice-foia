@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="114"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2006240396</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="20430809">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2006240396</doc-number>
+                    <kind>A1</kind>
+                    <date>20061026</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2006240396</doc-number>
+                    <date>20061026</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="51260351">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>48613605</doc-number>
+                    <kind>A</kind>
+                    <date>20050907</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>200104668</doc-number>
+                    <kind>A</kind>
+                    <date>20010804</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>0200169</doc-number>
+                    <kind>W</kind>
+                    <date>20020730</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="20430809" country="US" doc-number="2006240396" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2006240396</doc-number>
+                            <kind>A1</kind>
+                            <date>20061026</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2006240396</doc-number>
+                            <date>20061026</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B  19/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G09B   3/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G09B   5/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="4">
+                            <text>G09B   7/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>5</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>434/219</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>434/350</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>434/362</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="51260351">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>48613605</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20050486136</doc-number>
+                            <date>20050907</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10486136</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>SG20010004668</doc-number>
+                                <date>20010804</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>0104668-9</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2002SG00169</doc-number>
+                                <date>20020730</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> PCT/SG02/00169</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>FOO JUNG W [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LIANG BRUCE C [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>FOO JUNG W, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>LIANG BRUCE C</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Training enterprise and method therefor</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A training enterprise ( 100 ) comprises a basic training services portion ( 120 ), an enhanced training-user services portion ( 125 ), and an enhanced training-provider services portion ( 130 ) which are coupled to a common training service request processor ( 105 ) and a training services delivery module ( 135 ). The basic training services portion ( 120 ), the training service request processor ( 105 ) and the training services delivery module ( 135 ) form a learning exchange ( 102 ). The training service request processor ( 105 ) receives training service requirements, and dependent on those requirements, either the learning exchange ( 102 ) or the enhanced training-user services portion ( 125 ), or both, provides the training-user with the required training-user services. Similarly, a training-provider communicates training-provider service requirements to the training service request processor ( 105 ), and dependent on the training-provider service requirements, the learning exchange ( 102 ) or the enhanced training-provider services portion ( 130 ), or both, provide the training-provider with the required services.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="20430809">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2002329152</doc-number>
+                    <kind>B2</kind>
+                    <date>20061005</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>AU2002329152B</doc-number>
+                    <date>20061005</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="2546139">
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2002329152</doc-number>
+                    <kind>A</kind>
+                    <date>20020730</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>200104668</doc-number>
+                    <kind>A</kind>
+                    <date>20010804</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>0200169</doc-number>
+                    <kind>W</kind>
+                    <date>20020730</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="20430809" country="AU" doc-number="2002329152" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2002329152</doc-number>
+                            <kind>B2</kind>
+                            <date>20061005</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU2002329152B</doc-number>
+                            <date>20061005</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   7/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  15/    16            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G09B   5/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>5</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="2546139">
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2002329152</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU20020329152</doc-number>
+                            <date>20020730</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2002329152</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>SG20010004668</doc-number>
+                                <date>20010804</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>0104668-9</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2002SG00169</doc-number>
+                                <date>20020730</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> WO03/015055</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>TAN-NG SAW TIN TINA</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LIANG CHWEE BOCK BRUCE</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHEE LAI YONG</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MA KWOK LEUNG</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MYLVAGANAM LOGENDRAN</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GOH HUAT CHOON CANDICE</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="epodoc">
+                                <inventor-name>
+                                    <name> FOO JUNG WEI</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TAY YEE PAA TONY</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SAW, TIN, TINA TAN-NG, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>CHWEE, BOCK, BRUCE LIANG, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>LAI, YONG CHEE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>KWOK, LEUNG MA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>LOGENDRAN MYLVAGANAM, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>HUAT, CHOON, CANDICE GOH, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="original">
+                                <inventor-name>
+                                    <name>JUNG, WEI FOO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="original">
+                                <inventor-name>
+                                    <name>YEE, PAA, TONY TAY</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Training enterprise and method therefor</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6170014</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6170014</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5597312</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5597312</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="20430809">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2450739</doc-number>
+                    <kind>A1</kind>
+                    <date>20030220</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CA2450739</doc-number>
+                    <date>20030220</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="4825275">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2450739</doc-number>
+                    <kind>A</kind>
+                    <date>20020730</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>200104668</doc-number>
+                    <kind>A</kind>
+                    <date>20010804</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>0200169</doc-number>
+                    <kind>W</kind>
+                    <date>20020730</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="20430809" country="CA" doc-number="2450739" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2450739</doc-number>
+                            <kind>A1</kind>
+                            <date>20030220</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA2450739</doc-number>
+                            <date>20030220</date>
+                        </document-id>
+                    </publication-reference>
+                    <classification-ipc>
+                        <text>G09B7/00</text>
+                        <text>G06F15/16</text>
+                    </classification-ipc>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   5/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>5</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="4825275">
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2450739</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA20022450739</doc-number>
+                            <date>20020730</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>002450739</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>SG20010004668</doc-number>
+                                <date>20010804</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>0104668-9</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2002SG00169</doc-number>
+                                <date>20020730</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> PCT/SG02/000169</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH [CH]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>MYLVAGANAM LOGENDRAN [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MA KWOK LEUNG [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TAN-NG SAW TIN TINA [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TAY YEE PAA TONY [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHEE LAI YONG [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GOH HUAT CHOON CANDICE [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LIANG CHWEE BOCK BRUCE [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="epodoc">
+                                <inventor-name>
+                                    <name> FOO JUNG WEI [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>MYLVAGANAM, LOGENDRAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MA, KWOK LEUNG, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>TAN-NG, SAW TIN TINA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>TAY, YEE PAA TONY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>CHEE, LAI YONG, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>GOH, HUAT CHOON CANDICE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="original">
+                                <inventor-name>
+                                    <name>LIANG, CHWEE BOCK BRUCE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="original">
+                                <inventor-name>
+                                    <name>FOO, JUNG WEI</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">TRAINING ENTERPRISE AND METHOD THEREFOR</invention-title>
+                    <invention-title lang="fr">SYSTEME DE FORMATION ET PROCEDE DE MISE EN OEUVRE ASSOCIE</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A training enterprise (100) comprises a basic trainiing services portion (120), an enhanced training-user services portion (125), and an enhanced training-provider services portion (130) which are coupled to a common training service request processor ( 105) and a training services delivery module (135). The basic training services portion (120), the training servic e request processor ( 105) and the training services delivery module (135) for m a learning exchange (102). The training service request processor (105) receives training service requirements, and dependent on those requirements, either the learning exchange (102) or the enhanced training-user services portion (125), or both, provides the training-user with the required trainin g- user services. Similarly, a training-provider communicates training-provider service requirements to the training service request processor (105), and dependent on the training-provider service requirements, the learning exchan ge (102) or the enhanced training-provider services portion (130), or both, provide the training-provider with the required services.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="20430809">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>1421569</doc-number>
+                    <kind>A1</kind>
+                    <date>20040526</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP1421569</doc-number>
+                    <date>20040526</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="15972413">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>02765751</doc-number>
+                    <kind>A</kind>
+                    <date>20020730</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>200104668</doc-number>
+                    <kind>A</kind>
+                    <date>20010804</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>0200169</doc-number>
+                    <kind>W</kind>
+                    <date>20020730</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="20430809" country="EP" doc-number="1421569" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>1421569</doc-number>
+                            <kind>A1</kind>
+                            <date>20040526</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP1421569</doc-number>
+                            <date>20040526</date>
+                        </document-id>
+                    </publication-reference>
+                    <classification-ipc>
+                        <text>G09B7/00</text>
+                        <text>G06F15/16</text>
+                    </classification-ipc>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   5/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>5</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="15972413">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>02765751</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20020765751</doc-number>
+                            <date>20020730</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>02765751</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2002SG00169</doc-number>
+                                <date>20020730</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>SG2002000169</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>SG20010004668</doc-number>
+                                <date>20010804</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 200104668</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICE GMBH [CH]
+</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES LIMITED, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>FOO JUNG WEI [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LIANG CHWEE BOCK BRUCE [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GOH HUAT CHOON CANDICE [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHEE LAI YONG [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TAY YEE PAA TONY [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MA KWOK LEUNG [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TAN-NG SAW TIN TINA [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MYLVAGANAM LOGENDRAN [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>FOO, JUNG, WEI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>LIANG, CHWEE, BOCK, BRUCE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>GOH, HUAT, CHOON, CANDICE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>CHEE, LAI, YONG, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>TAY, YEE, PAA, TONY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>MA, KWOK, LEUNG, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="original">
+                                <inventor-name>
+                                    <name>TAN-NG, SAW, TIN, TINA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="original">
+                                <inventor-name>
+                                    <name>MYLVAGANAM, LOGENDRAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">TRAINING ENTERPRISE AND METHOD THEREFOR</invention-title>
+                    <invention-title lang="de">TRAINING-UNTERNEHMEN UND VERFAHREN DAFÜR</invention-title>
+                    <invention-title lang="fr">SYSTEME DE FORMATION ET PROCEDE DE MISE EN OEUVRE ASSOCIE</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <nplcit num="1">
+                                <text>No further relevant documents disclosed</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="20430809">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>1421569</doc-number>
+                    <kind>A4</kind>
+                    <date>20090909</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP1421569</doc-number>
+                    <date>20090909</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="15972413">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>02765751</doc-number>
+                    <kind>A</kind>
+                    <date>20020730</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>200104668</doc-number>
+                    <kind>A</kind>
+                    <date>20010804</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>0200169</doc-number>
+                    <kind>W</kind>
+                    <date>20020730</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="20430809" country="EP" doc-number="1421569" kind="A4">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>1421569</doc-number>
+                            <kind>A4</kind>
+                            <date>20090909</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP1421569</doc-number>
+                            <date>20090909</date>
+                        </document-id>
+                    </publication-reference>
+                    <classification-ipc>
+                        <text>G09B7/00</text>
+                        <text>G06F15/16</text>
+                    </classification-ipc>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   5/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>5</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="15972413">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>02765751</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20020765751</doc-number>
+                            <date>20020730</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>02765751</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2002SG00169</doc-number>
+                                <date>20020730</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>SG2002000169</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>SG20010004668</doc-number>
+                                <date>20010804</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 200104668</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH [CH]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES LIMITED, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>FOO JUNG WEI [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LIANG CHWEE BOCK BRUCE [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GOH HUAT CHOON CANDICE [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHEE LAI YONG [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TAY YEE PAA TONY [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MA KWOK LEUNG [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TAN-NG SAW TIN TINA [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MYLVAGANAM LOGENDRAN [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>FOO, JUNG, WEI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>LIANG, CHWEE, BOCK, BRUCE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>GOH, HUAT, CHOON, CANDICE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>CHEE, LAI, YONG, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>TAY, YEE, PAA, TONY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>MA, KWOK, LEUNG, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="original">
+                                <inventor-name>
+                                    <name>TAN-NG, SAW, TIN, TINA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="original">
+                                <inventor-name>
+                                    <name>MYLVAGANAM, LOGENDRAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">TRAINING ENTERPRISE AND METHOD THEREFOR</invention-title>
+                    <invention-title lang="de">TRAINING-UNTERNEHMEN UND VERFAHREN DAFÜR</invention-title>
+                    <invention-title lang="fr">SYSTEME DE FORMATION ET PROCEDE DE MISE EN OEUVRE ASSOCIE</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="20430809">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>106621</doc-number>
+                    <kind>A1</kind>
+                    <date>20041029</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>SG106621</doc-number>
+                    <date>20041029</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="43670367">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>200104668</doc-number>
+                    <kind>A</kind>
+                    <date>20010804</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>200104668</doc-number>
+                    <kind>A</kind>
+                    <date>20010804</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="20430809" country="SG" doc-number="106621" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>SG</country>
+                            <doc-number>106621</doc-number>
+                            <kind>A1</kind>
+                            <date>20041029</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>SG106621</doc-number>
+                            <date>20041029</date>
+                        </document-id>
+                    </publication-reference>
+                    <classification-ipc>
+                        <text>G09B7/00</text>
+                        <text>G06F15/16</text>
+                    </classification-ipc>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   5/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>5</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="43670367">
+                        <document-id document-id-type="docdb">
+                            <country>SG</country>
+                            <doc-number>200104668</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>SG20010004668</doc-number>
+                            <date>20010804</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>200104668</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>SG20010004668</doc-number>
+                                <date>20010804</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>FOO JUNG WEI</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> BRUCE LIANG CHWEE BOCK</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CANDICE GOH HUAT CHOON</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHEE LAI YONG</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TONY TAY YEE PAA</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MA KWOK LEUNG</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TAN-NG SAW TIN TINA</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MYLVAGANAM LOGENDRAN</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>FOO JUNG WEI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>BRUCE LIANG CHWEE BOCK, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>CANDICE GOH HUAT CHOON, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>CHEE LAI YONG, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>TONY TAY YEE PAA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>MA KWOK LEUNG, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="original">
+                                <inventor-name>
+                                    <name>TAN-NG SAW TIN TINA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="original">
+                                <inventor-name>
+                                    <name>MYLVAGANAM LOGENDRAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">TRAINING ENTERPRISE AND METHOD THEREFOR</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="20430809">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>03015055</doc-number>
+                    <kind>A1</kind>
+                    <date>20030220</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO03015055</doc-number>
+                    <date>20030220</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="43647552" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>0200169</doc-number>
+                    <kind>W</kind>
+                    <date>20020730</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>SG</country>
+                    <doc-number>200104668</doc-number>
+                    <kind>A</kind>
+                    <date>20010804</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="20430809" country="WO" doc-number="03015055" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>03015055</doc-number>
+                            <kind>A1</kind>
+                            <date>20030220</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO03015055</doc-number>
+                            <date>20030220</date>
+                        </document-id>
+                    </publication-reference>
+                    <classification-ipc>
+                        <text>G09B7/00</text>
+                        <text>G06F15/16</text>
+                    </classification-ipc>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   5/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>5</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="43647552">
+                        <document-id document-id-type="docdb">
+                            <country>SG</country>
+                            <doc-number>0200169</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2002SG00169</doc-number>
+                            <date>20020730</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>SG0200169</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>SG20010004668</doc-number>
+                                <date>20010804</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>0104668-9</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH [CH]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> FOO JUNG WEI [SG]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LIANG CHWEE BOCK BRUCE [SG]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GOH HUAT CHOON CANDICE [SG]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> CHEE LAI YONG [SG]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="epodoc">
+                                <applicant-name>
+                                    <name> TAY YEE PAA TONY [SG]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MA KWOK LEUNG [SG]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="8" data-format="epodoc">
+                                <applicant-name>
+                                    <name> TAN-NG SAW TIN TINA [SG]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="9" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MYLVAGANAM LOGENDRAN [SG]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>FOO, JUNG, WEI, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>LIANG, CHWEE, BOCK, BRUCE, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>GOH, HUAT, CHOON, CANDICE, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>CHEE, LAI, YONG, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="original">
+                                <applicant-name>
+                                    <name>TAY, YEE, PAA, TONY, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="original">
+                                <applicant-name>
+                                    <name>MA, KWOK, LEUNG, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="8" data-format="original">
+                                <applicant-name>
+                                    <name>TAN-NG, SAW, TIN, TINA, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="9" data-format="original">
+                                <applicant-name>
+                                    <name>MYLVAGANAM, LOGENDRAN</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>FOO JUNG WEI [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LIANG CHWEE BOCK BRUCE [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GOH HUAT CHOON CANDICE [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHEE LAI YONG [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TAY YEE PAA TONY [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MA KWOK LEUNG [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TAN-NG SAW TIN TINA [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MYLVAGANAM LOGENDRAN [SG]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>FOO, JUNG, WEI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>LIANG, CHWEE, BOCK, BRUCE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>GOH, HUAT, CHOON, CANDICE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>CHEE, LAI, YONG, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>TAY, YEE, PAA, TONY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>MA, KWOK, LEUNG, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="original">
+                                <inventor-name>
+                                    <name>TAN-NG, SAW, TIN, TINA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="original">
+                                <inventor-name>
+                                    <name>MYLVAGANAM, LOGENDRAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">TRAINING ENTERPRISE AND METHOD THEREFOR</invention-title>
+                    <invention-title lang="fr">SYSTEME DE FORMATION ET PROCEDE DE MISE EN OEUVRE ASSOCIE</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="AU">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6170014</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6170014</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="AU">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5597312</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5597312</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3">
+                            <nplcit num="1">
+                                <text>'University360' RWD TECHNOLOGIES, [Online] 08 March 2001,
+        pages 1 - 2, XP002977941 Retrieved from the Internet:
+        &lt;URL:www.latitute360.com></text>
+                            </nplcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="4">
+                            <nplcit num="2">
+                                <text>RUHE ET AL: 'Learning management systems &amp; authoring tools'
+        IST-1999-11634, [Online] March 2001, pages 1 - 87,
+        XP002977940 Retrieved from the Internet:
+        &lt;URL:http://www.iese.fhg.de/coronet/documents/reports/CoroNet-LMS-AT.pdf></text>
+                            </nplcit>
+                            <category>YO</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A training enterprise (100) comprises a basic trainiing services portion (120), an enhanced training-user services portion (125), and an enhanced training-provider services portion (130) which are coupled to a common training service request processor ( 105) and a training services delivery module (135). The basic training services portion (120), the training service request processor ( 105) and the training services delivery module (135) form a learning exchange (102). The training service request processor (105) receives training service requirements, and dependent on those requirements, either the learning exchange (102) or the enhanced training-user services portion (125), or both, provides the training-user with the required training-user services. Similarly, a training-provider communicates training-provider service requirements to the training service request processor (105), and dependent on the training-provider service requirements, the learning exchange (102) or the enhanced training-provider services portion (130), or both, provide the training-provider with the required services.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un système de formation (100) comprenant des services de formation de base (120), des services de formation plus poussée pour stagiaires (125) et des services de formation plus poussée pour formateurs (130), reliés à une unité de traitement des demandes de services de formation commune (105) et à un module de distribution de services de formation (135). Les services de formation de base (120), l'unité de traitement des demandes de services de formation (105) et le module de distribution de services de formation (135) forment ensemble une plate-forme d'apprentissage (102).</p>
+                    <p> L'unité de traitement des demandes de services de formation (105) reçoit les demandes liées aux services de formation, et, en fonction de ces demandes, la plate-forme d'apprentissage (102) et/ou les services de formation plus poussée pour stagiaires (125) fournissent les services de formation demandés au stagiaire. Dans le même ordre d'idées, un formateur transmet les demandes liées aux services de formation pour formateurs à l'unité de traitement des demandes de services de formation (105) et, en fonction de ces demandes, la plate-forme d'apprentissage (102) et/ou les services de formation plus poussée pour formateurs (130) fournissent les services demandés au formateur.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

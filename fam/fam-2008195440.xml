@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="30"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2008195440</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="38429449">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2008195440</doc-number>
+                    <kind>A1</kind>
+                    <date>20080814</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2008195440</doc-number>
+                    <date>20080814</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="46553432">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>5804408</doc-number>
+                    <kind>A</kind>
+                    <date>20080328</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>35713406</doc-number>
+                    <kind>A</kind>
+                    <date>20060221</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>1</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>5804408</doc-number>
+                    <kind>A</kind>
+                    <date>20080328</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="38429449" country="US" doc-number="2008195440" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2008195440</doc-number>
+                            <kind>A1</kind>
+                            <date>20080814</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2008195440</doc-number>
+                            <date>20080814</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>06375</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>06395</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/7.37</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/7.41</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="46553432">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>5804408</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20080058044</doc-number>
+                            <date>20080328</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12058044</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080058044</doc-number>
+                                <date>20080328</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>11357134</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060357134</doc-number>
+                                <date>20060221</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>BAGCHI SUGATO [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> BAI XUE [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KALAGNANAM JAYANT RAMARAO [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>BAGCHI SUGATO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>BAI XUE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>KALAGNANAM JAYANT RAMARAO</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">DATA QUALITY MANAGEMENT USING BUSINESS PROCESS MODELING</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004015381</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004015381</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003233249</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003233249</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006161814</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006161814</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5842202</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5842202</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003065541</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003065541</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <nplcit num="1">
+                                <text>Elizabeth M. Pierce, Assessing Data Quality with Control
+        Matrices. Feb. 2004/Vol. 47, No. 2; Communication of the
+        ACM; pgs. 82-86</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A business process modeling framework is used for data quality analysis. The modeling framework represents the sources of transactions entering the information processing system, the various tasks within the process that manipulate or transform these transactions, and the data repositories in which the transactions are stored or aggregated. A subset of these tasks is associated as the potential error introduction sources, and the rate and magnitude of various error classes at each such task are probabilistically modeled. This model can be used to predict how changes in transactions volumes and business processes impact data quality at the aggregate level in the data repositories. The model can also account for the presence of error correcting controls and assess how the placement and effectiveness of these controls alter the propagation and aggregation of errors. Optimization techniques are used for the placement of error correcting controls that meet target quality requirements while minimizing the cost of operating these controls. This analysis also contributes to the development of business "dashboards" that allow decision-makers to monitor and react to key performance indicators (KPIs) based on aggregation of the transactions being processed. Data quality estimation in real time provides the accuracy of these KPIs (in terms of the probability that a KPI is above or below a given value), which may condition the action undertaken by the decision-maker.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="38429449">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2007198312</doc-number>
+                    <kind>A1</kind>
+                    <date>20070823</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2007198312</doc-number>
+                    <date>20070823</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="50026732" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>35713406</doc-number>
+                    <kind>A</kind>
+                    <date>20060221</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>35713406</doc-number>
+                    <kind>A</kind>
+                    <date>20060221</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="38429449" country="US" doc-number="2007198312" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2007198312</doc-number>
+                            <kind>A1</kind>
+                            <date>20070823</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2007198312</doc-number>
+                            <date>20070823</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    50            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>06375</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>06395</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/7.41</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="50026732">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>35713406</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20060357134</doc-number>
+                            <date>20060221</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>11357134</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060357134</doc-number>
+                                <date>20060221</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>BAGCHI SUGATO [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> BAI XUE [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KALAGNANAM JAYANT R [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>BAGCHI SUGATO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>BAI XUE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>KALAGNANAM JAYANT R</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Data quality management using business process modeling</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A business process modeling framework is used for data quality analysis. The modeling framework represents the sources of transactions entering the information processing system, the various tasks within the process that manipulate or transform these transactions, and the data repositories in which the transactions are stored or aggregated. A subset of these tasks is associated as the potential error introduction sources, and the rate and magnitude of various error classes at each such task are probabilistically modeled. This model can be used to predict how changes in transactions volumes and business processes impact data quality at the aggregate level in the data repositories. The model can also account for the presence of error correcting controls and assess how the placement and effectiveness of these controls alter the propagation and aggregation of errors. Optimization techniques are used for the placement of error correcting controls that meet target quality requirements while minimizing the cost of operating these controls. This analysis also contributes to the development of business "dashboards" that allow decision-makers to monitor and react to key performance indicators (KPIs) based on aggregation of the transactions being processed. Data quality estimation in real time provides the accuracy of these KPIs (in terms of the probability that a KPI is above or below a given value), which may condition the action undertaken by the decision-maker.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

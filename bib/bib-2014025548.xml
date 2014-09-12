@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="9"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="49947377" country="US" doc-number="2014025548" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2014025548</doc-number>
+                        <kind>A1</kind>
+                        <date>20140123</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2014025548</doc-number>
+                        <date>20140123</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  40/    02            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="414260926">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201213551499</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201213551499</doc-number>
+                        <date>20120717</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13551499</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213551499</doc-number>
+                            <date>20120717</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SERIO DIANNA LEE [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> CORELOGIC SOLUTIONS LLC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>SERIO DIANNA LEE, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>CORELOGIC SOLUTIONS, LLC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>SERIO DIANNA LEE [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>SERIO DIANNA LEE</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">AUTOMATED ANOMALY DETECTION FOR REAL ESTATE TRANSACTIONS</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2007219819</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2007219819</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <nplcit num="1">
+                            <text>Anonymous, "First American Corelogic Prevents $40 Million
+        in Mortgage Fraud Losses Through Its Multi-Closing Alert
+        Program: - Program Establishes Fraud Firewall That
+        Identifies and Stops 'Shotgunning' Fraud-" PR Newswire, Jan
+        2008</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                        <nplcit num="2">
+                            <text>Garritano, Anthony, "New Databases Reflects Split on Fraud
+        Prevention," American Banker, October 2009</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                        <nplcit num="3">
+                            <text>Comtois, James, "Adapting to Shifting Fraud Trends: Despite
+        an increase in enforcement, fraudsters are always looking
+        for and creating new angles to beat the system,: Broker
+        Magazine, Dec 2008</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Processes are disclosed for assessing a risk of fraud associated with a property, such as for specific transactions associated with the property. For instance, processes are described for assessing a risk of fraud associated with publicly recorded documents describing transactions associated with real estate properties. In one embodiment, a process accesses appropriate data (e.g., aggregated loan data, aggregated property data such as property transaction history data, etc.) and processes the data to determine whether one or more triggering conditions are met. The triggering conditions are indicative of an elevated risk of fraud with respect to a transaction such as a publicly recorded lien release.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

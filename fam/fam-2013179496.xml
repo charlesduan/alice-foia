@@ -1,0 +1,2455 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="79"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013179496</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="35429072">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013179496</doc-number>
+                    <kind>A1</kind>
+                    <date>20130711</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013179496</doc-number>
+                    <date>20130711</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="408625837">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213715735</doc-number>
+                    <kind>A</kind>
+                    <date>20121214</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>84214704</doc-number>
+                    <kind>A</kind>
+                    <date>20040510</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>1</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213715735</doc-number>
+                    <kind>A</kind>
+                    <date>20121214</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35429072" country="US" doc-number="2013179496" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013179496</doc-number>
+                            <kind>A1</kind>
+                            <date>20130711</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013179496</doc-number>
+                            <date>20130711</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>H04L  29/    06            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06Q  99/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0645</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>H</section>
+                            <class>04</class>
+                            <subclass>L</subclass>
+                            <main-group>67</main-group>
+                            <subgroup>42</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="408625837">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201213715735</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213715735</doc-number>
+                            <date>20121214</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13715735</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213715735</doc-number>
+                                <date>20121214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10842147</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040842147</doc-number>
+                                <date>20040510</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>BLOCKBUSTER L L C [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> BLOCKBUSTER L L C [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>BLOCKBUSTER L.L.C</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>WYNN DOMINIC C [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WILLIAMS PHILIP M [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SIMONS MALACHI [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WILKINS NICHOLAS F [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MACROW ALISTAIR [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DUFTY NIGEL A [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ENG ALVIN [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DOHERTY MICHAEL J [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="9" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GROVES DAVID M [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>WYNN DOMINIC C, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>WILLIAMS PHILIP M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>SIMONS MALACHI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>WILKINS NICHOLAS F, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>MACROW ALISTAIR, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>DUFTY NIGEL A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="original">
+                                <inventor-name>
+                                    <name>ENG ALVIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="original">
+                                <inventor-name>
+                                    <name>DOHERTY MICHAEL J, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="9" data-format="original">
+                                <inventor-name>
+                                    <name>GROVES DAVID M</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM AND METHOD FOR PROVISIONING AUDIOVISUAL WORKS</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for provisioning audiovisual works to a client includes maintaining categorization information specifying, for each of multiple audiovisual works, one or more of multiple categories. One or more of the categories are associated with each of multiple delivery slots in response to input from a client. For each of the delivery slots, a first audiovisual work from one of the categories associated with the respective delivery slot is provisioned for delivery to a location associated with the client.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="35429072">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2006015352</doc-number>
+                    <kind>A1</kind>
+                    <date>20060119</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2006015352</doc-number>
+                    <date>20060119</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="53759406">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>84214704</doc-number>
+                    <kind>A</kind>
+                    <date>20040510</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>84214704</doc-number>
+                    <kind>A</kind>
+                    <date>20040510</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35429072" country="US" doc-number="2006015352" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2006015352</doc-number>
+                            <kind>A1</kind>
+                            <date>20060119</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2006015352</doc-number>
+                            <date>20060119</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  99/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0645</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>H</section>
+                            <class>04</class>
+                            <subclass>L</subclass>
+                            <main-group>67</main-group>
+                            <subgroup>42</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/307</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="53759406">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>84214704</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20040842147</doc-number>
+                            <date>20040510</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10842147</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040842147</doc-number>
+                                <date>20040510</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>WYNN DOMINIC C [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WILLIAMS PHILIP M [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SIMONS MALACHI G [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WILKINS NICHOLAS F [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MACROW ALISTAIR [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DUFTY NIGEL A [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ENG ALVIN [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DOHERTY MICHAEL J [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="9" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GROVES DAVID M [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>WYNN DOMINIC C, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>WILLIAMS PHILIP M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>SIMONS MALACHI G, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>WILKINS NICHOLAS F, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>MACROW ALISTAIR, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>DUFTY NIGEL A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="original">
+                                <inventor-name>
+                                    <name>ENG ALVIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="original">
+                                <inventor-name>
+                                    <name>DOHERTY MICHAEL J, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="9" data-format="original">
+                                <inventor-name>
+                                    <name>GROVES DAVID M</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">System and method for provisioning audiovisual works</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for provisioning audiovisual works to a client includes maintaining categorization information specifying, for each of multiple audiovisual works, one or more of multiple categories. One or more of the categories are associated with each of multiple delivery slots in response to input from a client. For each of the delivery slots, a first audiovisual work from one of the categories associated with the respective delivery slot is provisioned for delivery to a location associated with the client.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="35429072">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>8346673</doc-number>
+                    <kind>B2</kind>
+                    <date>20130101</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US8346673</doc-number>
+                    <date>20130101</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="53759406">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>84214704</doc-number>
+                    <kind>A</kind>
+                    <date>20040510</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>84214704</doc-number>
+                    <kind>A</kind>
+                    <date>20040510</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35429072" country="US" doc-number="8346673" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>8346673</doc-number>
+                            <kind>B2</kind>
+                            <date>20130101</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US8346673</doc-number>
+                            <date>20130101</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06Q  99/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0645</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>H</section>
+                            <class>04</class>
+                            <subclass>L</subclass>
+                            <main-group>67</main-group>
+                            <subgroup>42</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/307</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="53759406">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>84214704</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20040842147</doc-number>
+                            <date>20040510</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10842147</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040842147</doc-number>
+                                <date>20040510</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>BLOCKBUSTER L L C [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WYNN DOMINIC C [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WILLIAMS PHILIP M [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SIMONS MALACHI G [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WILKINS NICHOLAS F [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MACROW ALISTAIR [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="epodoc">
+                                <applicant-name>
+                                    <name> DUFTY NIGEL A [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="8" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ENG ALVIN [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="9" data-format="epodoc">
+                                <applicant-name>
+                                    <name> DOHERTY MICHAEL J [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="10" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GROVES DAVID M [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>BLOCKBUSTER L.L.C, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>WYNN DOMINIC C, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>WILLIAMS PHILIP M, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>SIMONS MALACHI G, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>WILKINS NICHOLAS F, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="original">
+                                <applicant-name>
+                                    <name>MACROW ALISTAIR, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="original">
+                                <applicant-name>
+                                    <name>DUFTY NIGEL A, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="8" data-format="original">
+                                <applicant-name>
+                                    <name>ENG ALVIN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="9" data-format="original">
+                                <applicant-name>
+                                    <name>DOHERTY MICHAEL J, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="10" data-format="original">
+                                <applicant-name>
+                                    <name>GROVES DAVID M</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>WYNN DOMINIC C [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WILLIAMS PHILIP M [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SIMONS MALACHI G [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WILKINS NICHOLAS F [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MACROW ALISTAIR [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DUFTY NIGEL A [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ENG ALVIN [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DOHERTY MICHAEL J [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="9" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GROVES DAVID M [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>WYNN DOMINIC C, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>WILLIAMS PHILIP M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>SIMONS MALACHI G, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>WILKINS NICHOLAS F, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>MACROW ALISTAIR, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>DUFTY NIGEL A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="original">
+                                <inventor-name>
+                                    <name>ENG ALVIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="original">
+                                <inventor-name>
+                                    <name>DOHERTY MICHAEL J, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="9" data-format="original">
+                                <inventor-name>
+                                    <name>GROVES DAVID M</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">System and method for provisioning audiovisual works</invention-title>
+                    <references-cited>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5095195</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5095195</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5664110</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5664110</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5704017</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5704017</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5752160</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5752160</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5790426</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5790426</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5842199</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5842199</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5861906</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5861906</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5884282</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5884282</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5918014</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5918014</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5918213</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5918213</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="11">
+                            <patcit dnum-type="publication number" num="11">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5945987</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5945987</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="12">
+                            <patcit dnum-type="publication number" num="12">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5959945</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5959945</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="13">
+                            <patcit dnum-type="publication number" num="13">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6012052</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6012052</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="14">
+                            <patcit dnum-type="publication number" num="14">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6016475</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6016475</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="15">
+                            <patcit dnum-type="publication number" num="15">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6029161</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6029161</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="16">
+                            <patcit dnum-type="publication number" num="16">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6041311</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6041311</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="17">
+                            <patcit dnum-type="publication number" num="17">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6049777</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6049777</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="18">
+                            <patcit dnum-type="publication number" num="18">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6065042</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6065042</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="19">
+                            <patcit dnum-type="publication number" num="19">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6067562</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6067562</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="20">
+                            <patcit dnum-type="publication number" num="20">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6092049</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6092049</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="21">
+                            <patcit dnum-type="publication number" num="21">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6108493</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6108493</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="22">
+                            <patcit dnum-type="publication number" num="22">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6112186</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6112186</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="23">
+                            <patcit dnum-type="publication number" num="23">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6236985</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6236985</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="24">
+                            <patcit dnum-type="publication number" num="24">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6286139</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6286139</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="25">
+                            <patcit dnum-type="publication number" num="25">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6289389</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6289389</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="26">
+                            <patcit dnum-type="publication number" num="26">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6308168</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6308168</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="27">
+                            <patcit dnum-type="publication number" num="27">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6321179</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6321179</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="28">
+                            <patcit dnum-type="publication number" num="28">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6321221</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6321221</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="29">
+                            <patcit dnum-type="publication number" num="29">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6334127</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6334127</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="30">
+                            <patcit dnum-type="publication number" num="30">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6389372</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6389372</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="31">
+                            <patcit dnum-type="publication number" num="31">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6412012</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6412012</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="32">
+                            <patcit dnum-type="publication number" num="32">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6484123</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6484123</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="33">
+                            <patcit dnum-type="publication number" num="33">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6487539</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6487539</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="34">
+                            <patcit dnum-type="publication number" num="34">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6487541</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6487541</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="35">
+                            <patcit dnum-type="publication number" num="35">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6496816</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6496816</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="36">
+                            <patcit dnum-type="publication number" num="36">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6584450</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6584450</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="37">
+                            <patcit dnum-type="publication number" num="37">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7024381</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7024381</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="38">
+                            <patcit dnum-type="publication number" num="38">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2001036271</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2001036271</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="39">
+                            <patcit dnum-type="publication number" num="39">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005086127</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005086127</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="40">
+                            <patcit dnum-type="publication number" num="40">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2001243285</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2001243285</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="41">
+                            <nplcit num="1">
+                                <text>- Kenton County Public Library, "The Talking Book Library,"
+  http://web.archive.org/web/19980130051137/www.kenton.lib.ky.us/talking.html, 3 pages, Jul. 8, 2003</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="42">
+                            <nplcit num="2">
+                                <text>- The Library of Congress, "Procurement and Supply Division,"
+  Bidder's Conference, The National Library Service for the Blind
+  and Physically Handicapped, 17 pages, Sep. 1, 1987</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="43">
+                            <nplcit num="3">
+                                <text>- Matsuyama Toshinori, "Rental Video Tape Order System," 1 page,
+  Jun. 7, 2005</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="44">
+                            <nplcit num="4">
+                                <text>- "The Unabashed Librarian," No. 82, p. 3, 1 page, May 5, 2005</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="45">
+                            <nplcit num="5">
+                                <text>- Brad Dick Editor, "The Future of Television," Intertec Publishing
+  Corporation, a Primedia Co., 1 page, Dec. 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="46">
+                            <nplcit num="6">
+                                <text>- Netflix.com, Inc. "About Netflix," 1 page,  CR  1997-2002</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="47">
+                            <nplcit num="7">
+                                <text>- American Action Fund for Blind Children and Adults, "Facts About
+  the Library,"
+  http://web.archive.org/web/20000104114940/www.actionfund.org, 2
+  pages, undated</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="48">
+                            <nplcit num="8">
+                                <text>- American Action Fund for Blind Children and Adults, "Application
+  for Library Services," Kenneth Jernigan Library for
+  Blind-Children,
+  http://web.archive.org/web/19991103190509/ww.actionfund.org, 3
+  pages, Feb. 26, 2004</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="49">
+                            <nplcit num="9">
+                                <text>- Frank Johnson, "Audio Diversions: Where Books Talk and People
+  Listen," Publishers Weekly, 2 pages, Feb. 26, 2004</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="50">
+                            <nplcit num="10">
+                                <text>- Frank Johnson, "Audio Diversions : Literature for Listening
+  Club(TM),"
+  http://web.archive.org/web/20000309021742/www.audiodiversions.com, 2 pages, Aug. 31, 2003</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="51">
+                            <nplcit num="11">
+                                <text>- Audiobook Search,
+  http://web.archive.org/web/2000309073728/www.audiodiversions.com,
+  2 pages, Aug. 31, 2003</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="52">
+                            <nplcit num="12">
+                                <text>- books on tape.com,
+  http://web.archive.org/web/19990424061355/http://www.booksontape.com, 2 pages, Aug. 31, 2003</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="53">
+                            <nplcit num="13">
+                                <text>- booksontape.com, "More About B-O-T TM  &amp; Frequently Asked
+  Questions,"
+  http://web.archive.org/web/19990508223402/www.booksontape.com/i/help.htm, 11 pages, Aug. 31, 2003</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="54">
+                            <nplcit num="14">
+                                <text>- CR  1999 DVD Overnight, Inc., America's Online Door to Door
+  Rental Store, DVD Overnight-America's Online Door to Door DVD R .
+  . . ,
+  http://web.archive.org/web/19990922160527/http://www.dvdovernight.com, 2 pages, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="55">
+                            <nplcit num="15">
+                                <text>- CR  1999 DVD Overnight, Inc. "Getting Started to Rent or Buy DVDs
+  Online At DVD Overnight,"
+  http://web.archive.org/web/20000304111243/www.dvdovernight.com/started.html, 7 pages, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="56">
+                            <nplcit num="16">
+                                <text>- CR  1999 DVD Overnight, Inc. "DVD Overnight Store Policies &amp;
+  Frequently Asked Questions," DVD Overnight-Customer Service,
+  http://web.archive.org/web/19991123014901/www.dvdovernight.com/service.html, 8 pages, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="57">
+                            <nplcit num="17">
+                                <text>- CR  2000 DVD Overnight, Inc., "Customer Service Questions &amp;
+  Answers," DVDOvernight Movies-America's Online Door to Door,
+  http://web.archive.org/web/20001109071400/www.dvdovernight.com/dvd/custservice.html 5 pages, 2000</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="58">
+                            <nplcit num="18">
+                                <text>- CR  2000 DVD Overnight, Inc., "DVD Cache Frequently Asked
+  Questions,"DVD Cache Customer Service,
+  http://web.archive.org/web/20000512001209/www.dvdcache.com/store/customer-service. html, 5 pages, 2000</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="59">
+                            <nplcit num="19">
+                                <text>- Libraries, "R.G. 40: Libraries,"
+  http://www.archives.mcgill.ca/resources/guide/vol1/rg40.htm, 8
+  pages, Feb. 26, 2004</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="60">
+                            <nplcit num="20">
+                                <text>- Fastlane Video &amp; Records-Rental Prices,
+  http://web.archive.org/web/19990506190744/members.aol.com/atfastlane/video/rental. htm, 1 page, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="61">
+                            <nplcit num="21">
+                                <text>- "5 Day Rental," Fastlane Video &amp; Records,
+  http://web.archive.org/web/19990210101315/members.aol.com/atfastlane/video/index.htm 13 pages, Feb. 27, 2004</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="62">
+                            <nplcit num="22">
+                                <text>- Fastlane Video &amp; Records,
+  http://web.archive.org/web/19990209181937/members.aol.com/atfastlane, 2 pages, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="63">
+                            <nplcit num="23">
+                                <text>- "Make Your Payments Online," Fastlane Video &amp; Records-Payment on
+  Account,
+  http://web.archive.org/web/19990504102814/members.aol.com/atfastlane/video/payment. htm, 1 page, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="64">
+                            <nplcit num="24">
+                                <text>- "Try Before You Buy Program,"
+  http://web.archive.org/web/19990922040420/www.gametradersclub.com/gametradersclub/tryb.html, 2 pages, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="65">
+                            <nplcit num="25">
+                                <text>- Trade or Sell Your Games!, Todd @ Game Traders Club!,
+  http://web.archive.org/web/19991010012624/www.gametradersclub.com/gametradersclub/tradeorselyou.html, 2 pages, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="66">
+                            <nplcit num="26">
+                                <text>- "Try Before You Buy Program,"
+  http://web.archive.org/web/19991012021059/www.gametradersclub.com/gametradersclub/tryb.html, 2 pages, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="67">
+                            <nplcit num="27">
+                                <text>- Peter F. McNally, "Print Culture and English Speaking Quebec,"
+  History of the Book in Canada,
+  http://www.hbic.library.utoronto.ca/fconfmcnally-fr.htm, 5 pages,
+  Feb. 26, 2004</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="68">
+                            <nplcit num="28">
+                                <text>- Roger Ebert, "Welcome to Home Film," Home Film Festival,
+  http://web.archive.org/web/19961106000542/www.homefilmfestival.com/frames/index1. html, 3 pages, 1996</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="69">
+                            <nplcit num="29">
+                                <text>- "Join Home Film Festival and enjoy these features," Home Film
+  Festival,
+  http://web.archive.org/web/19961106001054/www.homefilmfestival.com/membership.html 2 pages, 1996</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="70">
+                            <nplcit num="30">
+                                <text>- "It's easy! Ordering info," Home Film Festival,
+  http://web.archive.org/web/19961106001006/www.homefilmfestival.com/infopack.html, 2 pages, 1996</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="71">
+                            <nplcit num="31">
+                                <text>- Online Video Rentals, "Multiple Rental Order Form,"
+  http://web.archive.org/web/19990420045928/www.home..., 3 pages,
+  Jul. 2, 2003</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="72">
+                            <nplcit num="32">
+                                <text>- Online Video Rentals, "Individual Rental Order,"
+  http://web.archive.org/web/19990127160422/www.home..., 3 pages,
+  Jul. 2, 2003</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="73">
+                            <nplcit num="33">
+                                <text>- "Welcome to the Internet's 1st DVD rental program," Magic Disc
+  Entertainment,
+  http://web.archive.org/web/19981206142316/www.magicdisc.com/rentals/rentalprogram.htm, 2 pages, Feb. 27, 2004</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="74">
+                            <nplcit num="34">
+                                <text>- "Welcome to the Internet's 1st DVD rental program," Magic Disc
+  Entertainment,
+  http://web.archive.org/web/19990503073644/www.magicdisc.com/rentals/rentalprogram.htm, 3 pages, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="75">
+                            <nplcit num="35">
+                                <text>- "Featured DVDs for Saturday, Jan. 16, 1999," NetFlix.com,
+  http://web.archive.org/web/19990117011532/http://www..., 5 pages,
+  Jul. 3, 2003</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="76">
+                            <nplcit num="36">
+                                <text>- "DVD Favorites," NetFlix.com,
+  http://web.archive.org/web/19991204131346/www.netfli..., 4 pages,
+  Jul. 3, 2003</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="77">
+                            <nplcit num="37">
+                                <text>- Barbara Cheadle, "Future Reflections," ISSN 0883-3419, National
+  Federation of the Blind, http://www.nfb.org/fr/frl/93win.htm, 5
+  pages, Aug. 23, 2003</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="78">
+                            <nplcit num="38">
+                                <text>- "Hear Ye! Hear Ye!," National Federation of the Blind,
+  http://web.archive.org/web/19990220032120/www.nfb.org, 7 pages,
+  1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="79">
+                            <nplcit num="39">
+                                <text>- David Esposito (cooldej@home.com), "Need Cheep Games,"
+  alt.games.sony-playstation, http://groups.google.com, 1 page,
+  Feb. 7, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="80">
+                            <nplcit num="40">
+                                <text>- Ramon (ramon@theriver.com), "100's of Games for About a Buck a
+  Day . . . (Incredible Deal)," alt.games.video.sony-playstation,
+  http://groups.google.com, 1 page, Feb. 6, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="81">
+                            <nplcit num="41">
+                                <text>- Ramon (ramon@theriver.com), "Best Deal Around 100's of games for
+  about a buck a day," alt.games.video.sony-playstation,
+  http://groups.google.com, 1 page, Feb. 8, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="82">
+                            <nplcit num="42">
+                                <text>- Ramon (ramon@theriver.com), "Best Deal Ever!! Choose From 100's
+  of Games for About a Buck a Day . . . Plus a Free Playstation,"
+  alt.games.video.sony-playstation, http://groups.google.com, 1
+  page, Feb. 9, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="83">
+                            <nplcit num="43">
+                                <text>- Ramon (ramon@theriver.com), "Best Deal I've Ever Seen . . . 100's
+  of Games for About a Buck a Day," alt.games.video.nintendo-64,
+  http://groups.google.com, 1 page, Feb. 8, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="84">
+                            <nplcit num="44">
+                                <text>- Ramon (ramon@theriver.com), "Best Deal Ever . . . All the N-64
+  Games You Want for About a Buck a Day,"
+  alt.games.video.nintendo-64, http://groups.google.com, 3 pages,
+  Feb. 10, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="85">
+                            <nplcit num="45">
+                                <text>- Ramon (ramon@theriver.com), "All the New Playstation Games Are
+  Yours for About a Buck a Day," alt.games.video.sony-playstation,
+  http://groups.google.com, 1 page, Feb. 10, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="86">
+                            <nplcit num="46">
+                                <text>- Test (ramon@theriver.com), "Check Out the New Web Site (Best Deal
+  I've Seen)," alt.games.video.nintendo-64,
+  http://groups.google.com, 1 page, Jul. 11, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="87">
+                            <nplcit num="47">
+                                <text>- Test (ramon@theriver.com), "How Many Games Can You Beat in a
+  Month?," alt.games.video.nintendo-64, http://groups.google.com, 1
+  page, Jul. 11, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="88">
+                            <nplcit num="48">
+                                <text>- David N. Berkwitz, "A New Way to Avoid Exercise," U.S. Edition
+  Newsweek, Cyberscope (R); Web; p. 15, 1 page, Mar. 15, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="89">
+                            <nplcit num="49">
+                                <text>- The Unabashed Librarian, No. 82, p. 3, 1 page, no date</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="90">
+                            <nplcit num="50">
+                                <text>- Kevin Brass, "Company Town; Rental Control; Video Distributor
+  Takes Industry Down Controversial Path,"
+  http://faculty-gsb.stanford.edu/oyer-c..., 2 pages, Nov. 28, 1997</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="91">
+                            <nplcit num="51">
+                                <text>- Mary L. Daniels, "A Love for Libraries: Whether Large or Small,
+  They are Special Places," Orlando Sentinel (Florida), Editorial;
+  p. A19, Copyright 1994 Sentinel Communications Co., 2 pages, Nov.
+  11, 1994</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="92">
+                            <nplcit num="52">
+                                <text>- Jennifer deJong, "Securing Your Site for the Age of E-commerce,"
+  VAR Business Strategy Guide Supplement, p. 9,10; ISSN: 0894-5802,
+  Copyright 1998 Responsive Database Services, Inc., 3 pages, Nov.
+  16, 1998</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="93">
+                            <nplcit num="53">
+                                <text>- "Door-to-Door Service," High Points, vol. 6, No. 2; p. 50; ISSN:
+  1074-293X, Copyright 1999 Responsive Database Services, Inc., 2
+  pages, Feb. 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="94">
+                            <nplcit num="54">
+                                <text>- Larry Greenemeier, "Manna Rises Above Conventional Net Marketing:
+  Manna Network Technologies; Company Business and Marketing,"
+  Midrange Systems, No. 18, vol. 11; p. 41; ISSN: 1041-8237;
+  Copyright 1998 Information Access Company, 2 pages, Dec. 18, 1998</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="95">
+                            <nplcit num="55">
+                                <text>- Hilda M. Hamlyn, "Eighteenth-century Circulating Libraries in
+  England," The Bibliographical Society, cover page; pp. 197-222,
+  no date</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="96">
+                            <nplcit num="56">
+                                <text>- Alan S. Horowitz, "PC Leasing Gains Ground-Shorter life spans
+  popularize practice," Information Week, Copyright 1998 CMP Media,
+  Inc., 3 pages, May 25, 1998</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="97">
+                            <nplcit num="57">
+                                <text>- Bob Ingram, "Boston Bears Watching; supermarket industry in
+  Massachusetts," Supermarket Business, No. 3, vol. 53; p. 41;
+  ISSN: 0196-5700, Copyright 1999, Information Access Company, 5
+  pages, Mar. 1, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="98">
+                            <nplcit num="58">
+                                <text>- Nancy J. Kim, "Nordstrom sees Net gains with Streamline," Puget
+  Sound Business Journal, vol. 19; No. 25; p. 5, Copyright 1998 UMI
+  Inc., 2 pages, Oct. 30, 1998</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="99">
+                            <nplcit num="59">
+                                <text>- Alan Dugald McKillop, "English Circulating Libraries, 1725-50,"
+  The Bibliographical Society, 10 pages, no date</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="100">
+                            <nplcit num="60">
+                                <text>- Carol Memmott, "Web site streamlines your errands," USA Today,
+  Bonus; p. 5E, Copyright 1998 Gannett Company, Inc., 2 pages, Nov.
+  16, 1998</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="101">
+                            <nplcit num="61">
+                                <text>- "News briefs," Video Store, p. 8; 0195-1750; Copyright 1999
+  Information Access Company, 1 page, Mar. 21, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="102">
+                            <nplcit num="62">
+                                <text>- "Nordstrom Announces Partnership With Streamline; Nordstrom
+  Invests $22.8 Million in Streamline, the Pioneer Provider of
+  Consumer Direct Essential and Convenience Services," PR Newswire,
+  Financial News Section, Copyright 1998 PR Newswire Association,
+  Inc., 2 pages, Oct. 8, 1998</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="103">
+                            <nplcit num="63">
+                                <text>- Carolyn Said, "Chips and Flicks On Your Doorstep," The San
+  Francisco Chronicle, Business; p. B1, Copyright 1999 The
+  Chronicle Publishing Co., 4 pages, Oct. 18, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="104">
+                            <nplcit num="64">
+                                <text>- Linda Shrieves, "Now Library Books Just Show Up At Your Door,"
+  Orlando Sentinel (Florida), Style; p. E1, Copyright 1990 Sentinel
+  Communications Co., Dec. 7, 1990</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="105">
+                            <nplcit num="65">
+                                <text>- Streamline, DSN Supercenter &amp; Club Business, vol. 6, No. 6; p. 5,
+  Copyright 1999 Responsive Database Services, Inc., 1 page, Mar.
+  29, 1999</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="106">
+                            <nplcit num="66">
+                                <text>- Hal R. Varian, "Buying, Sharing and Renting Information Goods,"
+  University of California at Berkeley, cover page; pp. 1-19, Dec.
+  1994 Current Version Aug. 5, 2000</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="107">
+                            <nplcit num="67">
+                                <text>- Hal R. Varian and Richard Roehl, "Circulating Libraries and Video
+  Rental Stores," Universtiy of California, Berkeley and University
+  of Michigan, Dearborn, pp. 1-14, Dec. 1996</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="108">
+                            <nplcit num="68">
+                                <text>- Richard Roehl and Hal R. Varian, "Circulating Libraries and Video
+  Rental Stores," University of Michigan, Dearborn and University
+  of California, Berkeley, 13 pages, Dec. 1996 Revised: Mar. 9, 2000</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="109">
+                            <nplcit num="69">
+                                <text>- Guinevere L. Griest, "Mudie's Circulating Library and the
+  Victorian Novel," Copyright  CR  1970 by Indiana University
+  Press, Library of Congress catalog card No. 76-126210; ISBN:
+  253-15480-4, 282 pages, 1970</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="110">
+                            <nplcit num="70">
+                                <text>- Kathleen Clynes, McLellan Travelling Library of McGill
+  University, pp. 394-395, no date</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="111">
+                            <nplcit num="71">
+                                <text>- James Lardner, "Fast Forward, Hollywood, The Japanese, and the
+  Onslaught of the VCR," W.W. Norton &amp; Company, 36 pages,  CR  1987</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="112">
+                            <nplcit num="72">
+                                <text>- Wayne A. Wiegland and Donald G. Davis, Jr., "Encyclopedia of
+  Library History," Garland Publishing, Inc., New York and London,
+  5 pages, 1994</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="113">
+                            <nplcit num="73">
+                                <text>- Glenn Miller, "Customer Service &amp; Innovation in Libraries," The
+  Highsmith Press Handbook Series, 19 pages, 1996</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="114">
+                            <nplcit num="74">
+                                <text>- Judith Wagner, Joseph W. Haaf and Ruth N. Cuadra, "Automated
+  Circulation Systems in Libraries Serving the Blind and Physically
+  Handicapped: A Reference Guide for Planning," Cuadra Associates,
+  Inc., 136 pages, May 15, 1981</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="115">
+                            <nplcit num="75">
+                                <text>- "Access Self-Study," Texas State Library, Division for the Blind
+  &amp; Physically Handicapped, vol. 7, Functional Requirements,
+  (C.01-C.11), 14 pages, Dec. 15, 1987</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6064980</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6064980</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6662231</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6662231</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003084450</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003084450</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for provisioning audiovisual works to a client includes maintaining categorization information specifying, for each of multiple audiovisual works, one or more of multiple categories. One or more of the categories are associated with each of multiple delivery slots in response to input from a client. For each of the delivery slots, a first audiovisual work from one of the categories associated with the respective delivery slot is provisioned for delivery to a location associated with the client.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="35429072">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2005114565</doc-number>
+                    <kind>A2</kind>
+                    <date>20051201</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2005114565</doc-number>
+                    <date>20051201</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54547524" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2005014671</doc-number>
+                    <kind>W</kind>
+                    <date>20050428</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>84214704</doc-number>
+                    <kind>A</kind>
+                    <date>20040510</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35429072" country="WO" doc-number="2005114565" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2005114565</doc-number>
+                            <kind>A2</kind>
+                            <date>20051201</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2005114565</doc-number>
+                            <date>20051201</date>
+                        </document-id>
+                    </publication-reference>
+                    <classification-ipc>
+                        <text>G06Q99/00</text>
+                    </classification-ipc>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  99/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0645</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>H</section>
+                            <class>04</class>
+                            <subclass>L</subclass>
+                            <main-group>67</main-group>
+                            <subgroup>42</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54547524">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2005014671</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2005US14671</doc-number>
+                            <date>20050428</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2005014671</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040842147</doc-number>
+                                <date>20040510</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10/842,147</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>BLOCKBUSTER INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WYNN DOMINIC C [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WILLIAMS PHILIP M [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SIMONS MALACHI G [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WILKINS NICHOLAS F [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MACROW ALISTAIR [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="epodoc">
+                                <applicant-name>
+                                    <name> DUFTY NIGEL A [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="8" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ENG ALVIN [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="9" data-format="epodoc">
+                                <applicant-name>
+                                    <name> DOHERTY MICHAEL J [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="10" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GROVES DAVID M [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>BLOCKBUSTER INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>WYNN, DOMINIC, C, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>WILLIAMS, PHILIP, M, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>SIMONS, MALACHI, G, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>WILKINS, NICHOLAS, F, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="original">
+                                <applicant-name>
+                                    <name>MACROW, ALISTAIR, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="original">
+                                <applicant-name>
+                                    <name>DUFTY, NIGEL, A, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="8" data-format="original">
+                                <applicant-name>
+                                    <name>ENG, ALVIN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="9" data-format="original">
+                                <applicant-name>
+                                    <name>DOHERTY, MICHAEL, J, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="10" data-format="original">
+                                <applicant-name>
+                                    <name>GROVES, DAVID, M</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>WYNN DOMINIC C [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WILLIAMS PHILIP M [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SIMONS MALACHI G [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WILKINS NICHOLAS F [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MACROW ALISTAIR [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DUFTY NIGEL A [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ENG ALVIN [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DOHERTY MICHAEL J [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="9" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GROVES DAVID M [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>WYNN, DOMINIC, C, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>WILLIAMS, PHILIP, M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>SIMONS, MALACHI, G, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>WILKINS, NICHOLAS, F, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>MACROW, ALISTAIR, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>DUFTY, NIGEL, A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="original">
+                                <inventor-name>
+                                    <name>ENG, ALVIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="original">
+                                <inventor-name>
+                                    <name>DOHERTY, MICHAEL, J, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="9" data-format="original">
+                                <inventor-name>
+                                    <name>GROVES, DAVID, M</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM AND METHOD FOR PROVISIONING AUDIOVISUAL WORKS</invention-title>
+                    <invention-title lang="fr">SYSTEME ET PROCEDE DE FOURNITURE D'OEUVRES AUDIOVISUELLES</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="US">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6584450</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6584450</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for provisioning audiovisual works to a client includes maintaining categorization information specifying, for each of multiple audiovisual works, one or more of multiple categories. One or more of the categories are associated with each of multiple delivery slots in response to input from a client. For each of the delivery slots, a first audiovisual work from one of the categories associated with the respective delivery slot is provisioned for delivery to a location associated with the client.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>La présente invention se rapporte à un procédé permettant de fournir des oeuvres audiovisuelles à un client, qui consiste à maintenir des informations de catégorisation spécifiant, pour chaque oeuvre audiovisuelle parmi de multiples oeuvres audiovisuelles, une ou plusieurs catégories parmi de multiples catégories. Une ou plusieurs desdites catégories sont associées à chaque emplacement de distribution parmi de multiples emplacements de distribution en réponse à une entrée saisie par un client. Pour chacun des emplacements de distribution, une première oeuvre audiovisuelle issue de l'une des catégories associées à l'emplacement de distribution respectif est fournie pour être distribuée à un lieu associé au client.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="35429072">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2005114565</doc-number>
+                    <kind>A3</kind>
+                    <date>20081218</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2005114565</doc-number>
+                    <date>20081218</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54547524" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2005014671</doc-number>
+                    <kind>W</kind>
+                    <date>20050428</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>84214704</doc-number>
+                    <kind>A</kind>
+                    <date>20040510</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35429072" country="WO" doc-number="2005114565" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2005114565</doc-number>
+                            <kind>A3</kind>
+                            <date>20081218</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2005114565</doc-number>
+                            <date>20081218</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  99/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0645</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>H</section>
+                            <class>04</class>
+                            <subclass>L</subclass>
+                            <main-group>67</main-group>
+                            <subgroup>42</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54547524">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2005014671</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2005US14671</doc-number>
+                            <date>20050428</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2005014671</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040842147</doc-number>
+                                <date>20040510</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10/842,147</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>BLOCKBUSTER INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WYNN DOMINIC C [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WILLIAMS PHILIP M [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SIMONS MALACHI G [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WILKINS NICHOLAS F [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MACROW ALISTAIR [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="epodoc">
+                                <applicant-name>
+                                    <name> DUFTY NIGEL A [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="8" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ENG ALVIN [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="9" data-format="epodoc">
+                                <applicant-name>
+                                    <name> DOHERTY MICHAEL J [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="10" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GROVES DAVID M [GB]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>BLOCKBUSTER INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>WYNN, DOMINIC, C, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>WILLIAMS, PHILIP, M, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>SIMONS, MALACHI, G, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>WILKINS, NICHOLAS, F, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="original">
+                                <applicant-name>
+                                    <name>MACROW, ALISTAIR, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="original">
+                                <applicant-name>
+                                    <name>DUFTY, NIGEL, A, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="8" data-format="original">
+                                <applicant-name>
+                                    <name>ENG, ALVIN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="9" data-format="original">
+                                <applicant-name>
+                                    <name>DOHERTY, MICHAEL, J, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="10" data-format="original">
+                                <applicant-name>
+                                    <name>GROVES, DAVID, M</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>WYNN DOMINIC C [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WILLIAMS PHILIP M [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SIMONS MALACHI G [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WILKINS NICHOLAS F [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MACROW ALISTAIR [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DUFTY NIGEL A [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ENG ALVIN [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DOHERTY MICHAEL J [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="9" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GROVES DAVID M [GB]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>WYNN, DOMINIC, C, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>WILLIAMS, PHILIP, M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>SIMONS, MALACHI, G, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>WILKINS, NICHOLAS, F, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>MACROW, ALISTAIR, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>DUFTY, NIGEL, A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="7" data-format="original">
+                                <inventor-name>
+                                    <name>ENG, ALVIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="8" data-format="original">
+                                <inventor-name>
+                                    <name>DOHERTY, MICHAEL, J, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="9" data-format="original">
+                                <inventor-name>
+                                    <name>GROVES, DAVID, M</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM AND METHOD FOR PROVISIONING AUDIOVISUAL WORKS</invention-title>
+                    <invention-title lang="fr">SYSTEME ET PROCEDE DE FOURNITURE D'OEUVRES AUDIOVISUELLES</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for provisioning audiovisual works to a client includes maintaining categorization information specifying, for each of multiple audiovisual works, one or more of multiple categories. One or more of the categories are associated with each of multiple delivery slots in response to input from a client. For each of the delivery slots, a first audiovisual work from one of the categories associated with the respective delivery slot is provisioned for delivery to a location associated with the client.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>La présente invention se rapporte à un procédé permettant de fournir des oeuvres audiovisuelles à un client, qui consiste à maintenir des informations de catégorisation spécifiant, pour chaque oeuvre audiovisuelle parmi de multiples oeuvres audiovisuelles, une ou plusieurs catégories parmi de multiples catégories. Une ou plusieurs desdites catégories sont associées à chaque emplacement de distribution parmi de multiples emplacements de distribution en réponse à une entrée saisie par un client. Pour chacun des emplacements de distribution, une première oeuvre audiovisuelle issue de l'une des catégories associées à l'emplacement de distribution respectif est fournie pour être distribuée à un lieu associé au client.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

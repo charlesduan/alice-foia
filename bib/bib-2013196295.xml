@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="9"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="38372089" country="US" doc-number="2013196295" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2013196295</doc-number>
+                        <kind>A1</kind>
+                        <date>20130801</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2013196295</doc-number>
+                        <date>20130801</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G09B  19/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>B</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>16</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>09</class>
+                        <subclass>B</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="409215424">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201313794213</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201313794213</doc-number>
+                        <date>20130311</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13794213</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201313794213</doc-number>
+                            <date>20130311</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13657713</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213657713</doc-number>
+                            <date>20121022</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number> 11979229</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070979229</doc-number>
+                            <date>20071031</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number> PCT/US2007/003818</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="4" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2007US03818</doc-number>
+                            <date>20070212</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number> 60771881</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="5" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20060771881P</doc-number>
+                            <date>20060210</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>POST DAVID [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>POST DAVID</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>POST DAVID [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>POST DAVID</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">Virtual World Aptitude And Interest Assessment System And Method</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2002113809</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2002113809</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>An aptitude and interest assessment tool identifies one or more sectors for which a user may have a special interest, talent or aptitude. An interactive session is presented to a user. The interactive session provides a virtual world. A user interacts with the virtual world. Some or all of the user's interactions in the virtual world is stored in a storage device. The user's aptitude or interest in a profession or activity is assessed by an assessment module that receives data from the storage device and processes the received data to make a user assessment. A report providing the user assessment is created by a report creator.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

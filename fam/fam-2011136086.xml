@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="58"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2011136086</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="43531425">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2011136086</doc-number>
+                    <kind>A1</kind>
+                    <date>20110609</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2011136086</doc-number>
+                    <date>20110609</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="334498219" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>96034210</doc-number>
+                    <kind>A</kind>
+                    <date>20101203</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>96034210</doc-number>
+                    <kind>A</kind>
+                    <date>20101203</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>26626009</doc-number>
+                    <kind>P</kind>
+                    <date>20091203</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43531425" country="US" doc-number="2011136086" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2011136086</doc-number>
+                            <kind>A1</kind>
+                            <date>20110609</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2011136086</doc-number>
+                            <date>20110609</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>434/236</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="334498219">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>96034210</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20100960342</doc-number>
+                            <date>20101203</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12960342</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100960342</doc-number>
+                                <date>20101203</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61266260</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090266260P</doc-number>
+                                <date>20091203</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SAUL IAIN [AU]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> FOX-VARSHAVSKY LETITIA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SAUL IAIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>FOX-VARSHAVSKY LETITIA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Systems and Methods for Generating Personality Profiles for Animals</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003138760</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003138760</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002045154</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002045154</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <nplcit num="1">
+                                <text>dog adopter survey, ASPCA</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method of generating a personality profile of at least two animals to determine compatibility potential between the animals, comprises: obtaining a set of answers to a plurality of queries relating to a first of the animals</p>
+                    <p> obtaining a set of answers to a plurality of queries relating to a second of the animals</p>
+                    <p> tabulating each of the sets of answers to obtain an overall score for each of the animals</p>
+                    <p> comparing the overall scores of each of the animals one to another</p>
+                    <p> and determining a compatibility potential between the animals based upon the comparison of the overall scores.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43531425">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2723663</doc-number>
+                    <kind>A1</kind>
+                    <date>20110603</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CA2723663</doc-number>
+                    <date>20110603</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="334542814">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2723663</doc-number>
+                    <kind>A</kind>
+                    <date>20101203</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>26626009</doc-number>
+                    <kind>P</kind>
+                    <date>20091203</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43531425" country="CA" doc-number="2723663" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2723663</doc-number>
+                            <kind>A1</kind>
+                            <date>20110603</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA2723663</doc-number>
+                            <date>20110603</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A01K  29/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="334542814">
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2723663</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA20102723663</doc-number>
+                            <date>20101203</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2723663</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090266260P</doc-number>
+                                <date>20091203</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/266,260</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>CANINE COLORS LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>CANINE COLORS, LLC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SAUL IAIN [AU]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> FOX-VARSHAVSKY LETITIA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SAUL, IAIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>FOX-VARSHAVSKY, LETITIA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEMS AND METHODS FOR GENERATING PERSONALITY PROFILES FOR ANIMALS</invention-title>
+                    <invention-title lang="fr">SYSTEMES ET PROCEDES POUR GENERER DES PROFILS DE PERSONNALITE D'ANIMAUX</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method of generating a personality profile of at least two animals to determine compatibility potential between the animals, comprises: obtaining a set of answers to a plurality of queries relating to a first of the animals</p>
+                    <p> obtaining a set of answers to a plurality of queries relating to a second of the animals</p>
+                    <p> tabulating each of the sets of answers to obtain an overall score for each of the animals</p>
+                    <p> comparing the overall scores of each of the animals one to another</p>
+                    <p> and determining a compatibility potential between the animals based upon the comparison of the overall scores.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43531425">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>GB</country>
+                    <doc-number>201020519</doc-number>
+                    <kind>D0</kind>
+                    <date>20110119</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>GB201020519D</doc-number>
+                    <date>20110119</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="331597925">
+                <document-id document-id-type="docdb">
+                    <country>GB</country>
+                    <doc-number>201020519</doc-number>
+                    <kind>A</kind>
+                    <date>20101203</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>26626009</doc-number>
+                    <kind>P</kind>
+                    <date>20091203</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+        </ops:family-member>
+        <ops:family-member family-id="43531425">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>GB</country>
+                    <doc-number>2477013</doc-number>
+                    <kind>A</kind>
+                    <date>20110720</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>GB2477013</doc-number>
+                    <date>20110720</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="331597925">
+                <document-id document-id-type="docdb">
+                    <country>GB</country>
+                    <doc-number>201020519</doc-number>
+                    <kind>A</kind>
+                    <date>20101203</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>26626009</doc-number>
+                    <kind>P</kind>
+                    <date>20091203</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43531425" country="GB" doc-number="2477013" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>GB</country>
+                            <doc-number>2477013</doc-number>
+                            <kind>A</kind>
+                            <date>20110720</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>GB2477013</doc-number>
+                            <date>20110720</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  90/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>90</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                            <generating-office>
+                                <country>EP</country>
+                            </generating-office>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="331597925">
+                        <document-id document-id-type="docdb">
+                            <country>GB</country>
+                            <doc-number>201020519</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>GB20100020519</doc-number>
+                            <date>20101203</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>1020519</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090266260P</doc-number>
+                                <date>20091203</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61266260</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SAUL IAIN [AU]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> FOX-VARSHAVSKY LETITIA [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>IAIN SAUL, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>LETITIA FOX-VARSHAVSKY</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SAUL IAIN [AU]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> FOX-VARSHAVSKY LETITIA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>IAIN SAUL, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>LETITIA FOX-VARSHAVSKY</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Generating a measure of a level of compatibility</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A system and method of generating a measure of a level of compatibility between at least two animals, such as a human and a pet, to determine compatibility potential between the animals is disclosed. The method comprises obtaining a set of answers to a plurality of queries 12-22 relating to a first of the animals, obtaining a set of answers to a plurality of queries relating to a second of the animals and tabulating each of the sets of answers to obtain an overall score 44-50 for each of the animals. The overall scores of each of the animals are then compared one to another, and a compatibility potential between the animals is determined based upon the comparison of the overall scores. The score may be recorded on a card or an electronic medium. A computer may be used to determine a compatibility potential.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="6"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="48094961" country="US" doc-number="2013254095" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2013254095</doc-number>
+                        <kind>A1</kind>
+                        <date>20130926</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2013254095</doc-number>
+                        <date>20130926</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  40/    02            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>025</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="410686152">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201313866844</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201313866844</doc-number>
+                        <date>20130419</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13866844</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201313866844</doc-number>
+                            <date>20130419</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>09836953</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20010836953</doc-number>
+                            <date>20010417</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>KELLER KATHLEEN M [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> YORK SHERYL M [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>KELLER KATHLEEN M, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>YORK SHERYL M</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>KELLER KATHLEEN M [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> YORK SHERYL M [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>KELLER KATHLEEN M, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>YORK SHERYL M</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">SYSTEM AND METHOD FOR DETECTING CHANGES IN BUSINESS STABILITY</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A system for detecting changes in business stability is provided. The system includes a merchant system that receives periodic payment data from one or more users, such as credit card transaction data. A credit processor coupled to the merchant system receives the periodic payment data from the merchant system and stores the periodic payment data, such as when the credit processor is compiling the credit card transaction data for submission to a credit card company. A merchant credit/risk system coupled to the credit processor generates business stability data from the periodic payment data, such as by determining when changes in the periodic payment data exceed allowable variations for such changes.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

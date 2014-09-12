@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="85"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2011029349</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="38997220">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2011029349</doc-number>
+                    <kind>A1</kind>
+                    <date>20110203</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2011029349</doc-number>
+                    <date>20110203</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="331523314" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>37581707</doc-number>
+                    <kind>A</kind>
+                    <date>20070731</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2007064982</doc-number>
+                    <kind>W</kind>
+                    <date>20070731</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2006208959</doc-number>
+                    <kind>A</kind>
+                    <date>20060731</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="38997220" country="US" doc-number="2011029349" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2011029349</doc-number>
+                            <kind>A1</kind>
+                            <date>20110203</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2011029349</doc-number>
+                            <date>20110203</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  10/    06            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06Q  10/    10            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="4">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>1/1</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="331523314">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>37581707</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070375817</doc-number>
+                            <date>20070731</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12375817</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20060208959</doc-number>
+                                <date>20060731</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2006-208959</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2007JP64982</doc-number>
+                                <date>20070731</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> PCT/JP2007/064982</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>P &amp; W SOLUTIONS CO LTD [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>P&amp;W SOLUTIONS CO., LTD</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>OMIYA TOSHIYUKI [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>OMIYA TOSHIYUKI</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM, COMPUTER-ACCESSIBLE MEDIUM AND METHOD FOR PROVIDING WORKER DISTRIBUTION PLAN ON BASIS OF PRIORITY</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007206769</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007206769</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005091098</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005091098</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004039628</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004039628</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <nplcit num="1">
+                                <text>Ernst, A.T., H. Jiang, et al, et al. "Staff scheduling and
+        rostering: A review of applications, methods and models."
+        European Journal of Operational Research. 153.1 (2004):
+        3-27. Print</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for making a worker distribution plan on the basis of the priority, a computer, and a program are provided. A computer (10) makes skill level data the top priority and selects workers to be assigned to each work for each predetermined period in descending order of the skill level data according to necessary worker data indicating the number of workers having a necessary skill for each work and for each predetermined period calculated from the predicted value of workload for each predetermined period and priority data indicating the priority for each set of attribute item data and used for selecting workers to be assigned to the work.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="38997220">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2008033814</doc-number>
+                    <kind>A</kind>
+                    <date>20080214</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>JP2008033814</doc-number>
+                    <date>20080214</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="39323117">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2006208959</doc-number>
+                    <kind>A</kind>
+                    <date>20060731</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2006208959</doc-number>
+                    <kind>A</kind>
+                    <date>20060731</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="38997220" country="JP" doc-number="2008033814" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2008033814</doc-number>
+                            <kind>A</kind>
+                            <date>20080214</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP2008033814</doc-number>
+                            <date>20080214</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  10/    06            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06Q  10/    10            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="4">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06F17/60&amp;162A</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06Q10/00</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06Q10/06&amp;130</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06Q10/10&amp;110</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="5">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06Q50/00</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="39323117">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2006208959</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20060208959</doc-number>
+                            <date>20060731</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2006208959</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20060208959</doc-number>
+                                <date>20060731</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>P &amp; W SOLUTIONS CO LTD</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>P &amp; W SOLUTIONS CO LTD</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>OMIYA TOSHIYUKI</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>OMIYA TOSHIYUKI</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHOD, COMPUTER AND PROGRAM FOR ALLOCATING STAFF ACCORDING TO PRIORITY</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2005259067</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2005259067</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JPH08321885</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>H08321885</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2002149931</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2002149931</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2002366611</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2002366611</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2003178132</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2003178132</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JPH10254962</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>H10254962</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>PROBLEM TO BE SOLVED: To provide a method, computer and program for allocating staff according to priority. </p>
+                    <p>SOLUTION: The computer 10 puts highest priority on skill level data, and selects staff members to be assigned to each job for each predetermined period in descending order of the skill level data value, according to required staff data showing the number of skilled staff members required for each job for each predetermined period which is calculated from an estimated job volume for the predetermined period, and priority data showing the priority of attribute item data in selecting a staff to be assigned to jobs. </p>
+                    <p>COPYRIGHT: (C)2008,JPO&amp;INPIT</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="38997220">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>5006594</doc-number>
+                    <kind>B2</kind>
+                    <date>20120822</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>JP5006594B</doc-number>
+                    <date>20120822</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="39323117">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2006208959</doc-number>
+                    <kind>A</kind>
+                    <date>20060731</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2006208959</doc-number>
+                    <kind>A</kind>
+                    <date>20060731</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="38997220" country="JP" doc-number="5006594" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>5006594</doc-number>
+                            <kind>B2</kind>
+                            <date>20120822</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP5006594B</doc-number>
+                            <date>20120822</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    06            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06Q  10/    10            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="4">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06F17/60&amp;162A</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06Q10/00</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06Q10/06&amp;130</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06Q10/10&amp;110</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="5">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>G06Q50/00</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="39323117">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2006208959</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20060208959</doc-number>
+                            <date>20060731</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2006208959</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20060208959</doc-number>
+                                <date>20060731</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties/>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="38997220">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2008016046</doc-number>
+                    <kind>A1</kind>
+                    <date>20080207</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2008016046</doc-number>
+                    <date>20080207</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="39585908">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2007064982</doc-number>
+                    <kind>W</kind>
+                    <date>20070731</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2006208959</doc-number>
+                    <kind>A</kind>
+                    <date>20060731</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="38997220" country="WO" doc-number="2008016046" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2008016046</doc-number>
+                            <kind>A1</kind>
+                            <date>20080207</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2008016046</doc-number>
+                            <date>20080207</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  10/    06            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06Q  10/    10            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="4">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="39585908">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2007064982</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2007JP64982</doc-number>
+                            <date>20070731</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>JP2007/064982</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20060208959</doc-number>
+                                <date>20060731</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2006-208959</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>P &amp; W SOLUTIONS CO LTD [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> OMIYA TOSHIYUKI [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>P &amp; W SOLUTIONS CO., LTD, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>OMIYA, TOSHIYUKI</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>OMIYA TOSHIYUKI [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>OMIYA, TOSHIYUKI</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHOD FOR MAKING WORKER DISTRIBUTION PLAN ON THE BASIS OF PRIORITY, COMPUTER, AND PROGRAM</invention-title>
+                    <invention-title lang="fr">PROCÉDÉ, ORDINATEUR ET LOGICIEL POUR RÉALISER UN PLAN DE RÉPARTITION D'EMPLOYÉS EN FONCTION DE PRIORITÉS</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2002149931</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2002149931</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2005259067</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2005259067</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JPH08321885</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>H08321885</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for making a worker distribution plan on the basis of the priority, a computer, and a program are provided. A computer (10) makes skill level data the top priority and selects workers to be assigned to each work for each predetermined period in descending order of the skill level data according to necessary worker data indicating the number of workers having a necessary skill for each work and for each predetermined period calculated from the predicted value of workload for each predetermined period and priority data indicating the priority for each set of attribute item data and used for selecting workers to be assigned to the work.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>La présente invention concerne un procédé, un ordinateur et un logiciel pour réaliser un plan de répartition d'employés en fonction de priorités. Un ordinateur (10) attribue la priorité la plus haute aux données de niveaux de compétence et sélectionne des employés à affecter à chaque travail pour chaque période prédéterminée en ordre décroissant de données de niveaux de compétence en fonction, d'une part, des données d'employés nécessaires indiquant le nombre d'employés qui ont une compétence nécessaire pour chaque travail et pour chaque période prédéterminée, (calculée à partir de la valeur prévue de charge de travail pour chaque période prédéterminée) et, d'autre part, des données de priorité qui indiquent la priorité pour chaque ensemble de données d'éléments d'attributs, et sont utilisées pour sélectionner les employés à affecter au travail.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

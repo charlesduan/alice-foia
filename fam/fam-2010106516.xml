@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="56"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2010106516</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="42118363">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010106516</doc-number>
+                    <kind>A1</kind>
+                    <date>20100429</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2010106516</doc-number>
+                    <date>20100429</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="315438767" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>25700308</doc-number>
+                    <kind>A</kind>
+                    <date>20081023</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>25700308</doc-number>
+                    <kind>A</kind>
+                    <date>20081023</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="42118363" country="US" doc-number="2010106516" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2010106516</doc-number>
+                            <kind>A1</kind>
+                            <date>20100429</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2010106516</doc-number>
+                            <date>20100429</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>3481</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>22</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/2</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="315438767">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>25700308</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20080257003</doc-number>
+                            <date>20081023</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12257003</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080257003</doc-number>
+                                <date>20081023</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>HANNON TIMOTHY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>HANNON TIMOTHY</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHOD FOR OPTIMIZING BLOOD UTILIZATION</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <nplcit num="1">
+                                <text>Bloodmanagement.com from Archive.org cached 27 March 2006;
+        retrieved 2 November 2011</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method of measuring and assessing blood product utilization. The method comprises calculating a transfusion exposure score, the transfusion exposure score being an average amount of a blood product used for a patient population during a time period for a health care facilities</p>
+                    <p> calculating a mean transfusion exposure score, the mean transfusion exposure score being a geometric mean of a plurality of transfusion exposure scores within a database for the blood product and for the patient population over the period of time for a plurality of health care facilities</p>
+                    <p> calculating a benchmark transfusion exposure score, the benchmark transfusion exposure score being the transfusion exposure score of a best practice facility having the lowest transfusion exposure score of the plurality of transfusion exposure scores in the database with corresponding average or better patient outcomes</p>
+                    <p> calculating a transfusion propensity score, the transfusion propensity score being a ratio of the transfusion exposure score of the health care facility to the benchmark transfusion exposure score for the blood product and used for the patient population</p>
+                    <p> and analyzing the transfusion exposure score, the mean transfusion exposure score, the benchmark transfusion exposure score, and the transfusion propensity score to quantify opportunities for operational and financial improvement within the health care provider facility.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="42118363">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2739328</doc-number>
+                    <kind>A1</kind>
+                    <date>20100429</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CA2739328</doc-number>
+                    <date>20100429</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="334333325">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2739328</doc-number>
+                    <kind>A</kind>
+                    <date>20091022</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009061638</doc-number>
+                    <kind>W</kind>
+                    <date>20091022</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>25700308</doc-number>
+                    <kind>A</kind>
+                    <date>20081023</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="42118363" country="CA" doc-number="2739328" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2739328</doc-number>
+                            <kind>A1</kind>
+                            <date>20100429</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA2739328</doc-number>
+                            <date>20100429</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>3481</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>22</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="334333325">
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2739328</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA20092739328</doc-number>
+                            <date>20091022</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2739328</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080257003</doc-number>
+                                <date>20081023</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/257,003</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2009US61638</doc-number>
+                                <date>20091022</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> PCT/US2009/061638</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>STRATEGIC HEALTHCARE GROUP LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>STRATEGIC HEALTHCARE GROUP, LLC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>HANNON TIMOTHY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>HANNON, TIMOTHY</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHOD FOR OPTIMIZING BLOOD UTILIZATION</invention-title>
+                    <invention-title lang="fr">PROCEDE D'OPTIMISATION DE L'UTILISATION DE SANG</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method of measuring and assessing blood product utilization. The method comprises calculating a transfusion exposure score, the transfusion exposure score being an average amount of a blood product used for a patient population during a time period for a health care facilities, calculating a mean transfusion exposure score, the mean transfusion exposure score being a geometric mean of a plurality of transfusion exposure scores within a database for the blood product and for the patient population over the period of time for a plurality of health care facilities, calculating a benchmark transfusion exposure score, calculating a transfusion propensity score, and analyzing the transfusion exposure score, the mean transfusion exposure score, the benchmark transfusion exposure score, and the transfusion propensity score to quantify opportunities for operational and financial improvement within the health care provider facility.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="42118363">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2010048380</doc-number>
+                    <kind>A1</kind>
+                    <date>20100429</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2010048380</doc-number>
+                    <date>20100429</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="315441391">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009061638</doc-number>
+                    <kind>W</kind>
+                    <date>20091022</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>25700308</doc-number>
+                    <kind>A</kind>
+                    <date>20081023</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="42118363" country="WO" doc-number="2010048380" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2010048380</doc-number>
+                            <kind>A1</kind>
+                            <date>20100429</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2010048380</doc-number>
+                            <date>20100429</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>3481</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>22</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="315441391">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009061638</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009US61638</doc-number>
+                            <date>20091022</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2009/061638</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080257003</doc-number>
+                                <date>20081023</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/257,003</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>STRATEGIC HEALTHCARE GROUP LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> HANNON TIMOTHY [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>STRATEGIC HEALTHCARE GROUP, LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>HANNON, TIMOTHY</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>HANNON TIMOTHY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>HANNON, TIMOTHY</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHOD FOR OPTIMIZING BLOOD UTILIZATION</invention-title>
+                    <invention-title lang="fr">PROCÉDÉ D'OPTIMISATION DE L'UTILISATION DE SANG</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="US">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008147444</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008147444</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2">
+                            <nplcit num="1">
+                                <text>'Executive Seminar in Blood Management', 27 March 2006</text>
+                            </nplcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3">
+                            <nplcit num="2">
+                                <text>BOUCHER ET AL.: 'Blood Management: A Primer for Clinicians'
+        PHARMACOTHERAPY, [Online] vol. 27, no. 10, 2007, pages 1394
+        - 1411 Retrieved from the Internet:
+        &lt;URL:http://www.medscape.com/viewarticle/564606_print>
+        [retrieved on 2009-12-09]</text>
+                            </nplcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="4">
+                            <nplcit num="3">
+                                <text>NERI ET AL.: 'Application of Six Sigma/CAP Methodology:
+        Controlling Blood-Product Utilization and
+        Costs/PRACTITIONER APPLICATION' JOURNAL OF HEALTHCARE
+        MANAGEMENT, [Online] vol. 53, no. 3, June 2008, pages 183 -
+        95 Retrieved from the Internet:
+        &lt;URL:http://www.allbusiness.com/medicine-he alth/medical-
+        treatments-procedures/10596967-1.html> [retrieved on
+        2009-12-09]</text>
+                            </nplcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method of measuring and assessing blood product utilization. The method comprises calculating a transfusion exposure score, the transfusion exposure score being an average amount of a blood product used for a patient population during a time period for a health care facilities, calculating a mean transfusion exposure score, the mean transfusion exposure score being a geometric mean of a plurality of transfusion exposure scores within a database for the blood product and for the patient population over the period of time for a plurality of health care facilities, calculating a benchmark transfusion exposure score, calculating a transfusion propensity score, and analyzing the transfusion exposure score, the mean transfusion exposure score, the benchmark transfusion exposure score, and the transfusion propensity score to quantify opportunities for operational and financial improvement within the health care provider facility.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un procédé de mesure et d'estimation de l'utilisation de produit sanguin. Le procédé consiste à calculer un score d'exposition de transfusion, le score d'exposition de transfusion étant une quantité moyenne d'un produit sanguin utilisé pour une population de patients pendant une période de temps pour des installations de soin, calculer un score d'exposition de transfusion moyen, le score d'exposition de transfusion moyen étant une moyenne géométrique d'une pluralité de scores d'exposition de transfusion dans une base de données pour le produit sanguin et pour la population de patients dans la période de temps pour une pluralité d'installations de soin, calculer un score d'exposition de transfusion de référence, calculer un score de propension de transfusion, et analyser le score d'exposition de transfusion,</p>
+                    <p> le score d'exposition de transfusion moyen, le score d'exposition de transfusion de référence et le score de propension de transfusion pour quantifier des opportunités d'amélioration opérationnelle et financière de l'installation du fournisseur de soins.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

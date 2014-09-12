@@ -1,0 +1,2902 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="102"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2014143113</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="44143983">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2014143113</doc-number>
+                    <kind>A1</kind>
+                    <date>20140522</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2014143113</doc-number>
+                    <date>20140522</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="418169147">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313915189</doc-number>
+                    <kind>A</kind>
+                    <date>20130611</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313915189</doc-number>
+                    <kind>A</kind>
+                    <date>20130611</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313746151</doc-number>
+                    <kind>A</kind>
+                    <date>20130121</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>1</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63753609</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>1</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44143983" country="US" doc-number="2014143113" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2014143113</doc-number>
+                            <kind>A1</kind>
+                            <date>20140522</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2014143113</doc-number>
+                            <date>20140522</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    04            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="418169147">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201313915189</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201313915189</doc-number>
+                            <date>20130611</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13915189</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201313915189</doc-number>
+                                <date>20130611</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>13746151</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201313746151</doc-number>
+                                <date>20130121</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 12637536</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637536</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ROONEY PATRICK J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ROONEY PATRICK J</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Cover-OCO For Legged Order</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A position associated with a synthetic spread order may be managed where a status of a synthetic spread order is identified as legged. The synthetic spread order may have at least one child hedge order pending at an electronic exchange and in response, a bracket order is submitted to an electronic exchange for the tradeable object associated with a filled leg of the synthetic spread. In response to execution of the bracket order, the child hedge order may be cancelled.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44227103">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2010337311</doc-number>
+                    <kind>A1</kind>
+                    <date>20120607</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>AU2010337311</doc-number>
+                    <date>20120607</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="365697391">
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2010337311</doc-number>
+                    <kind>A</kind>
+                    <date>20101103</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010055336</doc-number>
+                    <kind>W</kind>
+                    <date>20101103</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63751709</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63753609</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44227103" country="AU" doc-number="2010337311" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2010337311</doc-number>
+                            <kind>A1</kind>
+                            <date>20120607</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU2010337311</doc-number>
+                            <date>20120607</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="365697391">
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2010337311</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU20100337311</doc-number>
+                            <date>20101103</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2010337311</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637536</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/637,536</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637517</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 12/637,517</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010US55336</doc-number>
+                                <date>20101103</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> US2010/055336</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>HALDES TOM JAMES</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MINTZ SAGY P</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MESSINA PATRICIA A</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DEITZ ALEXANDER D</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ROONEY PATRICK J</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>HALDES, TOM JAMES, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MINTZ, SAGY P, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>MESSINA, PATRICIA A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>DEITZ, ALEXANDER D, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>ROONEY, PATRICK J</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Synthetic spread trading</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Synthetic spread trading strategies are represented and managed as homogeneous tradeable objects. Relationships between a synthetic spread and its constituent parts are defined and states for a spread are developed for accurately reporting, tracking and otherwise administering a synthetic spread and its constituent parts. A state of a synthetic spread is identified as working, pending, legged or filled. The states, in addition to identification of a synthetic spread's constituent parts, introduces information to allow a spread order and its post trade analysis to be consistently and effectively managed by multiple trading tools.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44227103">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2010337311</doc-number>
+                    <kind>B2</kind>
+                    <date>20140807</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>AU2010337311B</doc-number>
+                    <date>20140807</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="365697391">
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2010337311</doc-number>
+                    <kind>A</kind>
+                    <date>20101103</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010055336</doc-number>
+                    <kind>W</kind>
+                    <date>20101103</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63751709</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63753609</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44227103" country="AU" doc-number="2010337311" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2010337311</doc-number>
+                            <kind>B2</kind>
+                            <date>20140807</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU2010337311B</doc-number>
+                            <date>20140807</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="365697391">
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2010337311</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU20100337311</doc-number>
+                            <date>20101103</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2010337311</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637536</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/637,536</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637517</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 12/637,517</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010US55336</doc-number>
+                                <date>20101103</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> US2010/055336</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>HALDES TOM JAMES</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MINTZ SAGY P</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MESSINA PATRICIA A</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DEITZ ALEXANDER D</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ROONEY PATRICK J</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>HALDES, TOM JAMES, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MINTZ, SAGY P, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>MESSINA, PATRICIA A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>DEITZ, ALEXANDER D, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>ROONEY, PATRICK J</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Synthetic spread trading</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007156567</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007156567</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008077521</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008077521</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>WO2009054979</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>WO</country>
+                                    <doc-number>2009054979</doc-number>
+                                    <kind>A2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Synthetic spread trading strategies are represented and managed as homogeneous tradeable objects. Relationships between a synthetic spread and its constituent parts are defined and states for a spread are developed for accurately reporting, tracking and otherwise administering a synthetic spread and its constituent parts. A state of a synthetic spread is identified as working, pending, legged or filled. The states, in addition to identification of a synthetic spread's constituent parts, introduces information to allow a spread order and its post trade analysis to be consistently and effectively managed by multiple trading tools.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44227103">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2780802</doc-number>
+                    <kind>A1</kind>
+                    <date>20110707</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CA2780802</doc-number>
+                    <date>20110707</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="365207355">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2780802</doc-number>
+                    <kind>A</kind>
+                    <date>20101103</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010055336</doc-number>
+                    <kind>W</kind>
+                    <date>20101103</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63751709</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63753609</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44227103" country="CA" doc-number="2780802" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2780802</doc-number>
+                            <kind>A1</kind>
+                            <date>20110707</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA2780802</doc-number>
+                            <date>20110707</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="365207355">
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2780802</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA20102780802</doc-number>
+                            <date>20101103</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2780802</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637536</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/637,536</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637517</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 12/637,517</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010US55336</doc-number>
+                                <date>20101103</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> PCT/US2010/055336</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>HALDES TOM JAMES [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MINTZ SAGY P [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MESSINA PATRICIA A [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DEITZ ALEXANDER D [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ROONEY PATRICK J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>HALDES, TOM JAMES, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MINTZ, SAGY P, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>MESSINA, PATRICIA A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>DEITZ, ALEXANDER D, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>ROONEY, PATRICK J</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYNTHETIC SPREAD TRADING</invention-title>
+                    <invention-title lang="fr">ECHANGE SUR DES ECARTS SYNTHETIQUES</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Synthetic spread trading strategies are represented and managed as homogeneous tradeable objects. Relationships between a synthetic spread and its constituent parts are defined and states for a spread are developed for accurately reporting, tracking and otherwise administering a synthetic spread and its constituent parts. A state of a synthetic spread is identified as working, pending, legged or filled. The states, in addition to identification of a synthetic spread's constituent parts, introduces information to allow a spread order and its post trade analysis to be consistently and effectively managed by multiple trading tools.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44227103">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2013513886</doc-number>
+                    <kind>A</kind>
+                    <date>20130422</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>JP2013513886</doc-number>
+                    <date>20130422</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="406882874">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012544512</doc-number>
+                    <kind>A</kind>
+                    <date>20101103</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010055336</doc-number>
+                    <kind>W</kind>
+                    <date>20101103</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63751709</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63753609</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44227103" country="JP" doc-number="2013513886" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2013513886</doc-number>
+                            <kind>A</kind>
+                            <date>20130422</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP2013513886</doc-number>
+                            <date>20130422</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    04            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="406882874">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2012544512</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20120544512</doc-number>
+                            <date>20101103</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2012544512</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637536</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2009 637536</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637517</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 2009 637517</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010US55336</doc-number>
+                                <date>20101103</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 2010/055336</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties/>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2005100098</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2005100098</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2009080836</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2009080836</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2004310761</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2004310761</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2004531828</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2004531828</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44143983">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2011145124</doc-number>
+                    <kind>A1</kind>
+                    <date>20110616</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2011145124</doc-number>
+                    <date>20110616</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="334687950" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63753609</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63753609</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44143983" country="US" doc-number="2011145124" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2011145124</doc-number>
+                            <kind>A1</kind>
+                            <date>20110616</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2011145124</doc-number>
+                            <date>20110616</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/37</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="334687950">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>63753609</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090637536</doc-number>
+                            <date>20091214</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12637536</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637536</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC [US]
+</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>ROONEY PATRICK J</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ROONEY PATRICK J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ROONEY PATRICK J</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Cover-OCO for Legged Order</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011040668</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011040668</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008077521</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008077521</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010017321</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010017321</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010145874</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010145874</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A position associated with a synthetic spread order may be managed where a status of a synthetic spread order is identified as legged. The synthetic spread order may have at least one child hedge order pending at an electronic exchange and in response, a bracket order is submitted to an electronic exchange for the tradeable object associated with a filled leg of the synthetic spread. In response to execution of the bracket order, the child hedge order may be cancelled.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44143983">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>8386368</doc-number>
+                    <kind>B2</kind>
+                    <date>20130226</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US8386368</doc-number>
+                    <date>20130226</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="334687950" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63753609</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63753609</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44143983" country="US" doc-number="8386368" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>8386368</doc-number>
+                            <kind>B2</kind>
+                            <date>20130226</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US8386368</doc-number>
+                            <date>20130226</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/37</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="334687950">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>63753609</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090637536</doc-number>
+                            <date>20091214</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12637536</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637536</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ROONEY PATRICK J [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>ROONEY PATRICK J</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ROONEY PATRICK J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ROONEY PATRICK J</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Cover-OCO for Legged Order</invention-title>
+                    <references-cited>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6772132</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6772132</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6938011</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6938011</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7127424</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7127424</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7228289</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7228289</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7389264</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7389264</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7389268</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7389268</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7424450</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7424450</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7437325</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7437325</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005154668</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005154668</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011040669</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011040669</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="11">
+                            <nplcit num="1">
+                                <text>- Unpublished U.S. Appl. No. 11/689,178, entitled "System and
+  Method for Management and Analysis of Electronic Trade Orders",
+  filed Mar. 21, 2007</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="12">
+                            <nplcit num="2">
+                                <text>- Unpublished U.S. Appl. No. 12/410,210, entitled "System and
+  Method for a Risk Check", filed Mar. 24, 2009</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="13">
+                            <nplcit num="3">
+                                <text>- Unpublished U.S. Appl. No. 12/410,759, entitled "Systems and
+  Methods for Multiplier-Adjusted Levels for Trading Strategies",
+  filed Mar. 25, 2009</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008077521</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008077521</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010017321</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010017321</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010145874</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010145874</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011040668</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011040668</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A position associated with a synthetic spread order may be managed where a status of a synthetic spread order is identified as legged. The synthetic spread order may have at least one child hedge order pending at an electronic exchange and in response, a bracket order is submitted to an electronic exchange for the tradeable object associated with a filled leg of the synthetic spread. In response to execution of the bracket order, the child hedge order may be cancelled.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44143983">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013138550</doc-number>
+                    <kind>A1</kind>
+                    <date>20130530</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013138550</doc-number>
+                    <date>20130530</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="406811592">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313746151</doc-number>
+                    <kind>A</kind>
+                    <date>20130121</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313746151</doc-number>
+                    <kind>A</kind>
+                    <date>20130121</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63753609</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>1</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44143983" country="US" doc-number="2013138550" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013138550</doc-number>
+                            <kind>A1</kind>
+                            <date>20130530</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013138550</doc-number>
+                            <date>20130530</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    04            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="406811592">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201313746151</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201313746151</doc-number>
+                            <date>20130121</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13746151</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201313746151</doc-number>
+                                <date>20130121</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12637536</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637536</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> TRADING TECHNOLOGIES INT INC [US]
+</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ROONEY PATRICK J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ROONEY PATRICK J</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Cover-OCO for Legged Order</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A position associated with a synthetic spread order may be managed where a status of a synthetic spread order is identified as legged. The synthetic spread order may have at least one child hedge order pending at an electronic exchange and in response, a bracket order is submitted to an electronic exchange for the tradeable object associated with a filled leg of the synthetic spread. In response to execution of the bracket order, the child hedge order may be cancelled.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44143983">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>8498927</doc-number>
+                    <kind>B2</kind>
+                    <date>20130730</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US8498927</doc-number>
+                    <date>20130730</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="406811592">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313746151</doc-number>
+                    <kind>A</kind>
+                    <date>20130121</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313746151</doc-number>
+                    <kind>A</kind>
+                    <date>20130121</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63753609</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>1</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44143983" country="US" doc-number="8498927" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>8498927</doc-number>
+                            <kind>B2</kind>
+                            <date>20130730</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US8498927</doc-number>
+                            <date>20130730</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="406811592">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201313746151</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201313746151</doc-number>
+                            <date>20130121</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13746151</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201313746151</doc-number>
+                                <date>20130121</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12637536</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637536</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ROONEY PATRICK J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ROONEY PATRICK J</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Cover-OCO for Legged Order</invention-title>
+                    <references-cited>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6772132</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6772132</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6938011</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6938011</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7127424</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7127424</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7228289</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7228289</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7389264</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7389264</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7389268</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7389268</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7424450</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7424450</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7437325</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7437325</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7788167</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7788167</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7813995</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7813995</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="11">
+                            <patcit dnum-type="publication number" num="11">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005154668</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005154668</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="12">
+                            <patcit dnum-type="publication number" num="12">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010250423</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010250423</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="13">
+                            <patcit dnum-type="publication number" num="13">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011040669</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011040669</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="14">
+                            <patcit dnum-type="publication number" num="14">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011145124</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011145124</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="15">
+                            <nplcit num="1">
+                                <text>- U.S. Appl. No. 12/410,759, filed Mar. 25, 2009, Mintz, et al</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008077521</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008077521</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010017321</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010017321</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010145874</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010145874</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011040668</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011040668</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A position associated with a synthetic spread order may be managed where a status of a synthetic spread order is identified as legged. The synthetic spread order may have at least one child hedge order pending at an electronic exchange and in response, a bracket order is submitted to an electronic exchange for the tradeable object associated with a filled leg of the synthetic spread. In response to execution of the bracket order, the child hedge order may be cancelled.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44144002">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2011145165</doc-number>
+                    <kind>A1</kind>
+                    <date>20110616</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2011145165</doc-number>
+                    <date>20110616</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="334687990" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63751709</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63751709</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44144002" country="US" doc-number="2011145165" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2011145165</doc-number>
+                            <kind>A1</kind>
+                            <date>20110616</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2011145165</doc-number>
+                            <date>20110616</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/36R</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/37</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="334687990">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>63751709</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090637517</doc-number>
+                            <date>20091214</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12637517</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637517</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>HALDES TOM JAMES [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MINTZ SAGY P [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MESSINA PATRICIA A [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DEITZ ALEXANDER D [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>HALDES TOM JAMES, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MINTZ SAGY P, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>MESSINA PATRICIA A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>DEITZ ALEXANDER D</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Synthetic Spread Trading</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008077521</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008077521</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010299243</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010299243</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7856396</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7856396</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011145124</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011145124</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009112775</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009112775</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US8386368</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>8386368</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US8417621</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>8417621</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US8498927</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>8498927</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US8781946</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>8781946</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Synthetic spread trading strategies are represented and managed as homogeneous tradeable objects. Relationships between a synthetic spread and its constituent parts are defined and states for a spread are developed for accurately reporting, tracking and otherwise administering a synthetic spread and its constituent parts. A state of a synthetic spread is identified as working, pending, legged or filled. The states, in addition to identification of a synthetic spread's constituent parts, introduces information to allow a spread order and its post trade analysis to be consistently and effectively managed by multiple trading tools.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44227103">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2011081711</doc-number>
+                    <kind>A2</kind>
+                    <date>20110707</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2011081711</doc-number>
+                    <date>20110707</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="329264935" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010055336</doc-number>
+                    <kind>W</kind>
+                    <date>20101103</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63751709</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63753609</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44227103" country="WO" doc-number="2011081711" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2011081711</doc-number>
+                            <kind>A2</kind>
+                            <date>20110707</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2011081711</doc-number>
+                            <date>20110707</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="329264935">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2010055336</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2010US55336</doc-number>
+                            <date>20101103</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2010/055336</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637536</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/637,536</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637517</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 12/637,517</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> HALDES TOM JAMES</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MINTZ SAGY P</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MESSINA PATRICIA A</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> DEITZ ALEXANDER D</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ROONEY PATRICK J
+</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>HALDES, TOM, JAMES, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>MINTZ, SAGY, P, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>MESSINA, PATRICIA, A, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>DEITZ, ALEXANDER, D, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="original">
+                                <applicant-name>
+                                    <name>ROONEY, PATRICK, J</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>HALDES TOM JAMES</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MINTZ SAGY P</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MESSINA PATRICIA A</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DEITZ ALEXANDER D</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ROONEY PATRICK J
+</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>HALDES, TOM, JAMES, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MINTZ, SAGY, P, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>MESSINA, PATRICIA, A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>DEITZ, ALEXANDER, D, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>ROONEY, PATRICK, J</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYNTHETIC SPREAD TRADING</invention-title>
+                    <invention-title lang="fr">ÉCHANGE SUR DES ÉCARTS SYNTHÉTIQUES</invention-title>
+                    <references-cited>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                            <patcit dnum-type="application number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US20070689178</doc-number>
+                                    <date>20070321</date>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>20070689178</doc-number>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                            <patcit dnum-type="application number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US20040804631</doc-number>
+                                    <date>20040319</date>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>20040804631</doc-number>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                            <patcit dnum-type="application number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US20090410759</doc-number>
+                                    <date>20090325</date>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>20090410759</doc-number>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                            <patcit dnum-type="application number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US20090410210</doc-number>
+                                    <date>20090324</date>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>20090410210</doc-number>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7437325</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7437325</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6772132</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6772132</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6938011</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6938011</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7127424</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7127424</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7389268</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7389268</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7228289</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7228289</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="11">
+                            <patcit dnum-type="publication number" num="11">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7389264</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7389264</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="12">
+                            <patcit dnum-type="publication number" num="12">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7424450</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7424450</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="US">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007078749</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007078749</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="US">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007156567</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007156567</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="US">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009112775</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009112775</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Synthetic spread trading strategies are represented and managed as homogeneous tradeable objects. Relationships between a synthetic spread and its constituent parts are defined and states for a spread are developed for accurately reporting, tracking and otherwise administering a synthetic spread and its constituent parts. A state of a synthetic spread is identified as working, pending, legged or filled. The states, in addition to identification of a synthetic spread's constituent parts, introduces information to allow a spread order and its post trade analysis to be consistently and effectively managed by multiple trading tools.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention porte sur des stratégies d'échange, sur des écarts synthétiques, qui sont représentées et gérées sous la forme d'objets homogènes pouvant être commercialisés. Des relations entre un écart synthétique et ses parties constitutives sont définies, et des états pour un écart sont développés pour un rapport et un suivi précis, autrement pour une administration précise d'un écart synthétique et de ses parties constitutives. Un état d'un écart synthétique est identifié comme en cours, en attente, branché ou accompli. Les états, en plus d'une identification de parties constitutives d'un écart synthétique, introduisent une information afin de permettre à un ordre d'écart et à son analyse de post-commercialisation d'être gérés de façon cohérente et efficace par de multiples outils de commercialisation.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44227103">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2011081711</doc-number>
+                    <kind>A3</kind>
+                    <date>20120329</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2011081711</doc-number>
+                    <date>20120329</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="329264935" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010055336</doc-number>
+                    <kind>W</kind>
+                    <date>20101103</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63751709</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>63753609</doc-number>
+                    <kind>A</kind>
+                    <date>20091214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44227103" country="WO" doc-number="2011081711" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2011081711</doc-number>
+                            <kind>A3</kind>
+                            <date>20120329</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2011081711</doc-number>
+                            <date>20120329</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="329264935">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2010055336</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2010US55336</doc-number>
+                            <date>20101103</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2010/055336</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637536</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/637,536</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090637517</doc-number>
+                                <date>20091214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 12/637,517</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> HALDES TOM JAMES [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MINTZ SAGY P [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MESSINA PATRICIA A [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> DEITZ ALEXANDER D [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ROONEY PATRICK J [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>HALDES, TOM, JAMES, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>MINTZ, SAGY, P, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>MESSINA, PATRICIA, A, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>DEITZ, ALEXANDER, D, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="original">
+                                <applicant-name>
+                                    <name>ROONEY, PATRICK, J</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>HALDES TOM JAMES [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MINTZ SAGY P [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MESSINA PATRICIA A [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DEITZ ALEXANDER D [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ROONEY PATRICK J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>HALDES, TOM, JAMES, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MINTZ, SAGY, P, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>MESSINA, PATRICIA, A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>DEITZ, ALEXANDER, D, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>ROONEY, PATRICK, J</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYNTHETIC SPREAD TRADING</invention-title>
+                    <invention-title lang="fr">ÉCHANGE SUR DES ÉCARTS SYNTHÉTIQUES</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Synthetic spread trading strategies are represented and managed as homogeneous tradeable objects. Relationships between a synthetic spread and its constituent parts are defined and states for a spread are developed for accurately reporting, tracking and otherwise administering a synthetic spread and its constituent parts. A state of a synthetic spread is identified as working, pending, legged or filled. The states, in addition to identification of a synthetic spread's constituent parts, introduces information to allow a spread order and its post trade analysis to be consistently and effectively managed by multiple trading tools.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention porte sur des stratégies d'échange, sur des écarts synthétiques, qui sont représentées et gérées sous la forme d'objets homogènes pouvant être commercialisés. Des relations entre un écart synthétique et ses parties constitutives sont définies, et des états pour un écart sont développés pour un rapport et un suivi précis, autrement pour une administration précise d'un écart synthétique et de ses parties constitutives. Un état d'un écart synthétique est identifié comme en cours, en attente, branché ou accompli. Les états, en plus d'une identification de parties constitutives d'un écart synthétique, introduisent une information afin de permettre à un ordre d'écart et à son analyse de post-commercialisation d'être gérés de façon cohérente et efficace par de multiples outils de commercialisation.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

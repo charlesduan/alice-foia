@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="6"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="48780212" country="US" doc-number="2013183645" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2013183645</doc-number>
+                        <kind>A1</kind>
+                        <date>20130718</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2013183645</doc-number>
+                        <date>20130718</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G09B   5/    02            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>09</class>
+                        <subclass>B</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>24</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>434/234</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="408855905">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201313792309</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201313792309</doc-number>
+                        <date>20130311</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13792309</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201313792309</doc-number>
+                            <date>20130311</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12501257</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090501257</doc-number>
+                            <date>20090710</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number> 61090794</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20080090794P</doc-number>
+                            <date>20080821</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>WALLACE MATTHEW WAYNE [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> PETERS CARL [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="3" data-format="epodoc">
+                            <applicant-name>
+                                <name> ADITJANDRA ANTONIUS [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>WALLACE MATTHEW WAYNE, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>PETERS CARL, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="3" data-format="original">
+                            <applicant-name>
+                                <name>ADITJANDRA ANTONIUS</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>WALLACE MATTHEW WAYNE [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> PETERS CARL [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> ADITJANDRA ANTONIUS [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>WALLACE MATTHEW WAYNE, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>PETERS CARL, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>ADITJANDRA ANTONIUS</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">ANALYZING EXTERNAL DATA USING A VIRTUAL REALITY WELDING SYSTEM</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <nplcit num="1">
+                            <text>Virtual Reality Welder Training by Nancy C. Porter, Edison
+        Welding Institute; J Allan Cote, General Dynamics Electric
+        Boat; Timothy D. Gifford, VRSim; and Wim Lam FCS Controls.
+        See:http://www.aws.org/conferences/abstracts/05_B.pdf
+        latest date of August 30, 2006</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <nplcit num="2">
+                            <text>Virtual Reality Welder Training by Nancy C. Porter, Edison
+        Welding Institute; J Allan Cote, General Dynamics Electric
+        Boat; Timothy D. Gifford, VRSim; and Wim Lam FCS Controls.
+        See: http://www.aws.org/conferences/abstracts/05_B.pdf
+        latest date of August 30, 2006. (Previously submitted to
+        Applicant)</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A real-time virtual reality welding system including a programmable processor-based subsystem, a spatial tracker operatively connected to the programmable processor-based subsystem, at least one mock welding tool capable of being spatially tracked by the spatial tracker, and at least one display device operatively connected to the programmable processor-based subsystem. The system is capable of simulating, in virtual reality space, a weld puddle having real-time molten metal fluidity and heat dissipation characteristics. The system is further capable of importing data into the virtual reality welding system and analyzing the data to characterize a student welder's progress and to provide training.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

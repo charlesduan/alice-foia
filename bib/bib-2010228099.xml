@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="7"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="41264577" country="US" doc-number="2010228099" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2010228099</doc-number>
+                        <kind>A1</kind>
+                        <date>20100909</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2010228099</doc-number>
+                        <date>20100909</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A61B   5/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>A61B  10/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="3">
+                        <text>A61B  19/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="4">
+                        <text>A61J  15/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="5">
+                        <text>G06F  19/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>3437</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>345</subgroup>
+                        <classification-value>A</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>3481</subgroup>
+                        <classification-value>A</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>600/300</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="323099499">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>67793209</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20090677932</doc-number>
+                        <date>20090319</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>12677932</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20080121326</doc-number>
+                            <date>20080507</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2008-121326 2008</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009JP55476</doc-number>
+                            <date>20090319</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number> PCT/JP2009/055476</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>OTSUKA PHARMA CO LTD [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>OTSUKA PHARMACEUTICAL FACTORY , INC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>HIBI TOSHIFUMI [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> TAKAYAMA TETSURO [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>HIBI TOSHIFUMI, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>TAKAYAMA TETSURO</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">DEVICE FOR PREDICTING PROGNOSIS OF PATIENTS WHO UNDERGO PEG OPERATION, METHOD FOR PREDICTING PROGNOSIS OF PATIENTS WHO UNDERGO PEG OPERATION AND COMPUTER READABLE MEDIUM</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2003101076</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2003101076</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2002165737</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2002165737</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2007055542</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2007055542</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                        <nplcit num="1">
+                            <text>Wermker, K. et al. "Prediction model for early percutaneous
+        endoscopic gastrostomy (PEG) in head and neck cancer
+        treatment." Oral Oncology 48 (2012) pp. 355-360</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                        <nplcit num="2">
+                            <text>Hull, M.A., et al. "Audit of outcome of long-term enteral
+        nutrition by percutaneous endoscopic gastrostomy." The
+        Lancet; Apr 3, 1993; Vol. 341, pp. 869-872</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                        <nplcit num="3">
+                            <text>Rabeneck, Linda, et al. "Ethically justified, clinically
+        comprehensive guidelines for percutaneous endoscopic
+        gastrostomy tube placement." The Lancet; Feb 15, 1997; Vol.
+        349, pp. 496-498</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>The present invention provides a device for predicting prognosis of a patient who undergoes PEG, which allows a doctor to obtain predictive results sufficient to judge whether or not to perform the PEG (percutaneous endoscopic gastrostomy) for the patient. This device includes: a prognosis prediction expression storage section 14 configured to store a prognosis prediction expression, the prognosis prediction expression being calculated by applying prediction input factors and prediction output factors about a first patient who already underwent the PEG, to ANN (artificial neural network)</p>
+                <p> and a processing section 16 configured to: receive diagnosis input factors about a second patient, for judging whether or not to perform the PEG on the second patient</p>
+                <p> calculate diagnosis output factors in response to the diagnosis input factors based on the prognosis prediction expression</p>
+                <p> and output the calculated diagnosis output factors.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

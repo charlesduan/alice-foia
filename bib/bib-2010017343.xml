@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="7"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="26895456" country="US" doc-number="2010017343" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2010017343</doc-number>
+                        <kind>A1</kind>
+                        <date>20100121</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2010017343</doc-number>
+                        <date>20100121</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  40/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/36R</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="274269767">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>50541809</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20090505418</doc-number>
+                        <date>20090717</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>12505418</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090505418</doc-number>
+                            <date>20090717</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>09844198</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20010844198</doc-number>
+                            <date>20010427</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number> 60200088</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20000200088P</doc-number>
+                            <date>20000427</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>WILLIS NICO [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> MUGGLI LAURA [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>WILLIS NICO, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>MUGGLI LAURA</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">COMPUTER-IMPLEMENTED METHOD AND APPARATUS FOR ADJUSTING THE COST BASIS OF A SECURITY</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <nplcit num="1">
+                            <text>Information on Tax Basis Allocations and Related Matters,
+        found on the internet at
+        http://www.hosthotels.com/dividendTax/tbachart3.pdf,
+        October 11, 2007-referring to events in 1998-2000</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <nplcit num="2">
+                            <text>Stock Split Does Become Math Exercise,The Hartford Courant,
+        December 06, 1998 , By Matthew Lubanko</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A computer-implemented method and apparatus for determining a cost basis associated with a plurality of shares of a security. In response to information identifying an issuer, the purchase date and the sale date, a list of capital events that occurred in connection with the security between the purchase date and the sale date is retrieved from a database. One or more shares held adjustment ratios are then retrieved from a database. Each of the shares held adjustment ratios corresponds to one of the capital events that occurred in connection with the security between the purchase date and the sale date. A current cost basis associated with the security may then be determined in accordance with the one or more cost adjustment ratios and the purchase price per share of the security.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

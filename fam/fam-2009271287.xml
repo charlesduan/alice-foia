@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="65"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2009271287</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="41215942">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009271287</doc-number>
+                    <kind>A1</kind>
+                    <date>20091029</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2009271287</doc-number>
+                    <date>20091029</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="267930346" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>42965709</doc-number>
+                    <kind>A</kind>
+                    <date>20090424</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>20283809</doc-number>
+                    <kind>P</kind>
+                    <date>20090410</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>42965709</doc-number>
+                    <kind>A</kind>
+                    <date>20090424</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>14808209</doc-number>
+                    <kind>P</kind>
+                    <date>20090129</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="4" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>4758708</doc-number>
+                    <kind>P</kind>
+                    <date>20080424</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="5" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>14274809</doc-number>
+                    <kind>P</kind>
+                    <date>20090106</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="41215942" country="US" doc-number="2009271287" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009271287</doc-number>
+                            <kind>A1</kind>
+                            <date>20091029</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2009271287</doc-number>
+                            <date>20091029</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>20</main-group>
+                            <subgroup>10</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0601</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="5">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/26.1</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/35</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/39</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="267930346">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>42965709</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090429657</doc-number>
+                            <date>20090424</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12429657</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090429657</doc-number>
+                                <date>20090424</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61047587</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080047587P</doc-number>
+                                <date>20080424</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61142748</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090142748P</doc-number>
+                                <date>20090106</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61148082</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="4" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090148082P</doc-number>
+                                <date>20090129</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61202838</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="5" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090202838P</doc-number>
+                                <date>20090410</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>KIBOO LICENSING LLC A DELAWARE [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>KIBOO LICENSING, LLC A DELAWARE LIMITED LIABILITYCOMPANY</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>HALPERN LISA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>HALPERN LISA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">FINANCIAL LIFESTYLE NAVIGATOR AND BANKING SYSTEM</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5969324</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5969324</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2001047310</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2001047310</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005137953</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005137953</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005149436</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005149436</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006235777</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006235777</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006271470</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006271470</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009043667</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009043667</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7493282</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7493282</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009119190</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009119190</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7873573</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7873573</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="11">
+                            <patcit dnum-type="publication number" num="11">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004015438</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004015438</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="12">
+                            <patcit dnum-type="publication number" num="12">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7849009</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7849009</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="13">
+                            <patcit dnum-type="publication number" num="13">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US8527382</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>8527382</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods and systems for electronic financial management integrate many aspects of the typical banking system with exciting educational and social tools to engage users to participate in and learn about the value of fiscal management. A web application for a network site may be employed to allow users to establish accounts. Joint accounts may be established for teens or other users without the capacity or experience to independently manage money, providing custodians control over the joint account and opportunities to interactively engage the user via effective fiscal management tools. Aspects of the methods and systems for financial management may provide interactive opportunities for users to, for example, manage money, set goals, track finances, pay bills, shop savvy, solicit advice from friends and family, and obtain answers to financial questions. Web applications may provide users mobile and on line access to financial information, financial management tools, and vendor products and services.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="41217160">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2722407</doc-number>
+                    <kind>A1</kind>
+                    <date>20091029</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CA2722407</doc-number>
+                    <date>20091029</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="329935579">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2722407</doc-number>
+                    <kind>A</kind>
+                    <date>20090424</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>20283809</doc-number>
+                    <kind>P</kind>
+                    <date>20090410</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>14608209</doc-number>
+                    <kind>P</kind>
+                    <date>20090121</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>4758708</doc-number>
+                    <kind>P</kind>
+                    <date>20080424</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="4" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>14274809</doc-number>
+                    <kind>P</kind>
+                    <date>20090106</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="5" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009041686</doc-number>
+                    <kind>W</kind>
+                    <date>20090424</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="41217160" country="CA" doc-number="2722407" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2722407</doc-number>
+                            <kind>A1</kind>
+                            <date>20091029</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA2722407</doc-number>
+                            <date>20091029</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="329935579">
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2722407</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA20092722407</doc-number>
+                            <date>20090424</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2722407</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080047587P</doc-number>
+                                <date>20080424</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/047,587</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090142748P</doc-number>
+                                <date>20090106</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61/142,748</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2009US41686</doc-number>
+                                <date>20090424</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61/146,082</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="4" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090146082P</doc-number>
+                                <date>20090121</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61/202,838</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="5" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090202838P</doc-number>
+                                <date>20090410</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> PCT/US2009/041686</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>KIBOO LICENSING LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>KIBOO LICENSING, LLC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>HALPERN LISA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>HALPERN, LISA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">FINANCIAL LIFESTYLE NAVIGATOR AND BANKING SYSTEM</invention-title>
+                    <invention-title lang="fr">NAVIGATEUR DE STYLE DE VIE FINANCIER ET SYSTEME BANCAIRE</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods and systems for electronic financial management integrate many aspects of the typical banking system with exciting educational and social tools to engage users to participate in and learn about the value of fiscal management. A web application for a network site may be employed to allow users to establish accounts. Joint accounts may be established for teens or other users without the capacity or experience to independently manage money, providing custodians control over the joint account and opportunities to interactively engage the user via effective fiscal management tools. Aspects of the methods and systems for financial management may provide interactive opportunities for users to, for example, manage money, set goals, track finances, pay bills, shop savvy, solicit advice from friends and family, and obtain answers to financial questions. Web applications may provide users mobile and on line access to financial information, financial management tools, and vendor products and services.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="41217160">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2009132285</doc-number>
+                    <kind>A1</kind>
+                    <date>20091029</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2009132285</doc-number>
+                    <date>20091029</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="267932023" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009041686</doc-number>
+                    <kind>W</kind>
+                    <date>20090424</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>20283809</doc-number>
+                    <kind>P</kind>
+                    <date>20090410</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>14608209</doc-number>
+                    <kind>P</kind>
+                    <date>20090121</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>4758708</doc-number>
+                    <kind>P</kind>
+                    <date>20080424</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="4" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>14274809</doc-number>
+                    <kind>P</kind>
+                    <date>20090106</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="41217160" country="WO" doc-number="2009132285" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2009132285</doc-number>
+                            <kind>A1</kind>
+                            <date>20091029</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009132285</doc-number>
+                            <date>20091029</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="267932023">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009041686</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009US41686</doc-number>
+                            <date>20090424</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2009/041686</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080047587P</doc-number>
+                                <date>20080424</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/047,587</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090142748P</doc-number>
+                                <date>20090106</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61/142,748</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090146082P</doc-number>
+                                <date>20090121</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61/146,082</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="4" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090202838P</doc-number>
+                                <date>20090410</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61/202,838</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>KIBOO LICENSING LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> HALPERN LISA [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>KIBOO LICENSING, LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>HALPERN, LISA</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>HALPERN LISA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>HALPERN, LISA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">FINANCIAL LIFESTYLE NAVIGATOR AND BANKING SYSTEM</invention-title>
+                    <invention-title lang="fr">NAVIGATEUR DE STYLE DE VIE FINANCIER ET SYSTÈME BANCAIRE</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005137953</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005137953</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006235777</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006235777</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5969324</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5969324</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005149436</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005149436</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods and systems for electronic financial management integrate many aspects of the typical banking system with exciting educational and social tools to engage users to participate in and learn about the value of fiscal management. A web application for a network site may be employed to allow users to establish accounts. Joint accounts may be established for teens or other users without the capacity or experience to independently manage money, providing custodians control over the joint account and opportunities to interactively engage the user via effective fiscal management tools. Aspects of the methods and systems for financial management may provide interactive opportunities for users to, for example, manage money, set goals, track finances, pay bills, shop savvy, solicit advice from friends and family, and obtain answers to financial questions. Web applications may provide users mobile and on line access to financial information, financial management tools, and vendor products and services.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concernent des procédés et des systèmes de gestion financière électronique qui intègrent de nombreux aspects d'un système bancaire classique à des outils éducatifs et sociaux passionnants pour encourager des utilisateurs à participer à des activités associées à la valeur de la gestion fiscale et à apprendre des informations y relatives. Une application Web pour un site de réseau peut être employée pour permettre à des utilisateurs d'établir des comptes. Des comptes joints peuvent être établis pour des adolescents ou pour d'autres utilisateurs n'ayant pas la capacité ou l'expérience de gérer l'argent de mainère indépendante, qui peuvent être contrôlés par des responsables désignés et qui permettent une participation interactive de l'utilisateur via des outils de gestion fiscale efficaces.</p>
+                    <p> Des aspects des procédés et des systèmes de gestion financière selon l'invention peuvent fournir des opportunités interactives à des utilisateurs, par exemple, pour gérer de l'argent, établir des objectifs, suivre ses finances, payer des factures, acheter de façon astucieuse, solliciter les conseils d'amis et de sa famille, et obtenir des réponses à des questions financières. Des applications Web peuvent fournir aux utilisateurs un accès mobile et en ligne à des informations financières, des outils de gestion financière et des produits et services de vendeur.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

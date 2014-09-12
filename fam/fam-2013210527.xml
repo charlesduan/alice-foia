@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="76"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013210527</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="48946029">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013210527</doc-number>
+                    <kind>A1</kind>
+                    <date>20130815</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013210527</doc-number>
+                    <date>20130815</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="409575565" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213697243</doc-number>
+                    <kind>A</kind>
+                    <date>20120214</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012025007</doc-number>
+                    <kind>W</kind>
+                    <date>20120214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>A</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48946029" country="US" doc-number="2013210527" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013210527</doc-number>
+                            <kind>A1</kind>
+                            <date>20130815</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013210527</doc-number>
+                            <date>20130815</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A63F  13/    12            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>13</main-group>
+                            <subgroup>12</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>535</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>5566</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>463/42</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="409575565">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201213697243</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213697243</doc-number>
+                            <date>20120214</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13697243</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2012US25007</doc-number>
+                                <date>20120214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>PCT/US12/25007</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>KIM SEUNGIL [KR]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> KO YOUNGIL [KR]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> EMPIRE TECHNOLOGY DEV LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>KIM SEUNGIL, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>KO YOUNGIL, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>EMPIRE TECHNOLOGY DEVELOPMENT LLC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>KIM SEUNGIL [KR]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KO YOUNGIL [KR]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>KIM SEUNGIL, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>KO YOUNGIL</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">PLAYER MATCHING IN A GAME SYSTEM</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007087834</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007087834</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US8239048</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>8239048</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6725107</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6725107</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Technologies are generally described for a player matching scheme for a game system. In some examples, a player matching system may include an access pattern analysis unit configured to analyze access patterns of a plurality of players of a game provided by a game server, and a player recommendation unit configured to recommend to one player of the plurality of players at least some others of the plurality of players with whom the one player can compatibly play the game, based at least in part on the analyzed access patterns.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="48946029">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>KR</country>
+                    <doc-number>20130103677</doc-number>
+                    <kind>A</kind>
+                    <date>20130924</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>KR20130103677</doc-number>
+                    <date>20130924</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="411865099">
+                <document-id document-id-type="docdb">
+                    <country>KR</country>
+                    <doc-number>20127032806</doc-number>
+                    <kind>A</kind>
+                    <date>20120214</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012025007</doc-number>
+                    <kind>W</kind>
+                    <date>20120214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>A</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48946029" country="KR" doc-number="20130103677" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>KR</country>
+                            <doc-number>20130103677</doc-number>
+                            <kind>A</kind>
+                            <date>20130924</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>KR20130103677</doc-number>
+                            <date>20130924</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  50/    10            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>13</main-group>
+                            <subgroup>12</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>535</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>5566</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="411865099">
+                        <document-id document-id-type="docdb">
+                            <country>KR</country>
+                            <doc-number>20127032806</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>KR20127032806</doc-number>
+                            <date>20120214</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>1020127032806</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2012US25007</doc-number>
+                                <date>20120214</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>PCT/US2012/025007</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>EMPIRE TECHNOLOGY DEV LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>EMPIRE TECHNOLOGY DEVELOPMENT LLC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>KIM SEUNG IL [KR]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KO YOUNG IL [KR]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>KIM, SEUNG IL, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>KO, YOUNG IL</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">PLAYER MATCHING IN A GAME SYSTEM</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="48946029">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2013122574</doc-number>
+                    <kind>A1</kind>
+                    <date>20130822</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2013122574</doc-number>
+                    <date>20130822</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="409720356">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012025007</doc-number>
+                    <kind>W</kind>
+                    <date>20120214</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012025007</doc-number>
+                    <kind>W</kind>
+                    <date>20120214</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48946029" country="WO" doc-number="2013122574" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2013122574</doc-number>
+                            <kind>A1</kind>
+                            <date>20130822</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2013122574</doc-number>
+                            <date>20130822</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A63F   9/    24            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>13</main-group>
+                            <subgroup>12</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>535</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>A</section>
+                            <class>63</class>
+                            <subclass>F</subclass>
+                            <main-group>2300</main-group>
+                            <subgroup>5566</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="409720356">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2012025007</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2012US25007</doc-number>
+                            <date>20120214</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2012/025007</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2012US25007</doc-number>
+                                <date>20120214</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>EMPIRE TECHNOLOGY DEV LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> KIM SEUNGIL [KR]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> KO YOUNGIL</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>EMPIRE TECHNOLOGY DEVELOPMENT LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>KIM, SEUNGIL, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>KO, YOUNGIL</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>KIM SEUNGIL [KR]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KO YOUNGIL</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>KIM, SEUNGIL, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>KO, YOUNGIL</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">PLAYER MATCHING IN A GAME SYSTEM</invention-title>
+                    <invention-title lang="fr">MISE EN CORRESPONDANCE DE JOUEURS DANS UN SYSTÈME DE JEU</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="US">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007149290</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007149290</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="US">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010069156</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010069156</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="US">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008039165</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008039165</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="4" office="US">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006003824</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006003824</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Technologies are generally described for a player matching scheme for a game system. In some examples, a player matching system may include an access pattern analysis unit configured to analyze access patterns of a plurality of players of a game provided by a game server, and a player recommendation unit configured to recommend to one player of the plurality of players at least some others of the plurality of players with whom the one player can compatibly play the game, based at least in part on the analyzed access patterns.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne des technologies destinées à un procédé de mise en correspondance de joueurs pour un système de jeu. Dans certains exemples, un système de mise en correspondance de joueurs peut comprendre une unité d'analyse de motifs d'accès configurée pour analyser des motifs d'accès d'une pluralité de joueurs d'un jeu fourni par un serveur de jeu, et une unité de recommandation de joueurs configurée pour recommander à un joueur de la pluralité de joueurs au moins certains autres de la pluralité de joueurs avec lesquels le joueur peut jouer au jeu de manière compatible, sur la base au moins en partie des motifs d'accès analysés.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

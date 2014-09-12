@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="56"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2012178523</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="43429509">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012178523</doc-number>
+                    <kind>A1</kind>
+                    <date>20120712</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2012178523</doc-number>
+                    <date>20120712</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="365038483">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201013382783</doc-number>
+                    <kind>A</kind>
+                    <date>20100706</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201013382783</doc-number>
+                    <kind>A</kind>
+                    <date>20100706</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010041111</doc-number>
+                    <kind>W</kind>
+                    <date>20100706</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>22357409</doc-number>
+                    <kind>P</kind>
+                    <date>20090707</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43429509" country="US" doc-number="2012178523" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2012178523</doc-number>
+                            <kind>A1</kind>
+                            <date>20120712</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2012178523</doc-number>
+                            <date>20120712</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A63F  13/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>3211</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>3227</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>463/25</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="365038483">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201013382783</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201013382783</doc-number>
+                            <date>20100706</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13382783</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201013382783</doc-number>
+                                <date>20100706</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61223574</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090223574P</doc-number>
+                                <date>20090707</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> PCT/US10/41111</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010US41111</doc-number>
+                                <date>20100706</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>GREENBERG JACOB C [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GRONKOWSKI TIMOTHY T [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> HOLMES JOHN MICHAEL [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LOOSE TIMOTHY C [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> UGARTE JR MARTIN R [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="epodoc">
+                                <applicant-name>
+                                    <name> VELU MUTHU [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WMS GAMING INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>GREENBERG JACOB C, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>GRONKOWSKI TIMOTHY T, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>HOLMES JOHN MICHAEL, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>LOOSE TIMOTHY C, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>UGARTE, JR. MARTIN R, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="original">
+                                <applicant-name>
+                                    <name>VELU MUTHU, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="original">
+                                <applicant-name>
+                                    <name>WMS GAMING, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>GREENBERG JACOB C [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GRONKOWSKI TIMOTHY T [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> HOLMES JOHN MICHAEL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LOOSE TIMOTHY C [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> UGARTE JR MARTIN R [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> VELU MUTHU [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>GREENBERG JACOB C, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>GRONKOWSKI TIMOTHY T, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>HOLMES JOHN MICHAEL, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>LOOSE TIMOTHY C, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>UGARTE, JR. MARTIN R, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>VELU MUTHU</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">CONTROLLING GAMING EFFECTS FOR GAMING NETWORK NODES</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008113821</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008113821</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A wagering game system and its operations are described herein. In embodiments, the operations can include determining a bank gaming effect for presentation on a bank of content presentation devices. The bank of content presentation devices can be associated with a plurality of wagering game machines. The operations can further include receiving presentation status information for the bank of content presentation devices. The presentation status information can indicate one or more events that affect a state of availability of each of the bank of content presentation devices to present the bank gaming effect. The operations can further include determining, based on the presentation status information, one content presentation device, from the bank of content presentation devices, that is ineligible to present the bank gaming effect. The operations can also include excluding the one content presentation device from participation in the bank gaming effect.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43429509">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2011005797</doc-number>
+                    <kind>A1</kind>
+                    <date>20110113</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2011005797</doc-number>
+                    <date>20110113</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="330420670" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010041111</doc-number>
+                    <kind>W</kind>
+                    <date>20100706</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>22357409</doc-number>
+                    <kind>P</kind>
+                    <date>20090707</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43429509" country="WO" doc-number="2011005797" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2011005797</doc-number>
+                            <kind>A1</kind>
+                            <date>20110113</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2011005797</doc-number>
+                            <date>20110113</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A63F  13/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>3227</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>3211</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="330420670">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2010041111</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2010US41111</doc-number>
+                            <date>20100706</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2010/041111</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090223574P</doc-number>
+                                <date>20090707</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/223,574</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>WMS GAMING INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GREENBERG JACOB C [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GRONKOWSKI TIMOTHY T [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> HOLMES JOHN MICHAEL [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LOOSE TIMOTHY C [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="epodoc">
+                                <applicant-name>
+                                    <name> UGARTE MARTIN R [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="epodoc">
+                                <applicant-name>
+                                    <name> VELU MUTHU [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>WMS GAMING, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>GREENBERG, JACOB C, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>GRONKOWSKI, TIMOTHY T, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>HOLMES, JOHN MICHAEL, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>LOOSE, TIMOTHY C, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="original">
+                                <applicant-name>
+                                    <name>UGARTE, MARTIN R, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="original">
+                                <applicant-name>
+                                    <name>VELU, MUTHU</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>GREENBERG JACOB C [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> GRONKOWSKI TIMOTHY T [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> HOLMES JOHN MICHAEL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LOOSE TIMOTHY C [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> UGARTE MARTIN R [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> VELU MUTHU [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>GREENBERG, JACOB C, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>GRONKOWSKI, TIMOTHY T, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>HOLMES, JOHN MICHAEL, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>LOOSE, TIMOTHY C, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>UGARTE, MARTIN R, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>VELU, MUTHU</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">CONTROLLING GAMING EFFECTS FOR GAMING NETWORK NODES</invention-title>
+                    <invention-title lang="fr">COMMANDE D'EFFETS DE JEU POUR NUDS DE RÉSEAU DE JEU</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="US">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6997803</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6997803</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="US">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2001021666</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2001021666</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="US">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6217448</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6217448</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="4" office="US">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009023485</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009023485</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A wagering game system and its operations are described herein. In embodiments, the operations can include determining a bank gaming effect for presentation on a bank of content presentation devices. The bank of content presentation devices can be associated with a plurality of wagering game machines. The operations can further include receiving presentation status information for the bank of content presentation devices. The presentation status information can indicate one or more events that affect a state of availability of each of the bank of content presentation devices to present the bank gaming effect. The operations can further include determining, based on the presentation status information, one content presentation device, from the bank of content presentation devices, that is ineligible to present the bank gaming effect. The operations can also include excluding the one content presentation device from participation in the bank gaming effect.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention porte sur un système de jeu de pari et sur ses opérations. Dans des modes de réalisation, les opérations peuvent comprendre la détermination d'un effet de jeu de banque pour la présentation sur une banque de dispositifs de présentation de contenu. La banque de dispositifs de présentation de contenu peut être associée à une pluralité de machines de jeu de pari. Les opérations peuvent de plus comprendre la réception d'informations d'état de présentation pour la banque de dispositifs de présentation de contenu. Les informations d'état de présentation peuvent indiquer un ou plusieurs évènements qui affectent un état de disponibilité de chacun de la banque de dispositifs de présentation de contenu pour présenter l'effet de jeu de banque.</p>
+                    <p> Les opérations peuvent de plus comprendre la détermination, en fonction des informations d'état de présentation, d'un dispositif de présentation de contenu, parmi la banque de dispositifs de présentation de contenu, qui est inéligible pour présenter l'effet de jeu de banque. Les opérations peuvent également comprendre l'exclusion du dispositif de présentation de contenu de la participation à l'effet de jeu de banque.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

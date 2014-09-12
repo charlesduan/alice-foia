@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="18"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="48913968" country="US" doc-number="2014067599" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2014067599</doc-number>
+                        <kind>A1</kind>
+                        <date>20140306</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2014067599</doc-number>
+                        <date>20140306</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  30/    06            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>B</section>
+                        <class>60</class>
+                        <subclass>C</subclass>
+                        <main-group>11</main-group>
+                        <subgroup>246</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>0631</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="415695437">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201314018049</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201314018049</doc-number>
+                        <date>20130904</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>14018049</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20120195264</doc-number>
+                            <date>20120905</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2012-195264</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>BRIDGESTONE CORP [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>BRIDGESTONE CORPORATION</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>GOKYU SYUNSUKE [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> TOMOMOTO TAKASHI [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> YANAI KENJIRO [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>GOKYU SYUNSUKE, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>TOMOMOTO TAKASHI, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>YANAI KENJIRO</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">METHOD FOR TREAD SELECTION</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <nplcit num="1">
+                            <text>Sasikumar, "A multi-echelon reverse logistics network
+        design for product recovery-a case of truck tire
+        remanufacturing," The International Journal of Advanced
+        Manufacturing Technology, August 2010, Volume 49, Issue
+        9-12, pp. 1223-1234</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method for tread selection to select a tread to attach to a tread side of a tire casing when manufacturing a tire includes the steps of: a) measuring, by a tire condition measurement unit, at least one characteristic value indicating at least one of a tire condition and a vehicle running condition</p>
+                <p> b) predicting, by a casing life prediction unit, a remaining life of the tire casing based on the at least one characteristic value measured in step a)</p>
+                <p> c) selecting, by a tread selection unit, at least one recommended tread in accordance with the remaining life of the tire casing predicted in step b) from among a plurality of treads attachable to the tire casing, using wear life information calculated in advance for each of the treads</p>
+                <p> and d) displaying, by a terminal, the at least one recommended tread selected in step c).</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

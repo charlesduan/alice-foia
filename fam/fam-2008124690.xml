@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="63"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2008124690</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="39468701">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2008124690</doc-number>
+                    <kind>A1</kind>
+                    <date>20080529</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2008124690</doc-number>
+                    <date>20080529</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54279135">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>94678407</doc-number>
+                    <kind>A</kind>
+                    <date>20071128</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>94678407</doc-number>
+                    <kind>A</kind>
+                    <date>20071128</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86757906</doc-number>
+                    <kind>P</kind>
+                    <date>20061128</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89649407</doc-number>
+                    <kind>P</kind>
+                    <date>20070322</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39468701" country="US" doc-number="2008124690" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2008124690</doc-number>
+                            <kind>A1</kind>
+                            <date>20080529</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2008124690</doc-number>
+                            <date>20080529</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>434/236</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>434/322</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54279135">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>94678407</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070946784</doc-number>
+                            <date>20071128</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>11946784</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070946784</doc-number>
+                                <date>20071128</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>60867579</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070896494P</doc-number>
+                                <date>20070322</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 60896494</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060867579P</doc-number>
+                                <date>20061128</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ATTUNE INTERACTIVE INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ATTUNE INTERACTIVE, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>REDLICH SANFORD [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>REDLICH SANFORD</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">TRAINING SYSTEM USING AN INTERACTIVE PROMPT CHARACTER</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A training program is provided that allows automated asynchronous role-play. In one embodiment, a trainee participates in an emotional face-to-face interaction with a prompt character delivering a challenge intended to prompt user reaction, followed by a simulation of that prompt character actively listening to the trainee's response. The prompt character, in both a challenge mode and an active listener mode may be displayed as video taken of a trainer or as an avatar.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39774265">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2008231686</doc-number>
+                    <kind>A1</kind>
+                    <date>20080925</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2008231686</doc-number>
+                    <date>20080925</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="46490137" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>5434708</doc-number>
+                    <kind>A</kind>
+                    <date>20080324</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89649407</doc-number>
+                    <kind>P</kind>
+                    <date>20070322</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>5434708</doc-number>
+                    <kind>A</kind>
+                    <date>20080324</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39774265" country="US" doc-number="2008231686" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2008231686</doc-number>
+                            <kind>A1</kind>
+                            <date>20080925</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2008231686</doc-number>
+                            <date>20080925</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>H04N   7/    14            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>H</section>
+                            <class>04</class>
+                            <subclass>N</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>15</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>H</section>
+                            <class>04</class>
+                            <subclass>N</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>157</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>348/E07.083</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>348/14.08</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="46490137">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>5434708</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20080054347</doc-number>
+                            <date>20080324</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12054347</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080054347</doc-number>
+                                <date>20080324</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>60896494</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070896494P</doc-number>
+                                <date>20070322</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ATTUNE INTERACTIVE INC A DELAW [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ATTUNE INTERACTIVE, INC. (A DELAWARE CORPORATION)</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>REDLICH SANFORD [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>REDLICH SANFORD</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">GENERATION OF CONSTRUCTED MODEL FOR CLIENT RUNTIME PLAYER USING MOTION POINTS SENT OVER A NETWORK</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6272231</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6272231</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6867797</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6867797</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7751599</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7751599</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7982762</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7982762</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7835596</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7835596</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007115350</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007115350</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6313864</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6313864</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US8072479</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>8072479</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7271825</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7271825</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005190188</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005190188</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="11">
+                            <patcit dnum-type="publication number" num="11">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7224851</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7224851</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="12">
+                            <patcit dnum-type="publication number" num="12">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7023454</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7023454</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="13">
+                            <patcit dnum-type="publication number" num="13">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002118195</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002118195</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Particular embodiments generally relate to generating video of a view of a constructed model which was generated using information derived by behavior tracking analysis of video. A webcam may capture video of a human user on a first device. A constructed model based on behavioral changes detected in the video for a first user is displayed on a second device. Motion points may be determined from the video. The motion points may be sent across a network to a second device for display. A client runtime application may be used to display a video view of a constructed model based on the motion points. Instead of having the client runtime application generate the constructed model and the video view of it, a local application running in the local operating system is used to generate the constructed model and video view. The local video generator takes the motion points and generates the constructed model. Audio data may be processed, transferred, and synchronized with the video data.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39468701">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2008067413</doc-number>
+                    <kind>A2</kind>
+                    <date>20080605</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2008067413</doc-number>
+                    <date>20080605</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54677066" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2007085807</doc-number>
+                    <kind>W</kind>
+                    <date>20071128</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86757906</doc-number>
+                    <kind>P</kind>
+                    <date>20061128</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89649407</doc-number>
+                    <kind>P</kind>
+                    <date>20070322</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39468701" country="WO" doc-number="2008067413" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2008067413</doc-number>
+                            <kind>A2</kind>
+                            <date>20080605</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2008067413</doc-number>
+                            <date>20080605</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54677066">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2007085807</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2007US85807</doc-number>
+                            <date>20071128</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2007/085807</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060867579P</doc-number>
+                                <date>20061128</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>60/867,579</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070896494P</doc-number>
+                                <date>20070322</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 60/896,494</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ATTUNE INTERACTIVE INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> REDLICH SANFORD [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ATTUNE INTERACTIVE, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>REDLICH, SANFORD</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>REDLICH SANFORD [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>REDLICH, SANFORD</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">TRAINING SYSTEM USING AN INTERACTIVE PROMPT CHARACTER</invention-title>
+                    <invention-title lang="fr">SYSTÈME D'ENTRAÎNEMENT UTILISANT UN PERSONNAGE DE SOLLICITATION INTERACTIF</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6705869</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6705869</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6358053</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6358053</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6288753</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6288753</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A training program is provided that allows automated asynchronous role-play. In one embodiment, a trainee participates in an emotional face-to-face interaction with a prompt character delivering a challenge intended to prompt user reaction, followed by a simulation of that prompt character actively listening to the trainee's response. The prompt character, in both a challenge mode and an active listener mode may be displayed as video taken of a trainer or as an avatar.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un programme d'entraînement qui permet un jeu de rôle asynchrone automatisé. Dans un mode de réalisation, un individu en formation participe à une interaction face à face émotionnelle avec un personnage de sollicitation fournissant un défi destiné à faire réagir un utilisateur, suivi par une simulation de ce personnage de sollicitation écoutant activement la réponse de l'individu en formation. Le personnage de sollicitation, à la fois en mode de défi et en mode d'écoute active peut être affiché comme une vidéo prise d'un formateur ou sous la forme d'un avatar.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39468701">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2008067413</doc-number>
+                    <kind>A3</kind>
+                    <date>20080904</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2008067413</doc-number>
+                    <date>20080904</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54677066" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2007085807</doc-number>
+                    <kind>W</kind>
+                    <date>20071128</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86757906</doc-number>
+                    <kind>P</kind>
+                    <date>20061128</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89649407</doc-number>
+                    <kind>P</kind>
+                    <date>20070322</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39468701" country="WO" doc-number="2008067413" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2008067413</doc-number>
+                            <kind>A3</kind>
+                            <date>20080904</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2008067413</doc-number>
+                            <date>20080904</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   7/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54677066">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2007085807</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2007US85807</doc-number>
+                            <date>20071128</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2007/085807</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060867579P</doc-number>
+                                <date>20061128</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>60/867,579</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070896494P</doc-number>
+                                <date>20070322</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 60/896,494</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ATTUNE INTERACTIVE INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> REDLICH SANFORD [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ATTUNE INTERACTIVE, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>REDLICH, SANFORD</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>REDLICH SANFORD [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>REDLICH, SANFORD</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">TRAINING SYSTEM USING AN INTERACTIVE PROMPT CHARACTER</invention-title>
+                    <invention-title lang="fr">SYSTÈME D'ENTRAÎNEMENT UTILISANT UN PERSONNAGE DE SOLLICITATION INTERACTIF</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A training program is provided that allows automated asynchronous role-play. In one embodiment, a trainee participates in an emotional face-to-face interaction with a prompt character delivering a challenge intended to prompt user reaction, followed by a simulation of that prompt character actively listening to the trainee's response. The prompt character, in both a challenge mode and an active listener mode may be displayed as video taken of a trainer or as an avatar.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un programme d'entraînement qui permet un jeu de rôle asynchrone automatisé. Dans un mode de réalisation, un individu en formation participe à une interaction face à face émotionnelle avec un personnage de sollicitation fournissant un défi destiné à faire réagir un utilisateur, suivi par une simulation de ce personnage de sollicitation écoutant activement la réponse de l'individu en formation. Le personnage de sollicitation, à la fois en mode de défi et en mode d'écoute active peut être affiché comme une vidéo prise d'un formateur ou sous la forme d'un avatar.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

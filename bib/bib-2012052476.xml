@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="17"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="45697737" country="US" doc-number="2012052476" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2012052476</doc-number>
+                        <kind>A1</kind>
+                        <date>20120301</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2012052476</doc-number>
+                        <date>20120301</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G09B   7/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>09</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>434/362</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="341892531">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>89813210</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20100898132</doc-number>
+                        <date>20101005</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>12898132</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20100898132</doc-number>
+                            <date>20101005</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>61377629</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20100377629P</doc-number>
+                            <date>20100827</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>GRAESSER ARTHUR CARL [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> D MELLO SIDNEY KEITH [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>GRAESSER ARTHUR CARL, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>D'MELLO SIDNEY KEITH</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>GRAESSER ARTHUR CARL [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> D MELLO SIDNEY KEITH [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>GRAESSER ARTHUR CARL, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>D'MELLO SIDNEY KEITH</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">AFFECT-SENSITIVE INTELLIGENT TUTORING SYSTEM</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2004222892</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2004222892</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2005271279</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2005271279</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                        <nplcit num="1">
+                            <text>"AutoTutor: An Intelligent Tutoring System With
+        Mixed-Initiative Dialogue." IEEE TRANSACTIONS ON EDUCATION,
+        VOL. 48, NO. 4, NOVEMBER 2005, Arthur C. Graesser et al</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>An Intelligent Tutoring System (ITS) system is provided that is able to identify and respond adaptively to the learner's or student's affective states (i.e., emotional states such as confusion. frustration, boredom, and flow/engagement) during a typical learning experience, in addition to adapting to the learner's cognitive states. The system comprises a new signal processing model and algorithm, as well as several non-intrusive sensing devices, and identifies and assesses affective states through dialog assessment techniques, video capture and analysis of the student's face, determination of the body posture of the student, pressure on a pressure sensitive mouse, and pressure on a pressure sensitive keyboard. By synthesizing the output from these measures, the system responds with appropriate conversational and pedagogical dialog that helps the learner regulate negative emotions in order to promote learning and engagement.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

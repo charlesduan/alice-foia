@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="47"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013041824</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="47669265">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013041824</doc-number>
+                    <kind>A1</kind>
+                    <date>20130214</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013041824</doc-number>
+                    <date>20130214</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="381081138">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213572535</doc-number>
+                    <kind>A</kind>
+                    <date>20120810</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213572535</doc-number>
+                    <kind>A</kind>
+                    <date>20120810</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201161522487</doc-number>
+                    <kind>P</kind>
+                    <date>20110811</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="47669265" country="US" doc-number="2013041824" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013041824</doc-number>
+                            <kind>A1</kind>
+                            <date>20130214</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013041824</doc-number>
+                            <date>20130214</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  20/    22            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  20/    40            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>20</main-group>
+                            <subgroup>14</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="381081138">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201213572535</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213572535</doc-number>
+                            <date>20120810</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13572535</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213572535</doc-number>
+                                <date>20120810</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61522487</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201161522487P</doc-number>
+                                <date>20110811</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>GUPTA RAJIV [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>GUPTA RAJIV</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>GUPTA RAJIV [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>GUPTA RAJIV</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Systems and Methods of Aggregating Split Payments Using a Settlement Ecosystem</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US8239275</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>8239275</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012022969</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012022969</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011137803</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011137803</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010274680</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010274680</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Systems, apparatuses and methods for enabling a group of people to share the cost of an event, such as a meal, the purchase of a gift, or the rental of a car. Embodiments of the invention provide the tools needed to enable a group to participate in a shared event or activity, where one of the participants pays for the event or activity using their payment device and the other members of the group pay their portion of the cost to the participant who made the payment. Embodiments of the invention provide an ecosystem where a person can pay for an event, goods, or services using a single payment device (such as a credit or debit card) and then settle the amounts owed to them by other members of a group using the tools provided by the invention.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="47669265">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2013023224</doc-number>
+                    <kind>A2</kind>
+                    <date>20130214</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2013023224</doc-number>
+                    <date>20130214</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="381055876" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012050654</doc-number>
+                    <kind>W</kind>
+                    <date>20120813</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213572535</doc-number>
+                    <kind>A</kind>
+                    <date>20120810</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201161522487</doc-number>
+                    <kind>P</kind>
+                    <date>20110811</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="47669265" country="WO" doc-number="2013023224" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2013023224</doc-number>
+                            <kind>A2</kind>
+                            <date>20130214</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2013023224</doc-number>
+                            <date>20130214</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  20/    14            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>20</main-group>
+                            <subgroup>14</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="381055876">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2012050654</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2012US50654</doc-number>
+                            <date>20120813</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2012/050654</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201161522487P</doc-number>
+                                <date>20110811</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/522,487</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213572535</doc-number>
+                                <date>20120810</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 13/572,535</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>VISA INT SERVICE ASS [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GUPTA RAJIV [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>VISA INTERNATIONAL SERVICE ASSOCIATION, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>GUPTA, RAJIV</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>GUPTA RAJIV [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>GUPTA, RAJIV</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEMS AND METHODS OF AGGREGATING SPLIT PAYMENTS USING A SETTLEMENT ECOSYSTEM</invention-title>
+                    <invention-title lang="fr">SYSTÈMES ET PROCÉDÉS PERMETTANT DE RASSEMBLER DES PAIEMENTS DISSOCIÉS À L'AIDE D'UN ÉCOSYSTÈME D'ACQUITTEMENT</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="KR">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010191645</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010191645</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="KR">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011106668</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011106668</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="KR">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010010906</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010010906</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="4" office="KR">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009083179</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009083179</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Systems, apparatuses and methods for enabling a group of people to share the cost of an event, such as a meal, the purchase of a gift, or the rental of a car. Embodiments of the invention provide the tools needed to enable a group to participate in a shared event or activity, where one of the participants pays for the event or activity using their payment device and the other members of the group pay their portion of the cost to the participant who made the payment. Embodiments of the invention provide an ecosystem where a person can pay for an event, goods, or services using a single payment device (such as a credit or debit card) and then settle the amounts owed to them by other members of a group using the tools provided by the invention.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>La présente invention se rapporte à des systèmes, à des appareils et à des procédés permettant à un groupe de gens de partager le coût d'un événement, tel qu'un repas, l'achat d'un cadeau ou la location d'une voiture. Des modes de réalisation de l'invention portent sur les outils nécessaires pour permettre à un groupe de participer à un événement partagé ou à une activité partagée où l'un des participants règle les frais de l'événement ou de l'activité à l'aide de leur dispositif de paiement et les autres membres du groupe paient leur part du coût au participant qui a effectué le paiement.</p>
+                    <p> Des modes de réalisation de l'invention portent sur un écosystème qui permet à une personne de pouvoir régler les frais d'un événement, d'un bien ou de services à l'aide d'un seul dispositif de paiement (tel qu'une carte de crédit ou une carte de débit) et, ensuite, de fixer les montants qui lui sont dus par les autres membres d'un groupe à l'aide des outils proposés par l'invention.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="47669265">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2013023224</doc-number>
+                    <kind>A3</kind>
+                    <date>20130328</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2013023224</doc-number>
+                    <date>20130328</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="381055876" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012050654</doc-number>
+                    <kind>W</kind>
+                    <date>20120813</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213572535</doc-number>
+                    <kind>A</kind>
+                    <date>20120810</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201161522487</doc-number>
+                    <kind>P</kind>
+                    <date>20110811</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="47669265" country="WO" doc-number="2013023224" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2013023224</doc-number>
+                            <kind>A3</kind>
+                            <date>20130328</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2013023224</doc-number>
+                            <date>20130328</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  20/    14            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>20</main-group>
+                            <subgroup>14</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="381055876">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2012050654</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2012US50654</doc-number>
+                            <date>20120813</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2012/050654</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201161522487P</doc-number>
+                                <date>20110811</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/522,487</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213572535</doc-number>
+                                <date>20120810</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 13/572,535</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>VISA INT SERVICE ASS [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GUPTA RAJIV [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>VISA INTERNATIONAL SERVICE ASSOCIATION, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>GUPTA, RAJIV</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>GUPTA RAJIV [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>GUPTA, RAJIV</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEMS AND METHODS OF AGGREGATING SPLIT PAYMENTS USING A SETTLEMENT ECOSYSTEM</invention-title>
+                    <invention-title lang="fr">SYSTÈMES ET PROCÉDÉS PERMETTANT DE RASSEMBLER DES PAIEMENTS DISSOCIÉS À L'AIDE D'UN ÉCOSYSTÈME D'ACQUITTEMENT</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Systems, apparatuses and methods for enabling a group of people to share the cost of an event, such as a meal, the purchase of a gift, or the rental of a car. Embodiments of the invention provide the tools needed to enable a group to participate in a shared event or activity, where one of the participants pays for the event or activity using their payment device and the other members of the group pay their portion of the cost to the participant who made the payment. Embodiments of the invention provide an ecosystem where a person can pay for an event, goods, or services using a single payment device (such as a credit or debit card) and then settle the amounts owed to them by other members of a group using the tools provided by the invention.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>La présente invention se rapporte à des systèmes, à des appareils et à des procédés permettant à un groupe de gens de partager le coût d'un événement, tel qu'un repas, l'achat d'un cadeau ou la location d'une voiture. Des modes de réalisation de l'invention portent sur les outils nécessaires pour permettre à un groupe de participer à un événement partagé ou à une activité partagée où l'un des participants règle les frais de l'événement ou de l'activité à l'aide de leur dispositif de paiement et les autres membres du groupe paient leur part du coût au participant qui a effectué le paiement.</p>
+                    <p> Des modes de réalisation de l'invention portent sur un écosystème qui permet à une personne de pouvoir régler les frais d'un événement, d'un bien ou de services à l'aide d'un seul dispositif de paiement (tel qu'une carte de crédit ou une carte de débit) et, ensuite, de fixer les montants qui lui sont dus par les autres membres d'un groupe à l'aide des outils proposés par l'invention.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

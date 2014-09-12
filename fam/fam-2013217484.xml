@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="64"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013217484</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="48962267">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013217484</doc-number>
+                    <kind>A1</kind>
+                    <date>20130822</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013217484</doc-number>
+                    <date>20130822</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="409712528" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313769259</doc-number>
+                    <kind>A</kind>
+                    <date>20130215</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012032207</doc-number>
+                    <kind>A</kind>
+                    <date>20120216</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48962267" country="US" doc-number="2013217484" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013217484</doc-number>
+                            <kind>A1</kind>
+                            <date>20130822</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013217484</doc-number>
+                            <date>20130822</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G07F  17/    32            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>3272</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>463/29</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>463/31</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="409712528">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201313769259</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201313769259</doc-number>
+                            <date>20130215</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13769259</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120032207</doc-number>
+                                <date>20120216</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2012-032207</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>UNIVERSAL ENTERTAINMENT CORP [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ARUZE GAMING AMERICA INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> UNIVERSAL ENTERTAINMENT CORP [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>UNIVERSAL ENTERTAINMENT CORPORATION, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>ARUZE GAMING AMERICA, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>FUJISAWA MASUMI [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KITAMURA KENTA [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MIO SUSUMU [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MIYAWAKI MAKOTO [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>FUJISAWA MASUMI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>KITAMURA KENTA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>MIO SUSUMU, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>MIYAWAKI MAKOTO</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">GAMING MACHINE</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004219962</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004219962</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005181855</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005181855</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008026822</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008026822</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010029381</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010029381</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011034234</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011034234</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011118003</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011118003</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011312409</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011312409</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012083334</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012083334</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A gaming machine 300 includes an input device, a lower image display panel 141, and a motherboard 70. The motherboard 70 executes processes of: (a1) displaying a 29-option selection screen showing 29-option bonuses including a door 2 options on the lower image display panel 141</p>
+                    <p> (a2) when the selection of the door 2 options is received by a switch, selectively executing a 2-option game of executing a predetermined game and awarding a character to a player based on the result of the predetermined game or a 1-option game of immediately providing the game character to the player, and (a3) if the 1-option game is executed in (a2) when the selection of the door 2 options is received by the switch, displaying an indication image along with the 29-option selection screen.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="48962267">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2013200763</doc-number>
+                    <kind>A1</kind>
+                    <date>20130905</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>AU2013200763</doc-number>
+                    <date>20130905</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="410121903">
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2013200763</doc-number>
+                    <kind>A</kind>
+                    <date>20130213</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012032207</doc-number>
+                    <kind>A</kind>
+                    <date>20120216</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48962267" country="AU" doc-number="2013200763" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2013200763</doc-number>
+                            <kind>A1</kind>
+                            <date>20130905</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU2013200763</doc-number>
+                            <date>20130905</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A63F  13/    10            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>3272</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="410121903">
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2013200763</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU20130200763</doc-number>
+                            <date>20130213</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2013200763</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120032207</doc-number>
+                                <date>20120216</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2012-032207</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ARUZE GAMING AMERICA INC</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> UNIVERSAL ENTERTAINMENT CORP</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ARUZE GAMING AMERICA, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>UNIVERSAL ENTERTAINMENT CORPORATION</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>FUJISAWA MASUMI</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KITAMURA KENTA</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MIO SUSUMU</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MIYAWAKI MAKOTO</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>FUJISAWA, MASUMI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>KITAMURA, KENTA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>MIO, SUSUMU, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>MIYAWAKI, MAKOTO</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Gaming machine</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A gaming machine 300 includes an input device, a lower image display panel 141, and a motherboard 70. The 5 motherboard 70 executes processes of: (al) displaying a 29-option selection screen showing 29-option bonuses including a door 2 options on the lower image display panel 141</p>
+                    <p> (a2) when the selection of the door 2 options is received by a switch, selectively executing a 2-option 10 game of executing a predetermined game and awarding a character to a player based on the result of the predetermined game or a 1-option game of immediately providing the game character to the player, and (a3) if the 1-option game is executed in (a2) when the selection 15 of the door 2 options is received by the switch, displaying an indication image along with the 29-option selection screen. r Ho LU uj C Ln A ZLW Lon-o = un t- C- CX 'It L LU CcO %C. Q= I- LI cc, >~ U ~,, -JI Ln >CLl3</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="48962267">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>103258383</doc-number>
+                    <kind>A</kind>
+                    <date>20130821</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CN103258383</doc-number>
+                    <date>20130821</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="409651092">
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>201310052406</doc-number>
+                    <kind>A</kind>
+                    <date>20130218</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012032207</doc-number>
+                    <kind>A</kind>
+                    <date>20120216</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48962267" country="CN" doc-number="103258383" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>103258383</doc-number>
+                            <kind>A</kind>
+                            <date>20130821</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN103258383</doc-number>
+                            <date>20130821</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G07F  17/    32            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>3272</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="409651092">
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>201310052406</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN2013152406</doc-number>
+                            <date>20130218</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>201310052406X</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120032207</doc-number>
+                                <date>20120216</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2012-032207</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>UNIVERSAL ENTERTAINMENT CORP</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ARUZE GAMING AMERICA INC</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>UNIVERSAL ENTERTAINMENT CORP, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>ARUZE GAMING AMERICA INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>FUJISAWA MASUMI</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KITAMURA KENTA</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MIO SUSUMU</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MIYAWAKI MAKOTO</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>FUJISAWA MASUMI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>KITAMURA KENTA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>MIO SUSUMU, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>MIYAWAKI MAKOTO</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Gaming machine</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A gaming machine 300 includes an input device, a lower image display panel 141, and a motherboard 70. The motherboard 70 executes processes of: (a1) displaying a 29-option selection screen showing 29-option bonuses including a door 2 options on the lower image display panel 141</p>
+                    <p> (a2) when the selection of the door 2 options is received by a switch, selectively executing a 2-option game of executing a predetermined game and awarding a character to a player based on the result of the predetermined game or a 1-option game of immediately providing the game character to the player, and (a3) if the 1-option game is executed in (a2) when the selection of the door 2 options is received by the switch, displaying an indication image along with the 29-option selection screen.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="48962267">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2013165902</doc-number>
+                    <kind>A</kind>
+                    <date>20130829</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>JP2013165902</doc-number>
+                    <date>20130829</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="410539060">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012032207</doc-number>
+                    <kind>A</kind>
+                    <date>20120216</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012032207</doc-number>
+                    <kind>A</kind>
+                    <date>20120216</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="48962267" country="JP" doc-number="2013165902" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2013165902</doc-number>
+                            <kind>A</kind>
+                            <date>20130829</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP2013165902</doc-number>
+                            <date>20130829</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A63F   5/    04            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>A63F  13/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>07</class>
+                            <subclass>F</subclass>
+                            <main-group>17</main-group>
+                            <subgroup>3272</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>F1/0A&amp;M</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>3F/045&amp;11D</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>3F/045&amp;12D</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>3F3&amp;M</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="5">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>35/04512&amp;D</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C001/BB00</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C001/BB10</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/AA06</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/AB03</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="5">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/AB12</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="6">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/BA02</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="7">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/BA22</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="8">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/BB02</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="9">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/BB23</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="10">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/BB46</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="11">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/BB48</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="12">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/BB78</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="13">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/BB83</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="14">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/BB85</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="15">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/BB93</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="16">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/BB94</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="17">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/BB96</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="18">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CA02</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="19">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CA04</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="20">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CA15</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="21">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CB04</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="22">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CB33</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="23">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CB44</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="24">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CD07</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="25">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CD12</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="26">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CD18</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="27">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CD20</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="28">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CD23</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="29">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CD25</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="30">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CD43</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="31">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CD48</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="32">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/CD51</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="33">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/DA02</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="34">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/EA07</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="35">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/EA25</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="36">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>2C082/EA28</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="410539060">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2012032207</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20120032207</doc-number>
+                            <date>20120216</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2012032207</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120032207</doc-number>
+                                <date>20120216</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>UNIVERSAL ENTERTAINMENT CORP</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ARUZE GAMING AMERICA INC</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>UNIVERSAL ENTERTAINMENT CORP, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>ARUZE GAMING AMERICA INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                    </parties>
+                    <invention-title lang="en">GAMING MACHINE</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

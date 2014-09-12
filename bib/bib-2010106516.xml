@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="6"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="42118363" country="US" doc-number="2010106516" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2010106516</doc-number>
+                        <kind>A1</kind>
+                        <date>20100429</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2010106516</doc-number>
+                        <date>20100429</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  50/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>G06Q  10/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>3481</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>22</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/2</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="315438767">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>25700308</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20080257003</doc-number>
+                        <date>20081023</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>12257003</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20080257003</doc-number>
+                            <date>20081023</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>HANNON TIMOTHY [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>HANNON TIMOTHY</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">METHOD FOR OPTIMIZING BLOOD UTILIZATION</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <nplcit num="1">
+                            <text>Bloodmanagement.com from Archive.org cached 27 March 2006;
+        retrieved 2 November 2011</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method of measuring and assessing blood product utilization. The method comprises calculating a transfusion exposure score, the transfusion exposure score being an average amount of a blood product used for a patient population during a time period for a health care facilities</p>
+                <p> calculating a mean transfusion exposure score, the mean transfusion exposure score being a geometric mean of a plurality of transfusion exposure scores within a database for the blood product and for the patient population over the period of time for a plurality of health care facilities</p>
+                <p> calculating a benchmark transfusion exposure score, the benchmark transfusion exposure score being the transfusion exposure score of a best practice facility having the lowest transfusion exposure score of the plurality of transfusion exposure scores in the database with corresponding average or better patient outcomes</p>
+                <p> calculating a transfusion propensity score, the transfusion propensity score being a ratio of the transfusion exposure score of the health care facility to the benchmark transfusion exposure score for the blood product and used for the patient population</p>
+                <p> and analyzing the transfusion exposure score, the mean transfusion exposure score, the benchmark transfusion exposure score, and the transfusion propensity score to quantify opportunities for operational and financial improvement within the health care provider facility.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

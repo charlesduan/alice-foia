@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="7"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="39854616" country="US" doc-number="2008255964" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2008255964</doc-number>
+                        <kind>A1</kind>
+                        <date>20081016</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2008255964</doc-number>
+                        <date>20081016</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06F  17/    30            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>0625</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>0277</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>0641</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/14.73</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/26.62</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/27.1</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="54986262">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>9901808</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20080099018</doc-number>
+                        <date>20080407</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>12099018</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20080099018</doc-number>
+                            <date>20080407</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>60922242</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070922242P</doc-number>
+                            <date>20070405</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>MILTON TREVOR ROBERT [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>MILTON TREVOR ROBERT</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">METHOD AND SYSTEM OF SEARCHING ITEMS USING EQUITY</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <nplcit num="1">
+                            <text>ForSaleByOwnerCenterhttp://www.forsalebyownercenter.com/Internet Archive (8/19/2006) - http://web.archive.org/web/20060819022748/www.forsalebyownercenter.com/</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method of marketing items, such as vehicles, is disclosed. The method may include creating a vehicle listing for a user by receiving input from the user relating to a specific vehicle. The listing may be created over a global computer network through a user interface such as a webpage. The user input may include an asking price for the vehicle, information relating to the type, make, model and specifications of the vehicle, as well as mileage and condition of the vehicle. As part of the method, access may be provided to a vehicle information database that comprises average retail values, average trade-in values and other vehicle data for comparison. The user input may then be compared to the vehicle information database, resulting in a vehicle listing for marketing the vehicle to potential purchasers. The vehicle listing may illustrate an amount of equity in that particular vehicle, which may be calculated by subtracting the asking price from the average national retail price, thereby indicating to a potential purchaser the value in the vehicle. Multiple listings may then be gathered in a database, which may be searched and accessed by the public and potential purchasers.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

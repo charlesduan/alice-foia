@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="6"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="42007698" country="US" doc-number="2010069132" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2010069132</doc-number>
+                        <kind>A1</kind>
+                        <date>20100318</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2010069132</doc-number>
+                        <date>20100318</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A63F   9/    24            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>A63F  13/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>A</section>
+                        <class>63</class>
+                        <subclass>F</subclass>
+                        <main-group>13</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>A</section>
+                        <class>63</class>
+                        <subclass>F</subclass>
+                        <main-group>2300</main-group>
+                        <subgroup>1075</subgroup>
+                        <classification-value>A</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>A</section>
+                        <class>63</class>
+                        <subclass>F</subclass>
+                        <main-group>2300</main-group>
+                        <subgroup>204</subgroup>
+                        <classification-value>A</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>A</section>
+                        <class>63</class>
+                        <subclass>F</subclass>
+                        <main-group>2300</main-group>
+                        <subgroup>6045</subgroup>
+                        <classification-value>A</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>463/9</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>463/31</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="275316519">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>55704909</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20090557049</doc-number>
+                        <date>20090910</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>12557049</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20080238896</doc-number>
+                            <date>20080918</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2008-238896</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>NINTENDO CO LTD [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> SKIP LTD [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>NINTENDO CO., LTD, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>SKIP LTD</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>FUJITA YOSHIKAZU [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>FUJITA YOSHIKAZU</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">STORAGE MEDIUM STORING PUZZLE GAME PROGRAM, PUZZLE GAME APPARATUS, AND PUZZLE GAME CONTROL METHOD</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A game apparatus includes a first LCD and a second LCD, and a game screen of a puzzle game, and the like are displayed on the first and second LCDs. Moreover, a touch panel is provided on a top surface of the second LCD. A player taps a stick on one of piece objects displayed on the second LCD to select a first piece object. Subsequently, the player drags the stick vertically or laterally to select a second piece object adjacent to the first piece object. As a result, arrangement positions of the selected two piece objects are interchanged, and numerals displayed on the respective piece objects are reversed laterally or vertically.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

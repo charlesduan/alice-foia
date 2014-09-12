@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="8"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="39472565" country="US" doc-number="2008171592" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2008171592</doc-number>
+                        <kind>A1</kind>
+                        <date>20080717</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2008171592</doc-number>
+                        <date>20080717</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A63F   9/    24            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>A63F  13/    02            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="3">
+                        <text>A63F  13/    10            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="4">
+                        <text>A63F  13/    12            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="5">
+                        <text>G06F  15/   173            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>07</class>
+                        <subclass>F</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>323</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>07</class>
+                        <subclass>F</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>32</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>07</class>
+                        <subclass>F</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>3232</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>07</class>
+                        <subclass>F</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>3241</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>463/25</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>463/29</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>463/42</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>463/43</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>709/224</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="52515452">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>65300207</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20070653002</doc-number>
+                        <date>20070111</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>11653002</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070653002</doc-number>
+                            <date>20070111</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>IGT RENO NEV</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>IGT</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>DOAN THANG [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>DOAN THANG</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">Gaming machine peripheral control method</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A request for authorization for use of one or more peripheral devices of a wager gaming machine may be transmitted to another device (e.g., a central server) via a network. The request may, for example, include a machine-specific identifier and a peripheral identifier. The request may be sent from the wager gaming machine or from another device. The request may be sent automatically in response to certain conditions, e.g., when a peripheral device has been replaced and/or when the wager gaming machine initializes. The central server may determine (inter alia) whether the peripheral is approved for use in the registered jurisdiction and then send the appropriate authorization (or denial). Software (e.g., driver software) may accompany an authorization.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

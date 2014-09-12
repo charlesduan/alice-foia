@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="54"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013006530</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="44562993">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013006530</doc-number>
+                    <kind>A1</kind>
+                    <date>20130103</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013006530</doc-number>
+                    <date>20130103</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="379408758" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201013521071</doc-number>
+                    <kind>A</kind>
+                    <date>20100308</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2010053748</doc-number>
+                    <kind>W</kind>
+                    <date>20100308</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>A</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44562993" country="US" doc-number="2013006530" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013006530</doc-number>
+                            <kind>A1</kind>
+                            <date>20130103</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013006530</doc-number>
+                            <date>20130103</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G01C  21/    34            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>C</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>3469</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="379408758">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201013521071</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201013521071</doc-number>
+                            <date>20100308</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13521071</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010JP53748</doc-number>
+                                <date>20100308</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>PCT/JP2010/053748</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MITSUBISHI ELECTRIC CORP [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> NISHIUMA NORIHIRO [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> IKAWA MASAHIKO [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> NISHIKAWA YASUHIRO [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> KINOSHITA RYUSUKE [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="epodoc">
+                                <applicant-name>
+                                    <name> IRIE TAKASHI [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MITSUBISHI ELECTRIC CORPORATION, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>NISHIUMA NORIHIRO, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>IKAWA MASAHIKO, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>NISHIKAWA YASUHIRO, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>KINOSHITA RYUSUKE, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="original">
+                                <applicant-name>
+                                    <name>IRIE TAKASHI</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NISHIUMA NORIHIRO [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> IKAWA MASAHIKO [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> NISHIKAWA YASUHIRO [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KINOSHITA RYUSUKE [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> IRIE TAKASHI [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NISHIUMA NORIHIRO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>IKAWA MASAHIKO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>NISHIKAWA YASUHIRO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>KINOSHITA RYUSUKE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>IRIE TAKASHI</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">ROUTE SEARCH DEVICE</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5742922</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5742922</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009082952</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009082952</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009082967</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009082967</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009112463</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009112463</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010114473</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010114473</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010185384</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010185384</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A route search device capable of searching for a route with the lowest energy cost at a high speed even if the distance between start and end points is long. The route search device includes: a long distance search attribute calculation section for calculating, as an attribute of one long distance search link, the sum of upslope elevation differences of a plurality of short distance search links and the sum of downslope elevation differences of the short distance search links corresponding to the one long distance search link</p>
+                    <p> and a link cost calculation section for calculating, based on the attribute of the long distance search link and vehicle characteristics, a link cost that is an energy consumption at a time when a vehicle travels in the long distance search link.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44562993">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>102741654</doc-number>
+                    <kind>A</kind>
+                    <date>20121017</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CN102741654</doc-number>
+                    <date>20121017</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="376333147">
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>201080062970</doc-number>
+                    <kind>A</kind>
+                    <date>20100308</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2010053748</doc-number>
+                    <kind>W</kind>
+                    <date>20100308</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>A</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44562993" country="CN" doc-number="102741654" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>102741654</doc-number>
+                            <kind>A</kind>
+                            <date>20121017</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN102741654</doc-number>
+                            <date>20121017</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G01C  21/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>C</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>3469</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="376333147">
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>201080062970</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN2010862970</doc-number>
+                            <date>20100308</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2010800629704</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010JP53748</doc-number>
+                                <date>20100308</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>PCT/JP2010/053748</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MITSUBISHI ELECTRIC CORP</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MITSUBISHI ELECTRIC CORP</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NORIHIRO NISHIUMA</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MASAHIKO IKAWA</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> YASUHIRO NISHIKAWA</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> RYUSUKE KINOSHITA</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> TAKASHI IRIE</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NISHIUMA NORIHIRO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>IKAWA MASAHIKO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>NISHIKAWA YASUHIRO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>KINOSHITA RYUSUKE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>IRIE TAKASHI</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Path search device</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Disclosed is a path search device capable of rapidly carrying out a search for the path with the lowest energy cost even when the distance between start and destination points is long range, being capable of a search that takes into consideration factors that affect energy costs, including inclines within links, in a path search employing a high-level road network. Accordingly, for a plurality of links for short range searching that correspond to a link for long range searching, the device accordingly computes the sum of altitude increases of the respective links for short range searching, and the sum of altitude decreases of the respective links for short range searching, as properties of the link for long range searching, and computes a link cost, which is an energy consumption quantity when a vehicle is driven, from the properties of the link for long range searching and the characteristics of the vehicle.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44562993">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>DE</country>
+                    <doc-number>112010005366</doc-number>
+                    <kind>T5</kind>
+                    <date>20130328</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>DE112010005366T</doc-number>
+                    <date>20130328</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="404810487">
+                <document-id document-id-type="docdb">
+                    <country>DE</country>
+                    <doc-number>112010005366</doc-number>
+                    <kind>T</kind>
+                    <date>20100308</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2010053748</doc-number>
+                    <kind>W</kind>
+                    <date>20100308</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>A</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44562993" country="DE" doc-number="112010005366" kind="T5">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>DE</country>
+                            <doc-number>112010005366</doc-number>
+                            <kind>T5</kind>
+                            <date>20130328</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE112010005366T</doc-number>
+                            <date>20130328</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G01C  21/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>C</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>3469</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="404810487">
+                        <document-id document-id-type="docdb">
+                            <country>DE</country>
+                            <doc-number>112010005366</doc-number>
+                            <kind>T</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE20101105366T</doc-number>
+                            <date>20100308</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>112010005366</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010JP53748</doc-number>
+                                <date>20100308</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>PCT/JP2010/053748</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MITSUBISHI ELECTRIC CORP [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MITSUBISHI ELECTRIC CORPORATION</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>IKAWA MASAHIKO [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> IRIE TAKASHI [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> NISHIUMA NORIHIRO [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> NISHIKAWA YASUHIRO [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KINOSHITA RYUSUKE [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>IKAWA, MASAHIKO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>IRIE, TAKASHI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>NISHIUMA, NORIHIRO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>NISHIKAWA, YASUHIRO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>KINOSHITA, RYUSUKE</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="de">ROUTENSUCHVORRICHTUNG</invention-title>
+                    <references-cited>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2009079995</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2009079995</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JPH03223782</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>H03223782</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2653847</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2653847</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="de">
+                    <p>Ein Ziel der vorliegenden Erfindung besteht in der Schaffung einer Routensuchvorrichtung (1), die in der Lage ist, bei einer Routensuche unter Verwendung eines Strassennetzes auf hohem Niveau die Suche unter Berücksichtigung eines die Energiekosten beeinflussenden Faktors, wie zum Beispiel eines Gradienten in einem Streckenabschnitt, auszuführen, sowie ferner in der Lage ist, mit hoher Geschwindigkeit eine Route mit den niedrigsten Energiekosten zu suchen, selbst wenn die Distanz zwischen einem Anfangspunkt und einem Endpunkt lang ist.</p>
+                    <p> Eine Routensuchvorrichtung (1) gemäss der vorliegenden Erfindung weist folgendes auf: eine Langstrecken-Suchattribut-Berechnungseinheit (2), um als Attribut von einem einzelnen Langstrecken-Suchabschnitt (35) die Summe der Aufwärts-Höhenunterschiede einer Vielzahl von Kurzstrecken-Suchabschnitten (31-34) sowie die Summe der Abwärts-Höhenunterschiede der dem einen Langstrecken-Suchabschnitt (35) entsprechenden Kurzstrecken-Suchabschnitte (34-34) zu berechnen</p>
+                    <p> eine Streckenabschnittskosten-Berechnungseinheit (7), um auf der Basis des Attributs des Langstrecken-Suchabschnitts (35) sowie von Fahrzeugeigenschaften die Streckenabschnittskosten zu berechnen, die einen Energieverbrauch zum Zeitpunkt der Fahrt eines Fahrzeugs in dem Langstrecken-Suchabschnitt (35) darstellen</p>
+                    <p> und eine Routensuche-Verarbeitungseinheit (6), um auf der Basis der Streckenabschnittskosten einen Vorgang zum Ermitteln einer Route, auf der der Energieverbrauch am niedrigsten ist, oder einen Vorgang zum Berechnen des Energieverbrauchs auf einer vorbestimmten Route auszuführen.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44562993">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>5312677</doc-number>
+                    <kind>B2</kind>
+                    <date>20131009</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>JP5312677B</doc-number>
+                    <date>20131009</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="412299595">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012504172</doc-number>
+                    <kind>A</kind>
+                    <date>20100308</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2010053748</doc-number>
+                    <kind>W</kind>
+                    <date>20100308</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>A</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44562993" country="JP" doc-number="5312677" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>5312677</doc-number>
+                            <kind>B2</kind>
+                            <date>20131009</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP5312677B</doc-number>
+                            <date>20131009</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G01C  21/    34            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>B60L   3/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G08G   1/    00            A N                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>C</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>3469</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="412299595">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2012504172</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20120504172</doc-number>
+                            <date>20100308</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2012504172</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010JP53748</doc-number>
+                                <date>20100308</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2010/053748</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties/>
+                    <references-cited>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>WO2008044281</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>WO</country>
+                                    <doc-number>2008044281</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2004028896</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2004028896</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2009198293</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2009198293</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2008107155</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2008107155</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>WO2006126343</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>WO</country>
+                                    <doc-number>2006126343</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2009079995</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2009079995</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44562993">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2011111145</doc-number>
+                    <kind>A1</kind>
+                    <date>20110915</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2011111145</doc-number>
+                    <date>20110915</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="336901872">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2010053748</doc-number>
+                    <kind>W</kind>
+                    <date>20100308</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2010053748</doc-number>
+                    <kind>W</kind>
+                    <date>20100308</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44562993" country="WO" doc-number="2011111145" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2011111145</doc-number>
+                            <kind>A1</kind>
+                            <date>20110915</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2011111145</doc-number>
+                            <date>20110915</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G01C  21/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>01</class>
+                            <subclass>C</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>3469</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="336901872">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2010053748</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2010JP53748</doc-number>
+                            <date>20100308</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>JP2010/053748</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010JP53748</doc-number>
+                                <date>20100308</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MITSUBISHI ELECTRIC CORP [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> NISHIUMA NORIHIRO [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> IKAWA MASAHIKO [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> NISHIKAWA YASUHIRO [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> KINOSHITA RYUSUKE [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="epodoc">
+                                <applicant-name>
+                                    <name> IRIE TAKASHI [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MITSUBISHI ELECTRIC CORPORATION, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>NISHIUMA NORIHIRO, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>IKAWA MASAHIKO, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>NISHIKAWA YASUHIRO, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>KINOSHITA RYUSUKE, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="original">
+                                <applicant-name>
+                                    <name>IRIE TAKASHI</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NISHIUMA NORIHIRO [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> IKAWA MASAHIKO [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> NISHIKAWA YASUHIRO [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KINOSHITA RYUSUKE [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> IRIE TAKASHI [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NISHIUMA NORIHIRO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>IKAWA MASAHIKO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>NISHIKAWA YASUHIRO, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>KINOSHITA RYUSUKE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>IRIE TAKASHI</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">PATH SEARCH DEVICE</invention-title>
+                    <invention-title lang="fr">DISPOSITIF DE RECHERCHE DE TRAJET</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="JP">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>WO2008044281</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>WO</country>
+                                    <doc-number>2008044281</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="JP">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2004028896</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2004028896</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="JP">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2009198293</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2009198293</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="4" office="JP">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2008107155</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2008107155</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="5" office="JP">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>WO2006126343</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>WO</country>
+                                    <doc-number>2006126343</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="6" office="JP">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2009079995</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2009079995</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Disclosed is a path search device capable of rapidly carrying out a search for the path with the lowest energy cost even when the distance between start and destination points is long range, being capable of a search that takes into consideration factors that affect energy costs, including inclines within links, in a path search employing a high-level road network. Accordingly, for a plurality of links for short range searching that correspond to a link for long range searching, the device accordingly computes the sum of altitude increases of the respective links for short range searching, and the sum of altitude decreases of the respective links for short range searching, as properties of the link for long range searching, and computes a link cost, which is an energy consumption quantity when a vehicle is driven, from the properties of the link for long range searching and the characteristics of the vehicle.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un dispositif de recherche de trajet en mesure d'effectuer rapidement une recherche du trajet présentant le plus faible coût en matière d'énergie même quand la distance entre le point de départ et l'arrivée est une longue distance, en mesure de faire une recherche qui tient compte de facteurs qui affectent les coûts en matière d'énergie, y compris des déclivités dans les liens, dans le cadre d'une recherche de trajet utilisant un réseau routier de haut niveau.</p>
+                    <p> Par conséquent, pour une pluralité de liens pour une recherche de courte distance correspondant à un lien pour une recherche de longue distance, le dispositif calcule donc la somme des augmentations d'altitude des liens respectifs pour la recherche de courte distance, et la somme des diminutions d'altitude des liens respectifs pour la recherche de courte distance, comme étant des propriétés du lien pour la recherche de longue distance, et calcule un coût de lien, qui est une quantité de consommation d'énergie quand un véhicule roule, à partir des propriétés du lien pour une recherche de longue distance et des caractéristiques du véhicule.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

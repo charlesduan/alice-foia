@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="14"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="42560709" country="US" doc-number="2010211413" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2010211413</doc-number>
+                        <kind>A1</kind>
+                        <date>20100819</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2010211413</doc-number>
+                        <date>20100819</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  10/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>G06Q  40/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>10</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>08</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/4</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="320419144">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>38828309</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20090388283</doc-number>
+                        <date>20090218</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>12388283</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090388283</doc-number>
+                            <date>20090218</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>EMERGIS INC [CA]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>EMERGIS INC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>THOLL ROB [CA]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> LEUNG RAYMONF [CA]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> RUSSELL CLAYTON [CA]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>THOLL ROB, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>LEUNG RAYMONF, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>RUSSELL CLAYTON</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">REVISING CONTAINERIZED PROCESSING LOGIC FOR USE IN INSURANCE CLAIM PROCESSING</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2004064386</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2004064386</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2009006140</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2009006140</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                        <nplcit num="1">
+                            <text>Hasnain-Wynia, R. (1996). Issues in equity and access to
+        health care: An exploration of workers' compensation
+        medical benefits. (Brandeis University, The Florence Heller
+        Graduate School for Advanced Studies in Social Welfare).
+        ProQuest Dissertations and Theses, 182-182 p. Retrieved
+        from
+        http://search.proquest.com/docview/304338409?accountid=14753</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                        <nplcit num="2">
+                            <text>Biggs, W. E. (1956). THE HANDLING OF WORKMEN'S COMPENSATION
+        CLAIMS BY THE OHIO INDUSTRIAL COMMISSION. (Order No.
+        0017378, The Ohio State University). ProQuest Dissertations
+        and Theses, , 394-394 p. Retrieved from
+        http://search.proquest.com/docview/301982944?accountid=14753. (301982944)</text>
+                        </nplcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A system and method for revising one or more hierarchies of an insurance plan, the insurance plan for use in adjudicating one or more insurance claims. The method and system comprising obtaining one or more claims from a claims queue, the claims queue for storing claims selected for review. The system and method comprising accessing at least one of a set of benefit codes or a set of adjudication rules associated with the insurance plan of the obtained one or more claims, wherein at least some of the set of benefit codes or the set of adjudication rules are structured in a plurality of containers. The system and method comprising reconfiguring selected content of the at least one of a set of benefit codes or the set of adjudication rules in view of identified reasons for review of the one or more claims</p>
+                <p> and storing the reconfigured at least one of a set of benefit codes or the set of adjudication rules in a memory for subsequent use as at least one of a redeployed version of the insurance plan or a revised said at least one of a set of benefit codes or the set of adjudication rules for use in development of other insurance plans for adjudication of claims other than the one or more claims obtained from the claims queue</p>
+                <p> wherein the revised insurance plan, once deployed, is adapted for use by an adjudication engine for processing insurance claims received by the adjudication engine.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

@@ -1,0 +1,1928 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="197"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2010262520</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="35600619">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010262520</doc-number>
+                    <kind>A1</kind>
+                    <date>20101014</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2010262520</doc-number>
+                    <date>20101014</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="325212882">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>75830310</doc-number>
+                    <kind>A</kind>
+                    <date>20100412</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>75830310</doc-number>
+                    <kind>A</kind>
+                    <date>20100412</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89424804</doc-number>
+                    <kind>A</kind>
+                    <date>20040719</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>1</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35600619" country="US" doc-number="2010262520" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2010262520</doc-number>
+                            <kind>A1</kind>
+                            <date>20101014</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2010262520</doc-number>
+                            <date>20101014</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>087</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>Y</section>
+                            <class>10</class>
+                            <subclass>S</subclass>
+                            <main-group>707</main-group>
+                            <subgroup>949</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/28</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="325212882">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>75830310</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20100758303</doc-number>
+                            <date>20100412</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12758303</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100758303</doc-number>
+                                <date>20100412</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10894248</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040894248</doc-number>
+                                <date>20040719</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Optimizing Inventory In Accordance with a Constrained Network</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US8447644</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>8447644</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7606743</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7606743</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7552067</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7552067</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>In one embodiment, optimizing inventory includes accessing service level band sets. Each service level band set is associated with a policy group, and includes service level bands. Each service level band of a service level band set has a service level priority with respect to any other service level bands of the same service level band set. An inventory band set is determined for each service level band set. Each inventory band set includes inventory bands, where each inventory band satisfies a corresponding service level band assuming an unconstrained network. Each inventory band of an inventory band set has an inventory priority with respect to any other inventory bands of the same inventory band set. A feasible supply chain plan that satisfies the inventory band sets is generated in order of the inventory priorities until a constrained network is depleted.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="35600619">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>TW</country>
+                    <doc-number>I391833</doc-number>
+                    <kind>B</kind>
+                    <date>20130401</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>TWI391833B</doc-number>
+                    <date>20130401</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="409000067">
+                <document-id document-id-type="docdb">
+                    <country>TW</country>
+                    <doc-number>94106932</doc-number>
+                    <kind>A</kind>
+                    <date>20050308</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89424804</doc-number>
+                    <kind>A</kind>
+                    <date>20040719</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35600619" country="TW" doc-number="I391833" kind="B">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>TW</country>
+                            <doc-number>I391833</doc-number>
+                            <kind>B</kind>
+                            <date>20130401</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>TWI391833B</doc-number>
+                            <date>20130401</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    30            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>H04L  12/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>087</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>Y</section>
+                            <class>10</class>
+                            <subclass>S</subclass>
+                            <main-group>707</main-group>
+                            <subgroup>949</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="409000067">
+                        <document-id document-id-type="docdb">
+                            <country>TW</country>
+                            <doc-number>94106932</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>TW20050106932</doc-number>
+                            <date>20050308</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>094106932</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040894248</doc-number>
+                                <date>20040719</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10/894,248</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>JDA SOFTWARE GROUP INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>JDA SOFTWARE GROUP, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NAJMI, ADEEL</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Method and system for optimizing inventory and computer-readable storage medium embodied with software that optimizes inventory</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>TW495690B</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>TW</country>
+                                    <doc-number>495690</doc-number>
+                                    <kind>B</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>TW552538B</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>TW</country>
+                                    <doc-number>552538</doc-number>
+                                    <kind>B</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5946662</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5946662</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6256664</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6256664</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6418129</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6418129</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6493327</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6493327</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6643556</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6643556</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002156663</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002156663</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003101107</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003101107</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="35600619">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009198598</doc-number>
+                    <kind>A1</kind>
+                    <date>20090806</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2009198598</doc-number>
+                    <date>20090806</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="58079046">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>41408509</doc-number>
+                    <kind>A</kind>
+                    <date>20090330</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>41408509</doc-number>
+                    <kind>A</kind>
+                    <date>20090330</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89424804</doc-number>
+                    <kind>A</kind>
+                    <date>20040719</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>3</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35600619" country="US" doc-number="2009198598" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009198598</doc-number>
+                            <kind>A1</kind>
+                            <date>20090806</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2009198598</doc-number>
+                            <date>20090806</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G05B  13/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>087</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>Y</section>
+                            <class>10</class>
+                            <subclass>S</subclass>
+                            <main-group>707</main-group>
+                            <subgroup>949</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>235/385</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>700/28</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/28</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="58079046">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>41408509</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090414085</doc-number>
+                            <date>20090330</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12414085</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090414085</doc-number>
+                                <date>20090330</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10894248</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040894248</doc-number>
+                                <date>20040719</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>I2 TECHNOLOGIES US INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>I2 TECHNOLOGIES US, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Optimizing Inventory In Accordance with a Constrained Network</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>In one embodiment, optimizing inventory includes accessing service level band sets. Each service level band set is associated with a policy group, and includes service level bands. Each service level band of a service level band set has a service level priority with respect to any other service level bands of the same service level band set. An inventory band set is determined for each service level band set. Each inventory band set includes inventory bands, where each inventory band satisfies a corresponding service level band assuming an unconstrained network. Each inventory band of an inventory band set has an inventory priority with respect to any other inventory bands of the same inventory band set. A feasible supply chain plan that satisfies the inventory band sets is generated in order of the inventory priorities until a constrained network is depleted.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="35600619">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>7711597</doc-number>
+                    <kind>B2</kind>
+                    <date>20100504</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US7711597</doc-number>
+                    <date>20100504</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="58079046">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>41408509</doc-number>
+                    <kind>A</kind>
+                    <date>20090330</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>41408509</doc-number>
+                    <kind>A</kind>
+                    <date>20090330</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89424804</doc-number>
+                    <kind>A</kind>
+                    <date>20040719</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>3</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35600619" country="US" doc-number="7711597" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>7711597</doc-number>
+                            <kind>B2</kind>
+                            <date>20100504</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US7711597</doc-number>
+                            <date>20100504</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    30            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>087</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>Y</section>
+                            <class>10</class>
+                            <subclass>S</subclass>
+                            <main-group>707</main-group>
+                            <subgroup>949</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>235/385</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>700/28</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/28</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="58079046">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>41408509</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090414085</doc-number>
+                            <date>20090330</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12414085</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090414085</doc-number>
+                                <date>20090330</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10894248</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040894248</doc-number>
+                                <date>20040719</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>I2 TECHNOLOGIES US INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>I2 TECHNOLOGIES US, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Optimizing Inventory In Accordance with a Constrained Network</invention-title>
+                    <references-cited>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5946662</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5946662</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6643556</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6643556</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                            <nplcit num="1">
+                                <text>- Smith, Stephen A., "Optimal Inventories for an (S-I, S) System
+  With No Backorders", Management Science, vol. 23, No. 5,
+  Copyright 1977, The Institute of Management Sciences, Jan. 1977,
+  pp. 522-528</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                            <nplcit num="2">
+                                <text>- Wolff, Ronald W., "Poisson Arrivals See Times Averages",
+  Operations Research, vol. 30, No. 2, Copyright 1982, Operations
+  Research Society of America, Mar.-Apr. 1982, pp. 223-231</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                            <nplcit num="3">
+                                <text>- Federgruen, Awi, et al., "An Efficient Algorithm for Computing
+  Optimal (s, S) Policies", Operations Research, vol. 32, No. 6,
+  Copyright 1984, Operations Research Society of America, Nov.-Dec.
+  1984, pp. 1268-1285</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                            <nplcit num="4">
+                                <text>- Svoronos, Antony, et al., "Evaluation of One-For-One
+  Replenishment Policies for Multiechelon Inventory Systems",
+  Management Science, vol. 37, No. 1, Copyright 1991, The Institute
+  of Management Sciences, pp. 68-83</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                            <nplcit num="5">
+                                <text>- "Improving Service and Market Share with Inventory Optimization;
+  How to improve both your top and bottom lines through superior
+  inventory management", White Paper, i2 Technologies, Inc.,
+  Copyright 2003, i2 Technologies, Inc. Sep. 2003, 32 pages</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                            <nplcit num="6">
+                                <text>- Johansen, Soren Glud, "Base-stock policies for the lost sales
+  inventory system with Poisson demand and Erlangian lead times",
+  Department of Operations Research, University of Aarhus, Denmark,
+  Nov. 19, 2003, pp. 1-14</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6256664</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6256664</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6493327</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6493327</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6931434</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6931434</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7356393</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7356393</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7444294</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7444294</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7467095</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7467095</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7496530</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7496530</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7523483</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7523483</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005197971</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005197971</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>In one embodiment, optimizing inventory includes accessing service level band sets. Each service level band set is associated with a policy group, and includes service level bands. Each service level band of a service level band set has a service level priority with respect to any other service level bands of the same service level band set. An inventory band set is determined for each service level band set. Each inventory band set includes inventory bands, where each inventory band satisfies a corresponding service level band assuming an unconstrained network. Each inventory band of an inventory band set has an inventory priority with respect to any other inventory bands of the same inventory band set. A feasible supply chain plan that satisfies the inventory band sets is generated in order of the inventory priorities until a constrained network is depleted.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="35600619">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009182649</doc-number>
+                    <kind>A1</kind>
+                    <date>20090716</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2009182649</doc-number>
+                    <date>20090716</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="57880810">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>41411309</doc-number>
+                    <kind>A</kind>
+                    <date>20090330</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>41411309</doc-number>
+                    <kind>A</kind>
+                    <date>20090330</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89424804</doc-number>
+                    <kind>A</kind>
+                    <date>20040719</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>3</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35600619" country="US" doc-number="2009182649" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009182649</doc-number>
+                            <kind>A1</kind>
+                            <date>20090716</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2009182649</doc-number>
+                            <date>20090716</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F   7/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06F   9/    44            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>087</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>Y</section>
+                            <class>10</class>
+                            <subclass>S</subclass>
+                            <main-group>707</main-group>
+                            <subgroup>949</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>235/376</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/28</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>717/100</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="57880810">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>41411309</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090414113</doc-number>
+                            <date>20090330</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12414113</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090414113</doc-number>
+                                <date>20090330</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10894248</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040894248</doc-number>
+                                <date>20040719</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>I2 TECHNOLOGIES US INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>I2 TECHNOLOGIES US, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Optimizing Inventory In Accordance with a Constrained Network</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>In one embodiment, optimizing inventory includes accessing service level band sets. Each service level band set is associated with a policy group, and includes service level bands. Each service level band of a service level band set has a service level priority with respect to any other service level bands of the same service level band set. An inventory band set is determined for each service level band set. Each inventory band set includes inventory bands, where each inventory band satisfies a corresponding service level band assuming an unconstrained network. Each inventory band of an inventory band set has an inventory priority with respect to any other inventory bands of the same inventory band set. A feasible supply chain plan that satisfies the inventory band sets is generated in order of the inventory priorities until a constrained network is depleted.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="35600619">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>7712072</doc-number>
+                    <kind>B2</kind>
+                    <date>20100504</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US7712072</doc-number>
+                    <date>20100504</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="57880810">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>41411309</doc-number>
+                    <kind>A</kind>
+                    <date>20090330</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>41411309</doc-number>
+                    <kind>A</kind>
+                    <date>20090330</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89424804</doc-number>
+                    <kind>A</kind>
+                    <date>20040719</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>3</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35600619" country="US" doc-number="7712072" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>7712072</doc-number>
+                            <kind>B2</kind>
+                            <date>20100504</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US7712072</doc-number>
+                            <date>20100504</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F   9/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  17/    30            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>087</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>Y</section>
+                            <class>10</class>
+                            <subclass>S</subclass>
+                            <main-group>707</main-group>
+                            <subgroup>949</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>235/376</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/28</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>717/100</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="57880810">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>41411309</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090414113</doc-number>
+                            <date>20090330</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12414113</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090414113</doc-number>
+                                <date>20090330</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10894248</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040894248</doc-number>
+                                <date>20040719</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>I2 TECHNOLOGIES US INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>I2 TECHNOLOGIES US, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Optimizing Inventory In Accordance with a Constrained Network</invention-title>
+                    <references-cited>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5946662</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5946662</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6643556</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6643556</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                            <nplcit num="1">
+                                <text>- Smith, Stephen A., "Optimal Inventories For An (S-I, S) System
+  With No Backorders", Management Science, vol. 23, No. 5,
+  Copyright 1977, The Institute of Management Sciences, Jan. 1977,
+  pp. 522-528</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                            <nplcit num="2">
+                                <text>- Wolff, Ronald W., "Poisson Arrivals See Times Averages",
+  Operations Research, vol. 30, No. 2, Copyright 1982, Operations
+  Research Society of America, Mar.-Apr. 1982, pp. 223-231</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                            <nplcit num="3">
+                                <text>- Federgruen, Awi, et al., "An Efficient Algorithm for Computing
+  Optimal (s, S) Policies", Operations Research, vol. 32, No. 6,
+  Copyright 1984, Operations Research Society of America, Nov.-Dec.
+  1984, pp. 1268-1285</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                            <nplcit num="4">
+                                <text>- Svoronos, Antony, et al., "Evaluation of One-For-One
+  Replenishment Policies For Multiechelon Inventory Systems",
+  Management Science, vol. 37, No. 1, Copyright 1991, The Institute
+  of Management Sciences, pp. 68-83</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                            <nplcit num="5">
+                                <text>- "Improving Service and Market Share with Inventory Optimization;
+  How to improve both your top and bottom lines through superior
+  inventory management", White Paper, i2 Technologies, Inc.,
+  Copyright 2003, i2 Technologies, Inc. Sep. 2003, 32 pages</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                            <nplcit num="6">
+                                <text>- Johansen, Soren Glud, "Base-stock policies for the lost sales
+  inventory system with Poisson demand and Erlangian lead times",
+  Department of Operations Research, University of Aarhus, Denmark,
+  Nov. 19, 2003, pp. 1-14</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6256664</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6256664</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6418129</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6418129</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6493327</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6493327</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6931434</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6931434</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7356393</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7356393</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7444294</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7444294</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7467095</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7467095</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7496530</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7496530</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7523483</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7523483</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005197971</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005197971</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>In one embodiment, optimizing inventory includes accessing service level band sets. Each service level band set is associated with a policy group, and includes service level bands. Each service level band of a service level band set has a service level priority with respect to any other service level bands of the same service level band set. An inventory band set is determined for each service level band set. Each inventory band set includes inventory bands, where each inventory band satisfies a corresponding service level band assuming an unconstrained network. Each inventory band of an inventory band set has an inventory priority with respect to any other inventory bands of the same inventory band set. A feasible supply chain plan that satisfies the inventory band sets is generated in order of the inventory priorities until a constrained network is depleted.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="35600619">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2006015415</doc-number>
+                    <kind>A1</kind>
+                    <date>20060119</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2006015415</doc-number>
+                    <date>20060119</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54026337" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89424804</doc-number>
+                    <kind>A</kind>
+                    <date>20040719</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89424804</doc-number>
+                    <kind>A</kind>
+                    <date>20040719</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35600619" country="US" doc-number="2006015415" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2006015415</doc-number>
+                            <kind>A1</kind>
+                            <date>20060119</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2006015415</doc-number>
+                            <date>20060119</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q                       C I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>087</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>Y</section>
+                            <class>10</class>
+                            <subclass>S</subclass>
+                            <main-group>707</main-group>
+                            <subgroup>949</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>235/385</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/28</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>707/949</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54026337">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>89424804</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20040894248</doc-number>
+                            <date>20040719</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10894248</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040894248</doc-number>
+                                <date>20040719</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>I2 TECHNOLOGIES US INC
+</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>I2 TECHNOLOGIES US, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Optimizing inventory in accordance with a constrained network</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>In one embodiment, optimizing inventory includes accessing service level band sets. Each service level band set is associated with a policy group, and includes service level bands. Each service level band of a service level band set has a service level priority with respect to any other service level bands of the same service level band set. An inventory band set is determined for each service level band set. Each inventory band set includes inventory bands, where each inventory band satisfies a corresponding service level band assuming an unconstrained network. Each inventory band of an inventory band set has an inventory priority with respect to any other inventory bands of the same inventory band set. A feasible supply chain plan that satisfies the inventory band sets is generated in order of the inventory priorities until a constrained network is depleted.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="35600619">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>7721959</doc-number>
+                    <kind>B2</kind>
+                    <date>20100525</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US7721959</doc-number>
+                    <date>20100525</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54026337" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89424804</doc-number>
+                    <kind>A</kind>
+                    <date>20040719</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>89424804</doc-number>
+                    <kind>A</kind>
+                    <date>20040719</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35600619" country="US" doc-number="7721959" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>7721959</doc-number>
+                            <kind>B2</kind>
+                            <date>20100525</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US7721959</doc-number>
+                            <date>20100525</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>087</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>Y</section>
+                            <class>10</class>
+                            <subclass>S</subclass>
+                            <main-group>707</main-group>
+                            <subgroup>949</subgroup>
+                            <classification-value>A</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>235/385</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/28</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>707/949</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54026337">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>89424804</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20040894248</doc-number>
+                            <date>20040719</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10894248</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040894248</doc-number>
+                                <date>20040719</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>I2 TECHNOLOGIES US INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>I2 TECHNOLOGIES US, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NAJMI ADEEL</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Optimizing inventory in accordance with a constrained network</invention-title>
+                    <references-cited>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5946662</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5946662</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6643556</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6643556</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                            <nplcit num="1">
+                                <text>- Smith, Stephen A., "Optimal Inventories For An (S-1, S) System
+  With No Backorders*" Management Science, vol. 23, No. 5,
+  Copyright  CR  1977, The Institute of Management Sciences, pp.
+  522-528, Jan. 1977</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                            <nplcit num="2">
+                                <text>- Wolff, Ronald W., "Poisson Arrivals See Time Averages",
+  Operations Research, vol. 30, No. 2,  CR  1982 Operations
+  Research Society of America, pp. 223-231, Mar.-Apr. 1982</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                            <nplcit num="3">
+                                <text>- Federgruen, Awi, et al., "An Efficient Algorithm for Computing
+  Optimal (s, S) Policies", Operations Research, vol. 32, No. 6, 
+  CR  1984 Operations Research Society of America, pp. 1268-1285,
+  Nov.-Dec. 1984</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                            <nplcit num="4">
+                                <text>- Svoronos, Antony, et al., "Evaluation of One-For-One
+  Replenishment Policies for Multiechelon Inventory Systems*"
+  Management Science, vol. 37, No. 1, Copyright  CR  1991, The
+  Institute of Management Sciences, pp. 68-83, Jan. 1991</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                            <nplcit num="5">
+                                <text>- "Improving Service and Market Share with Inventory Optimization;
+  How to improve both your top and bottom lines through superior
+  inventory management", White Paper, i2 Technologies, Inc.,  CR 
+  Copyright 2003 i2 Technologies, Inc., 32 pages, Sep. 2003</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                            <nplcit num="6">
+                                <text>- Johansen, Soren Glud, "Base-stock policies for the lost sales
+  inventory system with Poisson demand and Erlangian lead times",
+  Department of Operations Research, University of Aarhus, Denmark,
+  pp. 1-14, Nov. 19, 2003</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6256664</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6256664</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6418129</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6418129</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6493327</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6493327</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6931434</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6931434</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7356393</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7356393</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7444294</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7444294</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7467095</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7467095</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7496530</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7496530</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7523483</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7523483</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005197971</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005197971</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>In one embodiment, optimizing inventory includes accessing service level band sets. Each service level band set is associated with a policy group, and includes service level bands. Each service level band of a service level band set has a service level priority with respect to any other service level bands of the same service level band set. An inventory band set is determined for each service level band set. Each inventory band set includes inventory bands, where each inventory band satisfies a corresponding service level band assuming an unconstrained network. Each inventory band of an inventory band set has an inventory priority with respect to any other inventory bands of the same inventory band set. A feasible supply chain plan that satisfies the inventory band sets is generated in order of the inventory priorities until a constrained network is depleted.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

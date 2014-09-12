@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="70"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013260345</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="42311930">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013260345</doc-number>
+                    <kind>A1</kind>
+                    <date>20131003</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013260345</doc-number>
+                    <date>20131003</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="410852507">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313849222</doc-number>
+                    <kind>A</kind>
+                    <date>20130322</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>68312410</doc-number>
+                    <kind>A</kind>
+                    <date>20100106</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>1</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>14308109</doc-number>
+                    <kind>P</kind>
+                    <date>20090107</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313849222</doc-number>
+                    <kind>A</kind>
+                    <date>20130322</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="42311930" country="US" doc-number="2013260345" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013260345</doc-number>
+                            <kind>A1</kind>
+                            <date>20131003</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013260345</doc-number>
+                            <date>20131003</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>0092</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="410852507">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201313849222</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201313849222</doc-number>
+                            <date>20130322</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13849222</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201313849222</doc-number>
+                                <date>20130322</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12683124</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100683124</doc-number>
+                                <date>20100106</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61143081</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090143081P</doc-number>
+                                <date>20090107</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>STANFORD RES INST INT [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SRI INTERNATIONAL</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>PURI MANIKA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ZHU ZHIWEI [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LUBIN JEFFREY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> PSCHAR TOM [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DIVAKARAN AJAY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SAWHNEY HARPREET [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>PURI MANIKA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>ZHU ZHIWEI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>LUBIN JEFFREY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>PSCHAR TOM, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>DIVAKARAN AJAY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>SAWHNEY HARPREET</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">FOOD RECOGNITION USING VISUAL ANALYSIS AND SPEECH RECOGNITION</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method and system for analyzing at least one food item on a food plate is disclosed. A plurality of images of the food plate is received by an image capturing device. A description of the at least one food item on the food plate is received by a recognition device. The description is at least one of a voice description and a text description. At least one processor extracts a list of food items from the description</p>
+                    <p> classifies and segments the at least one food item from the list using color and texture features derived from the plurality of images</p>
+                    <p> and estimates the volume of the classified and segmented at least one food item. The processor is also configured to estimate the caloric content of the at least one food item.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="42311930">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010173269</doc-number>
+                    <kind>A1</kind>
+                    <date>20100708</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2010173269</doc-number>
+                    <date>20100708</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="317555725" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>68312410</doc-number>
+                    <kind>A</kind>
+                    <date>20100106</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>68312410</doc-number>
+                    <kind>A</kind>
+                    <date>20100106</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>14308109</doc-number>
+                    <kind>P</kind>
+                    <date>20090107</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="42311930" country="US" doc-number="2010173269" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2010173269</doc-number>
+                            <kind>A1</kind>
+                            <date>20100708</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2010173269</doc-number>
+                            <date>20100708</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>0092</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>434/127</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="317555725">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>68312410</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20100683124</doc-number>
+                            <date>20100106</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12683124</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100683124</doc-number>
+                                <date>20100106</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61143081</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090143081P</doc-number>
+                                <date>20090107</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>PURI MANIKA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ZHU ZHIWEI [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LUBIN JEFFREY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> PSCHAR TOM [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DIVAKARAN AJAY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SAWHNEY HARPREET S [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>PURI MANIKA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>ZHU ZHIWEI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>LUBIN JEFFREY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>PSCHAR TOM, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>DIVAKARAN AJAY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>SAWHNEY HARPREET S</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">FOOD RECOGNITION USING VISUAL ANALYSIS AND SPEECH RECOGNITION</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6745214</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6745214</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6508762</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6508762</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <nplcit num="1">
+                                <text>Thanarat Chalidabhongse et al. "2D/3D Vision-Based Mango's
+        Feature Extraction and Sorting" 2006</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method and system for analyzing at least one food item on a food plate is disclosed. A plurality of images of the food plate is received by an image capturing device. A description of the at least one food item on the food plate is received by a recognition device. The description is at least one of a voice description and a text description. At least one processor extracts a list of food items from the description</p>
+                    <p> classifies and segments the at least one food item from the list using color and texture features derived from the plurality of images</p>
+                    <p> and estimates the volume of the classified and segmented at least one food item. The processor is also configured to estimate the caloric content of the at least one food item.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="42311930">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>8439683</doc-number>
+                    <kind>B2</kind>
+                    <date>20130514</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US8439683</doc-number>
+                    <date>20130514</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="317555725" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>68312410</doc-number>
+                    <kind>A</kind>
+                    <date>20100106</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>68312410</doc-number>
+                    <kind>A</kind>
+                    <date>20100106</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>14308109</doc-number>
+                    <kind>P</kind>
+                    <date>20090107</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="42311930" country="US" doc-number="8439683" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>8439683</doc-number>
+                            <kind>B2</kind>
+                            <date>20130514</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US8439683</doc-number>
+                            <date>20130514</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B  19/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>0092</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>434/127</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="317555725">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>68312410</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20100683124</doc-number>
+                            <date>20100106</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12683124</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100683124</doc-number>
+                                <date>20100106</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61143081</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090143081P</doc-number>
+                                <date>20090107</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>PURI MANIKA [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ZHU ZHIWEI [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LUBIN JEFFREY [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> PSCHAR TOM [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> DIVAKARAN AJAY [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SAWHNEY HARPREET S [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="epodoc">
+                                <applicant-name>
+                                    <name> STANFORD RES INST INT [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>PURI MANIKA, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>ZHU ZHIWEI, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>LUBIN JEFFREY, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>PSCHAR TOM, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>DIVAKARAN AJAY, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="6" data-format="original">
+                                <applicant-name>
+                                    <name>SAWHNEY HARPREET S, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="7" data-format="original">
+                                <applicant-name>
+                                    <name>SRI INTERNATIONAL</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>PURI MANIKA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ZHU ZHIWEI [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LUBIN JEFFREY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> PSCHAR TOM [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DIVAKARAN AJAY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SAWHNEY HARPREET S [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>PURI MANIKA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>ZHU ZHIWEI, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>LUBIN JEFFREY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>PSCHAR TOM, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>DIVAKARAN AJAY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>SAWHNEY HARPREET S</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">FOOD RECOGNITION USING VISUAL ANALYSIS AND SPEECH RECOGNITION</invention-title>
+                    <references-cited>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                            <nplcit num="1">
+                                <text>- F. Zhu et al., "Technology-assisted dietary assessment," SPIE,
+  2008</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                            <nplcit num="2">
+                                <text>- N. Dalal et al.,"Human detection using oriented histograms of
+  flow and appearance," ECCV, 2008, pp. 428-441</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                            <nplcit num="3">
+                                <text>- M. Varna and D. Ray, "Learning the discriminative power
+  invariance tradeoff," ICCV, 2007</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                            <nplcit num="4">
+                                <text>- W. Cai, Q. Yu, H. Wang, and J. Zheng "A fast contour-based
+  approach to circle and ellipse detection," in: 5th IEEE World
+  Congress on Intelligent Control and Automation (WCICA) 2004</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                            <nplcit num="5">
+                                <text>- M. Varma and A. Zisserman, "Classify images of materials:
+  Achieving viewpoint and illumination independence," in ECCV, pp.
+  255-271, 2002</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                            <nplcit num="6">
+                                <text>- M. Varma and A. Zisserman, "Texture classification: Are filter
+  banks necessary?" in CVPR, pp. 691-698, 2003</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                            <nplcit num="7">
+                                <text>- D. Lowe, "Distinctive image features from scale-invariant
+  keypoints," IJCV, pp. 91-110, 2004</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                            <nplcit num="8">
+                                <text>- K. Mikolajczyk and C. Schmid, "A performance evaluation of local
+  descriptors," PAMI, pp. 1615-1630, 2005</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="9">
+                            <nplcit num="9">
+                                <text>- R. E. Schapire, Y. Freund, P. Bartlett, and W. S. Lee, "Boosting
+  the margin: A new explanation for the effectiveness of voting
+  methods," The Annals of Statistics, pp. 1651-1686, 1998</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="10">
+                            <nplcit num="10">
+                                <text>- C. Harris and M. Stephens, "A combined corner and edge detector,"
+  in the 4th Alvey Vision Conference, 1988</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="11">
+                            <nplcit num="11">
+                                <text>- D. Nister, O. Naroditsky, and J. Bergen, "Visual odometry," in
+  CVPR, 2004</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="12">
+                            <nplcit num="12">
+                                <text>- R. Hartley and A. Zisserman, "Multiple View Geometry in Computer
+  Vision," Cambridge University Press, 2000, pp. 120-122</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6508762</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6508762</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6745214</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6745214</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <nplcit num="1">
+                                <text>Thanarat Chalidabhongse et al. "2D/3D Vision-Based Mango's
+        Feature Extraction and Sorting" 2006</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method and system for analyzing at least one food item on a food plate is disclosed. A plurality of images of the food plate is received by an image capturing device. A description of the at least one food item on the food plate is received by a recognition device. The description is at least one of a voice description and a text description. At least one processor extracts a list of food items from the description</p>
+                    <p> classifies and segments the at least one food item from the list using color and texture features derived from the plurality of images</p>
+                    <p> and estimates the volume of the classified and segmented at least one food item. The processor is also configured to estimate the caloric content of the at least one food item.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

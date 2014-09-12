@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="6"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="35783330" country="US" doc-number="2008293473" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2008293473</doc-number>
+                        <kind>A1</kind>
+                        <date>20081127</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2008293473</doc-number>
+                        <date>20081127</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06F  17/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>07</class>
+                        <subclass>F</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>32</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>07</class>
+                        <subclass>F</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>3227</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>07</class>
+                        <subclass>F</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>3239</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>463/16</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="55390517">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>63035505</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20050630355</doc-number>
+                        <date>20050630</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>11630355</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20050630355</doc-number>
+                            <date>20050630</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>60584713</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20040584713P</doc-number>
+                            <date>20040630</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number> PCT/US05/23098</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2005US23098</doc-number>
+                            <date>20050630</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>WMS GAMING INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>WMS GAMING, INC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>FIDEN DANIEL P [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> HELFER LISA M [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> WARD MATTHEW J [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>FIDEN DANIEL P, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>HELFER LISA M, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>WARD MATTHEW J</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">Wagering Game with Character Learning</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Wagering game terminal and method of operating same are disclosed where the player characters or avatars learn from the experiences of previous games. Thus, the player characters or avatars in effect remember the paths they have taken and/or the choices they have selected previously. This learning or remembrance may occur across multiple games and may be manifested by visual and/or audio reminders, including removal of the previously taken paths/choices. Other indicators such as audio or text messages may also be used. The player characters or avatars may also refuse or be reluctant to repeat a particular path/choice. In this way, the player may retain the benefits of his earlier efforts, thereby increasing player excitement and enjoyment.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

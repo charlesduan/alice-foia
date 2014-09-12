@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="54"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2011213631</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="44307587">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2011213631</doc-number>
+                    <kind>A1</kind>
+                    <date>20110901</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2011213631</doc-number>
+                    <date>20110901</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="336624842">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113010521</doc-number>
+                    <kind>A</kind>
+                    <date>20110120</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>29668110</doc-number>
+                    <kind>P</kind>
+                    <date>20100120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113010521</doc-number>
+                    <kind>A</kind>
+                    <date>20110120</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44307587" country="US" doc-number="2011213631" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2011213631</doc-number>
+                            <kind>A1</kind>
+                            <date>20110901</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2011213631</doc-number>
+                            <date>20110901</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>063</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/7.11</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="336624842">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201113010521</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201113010521</doc-number>
+                            <date>20110120</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13010521</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201113010521</doc-number>
+                                <date>20110120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61296681</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100296681P</doc-number>
+                                <date>20100120</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>MISLAVSKY EDWARD RUBEN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>MISLAVSKY EDWARD RUBEN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM AND METHOD FOR PERFORMING PROJECT MANAGEMENT ATTENDANT TO ANY OF VARIOUS TYPES OF PROJECTS</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002120480</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002120480</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010185547</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010185547</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006190391</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006190391</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002087381</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002087381</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5189606</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5189606</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008071634</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008071634</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008228815</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008228815</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008319890</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008319890</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003050881</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003050881</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009018889</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009018889</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="11">
+                            <patcit dnum-type="publication number" num="11">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010121752</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010121752</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="12">
+                            <nplcit num="1">
+                                <text>Ament et al. "BeyeNETWORK: Two Converging Trends for
+        Software as a Service Business Intelligence." Retrieved
+        from [URL: http://www.b-eye-network.com/print/10088],
+        originally published April 9, 2009</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="13">
+                            <nplcit num="2">
+                                <text>"Build it Live" web site, archived on [URL:
+        http://web.archive.org/web/.../http://www.builditlive.com/...], archived in October 2009</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="14">
+                            <nplcit num="3">
+                                <text>Sawyer, Tom. "Clouds and iPads Have Inventors Rolling Out
+        Tools." ENR: Engineering News-Record, vol. 265, no. 4, page
+        21, August 2, 2010</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="15">
+                            <nplcit num="4">
+                                <text>Burchard, Bill. "Internet Tools for AEC Project
+        Collaboration." CADalyst, vol. 18, no. 6, page 54, June 30,
+        2001</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="16">
+                            <nplcit num="5">
+                                <text>"Top SaaS Construction Products: SaaS and Cloud Computing -
+        SaaS and Cloud in Construction" web page, archived on [URL:
+        http://web.archive.org/web/20110521120638/http://construction.about.com/od/New-Software/tp/Top-Saas-Construction-Products...] on May 21, 2011</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="17">
+                            <nplcit num="6">
+                                <text>Zutz, Aaron Charles. "Web-based Collaboration in Horizontal
+        Construction." Thesis submitted to Iowa State University, 
+        CR  2010</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Provided herein is a system, method and computer-readable-storage medium for performing project management of, and/or attendant to, one or more projects</p>
+                    <p> each project including a set of tasks. The system may include a server having a framework adapted to configure the server to manage one or more aspects (e.g., any of a scope, cost and schedule) of, and/or attendant to, any project and/or portion thereof. The server, so configured, may manage the managed aspects in a number of ways. For example, the server may obtain, from one or more users, information associated with the set of tasks</p>
+                    <p> apply one or more directives of the framework to the information to determine one or more states of, and/or attendant to, the managed aspects</p>
+                    <p> compare the managed-aspect states to respective sets of predetermined conditions</p>
+                    <p> and report at least an indication of the managed-aspect states responsive to such satisfying the sets of predetermined conditions.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44307587">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2011091158</doc-number>
+                    <kind>A2</kind>
+                    <date>20110728</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2011091158</doc-number>
+                    <date>20110728</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="335862374" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2011021909</doc-number>
+                    <kind>W</kind>
+                    <date>20110120</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>29668110</doc-number>
+                    <kind>P</kind>
+                    <date>20100120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44307587" country="WO" doc-number="2011091158" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2011091158</doc-number>
+                            <kind>A2</kind>
+                            <date>20110728</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2011091158</doc-number>
+                            <date>20110728</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>063</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="335862374">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2011021909</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2011US21909</doc-number>
+                            <date>20110120</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2011/021909</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100296681P</doc-number>
+                                <date>20100120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/296,681</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MISLAVSKY EDWARD RUBEN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MISLAVSKY, EDWARD RUBEN</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>MISLAVSKY EDWARD RUBEN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>MISLAVSKY, EDWARD RUBEN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM AND METHOD FOR PERFORMING PROJECT MANAGEMENT ATTENDANT TO ANY OF VARIOUS TYPES OF PROJECTS</invention-title>
+                    <invention-title lang="fr">SYSTÈME ET PROCÉDÉ DE RÉALISATION D'UNE GESTION DE PROJET ASSOCIÉE À UN PROJET QUELCONQUE PARMI DIFFÉRENTS TYPES DE PROJETS</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="KR">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008288307</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008288307</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="KR">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>KR20060114732</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>KR</country>
+                                    <doc-number>20060114732</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="KR">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>KR20090051459</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>KR</country>
+                                    <doc-number>20090051459</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="4" office="KR">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007186160</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007186160</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="5" office="KR">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>KR20070004162</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>KR</country>
+                                    <doc-number>20070004162</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Provided herein is a system, method and computer-readable-storage medium for performing project management of, and/or attendant to, one or more projects</p>
+                    <p> each project including a set of tasks. The system may include a server having a framework adapted to configure the server to manage one or more aspects of, and/or attendant to, any project and/or portion thereof. The server, so configured, may manage the managed aspects in a number of ways. For example, the server may obtain, from one or more users, information associated with the set of tasks</p>
+                    <p> apply one or more directives of the framework to the information to determine one or more states of, and/or attendant to, the managed aspects</p>
+                    <p> compare the managed-aspect states to respective sets of predetermined conditions</p>
+                    <p> and report at least an indication of the managed-aspect states responsive to such satisfying the sets of predetermined conditions.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention porte sur un système, un procédé et un support de mémorisation lisible par ordinateur destinés à réaliser une gestion de projet pour un ou plusieurs projets et/ou se rapportant à ceux-ci, chaque projet comprenant un ensemble de tâches. Le système peut comprendre un serveur ayant une structure conçue pour configurer le serveur pour gérer un ou plusieurs aspects d'un quelconque projet et/ou associés à un quelconque projet et/ou une partie de celui-ci. Le serveur ainsi configuré peut gérer les aspects gérés de plusieurs façons.</p>
+                    <p> Par exemple, le serveur peut obtenir, à partir d'un ou plusieurs utilisateurs, des informations associées à l'ensemble de tâches, appliquer une ou plusieurs directives de la structure aux informations afin de déterminer un ou plusieurs états des aspects gérés et/ou associés à ceux-ci, comparer les états d'aspect gérés avec les ensembles respectifs de conditions prédéterminées, et délivrer au moins une indication des états d'aspect gérés en réponse à une telle satisfaction des ensembles de conditions prédéterminées.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="44307587">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2011091158</doc-number>
+                    <kind>A3</kind>
+                    <date>20111110</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2011091158</doc-number>
+                    <date>20111110</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="335862374" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2011021909</doc-number>
+                    <kind>W</kind>
+                    <date>20110120</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>29668110</doc-number>
+                    <kind>P</kind>
+                    <date>20100120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="44307587" country="WO" doc-number="2011091158" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2011091158</doc-number>
+                            <kind>A3</kind>
+                            <date>20111110</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2011091158</doc-number>
+                            <date>20111110</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>063</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="335862374">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2011021909</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2011US21909</doc-number>
+                            <date>20110120</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2011/021909</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100296681P</doc-number>
+                                <date>20100120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/296,681</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MISLAVSKY EDWARD RUBEN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MISLAVSKY, EDWARD RUBEN</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>MISLAVSKY EDWARD RUBEN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>MISLAVSKY, EDWARD RUBEN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM AND METHOD FOR PERFORMING PROJECT MANAGEMENT ATTENDANT TO ANY OF VARIOUS TYPES OF PROJECTS</invention-title>
+                    <invention-title lang="fr">SYSTÈME ET PROCÉDÉ DE RÉALISATION D'UNE GESTION DE PROJET ASSOCIÉE À UN PROJET QUELCONQUE PARMI DIFFÉRENTS TYPES DE PROJETS</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Provided herein is a system, method and computer-readable-storage medium for performing project management of, and/or attendant to, one or more projects</p>
+                    <p> each project including a set of tasks. The system may include a server having a framework adapted to configure the server to manage one or more aspects of, and/or attendant to, any project and/or portion thereof. The server, so configured, may manage the managed aspects in a number of ways. For example, the server may obtain, from one or more users, information associated with the set of tasks</p>
+                    <p> apply one or more directives of the framework to the information to determine one or more states of, and/or attendant to, the managed aspects</p>
+                    <p> compare the managed-aspect states to respective sets of predetermined conditions</p>
+                    <p> and report at least an indication of the managed-aspect states responsive to such satisfying the sets of predetermined conditions.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention porte sur un système, un procédé et un support de mémorisation lisible par ordinateur destinés à réaliser une gestion de projet pour un ou plusieurs projets et/ou se rapportant à ceux-ci, chaque projet comprenant un ensemble de tâches. Le système peut comprendre un serveur ayant une structure conçue pour configurer le serveur pour gérer un ou plusieurs aspects d'un quelconque projet et/ou associés à un quelconque projet et/ou une partie de celui-ci. Le serveur ainsi configuré peut gérer les aspects gérés de plusieurs façons.</p>
+                    <p> Par exemple, le serveur peut obtenir, à partir d'un ou plusieurs utilisateurs, des informations associées à l'ensemble de tâches, appliquer une ou plusieurs directives de la structure aux informations afin de déterminer un ou plusieurs états des aspects gérés et/ou associés à ceux-ci, comparer les états d'aspect gérés avec les ensembles respectifs de conditions prédéterminées, et délivrer au moins une indication des états d'aspect gérés en réponse à une telle satisfaction des ensembles de conditions prédéterminées.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

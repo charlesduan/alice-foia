@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="19"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="47830332" country="US" doc-number="2013065673" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2013065673</doc-number>
+                        <kind>A1</kind>
+                        <date>20130314</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2013065673</doc-number>
+                        <date>20130314</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A63F  13/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>07</class>
+                        <subclass>F</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>3244</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>07</class>
+                        <subclass>F</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>34</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>463/25</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="404817045">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201213631235</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201213631235</doc-number>
+                        <date>20120928</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13631235</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213631235</doc-number>
+                            <date>20120928</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13195037</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201113195037</doc-number>
+                            <date>20110801</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number> 61371532</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20100371532P</doc-number>
+                            <date>20100806</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>MULTIMEDIA GAMES INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> MULTIMEDIA GAMES INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>MULTIMEDIA GAMES, INC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>WATKINS BRIAN [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>WATKINS BRIAN</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">GAMING SYSTEM, METHOD, AND PROGRAM PRODUCT FOR REAL-TIME SELECTION OF OUTCOME DISTRIBUTION IN A WAGERING GAME</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2002077165</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2002077165</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2011111828</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2011111828</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method includes, for a given play of a wagering game, displaying a visual depiction which varies over a range of visual states. The visual depiction is displayed through a display system of the gaming machine and each visual state is correlated to a respective outcome distribution from a set of different outcome distributions. The method may then include receiving a player input through a player input system of the gaming machine. This player input selects one of the visual states of the visual depiction, so that the outcome distribution correlated to that selected visual state may be applied to randomly identify an outcome for a play of a game at the gaming machine. The method then includes awarding any prize correlated to the identified outcome.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

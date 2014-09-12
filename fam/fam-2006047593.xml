@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="71"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2006047593</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="35944584">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2006047593</doc-number>
+                    <kind>A1</kind>
+                    <date>20060302</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2006047593</doc-number>
+                    <date>20060302</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54203613" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>93130004</doc-number>
+                    <kind>A</kind>
+                    <date>20040901</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>93130004</doc-number>
+                    <kind>A</kind>
+                    <date>20040901</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35944584" country="US" doc-number="2006047593" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2006047593</doc-number>
+                            <kind>A1</kind>
+                            <date>20060302</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2006047593</doc-number>
+                            <date>20060302</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/35</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54203613">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>93130004</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20040931300</doc-number>
+                            <date>20040901</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10931300</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040931300</doc-number>
+                                <date>20040901</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>UBS FINANCIAL SERVICES INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>UBS FINANCIAL SERVICES INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NARATIL THOMAS C [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> FREER MARIANNE [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NARATIL THOMAS C, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>FREER MARIANNE</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Method and system for funds management</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005065872</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005065872</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <nplcit num="1">
+                                <text>"The office of Thrift Supervision", doc. P-2000-10, from
+        8/10/2000</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods and systems for sweeping fund between accounts are provided. A first account is initialized with a balance. The number of withdrawals made from the first account is monitored with respect to a limit on the total number of withdrawals allowed within each cycle of a predetermined period. Upon reaching the limit on the total number of withdrawals, the remaining balance in the first account is swept into a second account. Each subsequent withdrawal is made from the second account during the remaining duration of the cycle after the remaining balance is swept into the second account. When a new cycle begins, the entire remaining balance in the second account is swept back into the first account.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="35944584">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2006028798</doc-number>
+                    <kind>A2</kind>
+                    <date>20060316</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2006028798</doc-number>
+                    <date>20060316</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54563365">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2005030797</doc-number>
+                    <kind>W</kind>
+                    <date>20050829</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>93130004</doc-number>
+                    <kind>A</kind>
+                    <date>20040901</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35944584" country="WO" doc-number="2006028798" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2006028798</doc-number>
+                            <kind>A2</kind>
+                            <date>20060316</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2006028798</doc-number>
+                            <date>20060316</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54563365">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2005030797</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2005US30797</doc-number>
+                            <date>20050829</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2005/030797</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040931300</doc-number>
+                                <date>20040901</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10/931,300</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>UBS FINANCIAL SERVICES INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> NARATIL THOMAS C [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> FREER MARIANNE [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>UBS FINANCIAL SERVICES, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>NARATIL, THOMAS, C, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>FREER, MARIANNE</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NARATIL THOMAS C [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> FREER MARIANNE [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NARATIL, THOMAS, C, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>FREER, MARIANNE</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHOD AND SYSTEM FOR FUNDS MANAGEMENT</invention-title>
+                    <invention-title lang="fr">PROCEDE ET SYSTEME DE GESTION DE FONDS</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2001047330</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2001047330</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5745706</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5745706</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002091637</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002091637</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004002910</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004002910</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6374231</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6374231</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods and systems for sweeping fund between accounts are provided. A first account is initialized with a balance. The number of withdrawals made from the first account is monitored with respect to a limit on the total number of withdrawals allowed within each cycle of a pre-determined period. Upon reaching the limit on the total number of withdrawals, the remaining balance in the first account is swept into a second account. Each subsequent withdrawal is made from the second account during the remaining duration of the cycle after the remaining balance is swept into the second account. When a new cycle begins, the entire remaining balance in the second account is swept back into the first account.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>La présente invention concerne des procédés et des systèmes permettant de transférer des fonds entre des comptes. Un premier compte est initialisé avec une balance. Le nombre de prélèvements effectués sur le premier compte est surveillé par rapport à un nombre limite total de prélèvements autorisés dans chaque cycle d'une durée prédéterminée. Lorsque le nombre limite total de prélèvements est atteint, la balance restante dans le premier compte est transférée dans un second compte. Chaque prélèvement suivant est effectué sur le second compte pendant la durée restante du cycle après le transfert de la balance restante dans ce second compte. Lorsqu'un nouveau cycle commence, la balance restante complète du second compte est retransférée dans le premier compte.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="35944584">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2006028798</doc-number>
+                    <kind>A3</kind>
+                    <date>20071101</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2006028798</doc-number>
+                    <date>20071101</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54563365">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2005030797</doc-number>
+                    <kind>W</kind>
+                    <date>20050829</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>93130004</doc-number>
+                    <kind>A</kind>
+                    <date>20040901</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="35944584" country="WO" doc-number="2006028798" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2006028798</doc-number>
+                            <kind>A3</kind>
+                            <date>20071101</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2006028798</doc-number>
+                            <date>20071101</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54563365">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2005030797</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2005US30797</doc-number>
+                            <date>20050829</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2005/030797</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20040931300</doc-number>
+                                <date>20040901</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10/931,300</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>UBS FINANCIAL SERVICES INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> NARATIL THOMAS C [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> FREER MARIANNE [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>UBS FINANCIAL SERVICES, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>NARATIL, THOMAS, C, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>FREER, MARIANNE</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NARATIL THOMAS C [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> FREER MARIANNE [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NARATIL, THOMAS, C, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>FREER, MARIANNE</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHOD AND SYSTEM FOR FUNDS MANAGEMENT</invention-title>
+                    <invention-title lang="fr">PROCEDE ET SYSTEME DE GESTION DE FONDS</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods and systems for sweeping fund between accounts are provided. A first account is initialized with a balance. The number of withdrawals made from the first account is monitored with respect to a limit on the total number of withdrawals allowed within each cycle of a pre-determined period. Upon reaching the limit on the total number of withdrawals, the remaining balance in the first account is swept into a second account. Each subsequent withdrawal is made from the second account during the remaining duration of the cycle after the remaining balance is swept into the second account. When a new cycle begins, the entire remaining balance in the second account is swept back into the first account.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>La présente invention concerne des procédés et des systèmes permettant de transférer des fonds entre des comptes. Un premier compte est initialisé avec une balance. Le nombre de prélèvements effectués sur le premier compte est surveillé par rapport à un nombre limite total de prélèvements autorisés dans chaque cycle d'une durée prédéterminée. Lorsque le nombre limite total de prélèvements est atteint, la balance restante dans le premier compte est transférée dans un second compte. Chaque prélèvement suivant est effectué sur le second compte pendant la durée restante du cycle après le transfert de la balance restante dans ce second compte. Lorsqu'un nouveau cycle commence, la balance restante complète du second compte est retransférée dans le premier compte.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

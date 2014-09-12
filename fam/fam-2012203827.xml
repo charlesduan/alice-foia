@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="53"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2012203827</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="32329267">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012203827</doc-number>
+                    <kind>A1</kind>
+                    <date>20120809</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2012203827</doc-number>
+                    <date>20120809</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="365632698">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213448268</doc-number>
+                    <kind>A</kind>
+                    <date>20120416</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213448268</doc-number>
+                    <kind>A</kind>
+                    <date>20120416</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>68660803</doc-number>
+                    <kind>A</kind>
+                    <date>20031017</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>1</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>42873502</doc-number>
+                    <kind>P</kind>
+                    <date>20021125</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="32329267" country="US" doc-number="2012203827" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2012203827</doc-number>
+                            <kind>A1</kind>
+                            <date>20120809</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2012203827</doc-number>
+                            <date>20120809</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  15/    16            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>0831</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>10</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>709/203</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="365632698">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201213448268</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213448268</doc-number>
+                            <date>20120416</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13448268</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213448268</doc-number>
+                                <date>20120416</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10686608</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20030686608</doc-number>
+                                <date>20031017</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 60428735</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20020428735P</doc-number>
+                                <date>20021125</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>CASEY LYNN ANN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SHIELDS MAURINE T [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ACCENTURE GLOBAL SERVICES LTD</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>CASEY LYNN ANN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>SHIELDS MAURINE T, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES LIMITED</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>CASEY LYNN ANN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SHIELDS MAURINE T [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>CASEY LYNN ANN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SHIELDS MAURINE T</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Border Management Solution</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6115690</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6115690</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <nplcit num="1">
+                                <text>Coalition for Secure &amp; Trade-Efficient Borders. "Rethinking
+        our Borders: A Plan for Action". Published Dec. 3, 2001 at
+        www.cme-mec.ca/national/template_na.asp?p=104</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <nplcit num="2">
+                                <text>Associated Press. "Wireless devices join handcuffs at
+        Boston airport; Fighting terrorism: BlackBerry lets
+        officers quickly access multiple criminal databases".
+        Telegraph - Herald [Dubuque, Iowa] 20 Jan 2002; D.7.)</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <nplcit num="3">
+                                <text>"Hijacked Jetliners Used as Weapons of Mass Destruction.
+        Air Safety Week. New York: Sep 17, 2001. Vol. 15, Iss. 35;
+        pg.1</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>An integrated border management solution providing a balance between facilitating the movement of people and commerce with the requirements of immigration, customs, and other border-focused law enforcement. The facilitation aspect of the solution includes processing of arrivals and departures, as well as processing requests triggered by forms and applications such as requests for visas, asylum or customs declarations. The enforcement aspect of the solution includes border enforcement alerts and communication, as well as a comprehensive, integrated investigation and intelligence workbench. The border management solution is based upon a border management business architecture defining the structure for developing a border management solution in terms of its capabilities and the interrelationships of those capabilities. The border management solution according to the present invention may be implemented as an integrated whole or as component parts to a border management solution.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="32329267">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2004102991</doc-number>
+                    <kind>A1</kind>
+                    <date>20040527</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2004102991</doc-number>
+                    <date>20040527</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="52758484" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>68660803</doc-number>
+                    <kind>A</kind>
+                    <date>20031017</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>68660803</doc-number>
+                    <kind>A</kind>
+                    <date>20031017</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>42873502</doc-number>
+                    <kind>P</kind>
+                    <date>20021125</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="32329267" country="US" doc-number="2004102991" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2004102991</doc-number>
+                            <kind>A1</kind>
+                            <date>20040527</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2004102991</doc-number>
+                            <date>20040527</date>
+                        </document-id>
+                    </publication-reference>
+                    <classification-ipc>
+                        <text>G06F17/60</text>
+                    </classification-ipc>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>0831</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>10</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/1.1</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/331</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="52758484">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>68660803</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20030686608</doc-number>
+                            <date>20031017</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10686608</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20030686608</doc-number>
+                                <date>20031017</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>60428735</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20020428735P</doc-number>
+                                <date>20021125</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH [US]
+</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>CASEY LYNN ANN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>SHIELDS MAURINE T, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES LIMITED</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>CASEY LYNN ANN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SHIELDS MAURINE T [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>CASEY LYNN ANN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SHIELDS MAURINE T</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Border management solution</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>An integrated border management solution providing a balance between facilitating the movement of people and commerce with the requirements of immigration, customs, and other border-focused law enforcement. The facilitation aspect of the solution includes processing of arrivals and departures, as well as processing requests triggered by forms and applications such as requests for visas, asylum or customs declarations. The enforcement aspect of the solution includes border enforcement alerts and communication, as well as a comprehensive, integrated investigation and intelligence workbench. The border management solution is based upon a border management business architecture defining the structure for developing a border management solution in terms of its capabilities and the interrelationships of those capabilities.</p>
+                    <p> The border management solution according to the present invention may be implemented as an integrated whole or as component parts to a border management solution.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="32329267">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>8160892</doc-number>
+                    <kind>B2</kind>
+                    <date>20120417</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US8160892</doc-number>
+                    <date>20120417</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="52758484" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>68660803</doc-number>
+                    <kind>A</kind>
+                    <date>20031017</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>68660803</doc-number>
+                    <kind>A</kind>
+                    <date>20031017</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>42873502</doc-number>
+                    <kind>P</kind>
+                    <date>20021125</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="32329267" country="US" doc-number="8160892" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>8160892</doc-number>
+                            <kind>B2</kind>
+                            <date>20120417</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US8160892</doc-number>
+                            <date>20120417</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>0831</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>10</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/1.1</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/331</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="52758484">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>68660803</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20030686608</doc-number>
+                            <date>20031017</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10686608</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20030686608</doc-number>
+                                <date>20031017</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>60428735</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20020428735P</doc-number>
+                                <date>20021125</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>CASEY LYNN ANN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SHIELDS MAURINE T [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ACCENTURE GLOBAL SERVICES LTD [IE]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES GMBH, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>CASEY LYNN ANN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>SHIELDS MAURINE T, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES LIMITED</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>CASEY LYNN ANN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SHIELDS MAURINE T [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>CASEY LYNN ANN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SHIELDS MAURINE T</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Border management solution</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6085186</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6085186</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6115690</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6115690</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003115133</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003115133</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <nplcit num="1">
+                                <text>Wade, Betsy. "Customs aims to keep their pledge; [Final
+        Edition]". San Antonio Express-News. San Antonio, Tex.:
+        Mar. 30, 1997, p. 3.K</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <nplcit num="2">
+                                <text>Coalition for Secure &amp; Trade-Efficient Borders. "Rethinking
+        our Borders: A Plan for Action". Published Dec. 3, 2001 at
+        www.cme-mec.ca/national/template-na.asp?p=104</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <nplcit num="3">
+                                <text>Air Safety Week. "Hijacked Jetliners Used as Weapons of
+        Mass Destruction". Air Safety Week. New York: Sep. 17,
+        2001. vol. 15, Iss. 35; p. 1</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <nplcit num="4">
+                                <text>Wilson, Duff and James Neff. "Terrorists exploited their
+        Saudi visa; U.S. has been lax in monitoring visitors,
+        particularly from rich all; [Fourth Edition]". Seattle
+        Times. Seattle, Wash.: Nov. 11, 2001. p. A.10</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <nplcit num="5">
+                                <text>Sachs, Susan. "Changes Called Likely in Policy on
+        Immigration". New York Times. (Late Edition (East Coast)).
+        New York, N.Y.: Sep. 24, 2001. p. A.16</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <nplcit num="6">
+                                <text>Kestin, Sally. "How did we miss enemies in our midst?;
+        [Broward Metro Edition]." South Florida Sun-Sentinel. Fort
+        Lauderdale, Fla.: Sep. 16, 2001. p. 1.A)</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="10">
+                            <nplcit num="7">
+                                <text>Canada NewsWire. "Business Outlines Border Management and
+        Security Recommendations". Canada NewsWire. Ottawa: Dec. 3,
+        2001. p. 1</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="11">
+                            <nplcit num="8">
+                                <text>Gugliotta, Guy. "America Responds / Terrorist watch list no
+        match for pair / Hijacking suspects eluded all controls; [3
+        STAR Edition]". Houston Chronicle. Houston, Tex.: Sep. 24,
+        2001. p. 1</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="12">
+                            <nplcit num="9">
+                                <text>Gugliotta, Guy. "American Responds / Terrorist watch list
+        no match for pair / Hijacking suspects eluded all
+        controls". Houston Chronicle. Houston, Tex.: Sep. 24, 2001.
+        p. 1</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>An integrated border management solution providing a balance between facilitating the movement of people and commerce with the requirements of immigration, customs, and other border-focused law enforcement. The facilitation aspect of the solution includes processing of arrivals and departures, as well as processing requests triggered by forms and applications such as requests for visas, asylum or customs declarations. The enforcement aspect of the solution includes border enforcement alerts and communication, as well as a comprehensive, integrated investigation and intelligence workbench. The border management solution is based upon a border management business architecture defining the structure for developing a border management solution in terms of its capabilities and the interrelationships of those capabilities.</p>
+                    <p> The border management solution according to the present invention may be implemented as an integrated whole or as component parts to a border management solution.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

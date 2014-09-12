@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="59"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013332321</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="40579968">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013332321</doc-number>
+                    <kind>A1</kind>
+                    <date>20131212</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013332321</doc-number>
+                    <date>20131212</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="413242940">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313966215</doc-number>
+                    <kind>A</kind>
+                    <date>20130813</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313966215</doc-number>
+                    <kind>A</kind>
+                    <date>20130813</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>92353807</doc-number>
+                    <kind>A</kind>
+                    <date>20071024</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>1</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="40579968" country="US" doc-number="2013332321" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013332321</doc-number>
+                            <kind>A1</kind>
+                            <date>20131212</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013332321</doc-number>
+                            <date>20131212</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    06            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0643</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>01</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/27.2</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="413242940">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201313966215</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201313966215</doc-number>
+                            <date>20130813</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13966215</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201313966215</doc-number>
+                                <date>20130813</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>11923538</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070923538</doc-number>
+                                <date>20071024</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SANGUINETTI THOMAS V [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SANGUINETTI THOMAS V</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SANGUINETTI THOMAS V [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SANGUINETTI THOMAS V</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM, METHOD AND COMPUTER PROGRAM PRODUCT FOR ENABLING GIFTING AMONG USERS IN AN ONLINE ENVIRONMENT</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002095298</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002095298</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007124212</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007124212</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7478054</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7478054</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A system, method, and computer program product for an online transferring system where a conveying user may transfer a virtual object, representative of a real object, to a receiving user using an electronic ID of the receiving user and have a real object delivered to a shipping address of the receiving user without knowledge of the shipping address by the conveying user. The system includes an electronic data store having a set of identifying information for a receiving user. The set of identifying information includes an electronic ID and a physical contact address. The system includes a communication system for communication between the conveying user and the receiving user. The communication system provides the electronic ID to the conveying user without providing the physical contact address to the conveying user. The system includes a virtual object, representative of a real-world object, associated with the conveying user. The system includes a physical shipping system, coupled to the communication system, for initiating a delivery of the real-world object to the physical contact address responsive to the conveying user communicating the virtual object to the electronic ID.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="40579968">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009112359</doc-number>
+                    <kind>A1</kind>
+                    <date>20090430</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2009112359</doc-number>
+                    <date>20090430</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="57197006">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>92353807</doc-number>
+                    <kind>A</kind>
+                    <date>20071024</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>92353807</doc-number>
+                    <kind>A</kind>
+                    <date>20071024</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="40579968" country="US" doc-number="2009112359" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009112359</doc-number>
+                            <kind>A1</kind>
+                            <date>20090430</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2009112359</doc-number>
+                            <date>20090430</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F   7/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0643</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>01</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>700/228</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="57197006">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>92353807</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070923538</doc-number>
+                            <date>20071024</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>11923538</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070923538</doc-number>
+                                <date>20071024</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SANGUINETTI THOMAS V [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SANGUINETTI THOMAS V</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM, METHOD, AND COMPUTER PROGRAM PRODUCT FOR REALIZATION OF ONLINE VIRTUAL OBJECTS</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A system, method, and computer program product for an online transferring system where a conveying user may transfer a virtual object, representative of a real object, to a receiving user using an electronic ID of the receiving user and have a real object delivered to a shipping address of the receiving user without knowledge of the shipping address by the conveying user. The system includes an electronic data store having a set of identifying information for a receiving user. The set of identifying information includes an electronic ID and a physical contact address. The system includes a communication system for communication between the conveying user and the receiving user. The communication system provides the electronic ID to the conveying user without providing the physical contact address to the conveying user.</p>
+                    <p> The system includes a virtual object, representative of a real-world object, associated with the conveying user. The system includes a physical shipping system, coupled to the communication system, for initiating a delivery of the real-world object to the physical contact address responsive to the conveying user communicating the virtual object to the electronic ID.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="40579968">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>8533069</doc-number>
+                    <kind>B2</kind>
+                    <date>20130910</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US8533069</doc-number>
+                    <date>20130910</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="57197006">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>92353807</doc-number>
+                    <kind>A</kind>
+                    <date>20071024</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>92353807</doc-number>
+                    <kind>A</kind>
+                    <date>20071024</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="40579968" country="US" doc-number="8533069" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>8533069</doc-number>
+                            <kind>B2</kind>
+                            <date>20130910</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US8533069</doc-number>
+                            <date>20130910</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0643</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>01</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>700/228</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="57197006">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>92353807</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070923538</doc-number>
+                            <date>20071024</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>11923538</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070923538</doc-number>
+                                <date>20071024</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SANGUINETTI THOMAS V [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SANGUINETTI THOMAS V</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SANGUINETTI THOMAS V [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SANGUINETTI THOMAS V</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM, METHOD, AND COMPUTER PROGRAM PRODUCT FOR REALIZATION OF ONLINE VIRTUAL OBJECTS</invention-title>
+                    <references-cited>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002095298</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002095298</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002116276</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002116276</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                            <nplcit num="1">
+                                <text>- PCT/US/2008/080754 search report, Jan. 2, 2009, Tommy V.
+  Sanguinetti</text>
+                            </nplcit>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7478054</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7478054</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007124212</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007124212</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A system, method, and computer program product for an online transferring system where a conveying user may transfer a virtual object, representative of a real object, to a receiving user using an electronic ID of the receiving user and have a real object delivered to a shipping address of the receiving user without knowledge of the shipping address by the conveying user. The system includes an electronic data store having a set of identifying information for a receiving user. The set of identifying information includes an electronic ID and a physical contact address. The system includes a communication system for communication between the conveying user and the receiving user. The communication system provides the electronic ID to the conveying user without providing the physical contact address to the conveying user.</p>
+                    <p> The system includes a virtual object, representative of a real-world object, associated with the conveying user. The system includes a physical shipping system, coupled to the communication system, for initiating a delivery of the real-world object to the physical contact address responsive to the conveying user communicating the virtual object to the electronic ID.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="40579968">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2009055444</doc-number>
+                    <kind>A1</kind>
+                    <date>20090430</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2009055444</doc-number>
+                    <date>20090430</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="57189095" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2008080754</doc-number>
+                    <kind>W</kind>
+                    <date>20081022</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>92353807</doc-number>
+                    <kind>A</kind>
+                    <date>20071024</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="40579968" country="WO" doc-number="2009055444" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2009055444</doc-number>
+                            <kind>A1</kind>
+                            <date>20090430</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009055444</doc-number>
+                            <date>20090430</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>08</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0643</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>01</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="57189095">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2008080754</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2008US80754</doc-number>
+                            <date>20081022</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2008/080754</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070923538</doc-number>
+                                <date>20071024</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>11/923,538</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SANGUINETTI TOMMY V [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SANGUINETTI, TOMMY, V</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SANGUINETTI TOMMY V [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SANGUINETTI, TOMMY, V</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEM, METHOD AND COMPUTER AND COMPUTER PROGRAM PRODUCT FOR REALIZATION OF ONLINE VIRTUAL OBJECTS</invention-title>
+                    <invention-title lang="fr">SYSTÈME, PROCÉDÉ, ORDINATEUR ET PRODUIT-PROGRAMME INFORMATIQUE POUR UNE RÉALISATION D'OBJETS VIRTUELS EN LIGNE</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002095298</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002095298</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002116276</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002116276</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A system, method, and computer program product for an online transferring system where a conveying user may transfer a virtual object, representative of a real object to a receiving user using an electronic ID of the receiving user and have a real object delivered to a shipping address of the receiving user without knowledge of the shipping address by the conveying user. The system includes an electronic data store having a set of identifying information for a receiving user. The set of identifying information includes an electronic ID and a physical contact address. The system includes a communication system for communication between the conveying user and the receiving user The communication system provides the electronic ID to the conveying user without providing the physical contact address to the conveying user. The system includes a virtual object, representative of a real-world object, associated with the conveying user.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un système, un procédé et un produit-programme informatique pour un système de transfert en ligne dans lequel un utilisateur transmetteur peut transférer un objet virtuel, représentatif d'un objet réel, à un utilisateur récepteur utilisant l'identifiant électronique de l'utilisateur récepteur, et peut avoir un objet réel livré à une adresse d'expédition de l'utilisateur récepteur sans que l'utilisateur transmetteur ne connaisse l'adresse d'expédition. Le système comprend une mémoire de données électronique ayant un ensemble d'informations d'identification pour un utilisateur récepteur. L'ensemble d'informations d'identification comprend un identifiant électronique et une adresse de contact physique. Le système comprend un système de communication pour une communication entre l'utilisateur transmetteur et l'utilisateur récepteur.</p>
+                    <p> Le système de communication fournit l'identifiant électronique à l'utilisateur transmetteur sans fournir l'adresse de contact physique à l'utilisateur transmetteur. Le système comprend un objet virtuel, représentatif d'un objet réel, associé à l'utilisateur transmetteur.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

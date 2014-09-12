@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="63"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2014058628</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="49000363">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2014058628</doc-number>
+                    <kind>A1</kind>
+                    <date>20140227</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2014058628</doc-number>
+                    <date>20140227</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="415424400">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313957850</doc-number>
+                    <kind>A</kind>
+                    <date>20130802</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012183354</doc-number>
+                    <kind>A</kind>
+                    <date>20120822</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="49000363" country="US" doc-number="2014058628" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2014058628</doc-number>
+                            <kind>A1</kind>
+                            <date>20140227</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2014058628</doc-number>
+                            <date>20140227</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>B62D   5/    04            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>B</section>
+                            <class>62</class>
+                            <subclass>D</subclass>
+                            <main-group>6</main-group>
+                            <subgroup>008</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="415424400">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201313957850</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201313957850</doc-number>
+                            <date>20130802</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13957850</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120183354</doc-number>
+                                <date>20120822</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2012-183354</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>JTEKT CORP [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>JTEKT CORPORATION</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>TAMAIZUMI TERUTAKA [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>TAMAIZUMI TERUTAKA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">ELECTRIC POWER STEERING SYSTEM</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002005314</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002005314</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003074120</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003074120</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>An electric power steering system includes a motor control device that controls driving of a motor based on an assist command value, the motor applying assist torque to a steering mechanism. The motor control device computes a first assist component based on steering torque and a vehicle speed. The motor control device computes a second assist component based on the steering torque and the first assist component. The motor control device computes the assist command value by adding the second assist component to the first assist component. The motor control device includes a road information compensation portion that adjusts the second assist component contained in the assist command value. A basic assist component computation portion computes the first assist component in accordance with a degree of adjustment of the second assist component.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="49000363">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>103625542</doc-number>
+                    <kind>A</kind>
+                    <date>20140312</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CN103625542</doc-number>
+                    <date>20140312</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="415823279">
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>201310358995</doc-number>
+                    <kind>A</kind>
+                    <date>20130816</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012183354</doc-number>
+                    <kind>A</kind>
+                    <date>20120822</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="49000363" country="CN" doc-number="103625542" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>103625542</doc-number>
+                            <kind>A</kind>
+                            <date>20140312</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN103625542</doc-number>
+                            <date>20140312</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>B62D   5/    04            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>B62D   6/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>B62D 101/    00            A N                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="4">
+                            <text>B62D 119/    00            A N                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="5">
+                            <text>B62D 137/    00            A N                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>B</section>
+                            <class>62</class>
+                            <subclass>D</subclass>
+                            <main-group>6</main-group>
+                            <subgroup>008</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="415823279">
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>201310358995</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN20131358995</doc-number>
+                            <date>20130816</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2013103589954</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120183354</doc-number>
+                                <date>20120822</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2012-183354</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>JTEKT CORP</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>JTEKT CORP</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>TAMAIZUMI TERUTAKA</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>TAMAIZUMI TERUTAKA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Electric power steering system</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>An electric power steering system includes a motor control device that controls driving of a motor based on an assist command value (Tas), the motor applying assist torque to a steering mechanism. The motor control device computes a first assist component (Ta1) based on steering torque (Th) and a vehicle speed (V). The motor control device computes a second assist component (Ta2) based on the steering torque (Th) and the first assist component (Ta1). The motor control device computes the assist command value (Tas) by adding the second assist component (Ta2) to the first assist component (Ta1). The motor control device includes a road information compensation portion (45) that adjusts the second assist component (Ta2) contained in the assist command value (Tas). A basic assist component computation portion (41) computes the first assist component (Ta1) in accordance with a degree of adjustment of the second assist component (Ta2).</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="49000363">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>2700564</doc-number>
+                    <kind>A2</kind>
+                    <date>20140226</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP2700564</doc-number>
+                    <date>20140226</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="409697767" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>13181004</doc-number>
+                    <kind>A</kind>
+                    <date>20130820</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012183354</doc-number>
+                    <kind>A</kind>
+                    <date>20120822</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="49000363" country="EP" doc-number="2700564" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>2700564</doc-number>
+                            <kind>A2</kind>
+                            <date>20140226</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP2700564</doc-number>
+                            <date>20140226</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>B62D   6/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>B</section>
+                            <class>62</class>
+                            <subclass>D</subclass>
+                            <main-group>6</main-group>
+                            <subgroup>008</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="409697767">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>13181004</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20130181004</doc-number>
+                            <date>20130820</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13181004.6</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120183354</doc-number>
+                                <date>20120822</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2012183354</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>JTEKT CORP [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>JTEKT CORPORATION</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>TAMAIZUMI TERUTAKA [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>TAMAIZUMI, TERUTAKA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Electric power steering system</invention-title>
+                    <invention-title lang="de">Elektrisches Servolenksystem</invention-title>
+                    <invention-title lang="fr">Appareil de direction assistée électronique</invention-title>
+                    <references-cited>
+                        <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2006175940</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2006175940</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>An electric power steering system includes a motor control device that controls driving of a motor based on an assist command value (Tas), the motor applying assist torque to a steering mechanism. The motor control device computes a first assist component (Ta1) based on steering torque (Th) and a vehicle speed (V). The motor control device computes a second assist component (Ta2) based on the steering torque (Th) and the first assist component (Ta1). The motor control device computes the assist command value (Tas) by adding the second assist component (Ta2) to the first assist component (Ta1). The motor control device includes a road information compensation portion (45) that adjusts the second assist component (Ta2) contained in the assist command value (Tas).</p>
+                    <p> A basic assist component computation portion (41) computes the first assist component (Ta1) in accordance with a degree of adjustment of the second assist component (Ta2).</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="49000363">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>2700564</doc-number>
+                    <kind>A3</kind>
+                    <date>20140806</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP2700564</doc-number>
+                    <date>20140806</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="409697767" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>13181004</doc-number>
+                    <kind>A</kind>
+                    <date>20130820</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012183354</doc-number>
+                    <kind>A</kind>
+                    <date>20120822</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="49000363" country="EP" doc-number="2700564" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>2700564</doc-number>
+                            <kind>A3</kind>
+                            <date>20140806</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP2700564</doc-number>
+                            <date>20140806</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>B62D   6/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>B</section>
+                            <class>62</class>
+                            <subclass>D</subclass>
+                            <main-group>6</main-group>
+                            <subgroup>008</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="409697767">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>13181004</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20130181004</doc-number>
+                            <date>20130820</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13181004.6</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120183354</doc-number>
+                                <date>20120822</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2012183354</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>JTEKT CORP [JP]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>JTEKT CORPORATION</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>TAMAIZUMI TERUTAKA [JP]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>TAMAIZUMI, TERUTAKA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Electric power steering system</invention-title>
+                    <invention-title lang="de">Elektrisches Servolenksystem</invention-title>
+                    <invention-title lang="fr">Appareil de direction assistée électronique</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="49000363">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2014040178</doc-number>
+                    <kind>A</kind>
+                    <date>20140306</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>JP2014040178</doc-number>
+                    <date>20140306</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="416776759">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012183354</doc-number>
+                    <kind>A</kind>
+                    <date>20120822</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012183354</doc-number>
+                    <kind>A</kind>
+                    <date>20120822</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="49000363" country="JP" doc-number="2014040178" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2014040178</doc-number>
+                            <kind>A</kind>
+                            <date>20140306</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP2014040178</doc-number>
+                            <date>20140306</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>B62D   6/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>B62D   5/    04            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>B62D 101/    00            A N                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="4">
+                            <text>B62D 113/    00            A N                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="5">
+                            <text>B62D 119/    00            A N                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="6">
+                            <text>B62D 137/    00            A N                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>B</section>
+                            <class>62</class>
+                            <subclass>D</subclass>
+                            <main-group>6</main-group>
+                            <subgroup>008</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B62D101/00</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B62D113/00</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B62D119/00</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B62D137/00</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="5">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B62D5/04</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="6">
+                            <classification-scheme office="JP" scheme="FI"/>
+                            <classification-symbol>B62D6/00</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/CC05</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/CC08</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/DA04</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/DA15</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="5">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/DA23</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="6">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/DA63</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="7">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/DA64</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="8">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/DC08</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="9">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/DC33</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="10">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/DC34</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="11">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/DC36</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="12">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/DD01</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="13">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/DD05</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="14">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/DD08</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="15">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/DD17</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="16">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/EB04</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="17">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/EB11</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="18">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/EC23</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="19">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D232/GG01</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="20">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D333/CB02</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="21">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D333/CB13</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="22">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D333/CE46</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="23">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D333/CE49</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="24">
+                            <classification-scheme office="JP" scheme="FTERM"/>
+                            <classification-symbol>3D333/CE54</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="416776759">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2012183354</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20120183354</doc-number>
+                            <date>20120822</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2012183354</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP20120183354</doc-number>
+                                <date>20120822</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>JTEKT CORP</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>JTEKT CORP</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                    </parties>
+                    <invention-title lang="en">ELECTRIC POWER STEERING DEVICE</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

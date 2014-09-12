@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="68"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2010250236</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="42785339">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010250236</doc-number>
+                    <kind>A1</kind>
+                    <date>20100930</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2010250236</doc-number>
+                    <date>20100930</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="323849208" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>75204310</doc-number>
+                    <kind>A</kind>
+                    <date>20100331</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>24809109</doc-number>
+                    <kind>P</kind>
+                    <date>20091002</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>16529609</doc-number>
+                    <kind>P</kind>
+                    <date>20090331</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>75204310</doc-number>
+                    <kind>A</kind>
+                    <date>20100331</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="42785339" country="US" doc-number="2010250236" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2010250236</doc-number>
+                            <kind>A1</kind>
+                            <date>20100930</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2010250236</doc-number>
+                            <date>20100930</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    27            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G10L  15/    04            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>10</class>
+                            <subclass>L</subclass>
+                            <main-group>15</main-group>
+                            <subgroup>1822</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>704/9</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>704/251</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="323849208">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>75204310</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20100752043</doc-number>
+                            <date>20100331</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12752043</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20100752043</doc-number>
+                                <date>20100331</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61165296</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090165296P</doc-number>
+                                <date>20090331</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61248091</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090248091P</doc-number>
+                                <date>20091002</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MEDQUIST IP LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MEDQUIST IP, LLC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>JAGANNATHAN VASUDEVAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WARE HENRY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LEONARD SANDY J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ELLENBERGER BRIAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>JAGANNATHAN VASUDEVAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>WARE HENRY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>LEONARD SANDY J, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>ELLENBERGER BRIAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">COMPUTER-ASSISTED ABSTRACTION OF DATA AND DOCUMENT CODING</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A computer-assisted method of abstracting and coding data includes receiving one or more documents is disclosed. The methods and systems extract information from a record based on extraction rules that correspond to an identified record type, determine codes corresponding to the information extracted from the record, present the correspondence between the extracted information and the codes, receive from the user-input device a validation of the correspondence between the extracted information and one of the codes, and output a report including the validated information and the validated code.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="42785339">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2010117424</doc-number>
+                    <kind>A2</kind>
+                    <date>20101014</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2010117424</doc-number>
+                    <date>20101014</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="326043338">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010000957</doc-number>
+                    <kind>W</kind>
+                    <date>20100331</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>24809109</doc-number>
+                    <kind>P</kind>
+                    <date>20091002</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>16529609</doc-number>
+                    <kind>P</kind>
+                    <date>20090331</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="42785339" country="WO" doc-number="2010117424" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2010117424</doc-number>
+                            <kind>A2</kind>
+                            <date>20101014</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2010117424</doc-number>
+                            <date>20101014</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    21            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F   3/   048            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06F  17/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>10</class>
+                            <subclass>L</subclass>
+                            <main-group>15</main-group>
+                            <subgroup>1822</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="326043338">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2010000957</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2010US00957</doc-number>
+                            <date>20100331</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2010/000957</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090165296P</doc-number>
+                                <date>20090331</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/165,296</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090248091P</doc-number>
+                                <date>20091002</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61/248,091</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MEDQUIST IP LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> JAGANNATHAN VASUDEVAN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WARE HENRY [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LEONARD SANDY J [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ELLENBERGER BRIAN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MEDQUIST IP, LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>JAGANNATHAN, VASUDEVAN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>WARE, HENRY, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>LEONARD, SANDY J, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>ELLENBERGER, BRIAN</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>JAGANNATHAN VASUDEVAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WARE HENRY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LEONARD SANDY J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ELLENBERGER BRIAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>JAGANNATHAN, VASUDEVAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>WARE, HENRY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>LEONARD, SANDY J, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>ELLENBERGER, BRIAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">COMPUTER-ASSISTED ABSTRACTION OF DATA AND DOCUMENT CODING</invention-title>
+                    <invention-title lang="fr">ABSTRACTION DE DONNÉES ET CODAGE DE DOCUMENTS ASSISTÉS PAR ORDINATEUR</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="KR">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004243614</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004243614</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="KR">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2003058559</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2003058559</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="KR">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>KR20060016933</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>KR</country>
+                                    <doc-number>20060016933</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>ABSTRACT A computer-assisted method of abstracting and coding data includes receiving one or more documents is disclosed. The methods and systems extract information from a record based on extraction rules that correspond to an identified record type, determine codes corresponding to the information extracted from the record, present the correspondence between the extracted information and the codes, receive from the user-input device a validation of the correspondence between the extracted information and one of the codes, and output a report including the validated information and the validated code.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>ABSTRACT La présente invention concerne un procédé d'abstraction et de codage de données assisté par ordinateur consistant à recevoir un ou plusieurs documents. Les procédés et les systèmes extraient des informations d'un enregistrement sur la base des règles d'extraction qui correspondent à un type d'enregistrement identifié, déterminent les codes correspondant aux informations extraites de l'enregistrement, présentent la correspondance entre les informations extraites et les codes, reçoivent du dispositif d'entrée utilisateur une validation de la correspondance entre les informations extraites et un des codes, et fournissent un rapport comprenant les informations validées et le code validé.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="42785339">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2010117424</doc-number>
+                    <kind>A3</kind>
+                    <date>20101216</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2010117424</doc-number>
+                    <date>20101216</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="326043338">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010000957</doc-number>
+                    <kind>W</kind>
+                    <date>20100331</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>24809109</doc-number>
+                    <kind>P</kind>
+                    <date>20091002</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>16529609</doc-number>
+                    <kind>P</kind>
+                    <date>20090331</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="42785339" country="WO" doc-number="2010117424" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2010117424</doc-number>
+                            <kind>A3</kind>
+                            <date>20101216</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2010117424</doc-number>
+                            <date>20101216</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    21            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F   3/   048            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06F  17/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>10</class>
+                            <subclass>L</subclass>
+                            <main-group>15</main-group>
+                            <subgroup>1822</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="326043338">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2010000957</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2010US00957</doc-number>
+                            <date>20100331</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2010/000957</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090165296P</doc-number>
+                                <date>20090331</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/165,296</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090248091P</doc-number>
+                                <date>20091002</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61/248,091</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MEDQUIST IP LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> JAGANNATHAN VASUDEVAN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WARE HENRY [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LEONARD SANDY J [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ELLENBERGER BRIAN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MEDQUIST IP, LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>JAGANNATHAN, VASUDEVAN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>WARE, HENRY, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>LEONARD, SANDY J, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>ELLENBERGER, BRIAN</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>JAGANNATHAN VASUDEVAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WARE HENRY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LEONARD SANDY J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> ELLENBERGER BRIAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>JAGANNATHAN, VASUDEVAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>WARE, HENRY, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>LEONARD, SANDY J, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>ELLENBERGER, BRIAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">COMPUTER-ASSISTED ABSTRACTION OF DATA AND DOCUMENT CODING</invention-title>
+                    <invention-title lang="fr">ABSTRACTION DE DONNÉES ET CODAGE DE DOCUMENTS ASSISTÉS PAR ORDINATEUR</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>ABSTRACT A computer-assisted method of abstracting and coding data includes receiving one or more documents is disclosed. The methods and systems extract information from a record based on extraction rules that correspond to an identified record type, determine codes corresponding to the information extracted from the record, present the correspondence between the extracted information and the codes, receive from the user-input device a validation of the correspondence between the extracted information and one of the codes, and output a report including the validated information and the validated code.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>ABSTRACT La présente invention concerne un procédé d'abstraction et de codage de données assisté par ordinateur consistant à recevoir un ou plusieurs documents. Les procédés et les systèmes extraient des informations d'un enregistrement sur la base des règles d'extraction qui correspondent à un type d'enregistrement identifié, déterminent les codes correspondant aux informations extraites de l'enregistrement, présentent la correspondance entre les informations extraites et les codes, reçoivent du dispositif d'entrée utilisateur une validation de la correspondance entre les informations extraites et un des codes, et fournissent un rapport comprenant les informations validées et le code validé.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

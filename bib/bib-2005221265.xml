@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="10"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="35125758" country="US" doc-number="2005221265" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2005221265</doc-number>
+                        <kind>A1</kind>
+                        <date>20051006</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2005221265</doc-number>
+                        <date>20051006</date>
+                    </document-id>
+                </publication-reference>
+                <classification-ipc>
+                    <text>G09B7/00</text>
+                </classification-ipc>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G09B   7/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>G09B   7/    02            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>09</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>09</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>434/322</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="47371754">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>9752305</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20050097523</doc-number>
+                        <date>20050331</date>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20040521329P</doc-number>
+                            <date>20040401</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20050097523</doc-number>
+                            <date>20050331</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>TASHIRO JAY S [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> CHOATE DARREN R [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>TASHIRO JAY S, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>CHOATE DARREN R</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">Method to assess a person's knowledge of a subject area</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method to assess a person's knowledge of a subject area is disclosed. The method prepares a plurality of test questions relating to the subject area, selects (n) first test questions from that plurality of test questions, and propounding each of these first test questions to the subject. The subject answers zero or more of the propounded first test questions. The method then determines for each of the propounded first test questions if that first test question was correctly answered, calculates a first score by dividing the number of correctly answered first questions by (n), sets an Excellent Threshold and an Excellent Points Assignment, and determines if the first score is greater than or equal to that Excellent Threshold. If the first score is greater than or equal to the Excellent Threshold, the method allocates the Excellent Points Assignment and assigns an End Of Pathway designation of Excellent.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

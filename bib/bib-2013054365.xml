@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="16"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="47744975" country="US" doc-number="2013054365" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2013054365</doc-number>
+                        <kind>A1</kind>
+                        <date>20130228</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2013054365</doc-number>
+                        <date>20130228</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  30/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>G06F  15/    16            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>0282</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>01</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="381449330">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201113221678</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201113221678</doc-number>
+                        <date>20110830</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13221678</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201113221678</doc-number>
+                            <date>20110830</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SABUR ZAHEED MD SHAHJAHAN [CH]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> GOOGLE INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>SABUR ZAHEED MD SHAHJAHAN, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>GOOGLE INC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>SABUR ZAHEED MD SHAHJAHAN [CH]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>SABUR ZAHEED MD SHAHJAHAN</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">Enhancing User Shopping Experience Using Social Graph Information</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A system and machine-implemented method is provided for providing information regarding belongings within a social graph of belongings corresponding to a first item, the method including receiving an indication of interest for the first item from a first user of one or more users of a system, identifying at least one belonging maintained within a social graph of belongings, the at least one belonging corresponding to the first item, wherein the social graph of belongings defines an association between each of the one or more users and one or more belongings, each of the one or more belongings corresponding to an item, generating a list including the at least one belonging and at least one of a link to the user associated with the at least one belonging and a link to the at least one belonging and providing the list for display to the first user.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

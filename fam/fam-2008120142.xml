@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="75"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2008120142</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="39418022">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2008120142</doc-number>
+                    <kind>A1</kind>
+                    <date>20080522</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2008120142</doc-number>
+                    <date>20080522</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54262215" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>94335507</doc-number>
+                    <kind>A</kind>
+                    <date>20071120</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>94335507</doc-number>
+                    <kind>A</kind>
+                    <date>20071120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86012206</doc-number>
+                    <kind>P</kind>
+                    <date>20061120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39418022" country="US" doc-number="2008120142" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2008120142</doc-number>
+                            <kind>A1</kind>
+                            <date>20080522</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2008120142</doc-number>
+                            <date>20080522</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>10</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>24</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/3</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54262215">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>94335507</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070943355</doc-number>
+                            <date>20071120</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>11943355</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070943355</doc-number>
+                                <date>20071120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>60860122</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060860122P</doc-number>
+                                <date>20061120</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>VIVALOG LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>VIVALOG LLC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>JAKOBOVITS REX [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>JAKOBOVITS REX</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">CASE MANAGEMENT FOR IMAGE-BASED TRAINING, DECISION SUPPORT, AND CONSULTATION</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5664109</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5664109</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007067184</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007067184</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6182029</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6182029</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007208994</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007208994</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005108052</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005108052</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005108058</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005108058</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6987945</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6987945</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5953704</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5953704</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006020622</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006020622</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6493702</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6493702</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="11">
+                            <nplcit num="1">
+                                <text>Kaldoudi, A Service Based Approach for Medical Image
+        Distribution in Healthcare Intranets, 2006, Computer
+        Methods and Programs in Biomedicine, Vol. 18</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods, apparatuses, and articles for medical case management are described herein. In various embodiments, a server receives a plurality of medically-related documents being associated with a medical case. The server may organize the documents into a case portfolio for distribution to a client for interactive viewing and editing of the documents, the organizing including integrating with the case portfolio client-side logic for facilitating the interactive viewing and editing. In various embodiments, the client may provide an interactive element to facilitate a user of a client in entering medical information to associate with a case portfolio. The client device may retrieve and manifest medical information suggestions in response to entered medical information. In some embodiments, the client may facilitate the user in reviewing the case portfolios to meet certification and/or continuing education requirements. The client may also facilitate a user in engaging in a social collaboration associated with a case portfolio.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39430568">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>2097832</doc-number>
+                    <kind>A2</kind>
+                    <date>20090909</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP2097832</doc-number>
+                    <date>20090909</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="55139332">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>07864684</doc-number>
+                    <kind>A</kind>
+                    <date>20071120</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86012206</doc-number>
+                    <kind>P</kind>
+                    <date>20061120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2007085292</doc-number>
+                    <kind>W</kind>
+                    <date>20071120</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86004506</doc-number>
+                    <kind>P</kind>
+                    <date>20061120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39430568" country="EP" doc-number="2097832" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>2097832</doc-number>
+                            <kind>A2</kind>
+                            <date>20090909</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP2097832</doc-number>
+                            <date>20090909</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    30            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>321</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="55139332">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>07864684</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20070864684</doc-number>
+                            <date>20071120</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>07864684</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2007US85292</doc-number>
+                                <date>20071120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>US2007085292</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060860045P</doc-number>
+                                <date>20061120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 860045 P</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060860122P</doc-number>
+                                <date>20061120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 860122 P</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MCKESSON INFORMATION SOLUTIONS [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MCKESSON INFORMATION SOLUTIONS LLC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>JAKOBOVITS REX [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>JAKOBOVITS, REX</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">INTERACTIVE VIEWING, ASYNCHRONOUS RETRIEVAL, AND ANNOTATION OF MEDICAL IMAGES</invention-title>
+                    <invention-title lang="de">INTERAKTIVE ANSICHT, ASYNCHRONE ERFASSUNG UND KOMMENTIERUNG MEDIZINISCHER BILDER</invention-title>
+                    <invention-title lang="fr">EXAMEN INTERACTIF, RÉCUPÉRATION ASYNCHRONE ET ANNOTATION D'IMAGES MÉDICALES</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005237324</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005237324</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>WO2006118628</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>WO</country>
+                                    <doc-number>2006118628</doc-number>
+                                    <kind>A2</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <nplcit num="1">
+                                <text>Jesse James Garrett: "Ajax: A New Approach to Web
+        Applications" 18 February 2005 (2005-02-18), pages 1-5,
+        XP002568684 Retrieved from the Internet:
+        URL:http://www.adaptivepath.com/ideas/essays/archives/000385.php> [retrieved on 2010-02-11]</text>
+                            </nplcit>
+                            <category>Y</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39430568">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>2097832</doc-number>
+                    <kind>A4</kind>
+                    <date>20100414</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP2097832</doc-number>
+                    <date>20100414</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="55139332">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>07864684</doc-number>
+                    <kind>A</kind>
+                    <date>20071120</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86012206</doc-number>
+                    <kind>P</kind>
+                    <date>20061120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2007085292</doc-number>
+                    <kind>W</kind>
+                    <date>20071120</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86004506</doc-number>
+                    <kind>P</kind>
+                    <date>20061120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39430568" country="EP" doc-number="2097832" kind="A4">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>2097832</doc-number>
+                            <kind>A4</kind>
+                            <date>20100414</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP2097832</doc-number>
+                            <date>20100414</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    30            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>321</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="55139332">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>07864684</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20070864684</doc-number>
+                            <date>20071120</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>07864684</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2007US85292</doc-number>
+                                <date>20071120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>US2007085292</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060860045P</doc-number>
+                                <date>20061120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 860045 P</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060860122P</doc-number>
+                                <date>20061120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 860122 P</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MCKESSON INFORMATION SOLUTIONS [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MCKESSON INFORMATION SOLUTIONS LLC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>JAKOBOVITS REX [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>JAKOBOVITS, REX</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">INTERACTIVE VIEWING, ASYNCHRONOUS RETRIEVAL, AND ANNOTATION OF MEDICAL IMAGES</invention-title>
+                    <invention-title lang="de">INTERAKTIVE ANSICHT, ASYNCHRONE ERFASSUNG UND KOMMENTIERUNG MEDIZINISCHER BILDER</invention-title>
+                    <invention-title lang="fr">EXAMEN INTERACTIF, RÉCUPÉRATION ASYNCHRONE ET ANNOTATION D'IMAGES MÉDICALES</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39430568">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2008140722</doc-number>
+                    <kind>A1</kind>
+                    <date>20080612</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2008140722</doc-number>
+                    <date>20080612</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54262391">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>94338807</doc-number>
+                    <kind>A</kind>
+                    <date>20071120</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86012206</doc-number>
+                    <kind>P</kind>
+                    <date>20061120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>94338807</doc-number>
+                    <kind>A</kind>
+                    <date>20071120</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86004506</doc-number>
+                    <kind>P</kind>
+                    <date>20061120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39430568" country="US" doc-number="2008140722" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2008140722</doc-number>
+                            <kind>A1</kind>
+                            <date>20080612</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2008140722</doc-number>
+                            <date>20080612</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    30            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>321</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>1/1</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>707/E17.019</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>707/999.107</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54262391">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>94338807</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070943388</doc-number>
+                            <date>20071120</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>11943388</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070943388</doc-number>
+                                <date>20071120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>60860045</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060860045P</doc-number>
+                                <date>20061120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 60860122</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060860122P</doc-number>
+                                <date>20061120</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>VIVALOG LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>VIVALOG LLC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>JAKOBOVITS REX [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>JAKOBOVITS REX</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">INTERACTIVE VIEWING, ASYNCHRONOUS RETRIEVAL, AND ANNOTATION OF MEDICAL IMAGES</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005005241</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005005241</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US8055636</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>8055636</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008084415</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008084415</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006274928</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006274928</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004249806</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004249806</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007035551</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007035551</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006229911</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006229911</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2010063992</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2010063992</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2011110568</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2011110568</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004143645</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004143645</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="11">
+                            <nplcit num="1">
+                                <text>B.C. Green, "Web Access to DICOM Objects ("WADO")", 1 May
+        2009, UtraRAD Corporation</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="12">
+                            <nplcit num="2">
+                                <text>M. Powell, Asynchronous Web Service Calls over HTTP with
+        the .NET Framework, 9 September 2002, Microsoft</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="13">
+                            <nplcit num="3">
+                                <text>Balani et. al, "Build apps using Asynchronous JavaScript
+        with XML (AJAX)", 15, November 2005, IBM</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="14">
+                            <nplcit num="4">
+                                <text>G. Murray, "Asynchronous JavaScript Technology and XML
+        (AJAX) With the Java Platform", October 2006, Oracle</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="15">
+                            <nplcit num="5">
+                                <text>Koutelakis et al. "PACS through Web Compatible with DICOM
+        Standard and WADO Service Advantiages and Implementation",
+        3 September 2006, EMBS Annual International Conference New
+        York, IEEE</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="16">
+                            <nplcit num="6">
+                                <text>Kaldoudi et al. "A Service Based Approach for Medical Image
+        Distribution in Healthcare Internets", 2 September 2005,
+        Elsevier</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods, apparatuses, and articles for interactive viewing, asynchronously retrieving and annotating medical images are described herein. In various embodiments, a client device may retrieve, from a server, a network resource having medical information and associated medical images, with the server initially including only a subset of the medical images. The client device may then facilitate a user in interactive viewing of the retrieved medical images, and asynchronously retrieve additional ones of the medical images from the server as the retrieved medical images are being interactively viewed. In some embodiments, in response to interactive viewing, the client device may request of a server a graphical primitive, the request specifying a graphical primitive type and information associated with the interactive viewing. In response the client device may receive the primitive and may create an annotation layer including the primitive associated with the medical image.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39430568">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2008064258</doc-number>
+                    <kind>A2</kind>
+                    <date>20080529</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2008064258</doc-number>
+                    <date>20080529</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54676673" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2007085292</doc-number>
+                    <kind>W</kind>
+                    <date>20071120</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86012206</doc-number>
+                    <kind>P</kind>
+                    <date>20061120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86004506</doc-number>
+                    <kind>P</kind>
+                    <date>20061120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39430568" country="WO" doc-number="2008064258" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2008064258</doc-number>
+                            <kind>A2</kind>
+                            <date>20080529</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2008064258</doc-number>
+                            <date>20080529</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    30            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>321</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54676673">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2007085292</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2007US85292</doc-number>
+                            <date>20071120</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2007/085292</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060860045P</doc-number>
+                                <date>20061120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>60/860,045</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060860122P</doc-number>
+                                <date>20061120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 60/860,122</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>VIVALOG LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> JAKOBOVITS REX [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>VIVALOG LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>JAKOBOVITS, REX</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>JAKOBOVITS REX [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>JAKOBOVITS, REX</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">INTERACTIVE VIEWING, ASYNCHRONOUS RETRIEVAL, AND ANNOTATION OF MEDICAL IMAGES</invention-title>
+                    <invention-title lang="fr">EXAMEN INTERACTIF, RÉCUPÉRATION ASYNCHRONE ET ANNOTATION D'IMAGES MÉDICALES</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="US">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005237324</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005237324</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="US">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005129319</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005129319</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="US">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7127445</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7127445</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="4" office="US">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006210196</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006210196</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods, apparatuses, and articles for interactive viewing, asynchronously retrieving and annotating medical images are described herein. In various embodiments, a client device may retrieve, from a server, a network resource having medical information and associated medical images, with the server initially including only a subset of the medical images. The client device may then facilitate a user in interactive viewing of the retrieved medical images, and asynchronously retrieve additional ones of the medical images from the server as the retrieved medical images are being interactively viewed. In some embodiments, in response to interactive viewing, the client device may request of a server a graphical primitive, the request specifying a graphical primitive type and information associated with the interactive viewing.</p>
+                    <p> In response the client device may receive the primitive and may create an annotation layer including the primitive associated with the medical image.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention porte sur des méthodes, appareils et articles d'examen interactif, de récupération asynchrone et d'annotation d'images médicales. Dans des diverses exécutions, un dispositif de client peut récupérer, à partir d'un serveur, une ressource de réseau comportant des informations médicales et les images médicales associées, le serveur ne contenant initialement qu'un sous-ensemble d'images médicales. Le dispositif de client peut alors faciliter à un utilisateur l'examen interactif des images récupérées, et la récupération asynchrone d'images supplémentaires examinées interactivement. Dans certaines exécutions, en réponse à l'examen interactif, le dispositif de client peut demander à un serveur une primitive de graphique, spécifiant un type de primitive de graphique, et des informations associées à l'examen interactif.</p>
+                    <p> En réponse, le dispositif de client peut recevoir la primitive et créer une couche d'annotation incluant la primitive associée à l'image médicale.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39430568">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2008064258</doc-number>
+                    <kind>A3</kind>
+                    <date>20080904</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2008064258</doc-number>
+                    <date>20080904</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54676673" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2007085292</doc-number>
+                    <kind>W</kind>
+                    <date>20071120</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86012206</doc-number>
+                    <kind>P</kind>
+                    <date>20061120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>86004506</doc-number>
+                    <kind>P</kind>
+                    <date>20061120</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39430568" country="WO" doc-number="2008064258" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2008064258</doc-number>
+                            <kind>A3</kind>
+                            <date>20080904</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2008064258</doc-number>
+                            <date>20080904</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>321</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54676673">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2007085292</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2007US85292</doc-number>
+                            <date>20071120</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2007/085292</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060860045P</doc-number>
+                                <date>20061120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>60/860,045</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060860122P</doc-number>
+                                <date>20061120</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 60/860,122</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>VIVALOG LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> JAKOBOVITS REX [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>VIVALOG LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>JAKOBOVITS, REX</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>JAKOBOVITS REX [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>JAKOBOVITS, REX</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">INTERACTIVE VIEWING, ASYNCHRONOUS RETRIEVAL, AND ANNOTATION OF MEDICAL IMAGES</invention-title>
+                    <invention-title lang="fr">EXAMEN INTERACTIF, RÉCUPÉRATION ASYNCHRONE ET ANNOTATION D'IMAGES MÉDICALES</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods, apparatuses, and articles for interactive viewing, asynchronously retrieving and annotating medical images are described herein. In various embodiments, a client device may retrieve, from a server, a network resource having medical information and associated medical images, with the server initially including only a subset of the medical images. The client device may then facilitate a user in interactive viewing of the retrieved medical images, and asynchronously retrieve additional ones of the medical images from the server as the retrieved medical images are being interactively viewed. In some embodiments, in response to interactive viewing, the client device may request of a server a graphical primitive, the request specifying a graphical primitive type and information associated with the interactive viewing.</p>
+                    <p> In response the client device may receive the primitive and may create an annotation layer including the primitive associated with the medical image.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention porte sur des méthodes, appareils et articles d'examen interactif, de récupération asynchrone et d'annotation d'images médicales. Dans des diverses exécutions, un dispositif de client peut récupérer, à partir d'un serveur, une ressource de réseau comportant des informations médicales et les images médicales associées, le serveur ne contenant initialement qu'un sous-ensemble d'images médicales. Le dispositif de client peut alors faciliter à un utilisateur l'examen interactif des images récupérées, et la récupération asynchrone d'images supplémentaires examinées interactivement. Dans certaines exécutions, en réponse à l'examen interactif, le dispositif de client peut demander à un serveur une primitive de graphique, spécifiant un type de primitive de graphique, et des informations associées à l'examen interactif.</p>
+                    <p> En réponse, le dispositif de client peut recevoir la primitive et créer une couche d'annotation incluant la primitive associée à l'image médicale.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="6"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="41415130" country="US" doc-number="2009311658" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2009311658</doc-number>
+                        <kind>A1</kind>
+                        <date>20091217</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2009311658</doc-number>
+                        <date>20091217</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G09B   7/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>09</class>
+                        <subclass>B</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>434/350</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="273846691">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>48647909</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20090486479</doc-number>
+                        <date>20090617</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>12486479</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090486479</doc-number>
+                            <date>20090617</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>61073157</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20080073157P</doc-number>
+                            <date>20080617</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>LAUREATE EDUCATION INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>LAUREATE EDUCATION, INC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>POLIVKA GEORGE BRYAN [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>POLIVKA GEORGE BRYAN</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">SYSTEM AND METHOD FOR COLLABORATIVE DEVELOPMENT OF ONLINE COURSES AND PROGRAMS OF STUDY</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2009035733</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2009035733</doc-number>
+                                <kind>A1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A system and method for developing a course requires a plurality of participants that collaborate over a network, for example, a social network. A database stores an initial framework that defines a sequence of learning units for creating a desired learning environment for students, those learning units made of specifically ordered content objects. The learning units are identified by corresponding learning unit identifiers. A plurality of workstations coupled to the network are used for entry of reviewer information by the participants using the learning environment created for the students. The reviewer information comprise one or more comments entered by one participant about a learning unit or content object and a rank entered by anther participant about the comment, with the rank being correlated with a defined ranking standard. A processor processes the rank according to a predefined criteria to produce a ranking result that is associated with a learning unit identifier. The ranking result is used for associating learning content to the learning unit identified by the learning unit identifier.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

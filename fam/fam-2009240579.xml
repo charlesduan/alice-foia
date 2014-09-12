@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="46"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2009240579</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="41089814">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009240579</doc-number>
+                    <kind>A1</kind>
+                    <date>20090924</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2009240579</doc-number>
+                    <date>20090924</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="267369936" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>5296208</doc-number>
+                    <kind>A</kind>
+                    <date>20080321</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>5296208</doc-number>
+                    <kind>A</kind>
+                    <date>20080321</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="41089814" country="US" doc-number="2009240579" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009240579</doc-number>
+                            <kind>A1</kind>
+                            <date>20090924</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2009240579</doc-number>
+                            <date>20090924</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0226</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/14.27</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="267369936">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>5296208</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20080052962</doc-number>
+                            <date>20080321</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12052962</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080052962</doc-number>
+                                <date>20080321</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>FIRST DATA CORP [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>FIRST DATA CORPORATION</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SKOWRONEK DAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DEWAN SUNIL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KNOWLES KEVIN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KIEFER STUART [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SKOWRONEK DAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>DEWAN SUNIL, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>KNOWLES KEVIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>KIEFER STUART</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">CUSTOMER LOYALTY PROGRAM WITH SHARED DATA AND SUB-PROGRAMS</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Embodiments of the present disclosure provide systems and methods for increasing participation in loyalty programs. In embodiments, the customer opts into a loyalty program. The customer is then provided with information about his or her loyalty participation and also is provided with information about one or more other customer's participation in the loyalty program. In another embodiment, one or more loyalty members can form their own competition or group within the loyalty program. The members can create loyalty sub-program rules for a competition and allow fellow loyalty members to participate in the competition. The customizable loyalty sub-program competitions further enhance member participation.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="41089814">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2009117268</doc-number>
+                    <kind>A2</kind>
+                    <date>20090924</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2009117268</doc-number>
+                    <date>20090924</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="267395381">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009036496</doc-number>
+                    <kind>W</kind>
+                    <date>20090309</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>5296208</doc-number>
+                    <kind>A</kind>
+                    <date>20080321</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="41089814" country="WO" doc-number="2009117268" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2009117268</doc-number>
+                            <kind>A2</kind>
+                            <date>20090924</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009117268</doc-number>
+                            <date>20090924</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0226</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="267395381">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009036496</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009US36496</doc-number>
+                            <date>20090309</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2009/036496</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080052962</doc-number>
+                                <date>20080321</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/052,962</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>FIRST DATA CORP [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SKOWRONEK DAN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> DEWAN SUNIL [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> KNOWLES KEVIN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> KIEFER STUART [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>FIRST DATA CORPORATION, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>SKOWRONEK, DAN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>DEWAN, SUNIL, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>KNOWLES, KEVIN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>KIEFER, STUART</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SKOWRONEK DAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DEWAN SUNIL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KNOWLES KEVIN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KIEFER STUART [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SKOWRONEK, DAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>DEWAN, SUNIL, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>KNOWLES, KEVIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>KIEFER, STUART</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">CUSTOMER LOYALTY PROGRAM WITH SHARED DATA AND SUB-PROGRAMS</invention-title>
+                    <invention-title lang="fr">PROGRAMME DE FIDÉLITÉ DE CLIENTS AVEC DES DONNÉES PARTAGÉES ET DES SOUS-PROGRAMMES</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006074755</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006074755</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006259362</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006259362</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007005416</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007005416</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005267800</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005267800</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Embodiments of the present disclosure provide systems and methods for increasing participation in loyalty programs. In embodiments, the customer opts into a loyalty program. The customer is then provided with information about his or her loyalty participation and also is provided with information about one or more other customer's participation in the loyalty program. In another embodiment, one or more loyalty members can form their own competition or group within the loyalty program. The members can create loyalty sub not  program rules for a competition and allow fellow loyalty members to participate in the competition. The customizable loyalty sub-program competitions further enhance member participation.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>Des modes de réalisation de la présente invention concernent des systèmes et des procédés d'augmentation de la participation à des programmes de fidélité. Dans des modes de réalisation, le client opte pour un programme de fidélité. Le client reçoit ensuite des informations concernant sa participation au programme de fidélité et reçoit également des informations concernant la participation d'un ou de plusieurs autres clients au programme de fidélité. Dans un autre mode de réalisation, un ou plusieurs membres du programme de fidélité peuvent former leur propre compétition ou groupe dans le programme de fidélité. Les membres peuvent créer des règles de sous-programme de fidélité pour une compétition et permettre à des confrères du programme de fidélité de participer à la compétition.</p>
+                    <p> Les compétitions de sous-programme de fidélité personnalisables améliorent davantage la participation des membres.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="41089814">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2009117268</doc-number>
+                    <kind>A3</kind>
+                    <date>20091230</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2009117268</doc-number>
+                    <date>20091230</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="267395381">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009036496</doc-number>
+                    <kind>W</kind>
+                    <date>20090309</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>5296208</doc-number>
+                    <kind>A</kind>
+                    <date>20080321</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="41089814" country="WO" doc-number="2009117268" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2009117268</doc-number>
+                            <kind>A3</kind>
+                            <date>20091230</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009117268</doc-number>
+                            <date>20091230</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0226</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="267395381">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009036496</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009US36496</doc-number>
+                            <date>20090309</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2009/036496</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080052962</doc-number>
+                                <date>20080321</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/052,962</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>FIRST DATA CORP [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SKOWRONEK DAN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> DEWAN SUNIL [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> KNOWLES KEVIN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> KIEFER STUART [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>FIRST DATA CORPORATION, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>SKOWRONEK, DAN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>DEWAN, SUNIL, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>KNOWLES, KEVIN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>KIEFER, STUART</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SKOWRONEK DAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DEWAN SUNIL [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KNOWLES KEVIN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> KIEFER STUART [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SKOWRONEK, DAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>DEWAN, SUNIL, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>KNOWLES, KEVIN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>KIEFER, STUART</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">CUSTOMER LOYALTY PROGRAM WITH SHARED DATA AND SUB-PROGRAMS</invention-title>
+                    <invention-title lang="fr">PROGRAMME DE FIDÉLITÉ DE CLIENTS AVEC DES DONNÉES PARTAGÉES ET DES SOUS-PROGRAMMES</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Embodiments of the present disclosure provide systems and methods for increasing participation in loyalty programs. In embodiments, the customer opts into a loyalty program. The customer is then provided with information about his or her loyalty participation and also is provided with information about one or more other customer's participation in the loyalty program. In another embodiment, one or more loyalty members can form their own competition or group within the loyalty program. The members can create loyalty sub program rules for a competition and allow fellow loyalty members to participate in the competition. The customizable loyalty sub-program competitions further enhance member participation.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>Des modes de réalisation de la présente invention concernent des systèmes et des procédés d'augmentation de la participation à des programmes de fidélité. Dans des modes de réalisation, le client opte pour un programme de fidélité. Le client reçoit ensuite des informations concernant sa participation au programme de fidélité et reçoit également des informations concernant la participation d'un ou de plusieurs autres clients au programme de fidélité. Dans un autre mode de réalisation, un ou plusieurs membres du programme de fidélité peuvent former leur propre compétition ou groupe dans le programme de fidélité. Les membres peuvent créer des règles de sous-programme de fidélité pour une compétition et permettre à des confrères du programme de fidélité de participer à la compétition.</p>
+                    <p> Les compétitions de sous-programme de fidélité personnalisables améliorent davantage la participation des membres.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

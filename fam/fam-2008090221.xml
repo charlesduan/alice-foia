@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="64"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2008090221</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="39283623">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2008090221</doc-number>
+                    <kind>A1</kind>
+                    <date>20080417</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2008090221</doc-number>
+                    <date>20080417</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="53908823">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>87017907</doc-number>
+                    <kind>A</kind>
+                    <date>20071010</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>85127906</doc-number>
+                    <kind>P</kind>
+                    <date>20061011</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>87017907</doc-number>
+                    <kind>A</kind>
+                    <date>20071010</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39283623" country="US" doc-number="2008090221" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2008090221</doc-number>
+                            <kind>A1</kind>
+                            <date>20080417</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2008090221</doc-number>
+                            <date>20080417</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   3/    02            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G09B   7/    12            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>434/350</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>434/362</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="53908823">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>87017907</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070870179</doc-number>
+                            <date>20071010</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>11870179</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070870179</doc-number>
+                                <date>20071010</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>60851279</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060851279P</doc-number>
+                                <date>20061011</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ASHBY CYNTHIA ELNORA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ASHBY CYNTHIA ELNORA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">INTERACTIVE METHOD FOR DIAGNOSING TEST-TAKING ERRORS</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6461166</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6461166</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004063085</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004063085</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006099563</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006099563</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for assessing and diagnosing a learner's test taking pattern which leads the learner to choose the wrong answers on exam questions is disclosed, along with a system and materials for conducting the diagnostic method. A method of analyzing test-taking error patterns of multiple learners is also disclosed.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39283623">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2008046002</doc-number>
+                    <kind>A2</kind>
+                    <date>20080417</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2008046002</doc-number>
+                    <date>20080417</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54673274" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2007081094</doc-number>
+                    <kind>W</kind>
+                    <date>20071011</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>85127906</doc-number>
+                    <kind>P</kind>
+                    <date>20061011</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>87017907</doc-number>
+                    <kind>A</kind>
+                    <date>20071010</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39283623" country="WO" doc-number="2008046002" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2008046002</doc-number>
+                            <kind>A2</kind>
+                            <date>20080417</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2008046002</doc-number>
+                            <date>20080417</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   3/    02            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G09B   7/    12            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54673274">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2007081094</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2007US81094</doc-number>
+                            <date>20071011</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2007/081094</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060851279P</doc-number>
+                                <date>20061011</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>60/851,279</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070870179</doc-number>
+                                <date>20071010</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 11/870,179</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ASHBY CYNTHIA ELNORA [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ASHBY, CYNTHIA, ELNORA</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ASHBY CYNTHIA ELNORA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ASHBY, CYNTHIA, ELNORA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">INTERACTIVE METHOD FOR DIAGNOSING TEST-TAKING ERRORS</invention-title>
+                    <invention-title lang="fr">PROCÉDÉ INTERACTIF DE DIAGNOSTIC D'ERREURS LORS DU PASSAGE D'UN EXAMEN</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002160347</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002160347</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6960088</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6960088</doc-number>
+                                    <kind>B1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <nplcit num="1">
+                                <text>STAILIYNIDES ET AL.: 'Studying the Mathematical Knowledge
+        for Teaching' UNIVERSITY OF MICHIGAN COPYRIGHT, [Online]
+        2004, Retrieved from the Internet:
+        &lt;URL:http://www.personal.umich.edu/-dball/papers/StylianidesBall_AERA2004.pdf></text>
+                            </nplcit>
+                            <category>Y</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for assessing and diagnosing a learner's test taking pattern which leads the learner to choose the wrong answers on exam questions is disclosed, along with a system and materials for conducting the diagnostic method. A method of analyzing test-taking error patterns of multiple learners is also disclosed.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un procédé d'évaluation et de diagnostic de la logique adoptée par un élève lors du passage d'un examen, ladite logique conduisant l'élève à choisir les mauvaises réponses à des questions de l'examen. L'invention concerne également un système et du matériel permettant de mettre en oevre le procédé de diagnostic. L'invention concerne en outre un procédé d'analyse des schémas d'erreurs d'une pluralité d'élèves lors du passage d'un examen.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="39283623">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2008046002</doc-number>
+                    <kind>A3</kind>
+                    <date>20080731</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2008046002</doc-number>
+                    <date>20080731</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54673274" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2007081094</doc-number>
+                    <kind>W</kind>
+                    <date>20071011</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>85127906</doc-number>
+                    <kind>P</kind>
+                    <date>20061011</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>87017907</doc-number>
+                    <kind>A</kind>
+                    <date>20071010</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="39283623" country="WO" doc-number="2008046002" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2008046002</doc-number>
+                            <kind>A3</kind>
+                            <date>20080731</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2008046002</doc-number>
+                            <date>20080731</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G09B   7/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>09</class>
+                            <subclass>B</subclass>
+                            <main-group>7</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54673274">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2007081094</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2007US81094</doc-number>
+                            <date>20071011</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2007/081094</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20060851279P</doc-number>
+                                <date>20061011</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>60/851,279</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070870179</doc-number>
+                                <date>20071010</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 11/870,179</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ASHBY CYNTHIA ELNORA [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ASHBY, CYNTHIA, ELNORA</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>ASHBY CYNTHIA ELNORA [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>ASHBY, CYNTHIA, ELNORA</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">INTERACTIVE METHOD FOR DIAGNOSING TEST-TAKING ERRORS</invention-title>
+                    <invention-title lang="fr">PROCÉDÉ INTERACTIF DE DIAGNOSTIC D'ERREURS LORS DU PASSAGE D'UN EXAMEN</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method for assessing and diagnosing a learner's test taking pattern which leads the learner to choose the wrong answers on exam questions is disclosed, along with a system and materials for conducting the diagnostic method. A method of analyzing test-taking error patterns of multiple learners is also disclosed.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un procédé d'évaluation et de diagnostic de la logique adoptée par un élève lors du passage d'un examen, ladite logique conduisant l'élève à choisir les mauvaises réponses à des questions de l'examen. L'invention concerne également un système et du matériel permettant de mettre en oevre le procédé de diagnostic. L'invention concerne en outre un procédé d'analyse des schémas d'erreurs d'une pluralité d'élèves lors du passage d'un examen.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="65"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013054365</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="47744975">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013054365</doc-number>
+                    <kind>A1</kind>
+                    <date>20130228</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013054365</doc-number>
+                    <date>20130228</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="381449330" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113221678</doc-number>
+                    <kind>A</kind>
+                    <date>20110830</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113221678</doc-number>
+                    <kind>A</kind>
+                    <date>20110830</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="47744975" country="US" doc-number="2013054365" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013054365</doc-number>
+                            <kind>A1</kind>
+                            <date>20130228</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013054365</doc-number>
+                            <date>20130228</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  15/    16            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0282</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>01</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="381449330">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201113221678</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201113221678</doc-number>
+                            <date>20110830</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13221678</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201113221678</doc-number>
+                                <date>20110830</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SABUR ZAHEED MD SHAHJAHAN [CH]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> GOOGLE INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SABUR ZAHEED MD SHAHJAHAN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>GOOGLE INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SABUR ZAHEED MD SHAHJAHAN [CH]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SABUR ZAHEED MD SHAHJAHAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Enhancing User Shopping Experience Using Social Graph Information</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A system and machine-implemented method is provided for providing information regarding belongings within a social graph of belongings corresponding to a first item, the method including receiving an indication of interest for the first item from a first user of one or more users of a system, identifying at least one belonging maintained within a social graph of belongings, the at least one belonging corresponding to the first item, wherein the social graph of belongings defines an association between each of the one or more users and one or more belongings, each of the one or more belongings corresponding to an item, generating a list including the at least one belonging and at least one of a link to the user associated with the at least one belonging and a link to the at least one belonging and providing the list for display to the first user.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="47744975">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>103930916</doc-number>
+                    <kind>A</kind>
+                    <date>20140716</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CN103930916</doc-number>
+                    <date>20140716</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="420136205">
+                <document-id document-id-type="docdb">
+                    <country>CN</country>
+                    <doc-number>201280052349</doc-number>
+                    <kind>A</kind>
+                    <date>20120830</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113221678</doc-number>
+                    <kind>A</kind>
+                    <date>20110830</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012053249</doc-number>
+                    <kind>W</kind>
+                    <date>20120830</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="47744975" country="CN" doc-number="103930916" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>103930916</doc-number>
+                            <kind>A</kind>
+                            <date>20140716</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN103930916</doc-number>
+                            <date>20140716</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    02            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0282</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>01</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="420136205">
+                        <document-id document-id-type="docdb">
+                            <country>CN</country>
+                            <doc-number>201280052349</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN2012852349</doc-number>
+                            <date>20120830</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2012800523499</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2012US53249</doc-number>
+                                <date>20120830</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>PCT/US2012/053249</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201113221678</doc-number>
+                                <date>20110830</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 13/221,678</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties/>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="47744975">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>2751758</doc-number>
+                    <kind>A2</kind>
+                    <date>20140709</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP2751758</doc-number>
+                    <date>20140709</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="381671585">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>12827030</doc-number>
+                    <kind>A</kind>
+                    <date>20120830</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113221678</doc-number>
+                    <kind>A</kind>
+                    <date>20110830</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012053249</doc-number>
+                    <kind>W</kind>
+                    <date>20120830</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="47744975" country="EP" doc-number="2751758" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>2751758</doc-number>
+                            <kind>A2</kind>
+                            <date>20140709</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP2751758</doc-number>
+                            <date>20140709</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  15/    16            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0282</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>01</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="381671585">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>12827030</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20120827030</doc-number>
+                            <date>20120830</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12827030.3</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201113221678</doc-number>
+                                <date>20110830</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>201113221678</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2012US53249</doc-number>
+                                <date>20120830</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 2012053249</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>GOOGLE INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>GOOGLE INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SABUR ZAHEED MD SHAHJAHAN [CH]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SABUR, ZAHEED MD, SHAHJAHAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">ENHANCING USER SHOPPING EXPERIENCE USING SOCIAL GRAPH INFORMATION</invention-title>
+                    <invention-title lang="de">VERBESSERUNG DER EINKAUFSERFAHRUNG VON BENUTZERN MITHILFE VON INFORMATIONEN AUS SOZIALDIAGRAMMEN</invention-title>
+                    <invention-title lang="fr">AMÉLIORATION D'UNE EXPÉRIENCE UTILISATEUR D'ACHAT EN LIGNE À L'AIDE D'INFORMATIONS DU GRAPHE SOCIAL</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="47744975">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2013033475</doc-number>
+                    <kind>A2</kind>
+                    <date>20130307</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2013033475</doc-number>
+                    <date>20130307</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="381658028">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012053249</doc-number>
+                    <kind>W</kind>
+                    <date>20120830</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113221678</doc-number>
+                    <kind>A</kind>
+                    <date>20110830</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="47744975" country="WO" doc-number="2013033475" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2013033475</doc-number>
+                            <kind>A2</kind>
+                            <date>20130307</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2013033475</doc-number>
+                            <date>20130307</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  15/    16            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0282</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>01</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="381658028">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2012053249</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2012US53249</doc-number>
+                            <date>20120830</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2012/053249</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201113221678</doc-number>
+                                <date>20110830</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>13/221,678</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>GOOGLE INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SABUR ZAHEED MD SHAHJAHAN [CH]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>GOOGLE INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>SABUR, ZAHEED MD, SHAHJAHAN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>SABUR, ZAHEED, MD SHAHJAHAN</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SABUR ZAHEED MD SHAHJAHAN [CH]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SABUR, ZAHEED MD, SHAHJAHAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SABUR, ZAHEED, MD SHAHJAHAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">ENHANCING USER SHOPPING EXPERIENCE USING SOCIAL GRAPH INFORMATION</invention-title>
+                    <invention-title lang="fr">AMÉLIORATION D'UNE EXPÉRIENCE UTILISATEUR D'ACHAT EN LIGNE À L'AIDE D'INFORMATIONS DU GRAPHE SOCIAL</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="US">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2006271460</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2006271460</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A system and machine-implemented method is provided for providing information regarding belongings within a social graph of belongings corresponding to a first item, the method including receiving an indication of interest for the first item from a first user of one or more users of a system, identifying at least one belonging maintained within a social graph of belongings, the at least one belonging corresponding to the first item, wherein the social graph of belongings defines an association between each of the one or more users and one or more belongings, each of the one or more belongings corresponding to an item, generating a list including the at least one belonging and at least one of a link to the user associated with the at least one belonging and a link to the at least one belonging and providing the list for display to the first user.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un système et un procédé mis en oeuvre par machine permettant de fournir des informations concernant des objets personnels à l'intérieur d'un graphe social d'objets personnels correspondant à un premier article, le procédé consistant à recevoir une indication d'intérêt pour le premier article à partir d'un premier utilisateur parmi un ou plusieurs utilisateurs d'un système, identifier au moins un objet personnel maintenu à l'intérieur d'un graphe social d'objets personnels, ledit objet personnel correspondant au premier article, le graphe social d'objets personnels définissant une association entre chacun des un ou plusieurs utilisateurs et des un ou plusieurs objets personnels, chacun des un ou plusieurs objets personnels correspondant à un article,</p>
+                    <p> générer une liste comportant ledit objet personnel et au moins un élément parmi un lien vers l'utilisateur associé au dit objet personnel et un lien vers ledit objet personnel et fournir la liste pour qu'elle soit affichée au premier utilisateur.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="47744975">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2013033475</doc-number>
+                    <kind>A3</kind>
+                    <date>20140515</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2013033475</doc-number>
+                    <date>20140515</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="381658028">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012053249</doc-number>
+                    <kind>W</kind>
+                    <date>20120830</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201113221678</doc-number>
+                    <kind>A</kind>
+                    <date>20110830</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="47744975" country="WO" doc-number="2013033475" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2013033475</doc-number>
+                            <kind>A3</kind>
+                            <date>20140515</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2013033475</doc-number>
+                            <date>20140515</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0282</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>01</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="381658028">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2012053249</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2012US53249</doc-number>
+                            <date>20120830</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2012/053249</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201113221678</doc-number>
+                                <date>20110830</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>13/221,678</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>GOOGLE INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SABUR ZAHEED MD SHAHJAHAN [CH]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>GOOGLE INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>SABUR, ZAHEED MD, SHAHJAHAN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>SABUR, ZAHEED, MD SHAHJAHAN</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SABUR ZAHEED MD SHAHJAHAN [CH]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SABUR, ZAHEED MD, SHAHJAHAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>SABUR, ZAHEED, MD SHAHJAHAN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">ENHANCING USER SHOPPING EXPERIENCE USING SOCIAL GRAPH INFORMATION</invention-title>
+                    <invention-title lang="fr">AMÉLIORATION D'UNE EXPÉRIENCE UTILISATEUR D'ACHAT EN LIGNE À L'AIDE D'INFORMATIONS DU GRAPHE SOCIAL</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A system and machine-implemented method is provided for providing information regarding belongings within a social graph of belongings corresponding to a first item, the method including receiving an indication of interest for the first item from a first user of one or more users of a system, identifying at least one belonging maintained within a social graph of belongings, the at least one belonging corresponding to the first item, wherein the social graph of belongings defines an association between each of the one or more users and one or more belongings, each of the one or more belongings corresponding to an item, generating a list including the at least one belonging and at least one of a link to the user associated with the at least one belonging and a link to the at least one belonging and providing the list for display to the first user.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un système et un procédé mis en oeuvre par machine permettant de fournir des informations concernant des objets personnels à l'intérieur d'un graphe social d'objets personnels correspondant à un premier article, le procédé consistant à recevoir une indication d'intérêt pour le premier article à partir d'un premier utilisateur parmi un ou plusieurs utilisateurs d'un système, identifier au moins un objet personnel maintenu à l'intérieur d'un graphe social d'objets personnels, ledit objet personnel correspondant au premier article, le graphe social d'objets personnels définissant une association entre chacun des un ou plusieurs utilisateurs et des un ou plusieurs objets personnels, chacun des un ou plusieurs objets personnels correspondant à un article,</p>
+                    <p> générer une liste comportant ledit objet personnel et au moins un élément parmi un lien vers l'utilisateur associé au dit objet personnel et un lien vers ledit objet personnel et fournir la liste pour qu'elle soit affichée au premier utilisateur.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

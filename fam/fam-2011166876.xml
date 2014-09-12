@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="71"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2011166876</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="41217433">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2011166876</doc-number>
+                    <kind>A1</kind>
+                    <date>20110707</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2011166876</doc-number>
+                    <date>20110707</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="335352918">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>98950309</doc-number>
+                    <kind>A</kind>
+                    <date>20090424</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009041672</doc-number>
+                    <kind>W</kind>
+                    <date>20090424</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>98950309</doc-number>
+                    <kind>A</kind>
+                    <date>20090424</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>4794408</doc-number>
+                    <kind>P</kind>
+                    <date>20080425</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="41217433" country="US" doc-number="2011166876" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2011166876</doc-number>
+                            <kind>A1</kind>
+                            <date>20110707</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2011166876</doc-number>
+                            <date>20110707</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>3456</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>22</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/2</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="335352918">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>98950309</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090989503</doc-number>
+                            <date>20090424</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12989503</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090989503</doc-number>
+                                <date>20090424</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61047944</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080047944P</doc-number>
+                                <date>20080425</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> PCT/US2009/041672</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2009US41672</doc-number>
+                                <date>20090424</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>CELGENE CORP [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>CELGENE CORPORATION</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>CHAPMAN EDWARD J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LINZER CHRISTOPHER J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>CHAPMAN EDWARD J, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>LINZER CHRISTOPHER J</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHODS FOR DELIVERING A DRUG TO A PATIENT WHILE RESTRICTING ACCESS TO THE DRUG BY PATIENTS FOR WHOM THE DRUG MAY BE CONTRAINDICATED</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7141018</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7141018</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008091468</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008091468</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <nplcit num="1">
+                                <text>Seehusen, Patient Practices and Beliefs Concerning Disposal
+        of Medications, 2006, JABFM, Volume 19 Number 6, Page
+        542-547</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <nplcit num="2">
+                                <text>Seehusen, Patient Practices and Beliefs Concerning Disposal
+        of Medications, 2006, JABFM, Volume 19 Number 6, Page 542-
+        547</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods for delivering a drug to a patient in need of the drug, while restricting access to the drug by patients for whom the drug may be contraindicated are disclosed. The methods are of the type in which prescriptions for the drug are filled by a pharmacy only after a computer readable storage medium has been consulted to retrieve a prescription approval code. Embodiments are provided wherein the patients are assigned to risk groups based upon the risk that taking the drug will lead to an adverse side effect, and certain additional information, such as periodic surveys and diagnostic tests probative of the ongoing risk of the side effect developing are obtained before prescriptions for the drug are approved.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="41217433">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2009132275</doc-number>
+                    <kind>A2</kind>
+                    <date>20091029</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2009132275</doc-number>
+                    <date>20091029</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="267932672" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009041672</doc-number>
+                    <kind>W</kind>
+                    <date>20090424</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>4794408</doc-number>
+                    <kind>P</kind>
+                    <date>20080425</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="41217433" country="WO" doc-number="2009132275" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2009132275</doc-number>
+                            <kind>A2</kind>
+                            <date>20091029</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009132275</doc-number>
+                            <date>20091029</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>22</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>3456</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="267932672">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009041672</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009US41672</doc-number>
+                            <date>20090424</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2009/041672</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080047944P</doc-number>
+                                <date>20080425</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/047,944</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>CELGENE CORP [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> CHAPMAN EDWARD J [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LINZER CHRISTOPHER J [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>CELGENE CORPORATION, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>CHAPMAN, EDWARD, J, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>LINZER, CHRISTOPHER, J</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>CHAPMAN EDWARD J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LINZER CHRISTOPHER J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>CHAPMAN, EDWARD, J, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>LINZER, CHRISTOPHER, J</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHODS FOR DELIVERING A DRUG TO A PATIENT WHILE RESTRICTING ACCESS TO THE DRUG BY PATIENTS FOR WHOM THE DRUG MAY BE CONTRAINDICATED</invention-title>
+                    <invention-title lang="fr">PROCÉDÉS PERMETTANT D'ADMINISTRER UN MÉDICAMENT À UN PATIENT TOUT EN RESTREIGNANT L'ACCÈS AU MÉDICAMENT À DES PATIENTS POUR LESQUELS LEDIT MÉDICAMENT PEUT ÊTRE CONTRE-INDIQUÉ</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7141018</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7141018</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008091468</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008091468</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2007219825</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2007219825</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods for delivering a drug to a patient in need of the drug, while restricting access to the drug by patients for whom the drug may be contraindicated are disclosed. The methods are of the type in which prescriptions for the drug are filled by a pharmacy only after a computer readable storage medium has been consulted to retrieve a prescription approval code. Embodiments are provided wherein the patients are assigned to risk groups based upon the risk that taking the drug will lead to an adverse side effect, and certain additional information, such as periodic surveys and diagnostic tests probative of the ongoing risk of the side effect developing are obtained before prescriptions for the drug are approved.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>La présente invention concerne des procédés permettant d'administrer un médicament à un patient en ayant besoin tout en restreignant l'accès audit médicament à des patients pour lesquels ledit médicament peut être contre-indiqué. Ces procédés sont tels que des ordonnances pour ledit médicament sont exécutées par une pharmacie seulement après qu'un support de stockage lisible par ordinateur a été consulté pour permettre la récupération d'un code d'approbation de prescription.</p>
+                    <p> L'invention concerne également des modes de réalisation selon lesquels les patients sont affectés à des groupes à risques, selon que la prise du médicament risque d'entraîner un effet secondaire indésirable, certaines informations supplémentaires, telles que des enquêtes périodiques et des tests de diagnostic prouvant le risque encouru de développer ledit effet secondaire, étant obtenues avant l'approbation des ordonnances pour le médicament.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="41217433">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2009132275</doc-number>
+                    <kind>A3</kind>
+                    <date>20100121</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2009132275</doc-number>
+                    <date>20100121</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="267932672" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009041672</doc-number>
+                    <kind>W</kind>
+                    <date>20090424</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>4794408</doc-number>
+                    <kind>P</kind>
+                    <date>20080425</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="41217433" country="WO" doc-number="2009132275" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2009132275</doc-number>
+                            <kind>A3</kind>
+                            <date>20100121</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009132275</doc-number>
+                            <date>20100121</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>A61B   5/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>22</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>3456</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="267932672">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009041672</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2009US41672</doc-number>
+                            <date>20090424</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2009/041672</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080047944P</doc-number>
+                                <date>20080425</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>61/047,944</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>CELGENE CORP [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> CHAPMAN EDWARD J [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LINZER CHRISTOPHER J [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>CELGENE CORPORATION, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>CHAPMAN, EDWARD, J, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>LINZER, CHRISTOPHER, J</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>CHAPMAN EDWARD J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> LINZER CHRISTOPHER J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>CHAPMAN, EDWARD, J, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>LINZER, CHRISTOPHER, J</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHODS FOR DELIVERING A DRUG TO A PATIENT WHILE RESTRICTING ACCESS TO THE DRUG BY PATIENTS FOR WHOM THE DRUG MAY BE CONTRAINDICATED</invention-title>
+                    <invention-title lang="fr">PROCÉDÉS PERMETTANT D'ADMINISTRER UN MÉDICAMENT À UN PATIENT TOUT EN RESTREIGNANT L'ACCÈS AU MÉDICAMENT À DES PATIENTS POUR LESQUELS LEDIT MÉDICAMENT PEUT ÊTRE CONTRE-INDIQUÉ</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods for delivering a drug to a patient in need of the drug, while restricting access to the drug by patients for whom the drug may be contraindicated are disclosed. The methods are of the type in which prescriptions for the drug are filled by a pharmacy only after a computer readable storage medium has been consulted to retrieve a prescription approval code. Embodiments are provided wherein the patients are assigned to risk groups based upon the risk that taking the drug will lead to an adverse side effect, and certain additional information, such as periodic surveys and diagnostic tests probative of the ongoing risk of the side effect developing are obtained before prescriptions for the drug are approved.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>La présente invention concerne des procédés permettant d'administrer un médicament à un patient en ayant besoin tout en restreignant l'accès audit médicament à des patients pour lesquels ledit médicament peut être contre-indiqué. Ces procédés sont tels que des ordonnances pour ledit médicament sont exécutées par une pharmacie seulement après qu'un support de stockage lisible par ordinateur a été consulté pour permettre la récupération d'un code d'approbation de prescription.</p>
+                    <p> L'invention concerne également des modes de réalisation selon lesquels les patients sont affectés à des groupes à risques, selon que la prise du médicament risque d'entraîner un effet secondaire indésirable, certaines informations supplémentaires, telles que des enquêtes périodiques et des tests de diagnostic prouvant le risque encouru de développer ledit effet secondaire, étant obtenues avant l'approbation des ordonnances pour le médicament.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

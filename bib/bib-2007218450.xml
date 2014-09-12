@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="16"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="38518295" country="US" doc-number="2007218450" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2007218450</doc-number>
+                        <kind>A1</kind>
+                        <date>20070920</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2007218450</doc-number>
+                        <date>20070920</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G09B   7/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>09</class>
+                        <subclass>B</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>09</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>434/353</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="50186953">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>36614206</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20060366142</doc-number>
+                        <date>20060302</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>11366142</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20060366142</doc-number>
+                            <date>20060302</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>VANTAGE TECHNOLOGIES KNOWLEDGE</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>VANTAGE TECHNOLOGIES KNOWLEDGE ASSESSMENT, L.L.C</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>MACCLAY KEVIN M [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> MAGUIRE BRIAN [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> HANG KUN [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>MACCLAY KEVIN M, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>MAGUIRE BRIAN, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>HANG KUN</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">System for obtaining and integrating essay scoring from multiple sources</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method and a web-based software apparatus for use in the automated scoring of assessment test papers, utilizes both a human and the machine scoring of each paper in a poly-metrological evaluation each assessment score. The scoring performance of each human scorer, in web-base assessment scoring production, is constantly monitored and evaluated, in real time, for score accuracy, bias, and other factors. Whereof, each human score performance is measured against machine score performance of the same assessment paper, and if need be, against a second human score performance in scoring the same assessment paper. Scores are resolved according to a subscriber approved algorithm. Irresolvable discrepancies are addressed by a chief or master human scorer. The score performance history of each production, human scorer is constantly monitored, in real time, and each human scorer is prompted or selected-out for retraining, as necessary, according to a selected, real time, evaluation algorithm. Scorer performance is judged according to exact agreement rates, and according to adjacent agreement rates.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

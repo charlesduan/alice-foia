@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="49"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2010305961</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="43221226">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010305961</doc-number>
+                    <kind>A1</kind>
+                    <date>20101202</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2010305961</doc-number>
+                    <date>20101202</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="329270955" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>47461109</doc-number>
+                    <kind>A</kind>
+                    <date>20090529</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>47461109</doc-number>
+                    <kind>A</kind>
+                    <date>20090529</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43221226" country="US" doc-number="2010305961" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2010305961</doc-number>
+                            <kind>A1</kind>
+                            <date>20101202</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2010305961</doc-number>
+                            <date>20101202</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06T  11/    20            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>T</subclass>
+                            <main-group>11</main-group>
+                            <subgroup>206</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>322</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="3">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>19</main-group>
+                            <subgroup>363</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="4">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>50</main-group>
+                            <subgroup>22</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>345/440</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/2</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="329270955">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>47461109</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090474611</doc-number>
+                            <date>20090529</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12474611</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090474611</doc-number>
+                                <date>20090529</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>BRODER MICHAEL S [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>BRODER MICHAEL S</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">TOOLS, SYSTEM AND METHOD FOR VISUAL INTERPRETATION OF VAST MEDICAL DATA</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A graphical representation incorporating discrete patient medical history into a single-view for evaluating patterns in the data. A graphical tool comprises a series of linear segments that represent a patient history or medical data, where the segments are oriented with a time axis to show start time, stop time, and duration. Using lines of extremely thin weight and placing each patient's history immediately adjacent other patient's history, hundreds or thousands of patient data can be represented by a single view. Statistical analysis can be performed on the data to yield further information on the medical data, which can be superimposed on the graphical display.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

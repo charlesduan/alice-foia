@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="10"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="47678097" country="US" doc-number="2013041685" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2013041685</doc-number>
+                        <kind>A1</kind>
+                        <date>20130214</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2013041685</doc-number>
+                        <date>20130214</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  50/    22            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>345</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>15</main-group>
+                        <subgroup>26</subgroup>
+                        <classification-value>A</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>2015</main-group>
+                        <subgroup>228</subgroup>
+                        <classification-value>A</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="381081002">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201213650879</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201213650879</doc-number>
+                        <date>20121012</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13650879</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213650879</doc-number>
+                            <date>20121012</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13030959</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201113030959</doc-number>
+                            <date>20110218</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>NUANCE COMMUNICATIONS INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> YEGNANARAYANAN GIRIJA [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>NUANCE COMMUNICATIONS, INC, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>YEGNANARAYANAN GIRIJA</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>YEGNANARAYANAN GIRIJA [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>YEGNANARAYANAN GIRIJA</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">METHODS AND APPARATUS FOR PRESENTING ALTERNATIVE HYPOTHESES FOR MEDICAL FACTS</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US7610192</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>7610192</doc-number>
+                                <kind>B1</kind>
+                            </document-id>
+                        </patcit>
+                        <category> </category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Techniques for presenting alternative hypotheses for medical facts may include identifying, using at least one statistical fact extraction model, a plurality of alternative hypotheses for a medical fact to be extracted from a portion of text documenting a patient encounter. At least two of the alternative hypotheses may be selected, and the selected hypotheses may be presented to a user documenting the patient encounter.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

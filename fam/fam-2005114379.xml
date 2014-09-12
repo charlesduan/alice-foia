@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="83"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2005114379</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="34591864">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2005114379</doc-number>
+                    <kind>A1</kind>
+                    <date>20050526</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2005114379</doc-number>
+                    <date>20050526</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="53010589" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>72170403</doc-number>
+                    <kind>A</kind>
+                    <date>20031125</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>72170403</doc-number>
+                    <kind>A</kind>
+                    <date>20031125</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="34591864" country="US" doc-number="2005114379" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2005114379</doc-number>
+                            <kind>A1</kind>
+                            <date>20050526</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2005114379</doc-number>
+                            <date>20050526</date>
+                        </document-id>
+                    </publication-reference>
+                    <classification-ipc>
+                        <text>G06F17/00</text>
+                    </classification-ipc>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F                       C I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  17/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>10</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>1/1</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>707/999.102</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="53010589">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>72170403</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20030721704</doc-number>
+                            <date>20031125</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10721704</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20030721704</doc-number>
+                                <date>20031125</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>LEE HOWARD M [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>LEE HOWARD M</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Audio/video service quality analysis of customer/agent interaction</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2005128304</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2005128304</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method includes receiving a storable representation of an audio/video interaction between an agent of a business and a customer. The storable representation is analyzed to determine the service quality provided to the customer by the agent. Analysis data associated with the audio/video interaction is generated. An apparatus includes a storage device configured to receive and store the storable representation of the audio/video interaction. A report generator is configured to generate analysis data, which is fed back to the agent and represents the quality of service rendered by the agent to the customer. The agent can be informed of at least one agent performance element that was well performed and at least one agent performance element that could be performed even better.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="34591864">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>1700263</doc-number>
+                    <kind>A2</kind>
+                    <date>20060913</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP1700263</doc-number>
+                    <date>20060913</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="202849">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>04812032</doc-number>
+                    <kind>A</kind>
+                    <date>20041124</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>72170403</doc-number>
+                    <kind>A</kind>
+                    <date>20031125</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2004039423</doc-number>
+                    <kind>W</kind>
+                    <date>20041124</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="34591864" country="EP" doc-number="1700263" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>1700263</doc-number>
+                            <kind>A2</kind>
+                            <date>20060913</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP1700263</doc-number>
+                            <date>20060913</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F                       C I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  17/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>10</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="202849">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>04812032</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20040812032</doc-number>
+                            <date>20041124</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>04812032</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2004US39423</doc-number>
+                                <date>20041124</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>US2004039423</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20030721704</doc-number>
+                                <date>20031125</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 721704</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>HYPERQUALITY LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LEE HOWARD M [US]
+</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>HYPERQUALITY LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>LEE, HOWARD M, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>HYPERQUALITY, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>LEE HOWARD M [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>LEE, HOWARD, M</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">AUDIO/VIDEO SERVICE QUALITY ANALYSIS OF CUSTOMER/AGENT INTERACTION</invention-title>
+                    <invention-title lang="de">AUDIO/VIDEO-DIENSTQUALITÄTSANALYSE VON KUNDEN-/AGENT-INTERAKTION</invention-title>
+                    <invention-title lang="fr">ANALYSE DE QUALITE DE SERVICE AUDIO/VIDEO D'INTERACTION CLIENT/AGENT</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <nplcit num="1">
+                                <text>The technical aspects identified in the present application
+        (Art. 92 EPC) are considered part of common general
+        knowledge. Due to their notoriety no documentary evidence
+        is found to be required. For further details see the
+        reference below. XP002456252</text>
+                            </nplcit>
+                            <category>L</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="34591864">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>1700263</doc-number>
+                    <kind>A4</kind>
+                    <date>20080514</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP1700263</doc-number>
+                    <date>20080514</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="202849">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>04812032</doc-number>
+                    <kind>A</kind>
+                    <date>20041124</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>72170403</doc-number>
+                    <kind>A</kind>
+                    <date>20031125</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2004039423</doc-number>
+                    <kind>W</kind>
+                    <date>20041124</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="34591864" country="EP" doc-number="1700263" kind="A4">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>1700263</doc-number>
+                            <kind>A4</kind>
+                            <date>20080514</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP1700263</doc-number>
+                            <date>20080514</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F                       C I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  17/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>10</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="202849">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>04812032</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20040812032</doc-number>
+                            <date>20041124</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>04812032</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2004US39423</doc-number>
+                                <date>20041124</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>US2004039423</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20030721704</doc-number>
+                                <date>20031125</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 721704</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>HYPERQUALITY INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LEE HOWARD M [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>HYPERQUALITY LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>LEE, HOWARD M, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>HYPERQUALITY, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>LEE HOWARD M [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>LEE, HOWARD, M</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">AUDIO/VIDEO SERVICE QUALITY ANALYSIS OF CUSTOMER/AGENT INTERACTION</invention-title>
+                    <invention-title lang="de">AUDIO/VIDEO-DIENSTQUALITÄTSANALYSE VON KUNDEN-/AGENT-INTERAKTION</invention-title>
+                    <invention-title lang="fr">ANALYSE DE QUALITE DE SERVICE AUDIO/VIDEO D'INTERACTION CLIENT/AGENT</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="34591864">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2007520790</doc-number>
+                    <kind>A</kind>
+                    <date>20070726</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>JP2007520790</doc-number>
+                    <date>20070726</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="39515179">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2006541677</doc-number>
+                    <kind>A</kind>
+                    <date>20041124</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>72170403</doc-number>
+                    <kind>A</kind>
+                    <date>20031125</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2004039423</doc-number>
+                    <kind>W</kind>
+                    <date>20041124</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="34591864" country="JP" doc-number="2007520790" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2007520790</doc-number>
+                            <kind>A</kind>
+                            <date>20070726</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP2007520790</doc-number>
+                            <date>20070726</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F                       C I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06F  17/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="4">
+                            <text>G06Q  50/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="5">
+                            <text>H04N   7/    14            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>10</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="39515179">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2006541677</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20060541677</doc-number>
+                            <date>20041124</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2006541677</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2004US39423</doc-number>
+                                <date>20041124</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2003 721704</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20030721704</doc-number>
+                                <date>20031125</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 2004/039423</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties/>
+                    <references-cited>
+                        <citation cited-phase="national-examination" cited-by="unknown" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>JP2003122890</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>JP</country>
+                                    <doc-number>2003122890</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="34591864">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2005054995</doc-number>
+                    <kind>A2</kind>
+                    <date>20050616</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2005054995</doc-number>
+                    <date>20050616</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54528599">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2004039423</doc-number>
+                    <kind>W</kind>
+                    <date>20041124</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>72170403</doc-number>
+                    <kind>A</kind>
+                    <date>20031125</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="34591864" country="WO" doc-number="2005054995" kind="A2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2005054995</doc-number>
+                            <kind>A2</kind>
+                            <date>20050616</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2005054995</doc-number>
+                            <date>20050616</date>
+                        </document-id>
+                    </publication-reference>
+                    <classification-ipc>
+                        <text>G06F</text>
+                    </classification-ipc>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F                       C I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  17/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>10</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54528599">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2004039423</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2004US39423</doc-number>
+                            <date>20041124</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2004039423</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20030721704</doc-number>
+                                <date>20031125</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10/721704</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>HYPERQUALITY LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LEE HOWARD M [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>HYPERQUALITY LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>LEE, HOWARD, M</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>LEE HOWARD M [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>LEE, HOWARD, M</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">AUDIO/VIDEO SERVICE QUALITY ANALYSIS OF CUSTOMER/AGENT INTERACTION</invention-title>
+                    <invention-title lang="fr">ANALYSE DE QUALITE DE SERVICE AUDIO/VIDEO D'INTERACTION CLIENT/AGENT</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="US">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003144900</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003144900</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="US">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003014301</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003014301</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="US">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2003187725</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2003187725</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>Y</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="4" office="US">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004162724</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004162724</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>YP</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="5" office="US">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004093263</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004093263</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>YP</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method includes receiving a storable representation of an audio/video interaction between an agent of a business and a customer. The storable representation is analyzed to determine the service quality provided to the customer by the agent. Analysis data associated with the audio/video interaction is generated. An apparatus includes a storage device configured to receive and store the storable representation of the audio/video interaction. A report generator is configured to generate analysis data, which is fed back to the agent and represents the quality of service rendered by the agent to the customer. The agent can be informed of at least one agent performance element that was well performed and at least one agent performance element that could be performed even better.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un procédé qui consiste à recevoir une représentation stockable d'une interaction audio/vidéo entre un agent d'une entreprise et un client. La représentation stockable est analysée afin que soit déterminée la qualité de service fournie au client par l'agent. Des données d'analyse associées à l'interaction audio/vidéo sont générées. Un appareil comprend un dispositif de stockage conçu pour recevoir et stocker la représentation stockable de l'interaction audio/vidéo. Un générateur de rapport est conçu pour générer des données d'analyse, qui sont renvoyées à l'agent et qui représentent la qualité de service fournie par l'agent au client. L'agent peut être informé d'au moins un élément de performance d'agent qui a donné satisfaction et d'au moins un élément de performance d'agent pouvant être amélioré.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="34591864">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2005054995</doc-number>
+                    <kind>A3</kind>
+                    <date>20051006</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2005054995</doc-number>
+                    <date>20051006</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="54528599">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2004039423</doc-number>
+                    <kind>W</kind>
+                    <date>20041124</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>72170403</doc-number>
+                    <kind>A</kind>
+                    <date>20031125</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="34591864" country="WO" doc-number="2005054995" kind="A3">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2005054995</doc-number>
+                            <kind>A3</kind>
+                            <date>20051006</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2005054995</doc-number>
+                            <date>20051006</date>
+                        </document-id>
+                    </publication-reference>
+                    <classification-ipc>
+                        <text>G06F17/60</text>
+                    </classification-ipc>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F                       C I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  17/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>10</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="54528599">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2004039423</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2004US39423</doc-number>
+                            <date>20041124</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2004039423</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20030721704</doc-number>
+                                <date>20031125</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10/721704</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>HYPERQUALITY LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LEE HOWARD M [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>HYPERQUALITY LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>LEE, HOWARD, M</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>LEE HOWARD M [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>LEE, HOWARD, M</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">AUDIO/VIDEO SERVICE QUALITY ANALYSIS OF CUSTOMER/AGENT INTERACTION</invention-title>
+                    <invention-title lang="fr">ANALYSE DE QUALITE DE SERVICE AUDIO/VIDEO D'INTERACTION CLIENT/AGENT</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method includes receiving a storable representation of an audio/video interaction between an agent of a business and a customer. The storable representation is analyzed to determine the service quality provided to the customer by the agent. Analysis data associated with the audio/video interaction is generated. An apparatus includes a storage device configured to receive and store the storable representation of the audio/video interaction. A report generator is configured to generate analysis data, which is fed back to the agent and represents the quality of service rendered by the agent to the customer. The agent can be informed of at least one agent performance element that was well performed and at least one agent performance element that could be performed even better.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>L'invention concerne un procédé qui consiste à recevoir une représentation stockable d'une interaction audio/vidéo entre un agent d'une entreprise et un client. La représentation stockable est analysée afin que soit déterminée la qualité de service fournie au client par l'agent. Des données d'analyse associées à l'interaction audio/vidéo sont générées. Un appareil comprend un dispositif de stockage conçu pour recevoir et stocker la représentation stockable de l'interaction audio/vidéo. Un générateur de rapport est conçu pour générer des données d'analyse, qui sont renvoyées à l'agent et qui représentent la qualité de service fournie par l'agent au client. L'agent peut être informé d'au moins un élément de performance d'agent qui a donné satisfaction et d'au moins un élément de performance d'agent pouvant être amélioré.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="34591864">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>ZA</country>
+                    <doc-number>200605204</doc-number>
+                    <kind>A</kind>
+                    <date>20070725</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>ZA200605204</doc-number>
+                    <date>20070725</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="57191398">
+                <document-id document-id-type="docdb">
+                    <country>ZA</country>
+                    <doc-number>200605204</doc-number>
+                    <kind>A</kind>
+                    <date>20060623</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>72170403</doc-number>
+                    <kind>A</kind>
+                    <date>20031125</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="34591864" country="ZA" doc-number="200605204" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>ZA</country>
+                            <doc-number>200605204</doc-number>
+                            <kind>A</kind>
+                            <date>20070725</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>ZA200605204</doc-number>
+                            <date>20070725</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F                       C I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06F  17/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G06Q  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>10</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="57191398">
+                        <document-id document-id-type="docdb">
+                            <country>ZA</country>
+                            <doc-number>200605204</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>ZA20060005204</doc-number>
+                            <date>20060623</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>200605204</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20030721704</doc-number>
+                                <date>20031125</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>10/721704</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>HYPERQUALITY LLC</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> LEE HOWARD M</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>HYPERQUALITY LLC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>LEE, HOWARD M</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>LEE HOWARD M</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>LEE, HOWARD M</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Audio/video service quality analysis of customer/agent interaction</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

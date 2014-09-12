@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="63"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013262159</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="49232726">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013262159</doc-number>
+                    <kind>A1</kind>
+                    <date>20131003</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013262159</doc-number>
+                    <date>20131003</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="410856067" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213432570</doc-number>
+                    <kind>A</kind>
+                    <date>20120328</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213432570</doc-number>
+                    <kind>A</kind>
+                    <date>20120328</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="49232726" country="US" doc-number="2013262159" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013262159</doc-number>
+                            <kind>A1</kind>
+                            <date>20131003</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013262159</doc-number>
+                            <date>20131003</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    02            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/5</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="410856067">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201213432570</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213432570</doc-number>
+                            <date>20120328</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13432570</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213432570</doc-number>
+                                <date>20120328</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MONTERO RICHARD JOSEPH LAMPREA [PH]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> HORNBAKER TERRY WAYNE [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SINK RAELYNN A [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MCREAKEN JANICE [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="epodoc">
+                                <applicant-name>
+                                    <name> ACCENTURE GLOBAL SERVICES LTD [IE]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MONTERO RICHARD JOSEPH LAMPREA, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>HORNBAKER TERRY WAYNE, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>SINK RAELYNN A, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="4" data-format="original">
+                                <applicant-name>
+                                    <name>MCREAKEN JANICE, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="5" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES LIMITED</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>MONTERO RICHARD JOSEPH LAMPREA [PH]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> HORNBAKER TERRY WAYNE [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SINK RAELYNN A [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MCREAKEN JANICE [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>MONTERO RICHARD JOSEPH LAMPREA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>HORNBAKER TERRY WAYNE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>SINK RAELYNN A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>MCREAKEN JANICE</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Finding Best Seating Selections via Algorithmic Search</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US5611503</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>5611503</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US6112185</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>6112185</doc-number>
+                                    <kind>A</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002082878</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002082878</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012010912</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012010912</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012010911</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012010911</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012010910</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012010910</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012022901</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012022901</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012010913</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012010913</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US8121872</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>8121872</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="10">
+                            <patcit dnum-type="publication number" num="10">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012166231</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012166231</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="11">
+                            <patcit dnum-type="publication number" num="11">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012323612</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012323612</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="12">
+                            <patcit dnum-type="publication number" num="12">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2013124234</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2013124234</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods, systems, and apparatus, including computer programs encoded on a computer storage medium, are described for contiguously seating passengers in a travel conveyance. In one aspect, a method includes receiving a seat request for multiple seats, and, in response to receiving the seat request, calculating factors associated with each seat in a set of eligible seats. The method includes defining an initial set of seats as a subset of the set of eligible seats, defining a set of factors for each seat in the initial set of seats, associating a priority with the multiple factor sets, where the factors include multiple contiguity and vacancy factors, the contiguity factors being of a higher priority than the vacancy factors. The method includes processing the factors based on the priority to identify an anchor seat from the initial set of seats, assigning the multiple seats based on the anchor seat.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="49232726">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2013202018</doc-number>
+                    <kind>A1</kind>
+                    <date>20131017</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>AU2013202018</doc-number>
+                    <date>20131017</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="411261760">
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2013202018</doc-number>
+                    <kind>A</kind>
+                    <date>20130326</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213432570</doc-number>
+                    <kind>A</kind>
+                    <date>20120328</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="49232726" country="AU" doc-number="2013202018" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2013202018</doc-number>
+                            <kind>A1</kind>
+                            <date>20131017</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU2013202018</doc-number>
+                            <date>20131017</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  10/    02            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="411261760">
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2013202018</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU20130202018</doc-number>
+                            <date>20130326</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2013202018</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213432570</doc-number>
+                                <date>20120328</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>13/432,570</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES LTD</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES LIMITED</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>MONTERO JOSEPH RICHARD</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> HORNBAKER TERRY WAYNE</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SINK RAELYNN A</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MCREAKEN JANICE</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>MONTERO, JOSEPH RICHARD, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>HORNBAKER, TERRY WAYNE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>SINK, RAELYNN A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>MCREAKEN, JANICE</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">FINDING BEST SEATING SELECTIONS VIA ALGORITHMIC SEARCH</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods, systems, and apparatus, including computer programs encoded on a computer storage medium, are described for contiguously seating passengers in a travel conveyance. In one aspect, a method includes receiving a seat request for multiple seats, and, in response to receiving the seat request, calculating factors associated with each seat in a set of eligible seats. The method includes defining an initial set of seats as a subset of the set of eligible seats, defining a set of factors for each seat in the initial set of seats, associating a priority with the multiple factor sets, where the factors include multiple contiguity and vacancy factors, the contiguity factors being of a higher priority than the vacancy factors. The method includes processing the factors based on the priority to identify an anchor seat from the initial set of seats, assigning the multiple seats based on the anchor seat. 202 200 214 216 Receive seat Use MIN request U F N (PF . F,) N Define set of Y eligible seats for seat request Assign seats for seat 206request based on T-206 MIN(PF1, ... , PFn) Calculate factors 222 based on seat 220 request and set of MAX Assign seats for seat eligible seats (UGF1, ... , request based on 28UGF ) y MAX(UGF1,..., UGFn) 208? Define subset of N seats based on seating preference penalty(ies) MIN Assign seats for seat (CA1, -- , CAp) request based on_ 210 ? M IN (CA1, --- CAp) Multiple N seats in subset? 22 MIN Assign seats for seat N 21 2 (CB1,-, CBq) request based on -T230 ? MIN(CB1, ---, CBq) Assign seats for seat request based on N seat in subset MIN Assign seats for seat 5234 (C(B+C)1, -- 'request based on C(B+C)r) Y MIN(C(B+C)1, -.. , C(B+C)r) MIN Assign seats for seat 238 (VA1, ---, VAs) request based on ? y MIN(VA1, --,VAs) MIN Assign seats for seat 242 (VB1, ---, VBt) request based on ? y MIN(VB1, ... , VBt) Assign seats for seat 246 (V(B+C)1, --- request based on _ V(B+C)u) y MIN(V(B+C)1, ... , V(B+C)u) MIN Assign seats for seat 250 (P 1, ... -, P.) request based on ? yMIN(P1, ... , P,,) Assign seats for seat 252 request based on lexical ordering</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="49232726">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2810557</doc-number>
+                    <kind>A1</kind>
+                    <date>20130928</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CA2810557</doc-number>
+                    <date>20130928</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="410827761">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2810557</doc-number>
+                    <kind>A</kind>
+                    <date>20130325</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213432570</doc-number>
+                    <kind>A</kind>
+                    <date>20120328</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="49232726" country="CA" doc-number="2810557" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2810557</doc-number>
+                            <kind>A1</kind>
+                            <date>20130928</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA2810557</doc-number>
+                            <date>20130928</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  50/    14            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  10/    02            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>02</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="410827761">
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2810557</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA20132810557</doc-number>
+                            <date>20130325</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2810557</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213432570</doc-number>
+                                <date>20120328</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>13/432,570</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES LTD [IE]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>ACCENTURE GLOBAL SERVICES LIMITED</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>MONTERO RICHARD JOSEPH LAMPREA [PH]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> HORNBAKER TERRY WAYNE [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SINK RAELYNN A [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MCREAKEN JANICE [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>MONTERO, RICHARD JOSEPH LAMPREA, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>HORNBAKER, TERRY WAYNE, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>SINK, RAELYNN A, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>MCREAKEN, JANICE</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">FINDING BEST SEATING SELECTIONS VIA ALGORITHMIC SEARCH</invention-title>
+                    <invention-title lang="fr">SELECTION DE SIEGES IDEAUX A L'AIDE D'UNE RECHERCHE PAR ALGORITHME</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Methods, systems, and apparatus, including computer programs encoded on a computer storage medium, are described for contiguously seating passengers in a travel conveyance. In one aspect, a method includes receiving a seat request for multiple seats, and, in response to receiving the seat request, calculating factors associated with each seat in a set of eligible seats. The method includes defining an initial set of seats as a subset of the set of eligible seats, defining a set of factors for each seat in the initial set of seats, associating a priority with the multiple factor sets, where the factors include multiple contiguity and vacancy factors, the contiguity factors being of a higher priority than the vacancy factors. The method includes processing the factors based on the priority to identify an anchor seat from the initial set of seats, assigning the multiple seats based on the anchor seat.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

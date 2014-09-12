@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="45"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2014180816</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="50975742">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2014180816</doc-number>
+                    <kind>A1</kind>
+                    <date>20140626</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2014180816</doc-number>
+                    <date>20140626</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="419427471" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213997918</doc-number>
+                    <kind>A</kind>
+                    <date>20121220</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012071029</doc-number>
+                    <kind>W</kind>
+                    <date>20121220</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>A</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="50975742" country="US" doc-number="2014180816" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2014180816</doc-number>
+                            <kind>A1</kind>
+                            <date>20140626</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2014180816</doc-number>
+                            <date>20140626</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    02            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0257</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="419427471">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201213997918</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213997918</doc-number>
+                            <date>20121220</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13997918</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2012US71029</doc-number>
+                                <date>20121220</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>PCT/US2012/071029</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>MITH NED M [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WILLIS THOMAS GERARD [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>MITH NED M, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>WILLIS THOMAS GERARD</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>MITH NED M [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WILLIS THOMAS GERARD [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>MITH NED M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>WILLIS THOMAS GERARD</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">PROVISION OF ANONYMOUS CONTEXT INFORMATION AND GENERATION OF TARGETED CONTENT</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Embodiments of the present disclosure are directed towards selective disclosure of user or computing environment attributes to facilitate generation and/or provision of targeted content. In various embodiments, a likelihood that disclosure of an attribute of a user or of a computing environment associated with the user will enable identification of the user may be determined based on an associated population count of users or computing environments sharing the same attribute. In various embodiments, the attribute may be selectively disclosed to a content provider configured to provide targeted content, or a recommendation may be selectively provided to the user as to whether the user should disclose the attribute to the content provider, based on the determination and a risk tolerance associated with the user. In various embodiments, a dimension authority may track and make available population counts of users or computing environments having various attributes.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="50976397">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2014181995</doc-number>
+                    <kind>A1</kind>
+                    <date>20140626</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2014181995</doc-number>
+                    <date>20140626</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="419429786" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201314035559</doc-number>
+                    <kind>A</kind>
+                    <date>20130924</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012071029</doc-number>
+                    <kind>W</kind>
+                    <date>20121220</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201313997918</doc-number>
+                    <kind>A</kind>
+                    <date>20130625</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>2</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201314035559</doc-number>
+                    <kind>A</kind>
+                    <date>20130924</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="50976397" country="US" doc-number="2014181995" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2014181995</doc-number>
+                            <kind>A1</kind>
+                            <date>20140626</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2014181995</doc-number>
+                            <date>20140626</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  21/    62            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>F</subclass>
+                            <main-group>21</main-group>
+                            <subgroup>6254</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="419429786">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201314035559</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201314035559</doc-number>
+                            <date>20130924</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>14035559</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201314035559</doc-number>
+                                <date>20130924</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>13997918</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201313997918</doc-number>
+                                <date>20130625</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> PCT/US2012/071029</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2012US71029</doc-number>
+                                <date>20121220</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>SMITH NED M [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> HELDT-SHELLER NATHAN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WILLIS THOMAS G [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>SMITH NED M, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>HELDT-SHELLER NATHAN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>WILLIS THOMAS G</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SMITH NED M [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> HELDT-SHELLER NATHAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WILLIS THOMAS G [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SMITH NED M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>HELDT-SHELLER NATHAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>WILLIS THOMAS G</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">PUBLICATION AND REMOVAL OF ATTRIBUTES IN A MULTI-USER COMPUTING SYSTEM</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Embodiments of the present disclosure are directed toward publication and/or removal of attributes in a multi-user computing environment. In some embodiments, a consumer information manager (CIM) associated with a user of a multi-user computing system may receive a notification, from a dimension authority (DA), of a decrease in a population count of users of the computing system who have published an attribute within the computing system, and may determine whether the user has published the attribute. In response to receiving the notification of the decrease and determining that the user has published the attribute, the CIM may determine a likelihood that continued publication of the attribute will enable identification of the user, compare the likelihood to a threshold, and, when the likelihood exceeds the threshold, remove the attribute from publication. Other embodiments may be disclosed and/or claimed.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="50975742">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2014098876</doc-number>
+                    <kind>A1</kind>
+                    <date>20140626</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2014098876</doc-number>
+                    <date>20140626</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="419462916">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012071029</doc-number>
+                    <kind>W</kind>
+                    <date>20121220</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2012071029</doc-number>
+                    <kind>W</kind>
+                    <date>20121220</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="50975742" country="WO" doc-number="2014098876" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2014098876</doc-number>
+                            <kind>A1</kind>
+                            <date>20140626</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2014098876</doc-number>
+                            <date>20140626</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06F  17/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  50/    10            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>0257</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="419462916">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2012071029</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2012US71029</doc-number>
+                            <date>20121220</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2012/071029</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2012US71029</doc-number>
+                                <date>20121220</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>INTEL CORP [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> SMITH NED M [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> WILLIS THOMAS GERARD [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>INTEL CORPORATION, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>SMITH, NED M, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>WILLIS, THOMAS GERARD</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SMITH NED M [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WILLIS THOMAS GERARD [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SMITH, NED M, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>WILLIS, THOMAS GERARD</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">PROVISION OF ANONYMOUS CONTEXT INFORMATION AND GENERATION OF TARGETED CONTENT</invention-title>
+                    <invention-title lang="fr">FOURNITURE D'INFORMATIONS CONTEXTUELLES ANONYMES ET CRÉATION D'UN CONTENU CIBLÉ</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="KR">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7689672</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7689672</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="KR">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2012158516</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2012158516</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="KR">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008222283</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008222283</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="4" office="KR">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008028066</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008028066</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="5" office="KR">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7194424</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7194424</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Embodiments of the present disclosure are directed towards selective disclosure of user or computing environment attributes to facilitate generation and/or provision of targeted content. In various embodiments, a likelihood that disclosure of an attribute of a user or of a computing environment associated with the user will enable identification of the user may be determined based on an associated population count of users or computing environments sharing the same attribute. In various embodiments, the attribute may be selectively disclosed to a content provider configured to provide targeted content, or a recommendation may be selectively provided to the user as to whether the user should disclose the attribute to the content provider, based on the determination and a risk tolerance associated with the user. In various embodiments, a dimension authority may track and make available population counts of users or computing environments having various attributes.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>Des modes de réalisation de la présente invention concernent la divulgation sélective d'attributs d'un utilisateur ou d'un environnement informatique de façon à faciliter la création et/ou la fourniture d'un contenu ciblé. Dans divers modes de réalisation, une probabilité qu'une divulgation d'un attribut d'un utilisateur ou d'un environnement informatique associé à l'utilisateur permette une identification de l'utilisateur peut être déterminée sur la base d'un comptage de population associé d'utilisateurs ou d'environnements informatiques partageant le même attribut.</p>
+                    <p> Dans divers modes de réalisation, l'attribut peut être divulgué sélectivement à un fournisseur de contenu conçu pour fournir un contenu ciblé, ou bien une recommandation peut être transmise sélectivement à l'utilisateur lui indiquant s'il doit ou non divulguer l'attribut au fournisseur de contenu, sur la base de la détermination et d'une tolérance au risque associée à l'utilisateur. Dans divers modes de réalisation, une autorité de gestion de dimensions peut suivre et rendre disponibles des comptages de populations d'utilisateurs ou d'environnements informatiques ayant divers attributs.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

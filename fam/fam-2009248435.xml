@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="51"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2009248435</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="41118489">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2009248435</doc-number>
+                    <kind>A1</kind>
+                    <date>20091001</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2009248435</doc-number>
+                    <date>20091001</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="267466354" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>8000008</doc-number>
+                    <kind>A</kind>
+                    <date>20080331</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>8000008</doc-number>
+                    <kind>A</kind>
+                    <date>20080331</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="41118489" country="US" doc-number="2009248435" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2009248435</doc-number>
+                            <kind>A1</kind>
+                            <date>20091001</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2009248435</doc-number>
+                            <date>20091001</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  30/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G01S   1/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="3">
+                            <text>G01S  19/    35            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>30</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>342/357.75</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/1.1</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="267466354">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>8000008</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20080080000</doc-number>
+                            <date>20080331</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12080000</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20080080000</doc-number>
+                                <date>20080331</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>MACWAN SANJAY [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>MACWAN SANJAY</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Method for locating just in time mobile services</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>The current invention is based, at least in part, on the recognition that there is a problem of missed commercial opportunities when a commercial vendor is a mobile provider of goods or services. A need exists for facilitating communication between a mobile provider of goods or services and a potential recipient of those goods or services. Ideally, a solution to this need would not require a human dispatcher as an intermediary, due to various inefficiencies associated with such a method. In accordance with an aspect of the current invention, the limitation of missed business opportunities is avoided by (1) activating, by a mobile provider of commercial goods or services, a notification regarding availability to provide said commercial goods or services within a given distance of said mobile provider</p>
+                    <p> and, (2) receiving, in response to said notification, and at a mobile location of said mobile provider of commercial goods or services, a request from a requester who is within the given distance of said mobile provider to provide said commercial goods or services to said requester. This method maximizes commercial opportunities between two parties without the need for a human dispatcher as an intermediary.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

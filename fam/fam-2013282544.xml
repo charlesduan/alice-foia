@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="71"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013282544</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="49381012">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013282544</doc-number>
+                    <kind>A1</kind>
+                    <date>20131024</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013282544</doc-number>
+                    <date>20131024</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="411580253" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213454659</doc-number>
+                    <kind>A</kind>
+                    <date>20120424</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213454659</doc-number>
+                    <kind>A</kind>
+                    <date>20120424</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="49381012" country="US" doc-number="2013282544" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013282544</doc-number>
+                            <kind>A1</kind>
+                            <date>20131024</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013282544</doc-number>
+                            <date>20131024</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>10</main-group>
+                            <subgroup>1057</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/35</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="411580253">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201213454659</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213454659</doc-number>
+                            <date>20120424</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13454659</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213454659</doc-number>
+                                <date>20120424</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>FEINSCHREIBER STEVEN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>FEINSCHREIBER STEVEN</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>FEINSCHREIBER STEVEN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>FEINSCHREIBER STEVEN</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">METHOD AND SYSTEM FOR OPTIMIZING RETIREMENT AND HEALTHCARE BENEFITS</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008027753</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008027753</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method is provided for optimizing healthcare and retirement benefits for an employee. The method includes receiving information about at least one medical insurance plan and at least one retirement savings account for which the employee is eligible and selecting for the employee a medical insurance plan from the at least one medical insurance plan. The method also includes determining a first amount for the employee to contribute on a pre-tax basis to at least one health care savings account. The first amount is at least equal to an estimated total of eligible expenses not covered by the medical insurance plan. The method further includes determining a second amount for the employee to contribute to the at least one retirement savings account. Selection of the medical insurance plan, the first amount and the second amount optimize the healthcare and retirement benefits for the employee.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="49779019">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2014006050</doc-number>
+                    <kind>A1</kind>
+                    <date>20140102</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2014006050</doc-number>
+                    <date>20140102</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="413590693" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201314017959</doc-number>
+                    <kind>A</kind>
+                    <date>20130904</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201361872360</doc-number>
+                    <kind>P</kind>
+                    <date>20130830</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201314017959</doc-number>
+                    <kind>A</kind>
+                    <date>20130904</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213454659</doc-number>
+                    <kind>A</kind>
+                    <date>20120424</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+                <priority-linkage-type>2</priority-linkage-type>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="49779019" country="US" doc-number="2014006050" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2014006050</doc-number>
+                            <kind>A1</kind>
+                            <date>20140102</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2014006050</doc-number>
+                            <date>20140102</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    06            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="413590693">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201314017959</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201314017959</doc-number>
+                            <date>20130904</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>14017959</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201314017959</doc-number>
+                                <date>20130904</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>13454659</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213454659</doc-number>
+                                <date>20120424</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 61872360</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201361872360P</doc-number>
+                                <date>20130830</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>FMR LLC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>FMR LLC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>FEINSCHREIBER STEVEN ANDREW [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> DEVANEY STEPHEN J [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="epodoc">
+                                <inventor-name>
+                                    <name> WISE CHRISTI RAGER [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="epodoc">
+                                <inventor-name>
+                                    <name> CHUN DON [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="epodoc">
+                                <inventor-name>
+                                    <name> SHARMA ADHEESH [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="epodoc">
+                                <inventor-name>
+                                    <name> HERMAN CHARLES CHRISTOPHER [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>FEINSCHREIBER STEVEN ANDREW, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>DEVANEY STEPHEN J, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="3" data-format="original">
+                                <inventor-name>
+                                    <name>WISE CHRISTI RAGER, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="4" data-format="original">
+                                <inventor-name>
+                                    <name>CHUN DON, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="5" data-format="original">
+                                <inventor-name>
+                                    <name>SHARMA ADHEESH, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="6" data-format="original">
+                                <inventor-name>
+                                    <name>HERMAN CHARLES CHRISTOPHER</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Method and System for Optimizing Savings Benefits</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A method is provided for optimizing savings in financial accounts, including healthcare and retirement accounts for an employee and or participant. The method includes receiving information about the participant and financial accounts for which the participant is eligible to use and or using, and generating for the participant a savings hierarchy recommending the order and amounts to be contributed to the financial accounts from the participant's budgeted savings dollars. The method also includes determining generating the savings hierarchy for both full year and partial year activity by the participant. The method further includes transmitting the recommendations to the participant via data displayed as a graphical user interface with a graphical representation of the savings hierarchy to provide the participant with ease of understanding the recommendations for optimizing the budgeted savings dollars or selected contribution amount.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="6"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="43974557" country="US" doc-number="2011111825" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2011111825</doc-number>
+                        <kind>A1</kind>
+                        <date>20110512</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2011111825</doc-number>
+                        <date>20110512</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A63F   9/    24            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>A63F  13/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>07</class>
+                        <subclass>F</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>3295</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>07</class>
+                        <subclass>F</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>3265</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>463/20</classification-symbol>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>463/30</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="334026818">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>61586909</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20090615869</doc-number>
+                        <date>20091110</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>12615869</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090615869</doc-number>
+                            <date>20091110</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>IGT RENO NEV [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>IGT</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>CAPUTO SCOTT A [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>CAPUTO SCOTT A</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">GAMING SYSTEM, GAMING DEVICE, AND METHOD FOR PROVIDING A CASCADING SYMBOL GAME INCLUDING SHIFTING SYMBOLS ACCORDING TO DIRECTIONAL INDICATORS</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>The disclosed gaming system displays an arrangement of symbols including a plurality of symbol positions. For a play of the game, the gaming system displays a randomly generated symbol in each symbol position. One or more of the symbols are displayed as associated with a directional indicator indicating a shift direction for that symbol. If any winning symbol combination is displayed, the gaming system shifts at least one symbol within the symbol matrix according to the directional indicator associated with that symbol, such as by shifting the symbol as designated distance in the shift direction indicated by the symbol's directional indicator. In one embodiment, the gaming system removes one or more symbols in the shift path of a shifting symbol. In one embodiment, the gaming system generates and displays new symbols in the then-empty symbol positions of the symbol matrix and repeats the determination, shifting, and generation.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

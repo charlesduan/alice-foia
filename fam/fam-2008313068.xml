@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="41"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2008313068</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="40133237">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2008313068</doc-number>
+                    <kind>A1</kind>
+                    <date>20081218</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2008313068</doc-number>
+                    <date>20081218</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="55512863" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>76368207</doc-number>
+                    <kind>A</kind>
+                    <date>20070615</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>76368207</doc-number>
+                    <kind>A</kind>
+                    <date>20070615</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="40133237" country="US" doc-number="2008313068" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2008313068</doc-number>
+                            <kind>A1</kind>
+                            <date>20081218</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2008313068</doc-number>
+                            <date>20081218</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/35</classification-symbol>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/37</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="55512863">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>76368207</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20070763682</doc-number>
+                            <date>20070615</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>11763682</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20070763682</doc-number>
+                                <date>20070615</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TORA TRADING SERVICES LTD [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TORA TRADING SERVICES LTD</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>SUN YI [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>SUN YI</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">SYSTEMS AND METHODS FOR ENABLING BORROWING OF STOCK</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Systems and method for enabling borrowing of stock according to the invention have been provided. One method of facilitating borrowing shares of a pre-determined stock according to the invention may include receiving a list of guaranteed stock lenders. The system may display the list of guaranteed stock lenders in a Graphical User Interface. In response to a selection of one of the guaranteed stock lenders, the system may display an interactive stock borrow dialogue box. The interactive stock borrow dialogue box may display an input field that is adapted to receive an amount of shares that a borrower desires to borrow and that displays a lender field. Following the user selection of a lender, the lender field may be pre-populated-i.e., populated upon initial display of the interactive stock borrow dialogue box-with the user-selected lender. Preferably, the user may modify the lender field.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

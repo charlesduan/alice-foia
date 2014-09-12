@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="7"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="48094787" country="US" doc-number="2013310181" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2013310181</doc-number>
+                        <kind>A1</kind>
+                        <date>20131121</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2013310181</doc-number>
+                        <date>20131121</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A63F  13/    12            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>A</section>
+                        <class>63</class>
+                        <subclass>F</subclass>
+                        <main-group>13</main-group>
+                        <subgroup>12</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>A</section>
+                        <class>63</class>
+                        <subclass>F</subclass>
+                        <main-group>2300</main-group>
+                        <subgroup>5566</subgroup>
+                        <classification-value>A</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>A</section>
+                        <class>63</class>
+                        <subclass>F</subclass>
+                        <main-group>2300</main-group>
+                        <subgroup>8076</subgroup>
+                        <classification-value>A</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="412517799">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201313800002</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201313800002</doc-number>
+                        <date>20130313</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13800002</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201313800002</doc-number>
+                            <date>20130313</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13472945</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213472945</doc-number>
+                            <date>20120516</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>KISLYI VICTOR [BY]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> MIKHNEVICH IVAN [CY]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="3" data-format="epodoc">
+                            <applicant-name>
+                                <name> WARGAMING NET LLP [GB]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>KISLYI VICTOR, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>MIKHNEVICH IVAN, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="3" data-format="original">
+                            <applicant-name>
+                                <name>WARGAMING.NET, LLP</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>KISLYI VICTOR [BY]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> MIKHNEVICH IVAN [CY]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>KISLYI VICTOR, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>MIKHNEVICH IVAN</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">Multiplayer Dynamic Battle Session Matchmaking</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Methods and systems for performing smart matchmaking in a massive multiplayer online game are described herein. A video game such as a vehicle-based combat game may include multiple types of vehicles, where each type of vehicle may progress through increasing tier levels. Different types of vehicles within the same tier may have different capabilities, strengths, and weaknesses. When performing matchmaking for a game session, a matchmaking server may use a battle level table defining permissible tiers of each type of vehicle allowed within a particular battle level, and may also limit the number of a specific type of vehicle allowed in any one game session. The battle table may provide an advantage to premium vehicles by limiting the tiers of other vehicles against which a similarly tiered premium vehicle may compete. Battle level difficulty may be adjusted by adjusting the ranges of permissible vehicles in each battle level.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

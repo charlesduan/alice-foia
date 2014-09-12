@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="48"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2013290156</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="49478171">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2013290156</doc-number>
+                    <kind>A1</kind>
+                    <date>20131031</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2013290156</doc-number>
+                    <date>20131031</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="411956668" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213458480</doc-number>
+                    <kind>A</kind>
+                    <date>20120427</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213458480</doc-number>
+                    <kind>A</kind>
+                    <date>20120427</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="49478171" country="US" doc-number="2013290156" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2013290156</doc-number>
+                            <kind>A1</kind>
+                            <date>20131031</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2013290156</doc-number>
+                            <date>20131031</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>E</section>
+                            <class>21</class>
+                            <subclass>B</subclass>
+                            <main-group>4</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="411956668">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>201213458480</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213458480</doc-number>
+                            <date>20120427</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13458480</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213458480</doc-number>
+                                <date>20120427</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>NORRIS STUART [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> VAREL INT IND LP [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>NORRIS STUART, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>VAREL INTERNATIONAL IND., L.P</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NORRIS STUART [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NORRIS STUART</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Bit Selection Using Bit Fleet Management</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A system is described herein for selecting a bit from a bit fleet for use in a field operation. The system includes a subjective module, an objective module, a financial module, and a management engine, each of which executes on a hardware processor. The subjective module determines whether subjective bit performance data points exceed a subjective threshold. The objective module determines whether objective bit performance data points exceed an objective threshold. The financial module determines whether financial bit performance data points exceed a financial threshold. The management engine receives bit data, evaluates bit performance parameters, categorizes the bit performance parameters to generate one or more categorized bit performance parameters, and determines whether the bit is usable in the field operation.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="49478171">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2813212</doc-number>
+                    <kind>A1</kind>
+                    <date>20131027</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CA2813212</doc-number>
+                    <date>20131027</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="412156715">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2813212</doc-number>
+                    <kind>A</kind>
+                    <date>20130419</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201213458480</doc-number>
+                    <kind>A</kind>
+                    <date>20120427</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="49478171" country="CA" doc-number="2813212" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2813212</doc-number>
+                            <kind>A1</kind>
+                            <date>20131027</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA2813212</doc-number>
+                            <date>20131027</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>E21B  44/    00            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>E21B  10/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>E</section>
+                            <class>21</class>
+                            <subclass>B</subclass>
+                            <main-group>4</main-group>
+                            <subgroup>00</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="412156715">
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2813212</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA20132813212</doc-number>
+                            <date>20130419</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2813212</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201213458480</doc-number>
+                                <date>20120427</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>13/458,480</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>VAREL INT IND LP [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>VAREL INTERNATIONAL IND., L.P</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>NORRIS STUART [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>NORRIS, STUART</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">BIT SELECTION USING BIT FLEET MANAGEMENT</invention-title>
+                    <invention-title lang="fr">SELECTION DE BITS AU MOYEN D'UNE GESTION DE GROUPE DE BITS</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>A system is described herein for selecting a bit from a bit fleet for use in a field operation. The system includes a subjective module, an objective module, a financial module, and a management engine, each of which executes on a hardware processor. The subjective module determines whether subjective bit performance data points exceed a subjective threshold. The objective module determines whether objective bit performance data points exceed an objective threshold. The financial module determines whether financial bit performance data points exceed a financial threshold. The management engine receives bit data, evaluates bit performance parameters, categorizes the bit performance parameters to generate one or more categorized bit performance parameters, and determines whether the bit is usable in the field operation.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

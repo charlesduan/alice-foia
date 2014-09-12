@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="16"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="50623268" country="US" doc-number="2014129371" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2014129371</doc-number>
+                        <kind>A1</kind>
+                        <date>20140508</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2014129371</doc-number>
+                        <date>20140508</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  30/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="417621105">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>201213669150</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US201213669150</doc-number>
+                        <date>20121105</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>13669150</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201213669150</doc-number>
+                            <date>20121105</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>WILSON NATHAN R [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> HUESKE EMILY A [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="3" data-format="epodoc">
+                            <applicant-name>
+                                <name> COPEMAN THOMAS C [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>WILSON NATHAN R, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>HUESKE EMILY A, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="3" data-format="original">
+                            <applicant-name>
+                                <name>COPEMAN THOMAS C</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>WILSON NATHAN R [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> HUESKE EMILY A [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> COPEMAN THOMAS C [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>WILSON NATHAN R, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>HUESKE EMILY A, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>COPEMAN THOMAS C</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">SYSTEMS AND METHODS FOR PROVIDING ENHANCED NEURAL NETWORK GENESIS AND RECOMMENDATIONS</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>In selected embodiments a recommendation generator builds a network of interrelationships between venues, reviewers and users based on their attributes and reviewer and user reviews of the venues which are enhanced by dynamic resonance between source sites. The recommendation engine in certain embodiments determines recommended venues based on user attributes and venue preferences by performing geometric contextualization on generated recommendation sets and determining recommendation resonance with past recommendations. Remote businesses may also link with the recommendation generator to receive recommendations custom-tailored to their business. In selected embodiments, interconnectivity augmentation provides for enhanced neural network topology and recommendations for foreign locales. Various user interfaces are also contemplated thereby providing users with a view of the neural network topology as well as the ability to collaboratively determine meeting places.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

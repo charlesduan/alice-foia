@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="9"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="35432438" country="US" doc-number="2008288417" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2008288417</doc-number>
+                        <kind>A1</kind>
+                        <date>20081120</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2008288417</doc-number>
+                        <date>20081120</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  40/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>08</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/36R</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="55386145">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>9208508</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20080092085</doc-number>
+                        <date>20080806</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>12092085</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2005CH00640</doc-number>
+                            <date>20051102</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>PCT/CH2005/000640</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SWISS REINSURANCE CO [CH]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>SWISS REINSURANCE COMPANY</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>LUESSI ADRIAN [CH]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> TRUEB JUERG [CH]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>LUESSI ADRIAN, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>TRUEB JUERG</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">Method and a Computer System for Forecasting the Value of a Structured Financial Product</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method and system for forecasting the value of a structured financial product, which can be a weather-based structured financial product. The method and system calculate a forecast value based on forecasted weather data for a defined time period in a defined geographical area, calculate reference weather data from historical data for the defined time, and the defined geographical area, and calculate a quality indicator, indicative of a forecasting quality associated with the forecasted weather data, based on the forecasted weather data and the reference weather data.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

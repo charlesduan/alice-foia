@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="6"/>
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="26931569" country="US" doc-number="2007073598" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>2007073598</doc-number>
+                        <kind>A1</kind>
+                        <date>20070329</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US2007073598</doc-number>
+                        <date>20070329</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  30/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>G06Q  10/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>10</main-group>
+                        <subgroup>087</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="" scheme="CPC"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>0611</subgroup>
+                        <classification-value>I</classification-value>
+                    </patent-classification>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="US" scheme="UC"/>
+                        <classification-symbol>705/26.4</classification-symbol>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="52157580">
+                    <document-id document-id-type="docdb">
+                        <country>US</country>
+                        <doc-number>60450006</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>US20060604500</doc-number>
+                        <date>20061127</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>11604500</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20060604500</doc-number>
+                            <date>20061127</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>09940764</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20010940764</doc-number>
+                            <date>20010827</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number> 60238329</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20000238329P</doc-number>
+                            <date>20001005</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>I2 TECHNOLOGIES US INC</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>I2 TECHNOLOGIES US, INC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>PARASNIS ABHAY V [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> HANSON MARK E [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> LI HAIDONG [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>PARASNIS ABHAY V, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>HANSON MARK E, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>LI HAIDONG</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="en">Generation and execution of custom requests for quote</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A request for quote (RFQ) engine ( 10 ) includes a data and metrics designer ( 22 ) that generates, in response to input from a user, a data and metrics model ( 42 ) for an RFQ template using a data and metrics meta-model ( 32 ). The RFQ engine ( 10 ) also includes a state transition designer ( 24 ) that generates, in response to input from the user, a state transition model ( 44 ) for the RFQ template using a state transition meta-model ( 34 ). Furthermore, the RFQ engine ( 10 ) includes a workflow designer ( 26 ) that generates, in response to input from the user, a user interface workflow ( 46 ) for the RFQ template using a workflow meta-model ( 36 ). In addition, the RFQ engine includes an execution engine ( 40 ) that executes the RFQ template that includes the data and metrics model ( 42 ) generated by the data and metrics designer ( 22 ), the state transition model ( 44 ) generated by the state transition designer ( 24 ), and the user interface workflow ( 46 ) generated by the workflow designer ( 26 ). The RFQ template is executed to generate an RFQ.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

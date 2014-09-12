@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/3.0/style/family-biblio.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:meta name="elapsed-time" value="79"/>
+    <ops:patent-family legal="false">
+        <ops:publication-reference>
+            <document-id document-id-type="epodoc">
+                <doc-number>US2011099124</doc-number>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="43899225">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2011099124</doc-number>
+                    <kind>A1</kind>
+                    <date>20110428</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>US2011099124</doc-number>
+                    <date>20110428</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="333595123" is-representative="YES">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>60596809</doc-number>
+                    <kind>A</kind>
+                    <date>20091026</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>60596809</doc-number>
+                    <kind>A</kind>
+                    <date>20091026</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43899225" country="US" doc-number="2011099124" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2011099124</doc-number>
+                            <kind>A1</kind>
+                            <date>20110428</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US2011099124</doc-number>
+                            <date>20110428</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="US" scheme="UC"/>
+                            <classification-symbol>705/36R</classification-symbol>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="333595123">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>60596809</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US20090605968</doc-number>
+                            <date>20091026</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>12605968</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090605968</doc-number>
+                                <date>20091026</date>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>BRIANTI STEPHAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MINTZ SAGY P [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>BRIANTI STEPHAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MINTZ SAGY P</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Lean Level Support for Trading Strategies</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008288391</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008288391</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008243709</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008243709</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7542940</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7542940</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                            <patcit dnum-type="publication number" num="4">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7424450</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7424450</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                            <patcit dnum-type="publication number" num="5">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2004111352</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2004111352</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                            <patcit dnum-type="publication number" num="6">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002013756</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002013756</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                            <patcit dnum-type="publication number" num="7">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009164389</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009164389</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="8">
+                            <patcit dnum-type="publication number" num="8">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US7418416</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>7418416</doc-number>
+                                    <kind>B2</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="9">
+                            <patcit dnum-type="publication number" num="9">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2002002520</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2002002520</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Certain embodiments of the present invention provide techniques for lean level support for a trading strategy. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on quantity available at the price level. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on quantity available at one or more other price levels. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on the number of orders at one or more price levels. A lean level may then be determined based on the determined support. According to certain embodiments, a lean multiplier and/or a lean base are determined dynamically based on the determined support.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43899225">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2010315695</doc-number>
+                    <kind>A1</kind>
+                    <date>20120419</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>AU2010315695</doc-number>
+                    <date>20120419</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="365710867">
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2010315695</doc-number>
+                    <kind>A</kind>
+                    <date>20101018</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010053019</doc-number>
+                    <kind>W</kind>
+                    <date>20101018</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>60596809</doc-number>
+                    <kind>A</kind>
+                    <date>20091026</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43899225" country="AU" doc-number="2010315695" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2010315695</doc-number>
+                            <kind>A1</kind>
+                            <date>20120419</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU2010315695</doc-number>
+                            <date>20120419</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="365710867">
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2010315695</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU20100315695</doc-number>
+                            <date>20101018</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2010315695</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090605968</doc-number>
+                                <date>20091026</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/605,968</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010US53019</doc-number>
+                                <date>20101018</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> US2010/053019</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>BRIANTI STEPHAN</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MINTZ SAGY P</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>BRIANTI, STEPHAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MINTZ, SAGY P</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Lean level support for trading strategies</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Certain embodiments of the present invention provide techniques for lean level support for a trading strategy. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on quantity available at the price level. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on quantity available at one or more other price levels. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on the number of orders at one or more price levels. A lean level may then be determined based on the determined support. According to certain embodiments, a lean multiplier and/or a lean base are determined dynamically based on the determined support.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43899225">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2010315695</doc-number>
+                    <kind>B2</kind>
+                    <date>20140619</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>AU2010315695B</doc-number>
+                    <date>20140619</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="365710867">
+                <document-id document-id-type="docdb">
+                    <country>AU</country>
+                    <doc-number>2010315695</doc-number>
+                    <kind>A</kind>
+                    <date>20101018</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010053019</doc-number>
+                    <kind>W</kind>
+                    <date>20101018</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>60596809</doc-number>
+                    <kind>A</kind>
+                    <date>20091026</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43899225" country="AU" doc-number="2010315695" kind="B2">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2010315695</doc-number>
+                            <kind>B2</kind>
+                            <date>20140619</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU2010315695B</doc-number>
+                            <date>20140619</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="365710867">
+                        <document-id document-id-type="docdb">
+                            <country>AU</country>
+                            <doc-number>2010315695</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AU20100315695</doc-number>
+                            <date>20101018</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2010315695</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090605968</doc-number>
+                                <date>20091026</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/605,968</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010US53019</doc-number>
+                                <date>20101018</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> US2010/053019</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>BRIANTI STEPHAN</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MINTZ SAGY P</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>BRIANTI, STEPHAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MINTZ, SAGY P</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">Lean level support for trading strategies</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008288391</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008288391</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008243709</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008243709</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Certain embodiments of the present invention provide techniques for lean level support for a trading strategy. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on quantity available at the price level. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on quantity available at one or more other price levels. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on the number of orders at one or more price levels. A lean level may then be determined based on the determined support. According to certain embodiments, a lean multiplier and/or a lean base are determined dynamically based on the determined support.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43899225">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2775617</doc-number>
+                    <kind>A1</kind>
+                    <date>20110512</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>CA2775617</doc-number>
+                    <date>20110512</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="364255165">
+                <document-id document-id-type="docdb">
+                    <country>CA</country>
+                    <doc-number>2775617</doc-number>
+                    <kind>A</kind>
+                    <date>20101018</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010053019</doc-number>
+                    <kind>W</kind>
+                    <date>20101018</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>60596809</doc-number>
+                    <kind>A</kind>
+                    <date>20091026</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43899225" country="CA" doc-number="2775617" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2775617</doc-number>
+                            <kind>A1</kind>
+                            <date>20110512</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA2775617</doc-number>
+                            <date>20110512</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="364255165">
+                        <document-id document-id-type="docdb">
+                            <country>CA</country>
+                            <doc-number>2775617</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CA20102775617</doc-number>
+                            <date>20101018</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2775617</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090605968</doc-number>
+                                <date>20091026</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/605,968</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010US53019</doc-number>
+                                <date>20101018</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> PCT/US2010/053019</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>BRIANTI STEPHAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MINTZ SAGY P [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>BRIANTI, STEPHAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MINTZ, SAGY P</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">LEAN LEVEL SUPPORT FOR TRADING STRATEGIES</invention-title>
+                    <invention-title lang="fr">SUPPORT A NIVEAU REDUIT POUR STRATEGIES COMMERCIALES</invention-title>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Certain embodiments of the present invention provide techniques for lean level support for a trading strategy. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on quantity available at the price level. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on quantity available at one or more other price levels. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on the number of orders at one or more price levels. A lean level may then be determined based on the determined support. According to certain embodiments, a lean multiplier and/or a lean base are determined dynamically based on the determined support.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43899225">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>2494511</doc-number>
+                    <kind>A1</kind>
+                    <date>20120905</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP2494511</doc-number>
+                    <date>20120905</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="328899020">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>10775970</doc-number>
+                    <kind>A</kind>
+                    <date>20101018</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010053019</doc-number>
+                    <kind>W</kind>
+                    <date>20101018</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>60596809</doc-number>
+                    <kind>A</kind>
+                    <date>20091026</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43899225" country="EP" doc-number="2494511" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>2494511</doc-number>
+                            <kind>A1</kind>
+                            <date>20120905</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP2494511</doc-number>
+                            <date>20120905</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    06            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  40/    04            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="328899020">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>10775970</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20100775970</doc-number>
+                            <date>20101018</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10775970</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090605968</doc-number>
+                                <date>20091026</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>605968</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010US53019</doc-number>
+                                <date>20101018</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> US2010053019</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="original">
+                                <doc-number> 2010053019</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>BRIANTI STEPHAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MINTZ SAGY P [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>BRIANTI, STEPHAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MINTZ, SAGY, P</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">LEAN LEVEL SUPPORT FOR TRADING STRATEGIES</invention-title>
+                    <invention-title lang="de">MAGERE UNTERSTÜTZUNG FÜR HANDELSSTRATEGIEN</invention-title>
+                    <invention-title lang="fr">SUPPORT À NIVEAU RÉDUIT POUR STRATÉGIES COMMERCIALES</invention-title>
+                    <references-cited>
+                        <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                            <nplcit num="1">
+                                <text>No further relevant documents disclosed</text>
+                            </nplcit>
+                            <category> </category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43899225">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>2494511</doc-number>
+                    <kind>A4</kind>
+                    <date>20130717</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP2494511</doc-number>
+                    <date>20130717</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="328899020">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>10775970</doc-number>
+                    <kind>A</kind>
+                    <date>20101018</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010053019</doc-number>
+                    <kind>W</kind>
+                    <date>20101018</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>60596809</doc-number>
+                    <kind>A</kind>
+                    <date>20091026</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43899225" country="EP" doc-number="2494511" kind="A4">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>2494511</doc-number>
+                            <kind>A4</kind>
+                            <date>20130717</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP2494511</doc-number>
+                            <date>20130717</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    06            A I                    </text>
+                        </classification-ipcr>
+                        <classification-ipcr sequence="2">
+                            <text>G06Q  40/    04            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="328899020">
+                        <document-id document-id-type="docdb">
+                            <country>EP</country>
+                            <doc-number>10775970</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20100775970</doc-number>
+                            <date>20101018</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10775970</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090605968</doc-number>
+                                <date>20091026</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>605968</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010US53019</doc-number>
+                                <date>20101018</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> US2010053019</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="3" kind="national">
+                            <document-id document-id-type="original">
+                                <doc-number> 2010053019</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>BRIANTI STEPHAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MINTZ SAGY P [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>BRIANTI, STEPHAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MINTZ, SAGY, P</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">LEAN LEVEL SUPPORT FOR TRADING STRATEGIES</invention-title>
+                    <invention-title lang="de">MAGERE UNTERSTÜTZUNG FÜR HANDELSSTRATEGIEN</invention-title>
+                    <invention-title lang="fr">SUPPORT À NIVEAU RÉDUIT POUR STRATÉGIES COMMERCIALES</invention-title>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43899225">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2013508879</doc-number>
+                    <kind>A</kind>
+                    <date>20130307</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>JP2013508879</doc-number>
+                    <date>20130307</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="405321786">
+                <document-id document-id-type="docdb">
+                    <country>JP</country>
+                    <doc-number>2012536870</doc-number>
+                    <kind>A</kind>
+                    <date>20101018</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010053019</doc-number>
+                    <kind>W</kind>
+                    <date>20101018</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>60596809</doc-number>
+                    <kind>A</kind>
+                    <date>20091026</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43899225" country="JP" doc-number="2013508879" kind="A">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2013508879</doc-number>
+                            <kind>A</kind>
+                            <date>20130307</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP2013508879</doc-number>
+                            <date>20130307</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    04            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="405321786">
+                        <document-id document-id-type="docdb">
+                            <country>JP</country>
+                            <doc-number>2012536870</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20120536870</doc-number>
+                            <date>20101018</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2012536870</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090605968</doc-number>
+                                <date>20091026</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>2009 605968</doc-number>
+                            </document-id>
+                        </priority-claim>
+                        <priority-claim sequence="2" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010US53019</doc-number>
+                                <date>20101018</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number> 2010/053019</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties/>
+                </bibliographic-data>
+            </exchange-document>
+        </ops:family-member>
+        <ops:family-member family-id="43899225">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>WO</country>
+                    <doc-number>2011056399</doc-number>
+                    <kind>A1</kind>
+                    <date>20110512</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>WO2011056399</doc-number>
+                    <date>20110512</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="328724798">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2010053019</doc-number>
+                    <kind>W</kind>
+                    <date>20101018</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>60596809</doc-number>
+                    <kind>A</kind>
+                    <date>20091026</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <exchange-document system="ops.epo.org" family-id="43899225" country="WO" doc-number="2011056399" kind="A1">
+                <bibliographic-data>
+                    <publication-reference>
+                        <document-id document-id-type="docdb">
+                            <country>WO</country>
+                            <doc-number>2011056399</doc-number>
+                            <kind>A1</kind>
+                            <date>20110512</date>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2011056399</doc-number>
+                            <date>20110512</date>
+                        </document-id>
+                    </publication-reference>
+                    <classifications-ipcr>
+                        <classification-ipcr sequence="1">
+                            <text>G06Q  40/    00            A I                    </text>
+                        </classification-ipcr>
+                    </classifications-ipcr>
+                    <patent-classifications>
+                        <patent-classification sequence="1">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>04</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                        <patent-classification sequence="2">
+                            <classification-scheme office="" scheme="CPC"/>
+                            <section>G</section>
+                            <class>06</class>
+                            <subclass>Q</subclass>
+                            <main-group>40</main-group>
+                            <subgroup>06</subgroup>
+                            <classification-value>I</classification-value>
+                        </patent-classification>
+                    </patent-classifications>
+                    <application-reference doc-id="328724798">
+                        <document-id document-id-type="docdb">
+                            <country>US</country>
+                            <doc-number>2010053019</doc-number>
+                            <kind>W</kind>
+                        </document-id>
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2010US53019</doc-number>
+                            <date>20101018</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>US2010/053019</doc-number>
+                        </document-id>
+                    </application-reference>
+                    <priority-claims>
+                        <priority-claim sequence="1" kind="national">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20090605968</doc-number>
+                                <date>20091026</date>
+                            </document-id>
+                            <document-id document-id-type="original">
+                                <doc-number>12/605,968</doc-number>
+                            </document-id>
+                        </priority-claim>
+                    </priority-claims>
+                    <parties>
+                        <applicants>
+                            <applicant sequence="1" data-format="epodoc">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INT INC [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="epodoc">
+                                <applicant-name>
+                                    <name> BRIANTI STEPHAN [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="epodoc">
+                                <applicant-name>
+                                    <name> MINTZ SAGY P [US]</name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="1" data-format="original">
+                                <applicant-name>
+                                    <name>TRADING TECHNOLOGIES INTERNATIONAL, INC, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="2" data-format="original">
+                                <applicant-name>
+                                    <name>BRIANTI, STEPHAN, </name>
+                                </applicant-name>
+                            </applicant>
+                            <applicant sequence="3" data-format="original">
+                                <applicant-name>
+                                    <name>MINTZ, SAGY, P</name>
+                                </applicant-name>
+                            </applicant>
+                        </applicants>
+                        <inventors>
+                            <inventor sequence="1" data-format="epodoc">
+                                <inventor-name>
+                                    <name>BRIANTI STEPHAN [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="epodoc">
+                                <inventor-name>
+                                    <name> MINTZ SAGY P [US]</name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="1" data-format="original">
+                                <inventor-name>
+                                    <name>BRIANTI, STEPHAN, </name>
+                                </inventor-name>
+                            </inventor>
+                            <inventor sequence="2" data-format="original">
+                                <inventor-name>
+                                    <name>MINTZ, SAGY, P</name>
+                                </inventor-name>
+                            </inventor>
+                        </inventors>
+                    </parties>
+                    <invention-title lang="en">LEAN LEVEL SUPPORT FOR TRADING STRATEGIES</invention-title>
+                    <invention-title lang="fr">SUPPORT À NIVEAU RÉDUIT POUR STRATÉGIES COMMERCIALES</invention-title>
+                    <references-cited>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="1" office="US">
+                            <patcit dnum-type="publication number" num="1">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008288391</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008288391</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="2" office="US">
+                            <patcit dnum-type="publication number" num="2">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2008243709</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2008243709</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>X</category>
+                        </citation>
+                        <citation cited-phase="international-search-report" cited-by="examiner" sequence="3" office="US">
+                            <patcit dnum-type="publication number" num="3">
+                                <document-id document-id-type="epodoc">
+                                    <doc-number>US2009192933</doc-number>
+                                </document-id>
+                                <document-id document-id-type="docdb">
+                                    <country>US</country>
+                                    <doc-number>2009192933</doc-number>
+                                    <kind>A1</kind>
+                                </document-id>
+                            </patcit>
+                            <category>A</category>
+                        </citation>
+                    </references-cited>
+                </bibliographic-data>
+                <abstract lang="en">
+                    <p>Certain embodiments of the present invention provide techniques for lean level support for a trading strategy. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on quantity available at the price level. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on quantity available at one or more other price levels. According to certain embodiments, the support for a price level under consideration as a lean level is determined based at least in part on the number of orders at one or more price levels. A lean level may then be determined based on the determined support. According to certain embodiments, a lean multiplier and/or a lean base are determined dynamically based on the determined support.</p>
+                </abstract>
+                <abstract lang="fr">
+                    <p>Selon certains modes de réalisation, la présente invention porte sur des techniques de support à niveau réduit pour une stratégie commerciale. Selon certains modes de réalisation, on détermine le support pour un niveau de prix considéré comme étant un niveau réduit sur la base au moins en partie d'une quantité disponible au niveau de prix. Selon certains modes de réalisation, on détermine le support pour un niveau de prix considéré comme étant un niveau réduit sur la base au moins en partie d'une quantité disponible à un ou plusieurs autres niveaux de prix. Selon certains modes de réalisation, on détermine le support pour un niveau de prix considéré comme étant un niveau réduit sur la base au moins en partie de plusieurs commandes à un ou plusieurs niveaux de prix. On peut ensuite déterminer un niveau réduit sur la base du support déterminé.</p>
+                    <p> Selon certains modes de réalisation, on détermine dynamiquement un multiplicateur réduit et/ou une base réduite sur la base du support déterminé.</p>
+                </abstract>
+            </exchange-document>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>
